@@ -43,23 +43,11 @@
         "其他动漫"
       ]
     },
- {
-      "key": "IF101资源",
-      "name": "IF101资源",
-      "type": 0,
-      "api": "https://img.haiwaikan.com/ximgs/api.php/provide/vod/at/xml"
-    },
 {
       "key": "流星资源",
       "name": "流星资源",
       "type": 0,
       "api": "http://www.liuxingyy.cn/api.php/provide/vod/at/xml/"
-    },
- {
-      "key": "卧龙01",
-      "name": "卧龙01",
-      "type": 0,
-      "api": "https://www.wolongzyw.com/api.php/provide/vod/at/xml"
     },
 {
       "key": "zyk01",
@@ -104,24 +92,6 @@
       "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml"
     },
 {
-      "key": "小小",
-      "name": "小小",
-      "type": 0,
-      "api": "https://www.mbomovie.com/api.php/provide/vod/at/xml/"
-    },
-{
-      "key": "每天看看",
-      "name": "每天看看",
-      "type": 0,
-      "api": "http://47.113.126.237:1234/api.php/provide/vod/at/xml/"
-    },
-{
-      "key": "红牛资源",
-      "name": "红牛资源",
-      "type": 0,
-      "api": "https://www.hongniuzy2.com/api.php/provide/vod/at/xml/"
-    },
-{
       "key": "FOX采集",
       "name": "FOX采集",
       "type": 0,
@@ -132,28 +102,6 @@
       "name": "越南影視",
       "type": 0,
       "api": "http://api.nguonphim.tv/api.php/provide/vod/at/xml/"
-    },
-{
-      "key": "橘猫",
-      "name": "橘猫",
-      "type": 0,
-      "api": "http://www.zitv.cc/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-   {
-      "key": "英皇",
-      "name": "英皇",
-      "type": 0,
-      "api": "https://www.sugengzy.cn/api.php/provide/vod/at/xml"
-    },
-   {
-      "key": "光速",
-      "name": "光速",
-      "type": 0,
-      "api": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/at/xml/",
-      "playUrl": "https://www.guangsujx.com/m3u8/?url="
     },
 {
       "key": "樱花资源",
