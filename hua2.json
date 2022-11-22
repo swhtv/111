@@ -1,17 +1,17 @@
 ###
 {
   "sites": [
-{
-      "key": "快播",
-      "name": "快播",
+    {
+      "key": "唐人街",
+      "name": "唐人街",
       "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml"
+      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
     },
 {
-      "key": "NY资源",
-      "name": "NY资源",
+      "key": "快播1",
+      "name": "快播1",
       "type": 0,
-      "api": "https://www.nycvod.com/api.php/provide/vod/at/xml/"
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml"
     },
 {
       "key": "流星资源",
@@ -24,12 +24,6 @@
       "name": "FOX2",
       "type": 0,
       "api": "https://foxzy.net/api.php/provide/vod/at/xml/"
-    },
- {
-      "key": "IF101资源",
-      "name": "IF101资源",
-      "type": 0,
-      "api": "https://demo.if101.tv/api.php/provide/vod/at/xml"
     },
  {
       "key": "卧龙01",
@@ -90,12 +84,6 @@
       "name": "UKU",
       "type": 0,
       "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/"
-    },
-{
-      "key": "唐人街",
-      "name": "唐人街",
-      "type": 0,
-      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
     },
    {
       "key": "神速资源",
