@@ -2,6 +2,12 @@
 {
   "sites": [
     {
+      "key": "FOX2",
+      "name": "FOX2",
+      "type": 0,
+      "api": "https://foxzy.net/api.php/provide/vod/at/xml/"
+    },
+    {
       "key": "唐人街",
       "name": "唐人街",
       "type": 0,
@@ -18,12 +24,6 @@
       "name": "流星资源",
       "type": 0,
       "api": "http://www.liuxingyy.cn/api.php/provide/vod/at/xml/"
-    },
-{
-      "key": "FOX2",
-      "name": "FOX2",
-      "type": 0,
-      "api": "https://foxzy.net/api.php/provide/vod/at/xml/"
     },
  {
       "key": "卧龙01",
