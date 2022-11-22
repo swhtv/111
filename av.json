@@ -41,14 +41,6 @@
 			"quickSearch": 0
 		},
 		{
-			"key": "❤色猫资源",
-			"name": "❤色猫资源",
-			"type": 1,
-			"api": "https://api.maozyapi.com/inc/apijson_vod.php",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
 			"key": "❤花魁资源",
 			"name": "❤花魁资源",
 			"type": 1,
@@ -69,22 +61,6 @@
 			"name": "❤色窝资源",
 			"type": 1,
 			"api": "https://sewozyapi.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "❤淫窝资源",
-			"name": "❤淫窝资源",
-			"type": 1,
-			"api": "https://api.yinwoapi.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "❤SB资源",
-			"name": "❤SB资源",
-			"type": 0,
-			"api": "http://www.shabizy.com:777/inc/sea",
 			"searchable": 0,
 			"quickSearch": 0
 		},
@@ -217,14 +193,6 @@
 			"quickSearch": 0
 		},
 		{
-			"key": "❤久久热在线",
-			"name": "❤久久热在线",
-			"type": 0,
-			"api": "https://www.caiji06.com/home/cjapi/cfbb/mc10/vod/xml",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
 			"key": "❤青青草视频",
 			"name": "❤青青草视频",
 			"type": 0,
@@ -313,14 +281,6 @@
 			"quickSearch": 0
 		},
 		{
-			"key": "❤爱播资源",
-			"name": "❤爱播资源",
-			"type": 1,
-			"api": "https://cj.apiabzy.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
 			"key": "❤美少女资源",
 			"name": "❤美少女资源",
 			"type": 0,
@@ -385,14 +345,6 @@
 			"quickSearch": 0
 		},
 		{
-			"key": "❤花椒资源",
-			"name": "❤花椒资源",
-			"type": 1,
-			"api": "https://apihjzy.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
 			"key": "❤乐播资源",
 			"name": "❤乐播资源",
 			"type": 1,
@@ -413,14 +365,6 @@
 			"name": "❤环亚资源",
 			"type": 0,
 			"api": "http://wmcj8.com/inc/sapi.php",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "❤AVZY6888资源",
-			"name": "❤AVZY6888资源",
-			"type": 1,
-			"api": "http://m.7777688.com/inc/apijson.php",
 			"searchable": 0,
 			"quickSearch": 0
 		},
@@ -525,13 +469,6 @@
       "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="
     },
     {
-      "key": "*乐鱼资源",
-      "name": "*乐鱼资源",
-      "type": 0,
-      "api": "https://www.leyuzyapi.com/inc/zyapimac.php",
-      "playUrl": "https://player.leyuzy.net/?url="
-    },
-    {
       "key": "*523资源",
       "name": "*523资源",
       "type": 0,
@@ -549,12 +486,6 @@
       "name": "*鲨鱼资源",
       "type": 0,
       "api": "https://shayuapi.com/api.php/provide/vod/at/xml"
-    },
-    {
-      "key": "*辣椒资源",
-      "name": "*辣椒资源",
-      "type": 0,
-      "api": "http://api.11bat.com/api.php/provide/vod/at/xml"
     },
     {
       "key": "*速度资源",
