@@ -1,4 +1,4 @@
-﻿SW-TV ,#genre#
+SW-TV ,#genre#
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global Toronto,https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
 CBC news,https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
@@ -103,6 +103,115 @@ WWE,http://198.16.64.10:8278/Wwe/playlist.m3u8?tid=ME9E9974073099740730&ct=19225
 TLC,http://198.16.64.10:8278/Tlc/playlist.m3u8?tid=MDAD1036602010366020&ct=19225&tsum=ac890e48736a7dd973b991044c960239
 History Channel,https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 Animals,http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf8ea0d000120009bcad83/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf8ea0d000120009bcad83&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=550&terminate=false&userId=
+
+DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+ABC 2 Baton Rouge LA (WBRZ,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+ABC 3 Corpus Christi TX (KIII),https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+ABC 4 Pittsburg PA (WTAE),https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WTAE.m3u8
+ABC 4 Seattle WA (KOMO-TV),https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+ABC 5 Des Moines IA (WOI,https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+ABC 5 Oklahoma City OK (KOCO,https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+ABC 7 Denver CO (KMGH,https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+ABC 7 Los Angeles CA (KABC-TV),https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+ABC 7 Omaha NE (KETV),https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KETV.m3u8
+ABC 7 Washington DC (WJLA),https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+ABC 8 Dallas TX (WFAA),https://livevideo01.wfaa.com/hls/live/2014541/newscasts/live.m3u8
+ABC 8 Davenport IA (WQAD,https://livevideo01.wqad.com/hls/live/2011657/newscasts/live.m3u8
+ABC 9 Kansas City MO (KMBC-TV),https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-KMBC.m3u8
+ABC 9 Manchester NH (WMUR-TV),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+ABC 10 Sacramento CA (KXTV),https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8
+ABC 11 Louisville KY (WHAS),https://livevideo01.whas11.com/hls/live/2016284/newscasts/live.m3u8
+ABC 13 Grand Rapids,https://livevideo01.wzzm13.com/hls/live/2016280/newscasts/live.m3u8
+ABC 13 Las Vegas NV (KTNV),https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+ABC 13 Norfolk VA (WVEC),https://livevideo01.13newsnow.com/hls/live/2014545/newscasts/live.m3u8
+ABC 15 Phoenix AZ (KNXV-TV),https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+ABC 16 Wilkes Barre PA (WNEP),https://livevideo01.wnep.com/hls/live/2011655/newscasts/live.m3u8
+ABC 24 Austin TX (KVUE),https://livevideo01.kvue.com/hls/live/2016282/newscasts/live.m3u8
+ABC 24 Memphis TN (WATN-TV),https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+abc (WPLG-DT1) Miami FL,https://16live00.akamaized.net/ABC_EAST/index.m3u8
+ABC Kids,https://c.mjh.nz/101002210222
+ABC ME,https://c.mjh.nz/101002210224
+BabyTV,http://194.163.179.246/slovenci/djeciji/babytv.m3u8
+BBC America,https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+BBC World News,http://ott-cdn.ucom.am/s24/index.m3u8
+Big Life TV,https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
+Cartoon Network East TVE Feed,https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+Cartoon Network Taiwan,http://50.7.220.74:8278/momo1_twn/playlist.m3u8?ct=19225&tid=MA0A4898983648989836&tsum=bd109117d126916f203880b1f2063d5e
+Cartoon Network West TVE Feed,https://tve-live-lln.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+CBS 2 Greensboro NC (WFMY),https://livevideo01.wfmynews2.com/hls/live/2016285/newscasts/live.m3u8
+CBS 2 Spokane WA (KREM),https://livevideo01.krem.com/hls/live/2017156/newscasts/live.m3u8
+CBS 3 Omaha NE (KMTV-TV),https://content.uplynk.com/4a09fbea28ef4f32bce095e9eae04bd8.m3u8
+CBS 4 New Orleans LA (WWL-TV),https://livevideo01.wwltv.com/hls/live/2016516/newscasts/live.m3u8
+CBS 5 Ft Smith AR (KFSM-TV),https://livevideo01.5newsonline.com/hls/live/2011653/newscasts/live.m3u8
+CBS 5 San Antonio TX (KENS),https://livevideo01.kens5.com/hls/live/2016281/newscasts/live.m3u8
+CBS 8 San Diego CA (KFMB-TV),https://livevideo01.cbs8.com/hls/live/2014967/newscasts/live.m3u8
+CBS 9 Washington DC (WUSA),https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
+CBS 10 Columbus OH (WBNS-TV),https://livevideo01.10tv.com/hls/live/2013836/newscasts/live.m3u8
+CBS 10 Tampa FL (WTSP),https://livevideo01.wtsp.com/hls/live/2015503/newscasts/live.m3u8
+CBS 11 Houston TX (KHOU),https://livevideo01.khou.com/hls/live/2014966/newscasts/live.m3u8
+CBS 11 Toledo OH (WTOL),https://livevideo01.wtol.com/hls/live/2017153/newscasts/live.m3u8
+CBS 19 Columbia SC (WLTX),https://livevideo01.wltx.com/hls/live/2017152/newscasts/live.m3u8
+CBS 19 Tyler TX (KYTX),https://livevideo01.cbs19.tv/hls/live/2017377/newscasts/live.m3u8
+CBSN New York NY,http://dai.google.com/linear/hls/event/rtcMlf4RTvOEkaudeany5w/master.m3u8
+CCTV-4 Asia (576p),http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+Chef Champion,https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
+Chef Roc Show,https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
+EDGEsport,https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+Fashion TV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+Fashion TV New York (PG13),https://fash2043.cloudycdn.services/slive/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+Fashion TV PG13 (240p),https://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/playlist.m3u8
+Fashion TV PG16 (144p),http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
+Fashion TV Singapore (240p),https://fash2043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+Fashion TV Tokyo (PG13),https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/playlist.m3u8
+Fashion TV UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+FashionTV Czech&Slovak,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+FIGHT SPORTS,https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+Fighting Spirit,https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8
+Food 52,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
+FOX 2 Detroit MI (WJBK),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WJBK-Monetizer.m3u8
+FOX 2 San Francisco CA (KTVU),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTVU-Monetizer.m3u8
+FOX 4 Dallas / Fort Worth TX (KDFW),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KDFW-Monetizer.m3u8
+FOX 5 Atlanta GA (WAGA-TV),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WAGA-Monetizer.m3u8
+FOX 5 Washington DC (WTTG),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTTG-Monetizer.m3u8
+FOX 6 Milwaukee WI (WITI),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WITI-Monetizer.m3u8
+FOX 7 Austin TX (KTBC),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTBC-Monetizer.m3u8
+FOX 9 ST Paul Minneapolis MN (KMSP),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KMSP-Monetizer.m3u8
+FOX 10 Phoenix AZ (KZAS),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KSAZ-Monetizer.m3u8
+FOX 11 Los Angeles CA (KTTV),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KTTV-Monetizer.m3u8
+FOX 13 Tampa Bay FL (WTVT),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTVT-Monetizer.m3u8
+Fox 15 West Texas Abilene TX (KXVA),https://livevideo01.myfoxzone.com/hls/live/2017381/newscasts/live.m3u8
+FOX 26 Houston TX (KRIV),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KRIV-Monetizer.m3u8
+Fox 28 Savannah GA (WTGS),https://content.uplynk.com/channel/e56ba52a1b9d45ad8c8a033fd83fe480.m3u8
+FOX 29 Philadelphia PA (WTXF-TV),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WTXF-Monetizer.m3u8
+FOX 32 Chicago IL (WFLD),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WFLD-Monetizer.m3u8
+FOX 35 Orlando FL (WOFL),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-WOFL-Monetizer.m3u8
+Fox 43 Harrisburg PA (WPMT),https://livevideo01.fox43.com/hls/live/2011656/newscasts/live.m3u8
+Fox 54.1 Huntsville,https://livevideo01.rocketcitynow.com/hls/live/2011659/newscasts/live.m3u8
+Fox 61 Hartford CT (WTIC-TV),https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8
+FOX Altoona PA (WWCP1),http://trn03.tulix.tv/teleup-fox-wpmt-new1/playlist.m3u8
+Fox Business,http://199.66.95.242/1/1172/index.m3u8?token=test
+Fox Greece,http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+Fox News Channel,http://trn03.tulix.tv/AsEAeOtIxz/playlist.m3u8
+FOX Q13 Seattle WA (KCPQ),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,p-KCPQ-Monetizer.m3u8
+Fox Soul ,http://fox-foxsoul-roku.amagi.tv/playlist.m3u8
+Fox Tallahassee,https://5e6cea03e25b6.streamlock.net/live/WTWC-FX.stream/playlist.m3u8
+Fox Weather,https://dai2.xumo.com/amagi_hls_data_xumo1212A-foxweather-xumo/CDN/master.m3u8
+France 24 English,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/FRANCE24English/live
+HBO HD Taiwan,http://50.7.220.74:8278/hbohd_twn/playlist.m3u8?ct=19225&tid=ME9E5260921952609219&tsum=a904cd480db106670befb11d14149fce
+NBC 5 Cincinnati OH (WLWT),https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Cloudfront-WLWT.m3u8
+NBC 6 College Station TX (KAGS),https://livevideo01.kagstv.com/hls/live/2016283/newscasts/live.m3u8
+NBC 6 New Orleans LA (WDSU),https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WDSU.m3u8
+NBC 8 Portland OR (KGW),https://livevideo01.kgw.com/hls/live/2015506/newscasts/live.m3u8
+NBC 9 Denver CO (KUSA),https://livevideo01.9news.com/hls/live/2014548/newscasts/live.m3u8
+NBC 11 Minneapolis MN (KARE),https://livevideo01.kare11.com/hls/live/2014544/newscasts/live.m3u8
+NBC 15 Madison WI (WMTV),https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
+NBC 26 Green Bay WI (WGBA),https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
+PBS 39 Allentown PA (WLVT),https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
+PBS 39 Extra Philadelphia,https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
+PBS America,https://pbs-samsunguk.amagi.tv/playlist.m3u8
+PBS KET Louisville KY (WKMJ-TV),https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
+PBS KET World,https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 
 Hgtv,http://51.79.82.208:16057
 Tv1,http://51.79.82.208:16001
