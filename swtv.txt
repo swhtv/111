@@ -627,47 +627,39 @@ Sky Sports Football,http://watchindia.net:8880/live/vvv/vvv/2093.m3u8?blog.ntnas
 Sky Sports F1,http://watchindia.net:8880/live/vvv/vvv/2094.m3u8?blog.ntnas.top
 Sky Sports Arena,http://watchindia.net:8880/live/vvv/vvv/2095.m3u8?blog.ntnas.top
 
-UFC Fight Pass 24/7 FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/101217
-WWE Network FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/101219
-ESPN News FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42908
-ESPN 2 FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42910
-ESPN 2 HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10881
-ESPN 3 HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10880
-ESPN FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42909
-ESPN HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9660
-ESPN News HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11583
-ESPN U FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42907
-ESPN+ HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/32482
-NESN+ HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10975
-MLB Network HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/15009
-NFL Network HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/26457
-NFL NOW HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8235
-NFL Red Zone HD (Only Available On Sunday) US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11955
-AT&T Sportsnet HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/54858
-AT&T Sportsnet Southwest HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/54859
-beIN Sports Connect HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9693
-beIN Sports Connect Ñ HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/23399
-TVG Horse Racing HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/52041
-World Fishing Network HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/55010
-Big Ten Network FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11898
-MSG HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/15177
-Fox Soccer Plus HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9661
-GOL TV FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42902
-Golf Channel FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/42901
-Golf Channel HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/9692
-PAC-12 Arizona FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10969
-PAC-12 Bay Area FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10968
-PAC-12 Los Angeles FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10967
-PAC-12 Oregon FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10966
-PAC-12 Washington FHD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/10965
-Conmebol 1 HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120217
-Conmebol 2 HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120216
-Conmebol 3 HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120215
-Conmebol 4 HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120214
-Conmebol 5 HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/120213
-BTN Sport HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/11906
-CBS Sports (CBSSN) HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/8245
-NBC Golf Channel HD US,http://portal.zebratv.one:2095/fpcEJYAK/fnbbZNqj/72065
+ESPN,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35057
+ESPN 2,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35058
+ESPN DEPORTES,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35059
+ESPN NEWS,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35060
+ESPN U,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35061
+ESPN DEPORTES FHD,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/35079
+
+ESPN 2 | HD,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52628
+ESPN DEPORTES | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52637
+ESPN NEWS | HD,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52639
+ESPN U | HD,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52641
+ESPN | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52642
+FNTSY SPORTS NETWORK | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52643
+FOX SPORTS ARIZONA PLUS | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52649
+Fubo Sports Network | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52670
+GINX eSports | HD,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52671
+NFL NETWORK | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52686
+PAC-12 ARIZONA | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52688
+PAC-12 BAY AREA | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52689
+PAC-12 LOS ANGELES | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52690
+PAC-12 MOUNTAIN | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52691
+PAC-12 NETWORK | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52692
+PAC-12 OREGON | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52693
+PAC-12 WASHINGTON | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52694
+SPORTSMAN CHANNEL | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52696
+SPORTSNET New York | HD,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52697
+TENNIS CHANNEL | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52701
+TyC Sports | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52714
+UFC TV,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52715
+UFC TV | HD,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52716
+VSIN | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52717
+WORLD FISHING NETWORK | HD*,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52718
+WWE NETWORK | HD,http://31.14.41.118:8080/Faucontv/v62vczsqLzN/52719
 
 广东体育,http://e59abdd420c65d43cc1550d493a88c71.v.smtcdns.net/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
 Lax Sports Network TV,https://1840769862.rsc.cdn77.org/FTF/LSN_SCTE.m3u8
