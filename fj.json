@@ -1,7 +1,7 @@
 {spider:'https://raw.githubusercontent.com/Guard-H/tvbox/main/jar/cc.jar',lives:[{group:'redirect',channels:[{name:'live',urls:['proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ=']}]}],sites:[
 
-
-{key:'360_spider',name:'360影视',api:'csp_SP360',type:3,filterable:1,quickSearch:1,searchable:1,ext:''},
+{key:'csp_biubiu_小宝影院',name:'小宝影院XB(墙外)',type:3,api:'csp_XBiubiu',searchable:0,quickSearch:0,filterable:0,ext:'https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/box/ext/bym0uaa2.json'},
+{key:'360_spider',name:'360 影视',api:'csp_SP360',type:3,filterable:1,quickSearch:1,searchable:1,ext:''},
 
 {key:'快看',name:'快看',type:3,api:'csp_Kuaikan',searchable:1,quickSearch:1,filterable:1},
 {key:'Lezhu_spider',name:'乐猪影视',api:'csp_Lezhu',type:3,filterable:1,quickSearch:1,searchable:1,ext:''},
