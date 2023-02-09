@@ -4,13 +4,28 @@
 //0730JAR
 "spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar",
 
-
-
-
-
-
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2d1b3Q1NC95Z2JoL3Jhdy9icmFuY2gvbWFzdGVyL3pCL3pCLnR4dA=="]}]}],
-
+# 直播
+  "lives": [
+    {
+      "group": "SWTV",
+      "channels": [
+ {"name": "Global News","urls": ["https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"]},
+ {"name": "Global Toronto", "urls": [ "https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com" ]},
+ {"name": "CBC news", "urls": ["https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8"]},
+ {"name": "有綫新聞台","urls": ["http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8"]},
+ { "name": "CNA亚洲新闻", "urls": ["http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8" ]},
+ { "name": "CCTV 13新闻","urls": ["https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8?zyangd"] },
+ {"name": "CGTN English","urls": [ "http://live.cgtn.com/1000/prog_index.m3u8"]},
+ {"name": "無綫新聞台","urls": [ "http://2022.stream-link.org/playlist/tvb_news"]},
+ {"name": "凤凰中文","urls": [ "http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8"]},
+ {"name": "凤凰资讯","urls": [ "http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8"]},
+ {"name": "BBC World News","urls": [ "http://ott-cdn.ucom.am/s24/index.m3u8"]},
+ {"name": "NHK国际","urls": [ "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"]},
+ {"name": "AJE news English","urls": [ "http://live-hls-web-aje.getaj.net/AJE/index.m3u8"]},
+        {"name": "Bloomberg 2K","urls": ["https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8"]}
+      ]
+    }
+  ],
 "sites":[
  {"key":"csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://52bsj.vip:81/api/v3/file/get/64479/bilibili_2.json?sign=mT70lhyOd_pHJHA8zEjxouiG97eo0C26Ga-GP0HAB4M%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
 
