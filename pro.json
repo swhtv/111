@@ -72,13 +72,75 @@
             "filterable": 1,
             "ext": "https://www.looo.top/app/json/美食合集.json"
         },
+{
+            "key": "cps_bl_哔哩哔哩",
+            "name": "哔哩┃哔哩综合",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://www.looo.top/app/json/哔哩哔哩.json"
+        },
+	
+	
 	
 {"key":"csp_biubiu_欧乐影院","name":"🥒欧乐影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/欧乐影院.json"},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/COKEMV.json"},
 {"key":"csp_biubiu_小宝影院","name":"🥒小宝影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/小宝影院.json"},
-
-{"key":"YQK_spider","name":"⚽一起看世界杯","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-tx.shumaxc.xyz"},	
+{
+            "key": "cps_bl_音乐现场",
+            "name": "哔哩┃音乐现场",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://www.looo.top/app/json/音乐现场.json"
+        },
+        {
+            "key": "cps_bl_音乐现场",
+            "name": "哔哩┃女团热舞",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://www.looo.top/app/json/女团热舞.json"
+        },
+        
+        {
+            "key": "cps_bl_体育赛事",
+            "name": "哔哩┃体育赛事",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://www.looo.top/app/json/体育赛事.json"
+        },
+        {
+            "key": "cps_bl_棋牌娱乐",
+            "name": "哔哩┃棋牌娱乐",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "https://www.looo.top/app/json/棋牌娱乐.json"
+        },
+	
+	{
+            "key": "csp_sp_龙门影视",
+            "name": "推荐┃龙门影视",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"
+        },
 	
 	{
       "key": "csp_XYQ_lu1",
