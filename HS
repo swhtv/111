@@ -43,7 +43,9 @@
   ],
     "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
     "sites": [
-        {
+        
+{"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
+{
             "key": "csp_sp_龙门影视",
             "name": "推荐┃龙门影视",
             "type": 3,
@@ -53,7 +55,7 @@
             "filterable": 1,
             "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"
         },
-{"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
+
 {"key":"csp_biubiu_欧乐影院","name":"🥒欧乐影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/欧乐影院.json"},
 
 {"key":"csp_biubiu_COKEMV","name":"🥒COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/COKEMV.json"},
