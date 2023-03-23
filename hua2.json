@@ -1,5 +1,9 @@
 ###
 {
+## spider
+//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
+"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+
   "sites": [
     {
       "key": "唐人街",
