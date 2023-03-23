@@ -1,7 +1,17 @@
 ###
 {
+## spider
+//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
+"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
   "sites": [
-    
+   
+ {
+      "key": "唐人街",
+      "name": "唐人街",
+      "type": 0,
+      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
+    }, 
+  
  {
       "key": "FOX",
       "name": "FOX",
@@ -82,12 +92,7 @@
       "type": 0,
       "api": "https://api.ukuapi.com/api.php/provide/vod/at/xml/"
     },
-{
-      "key": "唐人街",
-      "name": "唐人街",
-      "type": 0,
-      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
-    },
+
    {
       "key": "神速资源",
       "name": "神速资源",
