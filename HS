@@ -1,5 +1,8 @@
 {
-    "spider": "http://bt.hm.iqinu.com:32000/box/sub/jar/loamen_spider.jar;md5;57c09f96de572de534071e2d892d6e3a",
+
+
+//0730JAR
+"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar",
     # 直播
   "lives": [
     {
