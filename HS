@@ -45,9 +45,21 @@
   ],
     "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
     "sites": [
+    
     {
-      "key": "csp_biubiu_骚火电影",
-      "name": "SW華-骚火电影",
+      "key": "csp_xp_jLgyy",
+      "name": "SW華-蓝光影院",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://45.125.46.61/box/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
+    },
+
+    {
+      "key": "csp_biubiu_骚火",
+      "name": "SW華-骚火",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -218,17 +230,7 @@
       "filterable": 0,
       "ext": "http://45.125.46.61/box/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
     },
- {
-      "key": "csp_xp_jLgyy",
-      "name": "SW華-蓝光影院",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://45.125.46.61/box/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
-    },
-
+ 
 {
       "key": "csp_biubiu_奇优影院ns",
       "name": "SW華-奇优影院",
