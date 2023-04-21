@@ -45,10 +45,21 @@
   ],
     "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
     "sites": [
+    {
+      "key": "csp_biubiu_骚火电影",
+      "name": "SW華-骚火电影",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+    },
+    
     
      {
             "key": "zy_量子资源",
-            "name": "接口┃量子资源",
+            "name": "SW華-量子资源",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -82,18 +93,7 @@
                 "海外动漫"
             ]
         },
-   {
-      "key": "csp_biubiu_骚火电影",
-      "name": "SW華-骚火电影",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
-    },
-    
-        
+          
 { "key": "csp_app_天天视频", "name": "SW華-天天视频", "type": 3,"api": "csp_AppYs", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.qianju.cc/api.php/v1.vod"},
 
 
@@ -138,7 +138,7 @@
 
         {
             "key": "csp_sp_小苹果源",
-            "name": "推荐┃小苹果源",
+            "name": "SW華-小苹果源",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -148,7 +148,7 @@
        
         {
             "key": "csp_sp_哔嘀影视",
-            "name": "爬虫┃哔嘀影视",
+            "name": "SW華-哔嘀影视",
             "type": 3,
             "api": "csp_Bdys01",
             "searchable": 1,
@@ -157,7 +157,7 @@
         },
         {
             "key": "csp_sp_奥特影视",
-            "name": "爬虫┃奥特影视",
+            "name": "SW華-奥特影视",
             "type": 3,
             "api": "csp_Auete",
             "searchable": 1,
@@ -166,7 +166,7 @@
         },
         {
             "key": "csp_sp_两个磁力",
-            "name": "爬虫┃两个磁力",
+            "name": "SW華-两个磁力",
             "type": 3,
             "api": "csp_Bttoo",
             "searchable": 1,
@@ -179,7 +179,7 @@
   
         {
             "key": "cps_bl_儿童乐园",
-            "name": "哔哩┃儿童乐园",
+            "name": "SW華-儿童乐园",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 0,
@@ -190,7 +190,7 @@
  
         {
       "key": "云播看看",
-      "name": "云播看看",
+      "name": "SW華-云播看看",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -200,7 +200,7 @@
     },
  {
       "key": "比特影视",
-      "name": "比特影视",
+      "name": "SW華-比特影视",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -210,7 +210,7 @@
     },
  {
       "key": "人人影视",
-      "name": "人人影视",
+      "name": "SW華-人人影视",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -220,7 +220,7 @@
     },
  {
       "key": "csp_xp_jLgyy",
-      "name": "蓝光影院",
+      "name": "SW華-蓝光影院",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -231,7 +231,7 @@
 
 {
       "key": "csp_biubiu_奇优影院ns",
-      "name": "奇优影院",
+      "name": "SW華-奇优影院",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -245,7 +245,7 @@
 
 {
       "key": "美食",
-      "name": "美食合集",
+      "name": "SW華-美食合集",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -255,7 +255,7 @@
     },
 {
       "key": "小苹果",
-      "name": "苹果[有广告]",
+      "name": "SW華-苹果[有广告]",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -265,7 +265,7 @@
     },
  {
       "key": "花猫影视",
-      "name": "花猫影视",
+      "name": "SW華-花猫影视",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -277,7 +277,7 @@
 
  {
       "key": "csp_xpath_kuqimv",
-      "name": "经典MV",
+      "name": "SW華-经典MV",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -287,7 +287,7 @@
     },
     {
       "key": "短视频聚合",
-      "name": "短视频",
+      "name": "SW華-短视频",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 0,
@@ -298,7 +298,7 @@
 
 {
       "key": "音乐",
-      "name": "音乐现场",
+      "name": "SW華-音乐现场",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
@@ -308,7 +308,7 @@
     },
         {
             "key": "cps_bl_哔哩哔哩",
-            "name": "哔哩┃哔哩综合",
+            "name": "SW華-哔哩综合",
             "type": 3,
             "api": "csp_Bili",
             "searchable": 1,
@@ -321,7 +321,7 @@
        
         {
             "key": "zy_光速资源",
-            "name": "接口┃光速资源",
+            "name": "SW華-光速资源",
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -350,7 +350,7 @@
         },
         {
             "key": "zy_金鹰资源",
-            "name": "接口┃金鹰资源",
+            "name": "SW華-金鹰资源",
             "type": 1,
             "api": "https://jyzyapi.com/provide/vod/",
             "searchable": 1,
@@ -383,7 +383,7 @@
        
         {
             "key": "zy_新浪资源",
-            "name": "接口┃新浪资源",
+            "name": "SW華-新浪资源",
             "type": 1,
             "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
             "searchable": 1,
@@ -412,7 +412,7 @@
         },
         {
             "key": "zy_飞速资源",
-            "name": "接口┃飞速资源",
+            "name": "SW華-飞速资源",
             "type": 1,
             "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -449,7 +449,7 @@
         
         {
             "key": "zy_iKun资源",
-            "name": "接口┃iKun资源",
+            "name": "SW華-iKun资源",
             "type": 1,
             "api": "https://ikunzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -491,7 +491,7 @@
         },
         {
             "key": "zy_快车资源",
-            "name": "接口┃快车资源",
+            "name": "SW華-快车资源",
             "type": 1,
             "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -528,7 +528,7 @@
        
         {
             "key": "zy_卧龙资源",
-            "name": "接口┃卧龙资源",
+            "name": "SW華-卧龙资源",
             "type": 1,
             "api": "https://collect.wolongzyw.com/api.php/provide/vod/",
             "searchable": 1,
@@ -572,7 +572,7 @@
         },
         {
             "key": "zy_樱花资源",
-            "name": "接口┃樱花资源",
+            "name": "SW華-樱花资源",
             "type": 1,
             "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
             "searchable": 1,
@@ -608,7 +608,7 @@
         
         {
             "key": "zy_光速资源",
-            "name": "接口┃光速资源",
+            "name": "SW華-光速资源",
             "type": 1,
             "api": "https://api.guangsuapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -637,7 +637,7 @@
         },
         {
             "key": "zy_鱼乐资源",
-            "name": "接口┃鱼乐资源",
+            "name": "SW華-鱼乐资源",
             "type": 1,
             "api": "https://api.ylzy1.com/api.php/provide/vod/",
             "searchable": 1,
@@ -677,7 +677,7 @@
         
         {
             "key": "zy_南国影源",
-            "name": "接口┃南国资源",
+            "name": "SW華-南国资源",
             "type": 1,
             "api": "http://api.nguonphim.tv/api.php/provide/vod/",
             "searchable": 1,
@@ -687,7 +687,7 @@
        
         {
             "key": "zy_FOX资源",
-            "name": "接口┃FOX资源",
+            "name": "SW華-FOX资源",
             "type": 1,
             "api": "https://api.foxzyapi.com/api.php/provide/vod/",
             "searchable": 1,
@@ -727,7 +727,7 @@
       
         {
             "key": "zy_影图资源",
-            "name": "接口┃影图资源",
+            "name": "SW華-影图资源",
             "type": 1,
             "api": "https://cj.vodimg.top/api.php/provide/vod/",
             "searchable": 1,
@@ -738,7 +738,7 @@
         
         {
             "key": "cps_xp_酷奇视频",
-            "name": "切片┃酷奇视频",
+            "name": "SW華-酷奇视频",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -771,7 +771,7 @@
        
         {
             "key": "cps_xp_骚火电影",
-            "name": "切片┃骚火电影",
+            "name": "SW華-骚火电影",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -781,7 +781,7 @@
         },
         {
             "key": "cps_xp_口袋影院",
-            "name": "切片┃口袋影院",
+            "name": "SW華-口袋影院",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -791,7 +791,7 @@
         },
         {
             "key": "cps_xp_奇优影院",
-            "name": "切片┃奇优影院",
+            "name": "SW華-奇优影院",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 0,
@@ -801,7 +801,7 @@
         },
         {
             "key": "cps_xp_大米星球",
-            "name": "切片┃大米星球",
+            "name": "SW華-大米星球",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -812,7 +812,7 @@
        
         {
             "key": "cps_xp_超清影视",
-            "name": "切片┃超清影视",
+            "name": "SW華-超清影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -822,7 +822,7 @@
         },
         {
             "key": "cps_xp_红领巾源",
-            "name": "切片┃红领巾源",
+            "name": "SW華-红领巾源",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -832,7 +832,7 @@
         },
         {
             "key": "cps_xp_尼克影视",
-            "name": "切片┃尼克影视",
+            "name": "SW華-尼克影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -843,7 +843,7 @@
        
         {
             "key": "cps_xp_比特影视",
-            "name": "切片┃比特影视",
+            "name": "SW華-比特影视",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 0,
@@ -853,7 +853,7 @@
         },
         {
             "key": "cps_xp_云播看看",
-            "name": "切片┃云播看看",
+            "name": "SW華-云播看看",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -864,7 +864,7 @@
     
         {
             "key": "cps_xp_六度影视",
-            "name": "切片┃六度影视",
+            "name": "SW華-六度影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
@@ -874,7 +874,7 @@
         },
         {
             "key": "cps_xp_干饭影视",
-            "name": "切片┃干饭影视",
+            "name": "SW華-干饭影视",
             "type": 3,
             "api": "csp_XBiubiu",
             "searchable": 1,
