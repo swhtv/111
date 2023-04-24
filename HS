@@ -103,7 +103,10 @@
       "ext": "http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     
-    
+{"key":"csp_biubiu_欧乐影院","name":"🥒欧乐影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/欧乐影院.json"},
+
+{"key":"csp_biubiu_COKEMV","name":"🥒COKEMV","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/COKEMV.json"},
+{"key":"csp_biubiu_小宝影院","name":"🥒小宝影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/小宝影院.json"},    
     
           
 { "key": "csp_app_天天视频", "name": "SW華-天天视频", "type": 3,"api": "csp_AppYs", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.qianju.cc/api.php/v1.vod"},
