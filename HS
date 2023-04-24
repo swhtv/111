@@ -117,7 +117,7 @@
 {"key": "csp_xml_鱼乐资源","name": " SW華-鱼乐资源","type": 1,"api": "https://www.ylzy1.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1},
 {"key": "7资源","name": "SW華-7xi资源","type": 0,"api": "https://www.7xi.tv/api.php/provide/vod/at/xml/"},
 
-  
+
 {"key": "csp_xml_鱼乐资源","name": " SW華-鱼乐资源","type": 1,"api": "https://www.ylzy1.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1},
 {"key": "7资源","name": "SW華-7xi资源","type": 0,"api": "https://www.7xi.tv/api.php/provide/vod/at/xml/"},
 
