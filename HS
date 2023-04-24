@@ -45,32 +45,8 @@
   ],
     "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
     "sites": [
-    
-    {
-      "key": "csp_xp_jLgyy",
-      "name": "SW華-蓝光影院",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://45.125.46.61/box/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
-    },
-
-    {
-      "key": "csp_biubiu_骚火",
-      "name": "SW華-骚火",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
-    },
-    
-    
      {
-            "key": "zy_量子资源",
+            "key": "zy_量子",
             "name": "SW華-量子资源",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
@@ -105,6 +81,30 @@
                 "海外动漫"
             ]
         },
+    {
+      "key": "csp_xp_jLgyy",
+      "name": "SW華-蓝光",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://45.125.46.61/box/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
+    },
+
+    {
+      "key": "csp_biubiu_骚火",
+      "name": "SW華-骚火",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://45.125.46.61/box/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+    },
+    
+    
+    
           
 { "key": "csp_app_天天视频", "name": "SW華-天天视频", "type": 3,"api": "csp_AppYs", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://app.qianju.cc/api.php/v1.vod"},
 
