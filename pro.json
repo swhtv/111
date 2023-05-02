@@ -8,43 +8,16 @@
 	
 
 # 直播
-  "lives": [
+ "lives": [
     {
-      "group": "SWTV華 ",
+      "group": "redirect",
       "channels": [
- {"name": "Global News","urls": ["https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"]},
- {"name": "Global Toronto", "urls": [ "https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com" ]},
- {"name": "CBC news", "urls": ["https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8"]},
- {"name": "有綫新聞台","urls": ["http://61.10.2.146/live_freedirect/freehd209_h.live/playlist.m3u8"]},
-{"name": "有綫新聞台 备","urls": ["https://api.leonardpark.dev/live/icable/109"]},
-{"name": "無綫新聞台","urls": [ "http://2022.stream-link.org/playlist/tvb_news"]},
-{"name": "無綫新聞台 备","urls": [ "https://tvp22.sky4k.top/index1.php"]},
-{"name": "開電視","urls": [ "http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8"]},
-{ "name": "CNA亚洲新闻", "urls": ["http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8" ]},
- { "name": "CCTV 13新闻","urls": ["https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8?zyangd"] },
- {"name": "CGTN English","urls": [ "http://live.cgtn.com/1000/prog_index.m3u8"]},
- {"name": "CGTN 西班牙","urls": [ "http://livees.cgtn.com/500e/prog_index.m3u8"]},
-{"name": "CGTN 纪录片","urls": [ "https://livedoc.cgtn.com/1000d/prog_index.m3u8"]},
-{"name": "凤凰中文","urls": [ "http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8"]},
- {"name": "凤凰资讯","urls": [ "http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8"]},
-{"name": "澳門蓮花","urls": [ "http://anren.live/HK/BiIOU11uLA.m3u8"]},
-{"name": "ABC·新闻","urls": [ "http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8"]},
-{"name": "NHK国际","urls": [ "https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8"]},
-{"name": "Sky news","urls": [ "https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8?blog.ntnas.top"]},
-{"name": "DW English","urls": [ "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8"]},
- {"name": "WeatherNation","urls": [ "https://siloh.pluto.tv/lilo/production/WeatherNation/NYC/master.m3u8"]},
-{"name": "Euronews ","urls": [ "https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8"]},
-{"name": "NBC News ","urls": [ "https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8"]},
-{"name": "FOX News","urls": [ "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8"]},
-{"name": "Cartoon Network","urls": [ "https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8"]},
-{"name": "BFM FR News","urls": [ "https://live.creacast.com/grandlittoral/smil:grandlittoral.smil/playlist.m3u8"]},
-{"name": "CNN News","urls": [ "https://streaming.cnnphilippines.com/live/myStream/playlist.m3u8"]},
- {"name": "BBC World News","urls": [ "http://ott-cdn.ucom.am/s24/index.m3u8"]},
- {"name": "Africa News","urls": [ "https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8"]},
-{"name": "澳视澳门","urls": [ "http://61.244.22.4/ch1/ch1.live/chunklist_w1769233607.m3u8"]},
-{"name": "Yahoo 財經","urls": [ "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8"]},
- {"name": "AJE news English","urls": [ "http://live-hls-web-aje.getaj.net/AJE/index.m3u8"]},
-        {"name": "Bloomberg 2K","urls": ["https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8"]}
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="
+          ]
+        }
       ]
     }
   ],
