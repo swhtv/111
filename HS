@@ -18,9 +18,17 @@
   ],
     "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
     "sites": [
+    
+    {
+      "key": "快播",
+      "name": "快播",
+      "type": 0,
+      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml"
+    },
+    
      {
-            "key": "zy_量子",
-            "name": "SW華-量子资源",
+            "key": "量子",
+            "name": "SW 華-量子资源",
             "type": 1,
             "api": "https://cj.lziapi.com/api.php/provide/vod/",
             "searchable": 1,
