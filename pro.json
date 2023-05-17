@@ -272,17 +272,26 @@
     },
 
 
-	{
-            "key": "csp_sp_龙门影视",
-            "name": "推荐┃龙门影视",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://dy.hm.iqinu.com:88/lm_api.php/v1.vod"
-        },
-	
+	  {"key":"SW-大师兄","name": "SW_大师兄","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/dsx.json"},
+{"key":"SW_吼吼","name": "SW_吼吼","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/hhys.json"},
+{"key":"SW_爱迪","name": "SW_爱迪","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/adys.json"},
+{"key":"SW乐活","name":"SW_乐活","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"SW_555电影","name":"SW_555","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/555电影.json"},
+{"key":"SW_libv","name":"SW_Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/libv.json"},
+{"key":"SW_搜狗影院","name":"SW_搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/搜狗影院.json"},
+{"key":"SW_茶杯狐","name":"SW_茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/茶杯狐.json"},
+{"key":"SW_voflix","name":"SW_Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/voflix.json"},
+
+{"key":"SW_99ys","name":"SW_久久","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.liucn.cc/box/sub/MeowXP/99ys.json"},
+{"key":"SW_tjyy","name":"SW_奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json"},
+{"key":"SW_ttsp","name":"SW_天天视频","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/ttsp.json"},
+{"key":"SW_骚火VIP","name":"SW_骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/shdy.json"},
+{"key":"SW_双十电影","name":"SW_双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/双十电影.json"},
+{"key":"SW_无尽资源","name":"SW_无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+{"key":"SW_小苹果","name":"SW_小苹果)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},//小苹果
+{"key":"SW_BuLei","name":"(SW_BuLei)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/cyl518/yl/raw/branch/master/布蕾0501.jar"},
+
 	{
       "key": "csp_XYQ_lu1",
       "name": "️📺电视直播",
