@@ -59,7 +59,7 @@
     
     {"key": "鱼乐 资源","name": "SW-華 鱼 乐","type": 1,"api": "https://www.ylzy1.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1},
    
-    {"key":"SW-大师兄","name": "SW_大师兄","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/dsx.json"},
+   
 {"key":"SW_吼吼","name": "SW_吼吼","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/hhys.json"},
 {"key":"SW_爱迪","name": "SW_爱迪","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/adys.json"},
 {"key":"SW乐活","name":"SW_乐活","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -72,14 +72,11 @@
 {"key":"SW_99ys","name":"SW_久久","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.liucn.cc/box/sub/MeowXP/99ys.json"},
 {"key":"SW_tjyy","name":"SW_奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json"},
 {"key":"SW_ttsp","name":"SW_天天视频","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/ttsp.json"},
-{"key":"SW_骚火VIP","name":"SW_骚火VIP","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/shdy.json"},
 {"key":"SW_双十电影","name":"SW_双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/双十电影.json"},
 {"key":"SW_无尽资源","name":"SW_无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"SW_小苹果","name":"SW_小苹果)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},//小苹果
-{"key":"SW_BuLei","name":"(SW_BuLei)","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/cyl518/yl/raw/branch/master/布蕾0501.jar"},
- 
-   
+
    
    {"key":"csp_biubiu_小宝影院","name":"SW-華小宝影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/小宝影院.json"},
     
@@ -167,17 +164,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-   
-    {
-      "key": "人人",
-      "name": "SW-華人人",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://45.125.46.61/box/json/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.json"
-    },
+
    
   
     {
@@ -206,77 +193,11 @@
   
 
    
-    {
-      "key": "csp_app_贵宾影院",
-      "name": "SW-華贵宾影院",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://vipdytv.com/api.php/iptv/vod/"
-    },
+   
 
-    {
-      "key": "csp_app_2号币",
-      "name": "SW-華2号币",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://phoebe.cf/api.php/iptv/vod/"
-    },
-
-
-    {
-      "key": "csp_xbb_达达龟",
-      "name": " SW-華达达龟",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/%e8%be%be%e8%be%be%e9%be%9f.json"
-    },
-
-  
-  
-    {
-      "key": "csp_xbb_去看吧",
-      "name": "SW-華看吧动漫",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/%e5%8e%bb%e7%9c%8b%e5%90%a7.json"
-    },
 
    
-    {
-      "key": "csp_xbb_克拉TV",
-      "name": "SW-華克拉TV",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/%e5%85%8b%e6%8b%89TV.json"
-    },
-   
-    
-    {
-      "key": "csp_xbb_神马tv8",
-      "name": "SW-華神马tv8",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/%e7%a5%9e%e9%a9%actv8.json"
-    },
-  
+ 
 
     {
       "key": "csp_xml_xinlang",
@@ -322,24 +243,7 @@
   
     
     
-    {
-      "key": "csp_xml_樱花采集",
-      "name": " SW-華樱花采集",
-      "type": 1,
-      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
-      "key": "csp_xml_樱花资源",
-      "name": "  SW-華樱花资源",
-      "type": 1,
-      "api": "https://yhzy.cc/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+   
     
     {
       "key": "csp_xml_39视",
@@ -350,16 +254,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "csp_xml_酷点资源",
-      "name": "  SW-華酷点资源",
-      "type": 1,
-      "api": "https://api.kuapi.cc/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    
+   
   
 
       {"key":"csp_Bili","name":"🅱哔哩套餐","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://52bsj.vip:81/api/v3/file/get/64479/bilibili_2.json?sign=mT70lhyOd_pHJHA8zEjxouiG97eo0C26Ga-GP0HAB4M%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
@@ -461,44 +356,7 @@
                 "体育"
             ]
         },
-       
-        
-      
-        {
-            "key": "zy_樱花资源",
-            "name": "SW-華樱花资源",
-            "type": 1,
-            "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "犯罪片",
-                "纪录片",
-                "动画电影",
-                "国产剧",
-                "香港剧",
-                "台湾剧",
-                "韩国剧",
-                "日本剧",
-                "欧美剧",
-                "海外剧",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺",
-                "国产动漫",
-                "日本动漫",
-                "欧美动漫",
-                "海外动漫"
-            ]
-        },
+     
         
         {
             "key": "zy_光速资源",
