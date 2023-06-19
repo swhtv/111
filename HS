@@ -18,11 +18,12 @@
   ],
     "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
     "sites": [
-    
+    {"key":"csp_xpath_独播库","name":"華SW-TV DRAMAS","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/duboku.json"},
+
     
     {
-            "key": "zy_飞速资源",
-            "name": "SW-華飞速资源",
+            "key": "zy飞速资源",
+            "name": "SW-華 飞速资源",
             "type": 1,
             "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
             "searchable": 1,
