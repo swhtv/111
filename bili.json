@@ -1,7 +1,10 @@
 {
 
 	"classes": [
-
+                {
+			"type_name": "风景",
+			"type_id": "风景4K"
+		},
 		{
 			"type_name": "美食",
 			"type_id": "美食超清"
@@ -21,10 +24,6 @@
 		{
 			"type_name": "刘畊宏",
 			"type_id": "刘畊宏"
-		},
-		{
-			"type_name": "风景",
-			"type_id": "风景4K"
 		},
 		{
 			"type_name": "说案",
