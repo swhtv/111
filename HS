@@ -60,70 +60,23 @@
     
     {"key": "鱼乐 资源","name": "SW-華 鱼 乐","type": 1,"api": "https://www.ylzy1.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1},
    
-   
-{"key":"SW_吼吼","name": "SW_吼吼","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/hhys.json"},
-{"key":"SW_爱迪","name": "SW_爱迪","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable":1,"ext": "https://gitee.com/ghzyw/cttv/raw/cttv-iptv/jar/cttv/adys.json"},
-{"key":"SW乐活","name":"SW_乐活","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"SW_555电影","name":"SW_555","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/555电影.json"},
-{"key":"SW_libv","name":"SW_Libvio","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/libv.json"},
-{"key":"SW_搜狗影院","name":"SW_搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/搜狗影院.json"},
-{"key":"SW_茶杯狐","name":"SW_茶杯狐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/茶杯狐.json"},
-{"key":"SW_voflix","name":"SW_Voflix HD","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/voflix.json"},
 
-{"key":"SW_99ys","name":"SW_久久","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.liucn.cc/box/sub/MeowXP/99ys.json"},
-{"key":"SW_tjyy","name":"SW_奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json"},
-{"key":"SW_ttsp","name":"SW_天天视频","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/ttsp.json"},
-{"key":"SW_双十电影","name":"SW_双十电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/双十电影.json"},
+{"key":"SW乐活","name":"SW_乐活","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+
+{"key":"SW_搜狗影院","name":"SW_搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/搜狗影院.json"},
+
 {"key":"SW_无尽资源","name":"SW_无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 {"key":"SW_小苹果","name":"SW_小苹果)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},//小苹果
 
-   
-   {"key":"csp_biubiu_小宝影院","name":"SW-華小宝影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/小宝影院.json"},
+
     
 
 {"key":"csp_biubiu_欧乐影院","name":"SW-華欧乐影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/欧乐影院.json"},
 
 
 
-{"key": "7资源","name": "SW-華7xi资源","type": 0,"api": "https://www.7xi.tv/api.php/provide/vod/at/xml/"},
-  
-        {
-            "key": "zy_快车资源",
-            "name": "SW-華快车资源",
-            "type": 1,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "战争片",
-                "剧情片",
-                "动画片",
-                "电视剧",
-                "国产剧",
-                "香港剧",
-                "台湾剧",
-                "欧美剧",
-                "韩国剧",
-                "日本剧",
-                "海外剧",
-                "动漫",
-                "国产动漫",
-                "日本动漫",
-                "欧美动漫",
-                "综艺",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺",
-                "泰国剧"
-            ]
-        },
+
 
   {
       "key": "csp_xml_飞速采集",
@@ -156,16 +109,7 @@
       "quickSearch": 1
     },
  
-    {
-      "key": "csp_xml_天空资源",
-      "name": " SW-華天空资源m3u8",
-      "type": 1,
-      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-
+   
    
   
     {
@@ -221,17 +165,7 @@
     },
 
 
-   
-    {
-      "key": "csp_xml_快 播云",
-      "name": " SW-華 快播云",
-      "type": 1,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-
+  
     {
       "key": "csp_xml_红牛资源",
       "name": "SW-華红牛资源",
