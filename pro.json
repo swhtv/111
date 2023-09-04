@@ -30,8 +30,16 @@
 	
 	
 	{"key":"csp_Bili","name":"哔哩","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":"http://52bsj.vip:81/api/v3/file/get/64479/bilibili_2.json?sign=mT70lhyOd_pHJHA8zEjxouiG97eo0C26Ga-GP0HAB4M%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
-{"key":"csp_biubiu_哔嘀影视","name":"哔嘀影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://9xi4o.tk/OneClickRun/MaooXB/哔嘀影视.json"},
-
+  {
+            "key": "csp_BBB",
+            "name": "🅱️哔哩哔哩",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": "http://m35.grelighting.cn/html/box/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
+        },
 {"key": "csp_biubiu_骚火电影","name": "🔥骚火电影","type": 3,"api": "csp_XBiubiu","searchable": 1,	"quickSearch": 1,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/61556/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=PUGqnmN-H_30G7ELMQztiwdaoirjRY9xPvLqr0uGvd8%3D%3A0"	},	
 	
 	
