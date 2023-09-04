@@ -67,12 +67,7 @@
 
 {"key":"SW乐活","name":"SW_乐活","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
-{"key":"SW_搜狗影院","name":"SW_搜狗影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXB/搜狗影院.json"},
-
 {"key":"SW_无尽资源","name":"SW_无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
-{"key":"SW_小苹果","name":"SW_小苹果)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},//小苹果
-
 
     
 
