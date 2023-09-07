@@ -4,8 +4,8 @@
 //0730JAR
 //"spider":"https://agit.ai/guot54/ygbh/raw/branch/master/JAR/panda1123.jar",
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",	
-
+//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",	
+ "spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",
 
 # 直播
  "lives": [
@@ -22,8 +22,11 @@
     }
   ],
 "sites":[
-{"key":"csp_xpath_独播库","name":"華SWTV DRAMAS","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/duboku.json"},
-{"key": "cjzy_暴风资源", "name": "SW-暴风", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "", "categories": ["国产剧", "国产动漫", "大陆综艺", "港台综艺", "香港剧", "台湾剧", "日本剧", "欧美剧", "泰国剧", "日本动漫", "日本综艺", "综艺频道", "新马泰综艺", "纪录片", "科幻片", "喜剧片", "战争片"]},
+{"key":"csp_哔哩全集","name":"🐞哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://8.210.232.168/tv/box/json/bili.json"},
+          
+	
+{"key":"csp_xpath_独 播 库","name":"華 SWTV DRAMAS","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/duboku.json"},
+{"key": "cjzy_暴风 资源", "name": "SW-暴风", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "", "categories": ["国产剧", "国产动漫", "大陆综艺", "港台综艺", "香港剧", "台湾剧", "日本剧", "欧美剧", "泰国剧", "日本动漫", "日本综艺", "综艺频道", "新马泰综艺", "纪录片", "科幻片", "喜剧片", "战争片"]},
 
 	
 	{"key":"csp_biubiu_欧乐","name":"🥒欧乐","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/欧乐影院.json"},
@@ -41,6 +44,7 @@
             "ext": "http://m35.grelighting.cn/html/box/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
         },
 {"key": "csp_biubiu_骚火电影","name": "🔥骚火电影","type": 3,"api": "csp_XBiubiu","searchable": 1,	"quickSearch": 1,"filterable": 0,"ext": "http://52bsj.vip:81/api/v3/file/get/61556/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json?sign=PUGqnmN-H_30G7ELMQztiwdaoirjRY9xPvLqr0uGvd8%3D%3A0"	},	
+	{"key":"drpy_js_B站影视","name":"🅱️B站","type":3,"api":"http://8.210.232.168/ys/dr_py/libs/drpy2.min.js","ext":"https://tvmvip.com/xc/js/b%E7%AB%99%E5%BD%B1%E8%A7%86.js"},
 	
 	
 {"key": "演唱会","name": "演唱会","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "http://52bsj.vip:81/api/v3/file/get/33114/%E6%BC%94%E5%94%B1%E4%BC%9A.json?sign=JgZ1FuOl12vukIkRas_T4v4Zg_l999m2JVHDiqhGLic%3D%3A0","jar":"http://52bsj.vip:81/api/v3/file/get/64478/%E5%A4%96%E9%93%BEcookie%E8%83%BD%E7%BF%BB%E9%A1%B5.jar?sign=SLg7is9_oL_nL8yI8QRIwO11Vpav7P5eYY25FoNSYIs%3D%3A0"},
