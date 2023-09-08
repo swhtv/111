@@ -1,25 +1,22 @@
 {
     "spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",
     "wallpaper": "https://tool.weetai.cn/api",
-  # 直播
- "lives": [
-    {
-      "group": "redirect",
-      "channels": [
+    "lives": [
         {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="
-          ]
+            "name": "live",
+            "url": "http://1288.nat123.cc/swtv.txt",
+            "type": 0,
+            "playerType": 1,
+            "ua": "okhttp/3.12.13",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
         }
-      ]
-    }
-  ],
+    ],
     "warningText": "SWTV软件：接口免费，每次打开记得长按主页刷新",
     "sites": [
 
  {
-            "key": " 哔 哩 ",
+            "key": "哔哩 ",
             "name": "🅱哔哩┃哔哩",
             "type": 3,
             "api": "csp_Bili",
