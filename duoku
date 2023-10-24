@@ -1,8 +1,3 @@
-
-
-{
-    "urls": [
-        
 { "url": "https://wds.ecsxs.com/230792.json","name": "SWTV華哥〔多条线路〕" },  
 
 { "urls": [{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
@@ -31,16 +26,6 @@
 
 { "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧儿" },
 
-{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟微信公众号" },
+{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "微信公众号" },
 
-{ "url": "https://download.kstore.space/download/2904/369.txt", "name": "🌟奇友汇" }
-        
-
-    ],
-    "vip": [
-        {
-            "url": "",
-            "name": "默认"
-        }
-    ]
-}
+{ "url": "https://download.kstore.space/download/2904/369.txt", "name": "奇友汇" }]}
