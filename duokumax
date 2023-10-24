@@ -1,47 +1,28 @@
 
+{"urls":[
 
-{
-    "urls": [
-        
-{ "url": "https://wds.ecsxs.com/230792.json","name": "SWTV華哥〔多条线路〕" },  
+{"name":"SWTV華哥〔多条线路","url":"https://wds.ecsxs.com/230792.json"},
+{"name":"🍃吾爱砂锅","url":"http://52bsj.vip:98/wuai"},
+{"name":"💦巧技砂锅","url":"http://pandown.pro/tvbox/tvbox.json"},
+{"name":"📿神器砂锅","url":"https://神器每日推送.tk/pz.json"},
+{"name":"🔘精选砂锅","url":"https://codeberg.org/jgfx/box88/raw/branch/master/jg.txt"},
+{"name":"🍭甜蜜砂锅","url":"https://raw.iqiq.io/kebedd69/TVbox-interface/main/甜蜜.json"},
+{"name":"☪夕晨砂锅","url":"https://calendre.top/TVBox/YXHC.json"},
+{"name":"🐾喵影砂锅","url":"https://hk1.monika.love/tuji-2015/miao/main/TVBox/tvbox.json"},
+{"name":"🐯宝真砂锅","url":"https://agit.ai/sejinan/app/raw/branch/box/hua"},
+{"name":"🦊warnig砂锅","url":"https://agit.ai/wifi/ts/raw/branch/master/210.bmp"},
+{"name":"🦏楞牛砂锅","url":"http://tv.lengniuge.ga/yingshi"},
+{"name":"🦉夜猫砂锅","url":"https://d.looks.wang/我爱夜猫子"},
+{"name":"🦉少儿频道","url":"https://d.looks.wang/夜猫子少儿频道"},
+{"name":"🌪南风砂锅","url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json"},
+{"name":"🍏青苹果砂锅","url":"https://s2.pub/xpg"},
+{"name":"🍎小苹果砂锅","url":"https://la.kstore.space/download/3376/xpg.txt"},
+{"name":"🎀元兴砂锅","url":"https://freed.yuanhsing.cf/TVBox/meowcf.json"},
+{"name":"🐕二哈砂锅","url":"https://codeberg.org/jgfx/2hacc/raw/branch/main/tvbox.json"},
+{"name":"🌿乱世砂锅","url":"http://www.dmtv.ml/mao/single.json"},
+{"name":"🏡潇洒砂锅","url":"https://la.kstore.space/download/2863/01.txt"},
+{"name":"✨精简砂锅","url":"https://codeberg.org/jgfx/TVBox2/raw/branch/master/Json/jgpro.json"},
 
-{ "urls": [{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
-
-{ "url": "http://xhww.fun:63/小米/DEMO.json", "name": "小米" },
-
-{ "url": "http://肥猫.love", "name": "肥猫" },
-
-{ "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长js" },
-
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云js" },
-
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "高天流云XYQ" },
-
-{ "url": "https://yydsys.top/duo", "name": "多多" },
-
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
-
-{ "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
-
-{ "url": "https://download.kstore.space/download/3313/app/ymshaoer.txt", "name": "少儿频道" },
-
-{ "url": "https://www.yingm.cc/dm/dm.json", "name": "动漫频道" },
-
-{ "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
-
-{ "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧儿" },
-
-{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "🌟微信公众号" },
-
-{ "url": "https://download.kstore.space/download/2904/369.txt", "name": "🌟奇友汇" }
-        
-
-    ],
-    "vip": [
-        {
-            "url": "",
-            "name": "默认"
-        }
-    ]
-}
-
+{"name":"🅱yoisk砂锅","url":"https://raw.iqiq.io/Yosakoii/Yosakoii.github.io/main/2023.json"},
+{"name":"👭人人砂锅","url":"https://agit.ai/376242575/zzh/raw/branch/master/txt/影视.txt"}
+]}
