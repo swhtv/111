@@ -28,6 +28,10 @@
 {"key":"drpy_js_if101[飞]","name":"SWTV華 if101[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/if101[飞].js"},
 {"key":"drpy_js_KUBO影视[飞]","name":"SWTV華 KUBO影视[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/KUBO影视[飞].js"},
 
+{"key":"drpy_js_B站影视","name":"SWTV華 B站影视[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/B站影视.js"},
+
+ {"key": "csp_Nbys", "name": "SWTV華-👑泥巴", "type": 3, "api": "csp_NiNi", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;727926544613E9BA8EF43DC2F637E379"}, 
+
 {"key":"drpy_js_吼吼[飞]","name":"SWTV華 吼吼[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/吼吼[飞].js"},
 {"key":"drpy_js_欧乐影院[飞]","name":"SWTV華 欧乐影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/欧乐影院[飞].js"},
 
