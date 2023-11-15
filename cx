@@ -20,7 +20,461 @@
     "sites": [
 
 
-{"key":"drpy_js_独播库","name":"SWTV華 独播库[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/独播库[飞].js"},  
+  {"key":"csp_xpath_独播库","name":"華SWTV DRAMAS","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/duboku.json"}, 
+      
+{"key":"csp_bbiu_欧乐影院","name":"SW-華 欧乐影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/欧乐影院.json"},
+    
+   	{
+			"key": "索尼-资源",
+			"name": "索尼-3K资源",
+			"type": 1,
+			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
+			"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "诺克", "解说"],
+			"searchable": 1,
+			"quickSearch": 1
+		},
+        {
+            "key": "csp_SNzy",
+            "name": "🐉┃索尼-3k高清",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "爱情片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "国产剧",
+                "欧美剧",
+                "香港剧",
+                "韩国剧",
+                "台湾剧",
+                "日本剧",
+                "海外剧",
+                "泰国剧",
+                "国产动漫",
+                "日韩动漫",
+                "欧动漫",
+                "港台动漫",
+                "海外动漫",
+                "大陆综艺",
+                "港台综艺",
+                "日韩综艺",
+                "美综艺"
+            ]			
+        },
+
+    
+   	
+
+ 
+   {
+      "key": "天空-资源",
+      "name": " SW華天空资源",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+   
+
+         
+{"key": "7 资源","name": "SW華7xi资源","type": 0,"api": "https://www.7xi.tv/api.php/provide/vod/at/xml/"},
+
+    
+       {
+      "key": "csp_xml无尽资源",
+      "name": " SW-華-无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    
+    
+      {
+            "key": "zy_新浪 资源",
+            "name": "SW-華 新浪资源",
+            "type": 1,
+            "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "动漫",
+                "综艺",
+                "纪录片",
+                "动作片",
+                "爱情片",
+                "科幻片",
+                "战争片",
+                "剧情片",
+                "恐怖片",
+                "喜剧片",
+                "大陆剧",
+                "港澳剧",
+                "台湾剧",
+                "欧美剧",
+                "动漫电影",
+                "韩剧",
+                "日剧",
+                "泰剧",
+                "体育"
+            ]
+        },
+       
+    
+    
+    {
+            "key": "zy華_快车资源",
+            "name": "SW-華 快车资源",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "战争片",
+                "剧情片",
+                "动画片",
+                "电视剧",
+                "国产剧",
+                "香港剧",
+                "台湾剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "海外剧",
+                "动漫",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "综艺",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "泰国剧"
+            ]
+        },
+        
+    
+   {
+			"key": "SW-華卧龙资源",
+			"name": "SW🐉卧龙",
+			"type": 1,
+			"api": "https://collect.wolongzyw.com/api.php/provide/vod/",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"playUrl": "",
+			"playerType": 2,
+			"categories": [
+				"动作片",
+				"喜剧片",
+				"科幻片",
+				"恐怖片",
+				"爱情片",
+				"剧情片",
+				"战争片",
+				"记录片",
+				"动画电影",
+				"国产剧",
+				"欧美剧",
+				"犯罪片",
+				"香港剧",
+				"韩国剧",
+				"泰剧",
+				"台湾剧",
+				"日剧",
+				"海外剧",
+				"其他片",
+				"悬疑片",
+				"奇幻片",
+				"动画片",
+				"体育赛事",
+				"国产动漫",
+				"日韩动漫",
+				"欧美动漫",
+				"港台动漫",
+				"海外动漫",
+				"大陆综艺",
+				"港台综艺",
+				"日韩综艺",
+				"欧美综艺"
+			]
+		},     
+
+
+{
+      "key": "唐 人 街",
+      "name": "SW-華 唐人街",
+      "type": 0,
+      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
+    }   ,
+    
+ 
+{"key": "cjzy_暴风资源", "name": "┃暴风┃影院", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "", "categories": ["国产剧", "国产动漫", "大陆综艺", "港台综艺", "香港剧", "台湾剧", "日本剧", "欧美剧", "泰国剧", "日本动漫", "日本综艺", "综艺频道", "新马泰综艺", "纪录片", "科幻片", "喜剧片", "战争片"]},
+{"key":"SW乐活","name":"SW_乐活","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+ 
+
+
+{"key":"SW_tjyy","name":"SW_奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.liucn.cc/box/sub/MeowXP/huigutongying.json"},
+{"key":"SW_ttsp","name":"SW_天天视频","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.liucn.cc/box/sub/MeowXP/ttsp.json"},
+
+
+{"key":"SW_无尽资源","name":"SW_无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
+   {"key":"csp_哔哩全集","name":"🐞哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://8.210.232.168/tv/box/json/bili.json"},
+  
+       
+
+  {
+      "key": "csp_xml_飞速采集",
+      "name": " SW-華飞速采集",
+      "type": 1,
+      "api": "https://m3u8.feisuzyapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+   
+   {
+            "key": "zy_飞速资源",
+            "name": "SW-華飞速资源",
+            "type": 1,
+            "api": "https://www.feisuzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "香港剧",
+                "台湾剧",
+                "韩国剧",
+                "纪录片",
+                "动画片",
+                "日本剧",
+                "泰国剧",
+                "欧美剧",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "海外动漫",
+                "电影解说",
+                "大陆综艺",
+                "港台综艺",
+                "韩国综艺",
+                "欧美综艺",
+                "其他剧"
+            ]
+        },
+  
+    {
+      "key": "csp_xml_飞速资源",
+      "name": "  SW-華飞速资源",
+      "type": 1,
+      "api": "http://fszy1.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+ 
+    
+  
+ 
+ 
+
+    {
+      "key": "csp_xbb_骚火VIP",
+      "name": " SW-華骚火VIP",
+      "type": 3,
+      "api": "csp_XBiubiu",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/shdy.json"
+    },
+  
+
+   
+
+
+    {
+      "key": "csp_xml_红牛资源",
+      "name": "SW-華红牛资源",
+      "type": 1,
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+  
+    
+    
+
+    
+    {
+      "key": "csp_xml_39视",
+      "name": "  SW-華3 9视",
+      "type": 1,
+      "api": "https://www.39kan.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
+       
+        {
+            "key": "zy_光速资源",
+            "name": "SW-華光速资源",
+            "type": 1,
+            "api": "https://api.guangsuapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "综艺",
+                "动漫",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "剧情片",
+                "恐怖片",
+                "战争片",
+                "大陆剧",
+                "欧美剧",
+                "港澳剧",
+                "韩剧",
+                "动漫电影",
+                "日剧",
+                "台湾剧",
+                "泰剧",
+                "记录片",
+                "体育赛事"
+            ]
+        },
+        {
+            "key": "zy_金鹰资源",
+            "name": "SW-華金鹰资源",
+            "type": 1,
+            "api": "https://jyzyapi.com/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "欧美剧",
+                "香港剧",
+                "韩剧",
+                "日剧",
+                "马泰剧",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "动漫",
+                "内地剧",
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧美动漫",
+                "综艺",
+                "台湾剧",
+                "体育赛事"
+            ]
+        },
+     
+     
+{
+      "key": "zyk01",
+      "name": "SW-華zyk01",
+      "type": 0,
+      "api": "https://api.1080zyku.com/inc/ldg_api.php"
+    },
+
+
+	   {
+            "key": "搜狐资源",
+            "name":  "🦊搜狐",
+            "type": 1,
+            "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/sohu/?at/xml/",
+            "playUrl":"https://jx.xmflv.com/?url=",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
+        },
+        
+{
+			"key": "cjzy_快看",
+		     "name": "🚀快看",
+			"type": 1,
+			"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
+			"playUrl": "https://dm.xbqgx.com/?url=",
+			"changeable":1,
+			"playerType": 2,
+			"categories": [
+				"国产剧",
+				"港台剧",
+				"国产动漫",
+				"日韩剧",
+				"欧美剧",
+				"海外剧",
+				"动作片",
+				"爱情片",
+				"剧情片",
+				"科幻片",
+				"奇幻片",
+				"战争片",
+				"犯罪片",
+				"恐怖片",
+				"悬疑片",
+				"惊悚片",
+				"冒险片"
+			]
+		},
+
+{
+			"key": "zycj_天天",
+			"name": "📅天天",
+			"type": 1,
+			"searchable": 1,
+			"changeable": 1,
+			"api": "https://api.1080zyku.com/inc/apijson.php",
+			"playUrl": "",
+			"categories": [
+				"国产剧",
+				"国产动漫",
+				"韩国剧",
+				"欧美剧",
+				"大陆综艺"
+			]
+		},
+
+
+
+{"key":"独播库","name":"SWTV華-独播库[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/独播库[飞].js"},  
     {"key": "dr_豆瓣","name":"SWTV華 推荐","type": 3,"api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://8.210.232.168/tv/box/js/douban.js"},
 
 {"key":"drpy_js_爱壹帆","name":"SWTV華 爱壹帆[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/爱壹帆[飞].js"},
