@@ -25,7 +25,7 @@
 
 {"key":"多瑙","name":"SWTV華 多瑙","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://codeberg.org/smm2019/gao/raw/branch/master/js/%E5%A4%9A%E7%91%99%E5%BD%B1%E8%A7%86.js"},
 
-{"key":"b站","name":"SWTV華 b站js","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://codeberg.org/smm2019/gao/raw/branch/master/js/B%E7%AB%99%E5%BD%B1%E8%A7%86.js"},
+
 
 {"key":"纽约ny","name":"SWTV華 ny","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://codeberg.org/smm2019/gao/raw/branch/master/js/NY%E5%BD%B1%E9%99%A2.js"},
 
@@ -36,18 +36,7 @@
       
 {"key":"csp_bbiu_欧乐影院","name":"SW-華 欧乐影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/欧乐影院.json"},
     
-   	{
-			"key": "索尼-资源",
-			"name": "索尼-3K资源",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "诺克", "解说"],
-			"searchable": 1,
-			"quickSearch": 1
-		},
-      
-    
-   	
+  	
 
  
    {
@@ -62,7 +51,6 @@
    
 
          
-{"key": "7 资源","name": "SW華7xi资源","type": 0,"api": "https://www.7xi.tv/api.php/provide/vod/at/xml/"},
 
     
        {
@@ -135,16 +123,7 @@
  
 {"key": "cjzy_暴风资源", "name": "┃暴风┃影院", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "", "categories": ["国产剧", "国产动漫", "大陆综艺", "港台综艺", "香港剧", "台湾剧", "日本剧", "欧美剧", "泰国剧", "日本动漫", "日本综艺", "综艺频道", "新马泰综艺", "纪录片", "科幻片", "喜剧片", "战争片"]},
 {"key":"SW乐活","name":"SW_乐活","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
- 
-
-
-
-
-{"key":"SW_无尽资源","name":"SW_无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
-   
-       
-      
+     
 
 	   {
             "key": "搜狐资源",
@@ -158,51 +137,6 @@
             "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
         
-{
-			"key": "cjzy_快看",
-		     "name": "🚀快看",
-			"type": 1,
-			"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
-			"playUrl": "https://dm.xbqgx.com/?url=",
-			"changeable":1,
-			"playerType": 2,
-			"categories": [
-				"国产剧",
-				"港台剧",
-				"国产动漫",
-				"日韩剧",
-				"欧美剧",
-				"海外剧",
-				"动作片",
-				"爱情片",
-				"剧情片",
-				"科幻片",
-				"奇幻片",
-				"战争片",
-				"犯罪片",
-				"恐怖片",
-				"悬疑片",
-				"惊悚片",
-				"冒险片"
-			]
-		},
-
-{
-			"key": "zycj_天天",
-			"name": "📅天天",
-			"type": 1,
-			"searchable": 1,
-			"changeable": 1,
-			"api": "https://api.1080zyku.com/inc/apijson.php",
-			"playUrl": "",
-			"categories": [
-				"国产剧",
-				"国产动漫",
-				"韩国剧",
-				"欧美剧",
-				"大陆综艺"
-			]
-		},
 
 
 
@@ -216,7 +150,7 @@
 
 {"key":"drpy_js_B站影视","name":"SWTV華 B站影视[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/B站影视.js"},
 
- {"key": "csp_Nbys", "name": "SWTV華-👑泥巴", "type": 3, "api": "csp_NiNi", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;727926544613E9BA8EF43DC2F637E379"}, 
+ {"key": "csp_Nbys", "name": "SWTV華-泥巴", "type": 3, "api": "csp_NiNi", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;727926544613E9BA8EF43DC2F637E379"}, 
 
 {"key":"drpy_js_吼吼[飞]","name":"SWTV華 吼吼[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/吼吼[飞].js"},
 {"key":"drpy_js_欧乐影院[飞]","name":"SWTV華 欧乐影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/欧乐影院[飞].js"},
