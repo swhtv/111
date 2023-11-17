@@ -25,6 +25,7 @@
 
 {"key":"多瑙","name":"SWTV華 多瑙","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://codeberg.org/smm2019/gao/raw/branch/master/js/%E5%A4%9A%E7%91%99%E5%BD%B1%E8%A7%86.js"},
 
+{"key":"金曼","name":"SWTV華 金曼","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
 
 
 {"key":"纽约ny","name":"SWTV華 ny","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://codeberg.org/smm2019/gao/raw/branch/master/js/NY%E5%BD%B1%E9%99%A2.js"},
