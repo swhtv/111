@@ -28,7 +28,6 @@
 {"key":"金曼","name":"SWTV華 金曼","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
 
 
-{"key":"纽约ny","name":"SWTV華 ny","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://codeberg.org/smm2019/gao/raw/branch/master/js/NY%E5%BD%B1%E9%99%A2.js"},
 
 {"key":"唐人街","name":"SWTV華 唐人街js","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://codeberg.org/smm2019/gao/raw/branch/master/js/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"},
 
@@ -64,55 +63,7 @@
       "quickSearch": 1
     },
     
-    
-   
-    
-   {
-			"key": "SW-華卧龙资源",
-			"name": "SW🐉卧龙",
-			"type": 1,
-			"api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": "",
-			"playerType": 2,
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"爱情片",
-				"剧情片",
-				"战争片",
-				"记录片",
-				"动画电影",
-				"国产剧",
-				"欧美剧",
-				"犯罪片",
-				"香港剧",
-				"韩国剧",
-				"泰剧",
-				"台湾剧",
-				"日剧",
-				"海外剧",
-				"其他片",
-				"悬疑片",
-				"奇幻片",
-				"动画片",
-				"体育赛事",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺"
-			]
-		},     
-
+ 
 
 {
       "key": "唐 人 街",
@@ -121,10 +72,6 @@
       "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
     }   ,
     
- 
-{"key": "cjzy_暴风资源", "name": "┃暴风┃影院", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "", "categories": ["国产剧", "国产动漫", "大陆综艺", "港台综艺", "香港剧", "台湾剧", "日本剧", "欧美剧", "泰国剧", "日本动漫", "日本综艺", "综艺频道", "新马泰综艺", "纪录片", "科幻片", "喜剧片", "战争片"]},
-{"key":"SW乐活","name":"SW_乐活","type":1,"api":"https://lehootv.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-     
 
 	   {
             "key": "搜狐资源",
@@ -140,8 +87,6 @@
         
 
 
-
-{"key":"独播库","name":"SWTV華-独播库[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/独播库[飞].js"},  
    
 
 {"key":"drpy_js_爱壹帆","name":"SWTV華 爱壹帆[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/爱壹帆[飞].js"},
@@ -203,99 +148,10 @@
                 "日韩综艺",
                 "美综艺"
             ]			
-        },
+        }
 
    
-  
-		{
-			"key": "卧龙资源",
-			"name": "🐉卧龙",
-			"type": 1,
-			"api": "https://collect.wolongzyw.com/api.php/provide/vod/",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"playUrl": "",
-			"playerType": 2,
-			"categories": [
-				"动作片",
-				"喜剧片",
-				"科幻片",
-				"恐怖片",
-				"爱情片",
-				"剧情片",
-				"战争片",
-				"记录片",
-				"动画电影",
-				"国产剧",
-				"欧美剧",
-				"犯罪片",
-				"香港剧",
-				"韩国剧",
-				"泰剧",
-				"台湾剧",
-				"日剧",
-				"海外剧",
-				"其他片",
-				"悬疑片",
-				"奇幻片",
-				"动画片",
-				"体育赛事",
-				"国产动漫",
-				"日韩动漫",
-				"欧美动漫",
-				"港台动漫",
-				"海外动漫",
-				"大陆综艺",
-				"港台综艺",
-				"日韩综艺",
-				"欧美综艺"
-			]
-		},     
 
-		
-		
-        {
-            "key": "两个bt",
-            "name": "💰两个┃鼻涕",
-            "type": 3,
-            "api": "http://8.210.232.168/ys/dr_py/libs/drpy2.min.js",
-            "ext": "http://8.210.232.168/ys/dr_py/js/%E4%B8%A4%E4%B8%AAbt.js"
-        },
-          
-
-      
-    {
-			"key": "cjzy_快看",
-		     "name": "🚀快看",
-			"type": 1,
-			"api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
-			"playUrl": "https://dm.xbqgx.com/?url=",
-			"changeable":1,
-			"playerType": 2,
-			"categories": [
-				"国产剧",
-				"港台剧",
-				"国产动漫",
-				"日韩剧",
-				"欧美剧",
-				"海外剧",
-				"动作片",
-				"爱情片",
-				"剧情片",
-				"科幻片",
-				"奇幻片",
-				"战争片",
-				"犯罪片",
-				"恐怖片",
-				"悬疑片",
-				"惊悚片",
-				"冒险片"
-			]
-		}
-		
-   
-     
      
       
     ],
