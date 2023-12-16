@@ -21,7 +21,10 @@
     "sites": [
 
 
-	{"key":"csp_哔哩 全集","name":"🐞哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://8.210.232.168/tv/box/json/bili.json"},
+
+{ "key": "Bili", "name": "🐞哔哩", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597 }, "searchable": 1, "quickSearch": 0, "changeable": 0, "ext": "https://xhdwc.tk/json/bilibili.json" },
+
+	{"key":"csp_哔哩 全集","name":"bili","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://8.210.232.168/tv/box/json/bili.json"},
           
 
 
