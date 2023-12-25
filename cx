@@ -27,7 +27,19 @@
 
 {"key":"金曼","name":"SWTV華 金曼","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
 
+{"key":"drpy_js_爱壹帆","name":"SWTV華 爱壹帆[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%88%B1%E5%A3%B9%E5%B8%862.js"},
 
+{"key":"drpy_js_if101[飞]","name":"SWTV華 if101[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/if101[飞].js"},
+{"key":"drpy_js_KUBO影视[飞]","name":"SWTV華 KUBO影视[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/KUBO影视[飞].js"},
+
+{"key":"drpy_js_B站影视","name":"SWTV華 B站影视[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/B站影视.js"},
+
+ {"key": "csp_Nbys", "name": "SWTV華-泥巴", "type": 3, "api": "csp_NiNi", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;727926544613E9BA8EF43DC2F637E379"}, 
+
+{"key":"drpy_js_吼吼[飞]","name":"SWTV華 吼吼[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%90%BC%E5%90%BC%5B%E9%A3%9E%5D.js"},
+{"key":"drpy_js_欧乐影院[飞]","name":"SWTV華 欧乐影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"},
+
+{"key":"drpy_js_小宝影院[飞]","name":"SWTV華 小宝影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"},
 
 {"key":"唐人街","name":"SWTV華 唐人街js","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://codeberg.org/smm2019/gao/raw/branch/master/js/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E8%A7%86%5B%E9%A3%9E%5D.js"},
 
@@ -85,23 +97,6 @@
             "categories":["国产剧","韩国剧","香港剧","台湾剧","欧美剧","动作片","科幻片","战争片","奇幻片","喜剧片","爱情片","恐怖片","犯罪片","悬疑片","惊悚片","剧情片","冒险片","记录片","综艺","动漫"]
         },
         
-
-
-   
-
-{"key":"drpy_js_爱壹帆","name":"SWTV華 爱壹帆[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/爱壹帆[飞].js"},
-
-{"key":"drpy_js_if101[飞]","name":"SWTV華 if101[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/if101[飞].js"},
-{"key":"drpy_js_KUBO影视[飞]","name":"SWTV華 KUBO影视[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/KUBO影视[飞].js"},
-
-{"key":"drpy_js_B站影视","name":"SWTV華 B站影视[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/B站影视.js"},
-
- {"key": "csp_Nbys", "name": "SWTV華-泥巴", "type": 3, "api": "csp_NiNi", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;727926544613E9BA8EF43DC2F637E379"}, 
-
-{"key":"drpy_js_吼吼[飞]","name":"SWTV華 吼吼[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/吼吼[飞].js"},
-{"key":"drpy_js_欧乐影院[飞]","name":"SWTV華 欧乐影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/欧乐影院[飞].js"},
-
-{"key":"drpy_js_小宝影院[飞]","name":"SWTV華 小宝影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/小宝影院[飞].js"},
 
 
 
