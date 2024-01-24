@@ -21,15 +21,8 @@
     "sites": [
 
 
+{"key":"SW_无尽资源","name":"SW_无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
-{ "key": "Bili", "name": "🐞哔哩", "type": 3, "api": "csp_Bili", "style": { "type": "rect", "ratio": 1.597 }, "searchable": 1, "quickSearch": 0, "changeable": 0, "ext": "https://xhdwc.tk/json/bilibili.json" },
-
-	{"key":"csp_哔哩 全集","name":"bili","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://8.210.232.168/tv/box/json/bili.json"},
-          
-
-
-    {"key":"csp_xpath_独播库","name":"華SWTV DRAMAS","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/duboku.json"},
-{"key": "cjzy_暴风资源", "name": "SW-暴风", "type": 1, "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "", "categories": ["国产剧", "国产动漫", "大陆综艺", "港台综艺", "香港剧", "台湾剧", "日本剧", "欧美剧", "泰国剧", "日本动漫", "日本综艺", "综艺频道", "新马泰综艺", "纪录片", "科幻片", "喜剧片", "战争片"]},
 
     
     {
@@ -69,16 +62,6 @@
             ]
         },
     
-  
-{"key":"SW_无尽资源","name":"SW_无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
-    
-
-{"key":"csp_biubiu_欧乐影院","name":"SW-華欧乐影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/欧乐影院.json"},
-
-
-
-
 
   {
       "key": "csp_xml_飞速采集",
@@ -110,30 +93,6 @@
       "searchable": 1,
       "quickSearch": 1
     },
- 
-   
-   
-  
-   
- 
-
-    {
-      "key": "csp_xbb_骚火VIP",
-      "name": " SW-華骚火VIP",
-      "type": 3,
-      "api": "csp_XBiubiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://agit.ai/mabox/box/raw/branch/main/json/shdy.json"
-    },
-  
-
-   
-   
-
-
-   
  
 
     {
@@ -305,14 +264,8 @@
                 "记录片",
                 "体育赛事"
             ]
-        },
+        }
         
-{
-      "key": "唐人街",
-      "name": "SW-華唐人街",
-      "type": 0,
-      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
-    }
 
   
     ],
