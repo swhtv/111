@@ -20,7 +20,104 @@
     "wallpaper": "http://bt.hm.iqinu.com:32000/box/wallpaper/",
     "sites": [
 
+{
+            "key": "SNzy",
+            "name": "索尼资源 ",
+            "type": 1,
+            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "国产剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "港剧",
+                "台剧",
+                "泰剧",
+                "纪录片",
+                "大陆综艺",
+                "",
+                "港台综艺",
+                "日韩综艺",
+                "欧美综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "动画片",
+                "港台动漫",
+                "海外动漫",
+                "足球",
+                "预告片",
+                "影S解说"
+            ]
+        },
+        
+ {
+            "key": "zy_快车 资源",
+            "name": "SW-華 快车资源",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "战争片",
+                "剧情片",
+                "动画片",
+                "电视剧",
+                "国产剧",
+                "香港剧",
+                "台湾剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "海外剧",
+                "动漫",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "综艺",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "泰国剧"
+            ]
+        },
+ 
 
+
+
+//{"key":"csp_biubiu_欧乐影院","name":"SW-華欧乐影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/欧乐影院.json"},
+    
+ 
+    {
+      "key": "csp_xml_天空资源",
+      "name": " SW-華天空资源m3u8",
+      "type": 1,
+      "api": "https://api.tiankongapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+   
+
+
+        
 {"key":"SW_无尽资源","name":"SW_无尽资源","type":1,"api":"https://api.wujinapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 
 
