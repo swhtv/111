@@ -20,7 +20,10 @@
     "sites": [
 
 
-{"key":"独播库","name":"SWTV華哥-独播[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%8B%AC%E6%92%AD%E5%BA%93.js"},
+{"key":"独播库","name":"SWTV華哥-独播[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%8B%AC%E6%92%AD%E5%BA%93%5B%E9%A3%9E%5D.js
+"},
+//{"key":"独播库","name":"SWTV華哥-独播[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%8B%AC%E6%92%AD%E5%BA%93.js"},
+
 {"key":"drpy_js_爱 壹 帆","name":"SWTV華 爱 壹 帆","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%88%B1%E5%A3%B9%E5%B8%862.js"},
 
 
