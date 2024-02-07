@@ -35,10 +35,10 @@
 
 
 {"key":"SW-欧帝影院","name":"SWTV華 欧帝","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"},
-{"key":"SW-欧乐影院","name":"SWTV華 欧乐","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"},
+//{"key":"SW-欧乐影院","name":"SWTV華 欧乐","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"},
 {"key":"SW-华乐","name":"SWTV華 华乐","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%8D%8E%E4%B9%90%E5%BD%B1%E9%99%A2.js"},
 {"key":"SW-人人影视","name":"SWTV華 人人","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.js"},
-{"key":"SW-310直播","name":"SWTV華 体育","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/310%E7%9B%B4%E6%92%AD.js"},
+//{"key":"SW-310直播","name":"SWTV華 体育","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/310%E7%9B%B4%E6%92%AD.js"},
 
 
 {"key":"drpy_js_豆瓣","name":"豆瓣 華 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
