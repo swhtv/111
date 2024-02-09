@@ -20,7 +20,10 @@
     "sites": [
 
 
-{"key":"独播库","name":"SWTV華哥-独播[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%8B%AC%E6%92%AD%E5%BA%93%5B%E9%A3%9E%5D.js
+
+
+{"key":"SW-欧帝影院","name":"SWTV華哥-歐D","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"},
+//{"key":"独播库","name":"SWTV華哥-独播[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%8B%AC%E6%92%AD%E5%BA%93%5B%E9%A3%9E%5D.js
 "},
 //{"key":"独播库","name":"SWTV華哥-独播[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%8B%AC%E6%92%AD%E5%BA%93.js"},
 
