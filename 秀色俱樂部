@@ -26,49 +26,12 @@
 			"quickSearch": 0
 		},
 
-{
-      "key": "csp_banan",
-      "name": "banan",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-	 "ext": "https://agit.ai/138001380000/MHQTV/raw/branch/master/xBPQ/banan.json"
-    },
 
-  
-
-    {
-      "key": "madouse.la",
-      "name": "大人01",
-      "type": 1,
-      "api": "http://madouse.la/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
-    
-    {
-      "key": "ggmmzy.com",
-      "name": "大人02",
-      "type": 0,
-      "api": "http://www.ggmmzy.com:9999/inc/xml",
-      "searchable": 1,
-      "filterable": 1
-    },
     {
       "key": "bttcj.com",
       "name": "大人03",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "cjmygzy.com",
-      "name": "大人04",
-      "type": 0,
-      "api": "http://cjmygzy.com/inc/sapi.php?ac=videolist",
       "searchable": 1,
       "filterable": 1
     },
@@ -93,16 +56,6 @@
     },
     
 
-   
-    {
-      "key": "99zywcj.com",
-      "name": "大人09",
-      "type": 0,
-      "api": "http://99zywcj.com/inc/sapi.php?ac=videolist",
-      "searchable": 1,
-      "filterable": 1
-    },
-    
     {
       "key": "91md.me",
       "name": "大人10",
@@ -246,14 +199,7 @@
 
 {"key":"*皇冠资源","name":"*🔞皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
-		{
-			"key": "❤色窝资源",
-			"name": "❤色窝资源",
-			"type": 1,
-			"api": "https://sewozyapi.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},	
+		
 		
 	
 		
@@ -341,15 +287,8 @@
 			"api": "https://shayuapi.com/api.php/provide/vod/",
 			"searchable": 0,
 			"quickSearch": 0
-		},
-		{
-			"key": "❤速度资源",
-			"name": "❤速度资源",
-			"type": 0,
-			"api": "http://www.ggmmzy.com:9999/inc/xml",
-			"searchable": 0,
-			"quickSearch": 0
 		}
+		
    
   ],
   "lives": [
