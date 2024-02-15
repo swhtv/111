@@ -26,10 +26,117 @@
 			"quickSearch": 0
 		},
 
-
+  {
+    "key": "apilyzy",
+    "name": "老鸭",
+    "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 273,
+    "search": 2,
+    "type": 0
+  },
+ 
+  {
+    "key": "apittzy",
+    "name": "探探资源",
+    "api": "https://apittzy.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 275,
+    "search": 2,
+    "type": 0
+  },
+  {
+    "key": "kkzy",
+    "name": "KK资源网",
+    "api": "https://kkzy.me/api.php/provide/vod/at/xmlsea",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 276,
+    "search": 2,
+    "type": 0
+  },
+  {
+    "key": "maozyapi",
+    "name": "色猫资源",
+    "api": "https://api.maozyapi.com/inc/api.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 277,
+    "search": 2,
+    "type": 0
+  },
+  {
+    "key": "wmcj8",
+    "name": "AG资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "status": false,
+    "reverseOrder": false,
+    "id": 278,
+    "search": 2,
+    "type": 0
+  },
+ 
+  {
+    "key": "shayu",
+    "name": "shayu",
+    "api": "https://shayuapi.com/api.php/Seacms/vod",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 280,
+    "search": 2,
+    "type": 0
+  },
+  
+  {
+    "key": "lb",
+    "name": "乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": true,
+    "status": true,
+    "reverseOrder": false,
+    "id": 282,
+    "search": 2,
+    "type": 0
+  },
+  {
+    "key": "bttcj",
+    "name": "BT天堂",
+    "api": "http://bttcj.com/inc/sapi.php",
+    "jiexiUrl": "",
+    "group": "18+",
+    "isActive": false,
+    "status": false,
+    "reverseOrder": false,
+    "id": 283,
+    "search": 2,
+    "type": 0
+  },
+  
     {
       "key": "bttcj.com",
-      "name": "大人03",
+      "name": "大人01",
       "type": 0,
       "api": "http://bttcj.com/inc/sapi.php",
       "searchable": 1,
@@ -39,7 +146,7 @@
     
     {
       "key": "dadiapi.com",
-      "name": "大人06",
+      "name": "大人02",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "searchable": 1,
@@ -48,7 +155,7 @@
     
     {
       "key": "apilj.com",
-      "name": "大人07",
+      "name": "大人03",
       "type": 1,
       "api": "http://apilj.com/api.php/provide/vod/at/json/",
       "searchable": 1,
@@ -58,7 +165,7 @@
 
     {
       "key": "91md.me",
-      "name": "大人10",
+      "name": "大人04",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1,
@@ -68,7 +175,7 @@
     
     {
       "key": "api.maozyapi.com",
-      "name": "大人13",
+      "name": "大人05",
       "type": 1,
       "api": "https://api.maozyapi.com/inc/apijson_vod.php",
       "searchable": 1,
@@ -78,7 +185,7 @@
    
     {
       "key": "gdlsp.com",
-      "name": "大人15",
+      "name": "大人06",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
       "searchable": 1,
@@ -88,7 +195,7 @@
    
     {
       "key": "shayuapi.com",
-      "name": "大人17",
+      "name": "大人07",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
       "searchable": 1,
@@ -99,7 +206,7 @@
    
     {
       "key": "msnii.com",
-      "name": "大人20",
+      "name": "大人08",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
@@ -107,7 +214,7 @@
     },
     {
       "key": "apittzy.com",
-      "name": "大人21",
+      "name": "大人09",
       "type": 1,
       "api": "https://apittzy.com/api.php/provide/vod/",
       "searchable": 1,
@@ -116,7 +223,7 @@
   
     {
       "key": "lbapi9.com",
-      "name": "大人22",
+      "name": "大人10",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -124,7 +231,7 @@
     },
     {
       "key": "kkzy.me",
-      "name": "大人23",
+      "name": "大人11",
       "type": 1,
       "api": "https://kkzy.me/api.php/provide/vod/",
       "searchable": 1,
@@ -135,7 +242,7 @@
   
     {
       "key": "xrbsp.com",
-      "name": "大人26",
+      "name": "大人12",
       "type": 0,
       "api": "https://www.xrbsp.com/api/xml.php",
       "searchable": 1,
@@ -145,7 +252,7 @@
    
     {
       "key": "api.apilyzy.com",
-      "name": "大人27",
+      "name": "大人13",
       "type": 1,
       "api": "https://api.apilyzy.com/api.php/provide/vod/",
       "searchable": 1,
