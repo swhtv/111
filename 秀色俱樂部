@@ -133,6 +133,16 @@
     "search": 2,
     "type": 0
   },
+
+{"key": "环亚","name": "环亚av","type": 0,"searchable": 0,"quickSearch": 0,"api": "http://wmcj8.com/inc/sapi.php"},
+{"key": "鸭二","name": "鸭二av","type": 1,"searchable": 0,"quickSearch": 0,"api": "https://lbapi9.com/api.php/provide/vod/","playUrl": "https://player.77lehuo.com/aliplayer/?url="},
+
+{"key": "白嫖","name": "白嫖av","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://www.kxgav.com/api/xml.php"},
+
+{"key": "乐播","name": "乐播av","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"},
+
+{"key": "小AV","name": "小AV","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://www.pgxdy.com/api/xml.php"},
+
   
     {
       "key": "bttcj.com",
