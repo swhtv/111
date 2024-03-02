@@ -21,7 +21,6 @@
     "warningText": "華哥提醒你:請不要相信視頻中的广告.多謝大家.",
     "sites": [
 
-{"key":"独 播 库","name":"SWTV華哥- 独播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%8B%AC%E6%92%AD%E5%BA%93%5B%E9%A3%9E%5D.js"},
 
 {
             "key": "haiwaikan",
@@ -38,27 +37,27 @@
                 "台剧",
                 "泰剧",
                 "欧美剧",
+	        "纪录片",  
                 "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
+                "动作片",
+		"战争片",
                 "冒险片",
                 "剧情片",
-                "动作片",
-                "同性片",
+                "犯罪片",
+                "科幻片",
                 "喜剧片",
                 "奇幻片",
                 "恐怖片",
                 "悬疑片",
                 "惊悚片",
-                "战争片",
+                "同性片",
                 "歌舞片",
                 "灾难片",
                 "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
+                "韩国综艺",
+                "国产综艺",
+                "日本综艺",
+                "欧美综艺", 
                 "日本动漫",
                 "国产动漫",
                 "欧美动漫",
@@ -66,6 +65,7 @@
             ]
         },
 
+{"key":"独 播 库","name":"SWTV華哥- 独播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%8B%AC%E6%92%AD%E5%BA%93%5B%E9%A3%9E%5D.js"},
 
 
 {"key":"drpy_爱壹帆","name":"SWTV華-爱壹 帆","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%88%B1%E5%A3%B9%E5%B8%862.js"},
