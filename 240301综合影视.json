@@ -68,22 +68,22 @@
 
 
 
-{"key":"drpy_爱壹帆","name":"SWTV華-爱壹 帆","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%88%B1%E5%A3%B9%E5%B8%862.js"},
+{"key":"drpy_爱壹帆","name":"SWTV華-爱壹 帆","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%88%B1%E5%A3%B9%E5%B8%862.js"},
 {"key":"SW-欧帝影院","name":"SWTV華 欧帝影院","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"},
-{"key":"SW-热播库","name":"SW-热播库","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%83%AD%E6%92%AD%E5%BA%93.js"},
+{"key":"SW-热播库","name":"SW-热播库","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%83%AD%E6%92%AD%E5%BA%93.js"},
  {"key":"drpy_js_多瑙","name":" SWTV 華哥 多瑙[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%A4%9A%E7%91%99%E5%BD%B1%E8%A7%86.js","playerType":"2"},
-{"key":"金曼","name":"SWTV華 金曼","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
+{"key":"金曼","name":"SWTV華 金曼","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
 
-{"key":"SW-欧乐影院","name":"SWTV華 欧乐","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"},
-{"key":"SW-华乐","name":"SWTV華 华乐","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%8D%8E%E4%B9%90%E5%BD%B1%E9%99%A2.js"},
-{"key":"SW-人人影视","name":"SWTV華 人人","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.js"},
-//{"key":"SW-310直播","name":"SWTV華 体育","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/310%E7%9B%B4%E6%92%AD.js"},
+{"key":"SW-欧乐影院","name":"SWTV華 欧乐","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"},
+{"key":"SW-华乐","name":"SWTV華 华乐","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%8D%8E%E4%B9%90%E5%BD%B1%E9%99%A2.js"},
+{"key":"SW-人人影视","name":"SWTV華 人人","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E4%BA%BA%E4%BA%BA%E5%BD%B1%E8%A7%86.js"},
+//{"key":"SW-310直播","name":"SWTV華 体育","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/310%E7%9B%B4%E6%92%AD.js"},
 
 {"key":"drpy_js_豆瓣","name":"豆瓣 華 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
  {"key":"drpy_js_荐片","name":"華哥-视聼[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
  {"key": "csp_Nbys", "name": "SWTV華-泥巴", "type": 3, "api": "csp_NiNi", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;727926544613E9BA8EF43DC2F637E379"}, 
 
-{"key":"drpy_js_吼吼[飞]","name":"SWTV華 吼吼[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%90%BC%E5%90%BC%5B%E9%A3%9E%5D.js"},
+{"key":"drpy_js_吼吼[飞]","name":"SWTV華 吼吼[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%90%BC%E5%90%BC%5B%E9%A3%9E%5D.js"},
 {"key":"drpy_js_欧乐影院[飞]","name":"SWTV華 欧乐影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"},
 
 {"key":"drpy_js_小宝影院[飞]","name":"SWTV華 小宝影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"},
@@ -91,18 +91,18 @@
    {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
  {"key":"drpy_js_荐片","name":"荐片 | 影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
  
-{"key":"金曼","name":"SWTV華 金曼","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
+{"key":"金曼","name":"SWTV華 金曼","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
 
-{"key":"drpy_js_爱壹帆","name":"SWTV華 爱壹帆[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%88%B1%E5%A3%B9%E5%B8%862.js"},
+{"key":"drpy_js_爱壹帆","name":"SWTV華 爱壹帆[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%88%B1%E5%A3%B9%E5%B8%862.js"},
 
-{"key":"drpy_js_B站影视","name":"SWTV華 B站影视[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/B站影视.js"},
+{"key":"drpy_js_B站影视","name":"SWTV華 B站影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/B站影视.js"},
 
  {"key": "csp_Nbys", "name": "SWTV華-泥巴", "type": 3, "api": "csp_NiNi", "searchable": 1, "quickSearch": 1, "filterable": 1, "jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;727926544613E9BA8EF43DC2F637E379"}, 
 
-{"key":"drpy_js_吼吼[飞]","name":"SWTV華 吼吼[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%90%BC%E5%90%BC%5B%E9%A3%9E%5D.js"},
+{"key":"drpy_js_吼吼[飞]","name":"SWTV華 吼吼[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%90%BC%E5%90%BC%5B%E9%A3%9E%5D.js"},
 {"key":"drpy_js_欧乐影院[飞]","name":"SWTV華 欧乐影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"},
 
-{"key":"drpy_js_小宝影院[飞]","name":"SWTV華 小宝影院[js]","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"},
+{"key":"drpy_js_小宝影院[飞]","name":"SWTV華 小宝影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2%5B%E9%A3%9E%5D.js"},
 
 {"key":"drpy_js_爱看机器人","name":"爱看-華[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/ikanbot2.js"},
 {"key":"drpy_js_我的哔哩","name":"B站 華哥[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"},
