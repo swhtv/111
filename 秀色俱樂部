@@ -1,21 +1,62 @@
 {
-    "spider": "https://agit.ai/138001380000/MHQTV/raw/branch/master/jar/xBPQ.jar",
-    
-    "lives": [
-        {
-            "group": "redirect",
-            "channels": [
-                {
-                    "name": "live",
-                    "urls": [
-                        "proxy://do=live&type=txt&ext=https://agit.ai/138001380000/MHQTV/raw/branch/master/TV/1108zh.txt"
-                    ]
-                }
-            ]
-        }
-    ],
-   "rules": [ {"host":"*", "rule":["iesdouyin.com/aweme", "video_id="]}, {"host":"*", "rule":["huoshan.com", "/item/video/"]}, {"host":"*", "rule":["http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"]}, {"host":"*", "rule":["http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"]} ],
-    "sites": [
+ //"spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",
+//"spider":"http://itvbox.cc/sft/jar/fm.jar;md5;1ff3df38a66ee5378031e4fac1799596",
+//"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
+//"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707552573492/fan.txt;md5;4eec8bf0a642330662224a01636e0df6",
+//"spider":"http://cdn.qiaoji8.com/fix24117.jar;md5;2e85feb2888d9efb5b396258f22841ac",
+"spider":"https://raw.githubusercontent.com/gaotianliuyun/gao/master/jar/pg.jar",
+//"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706645996429/fan.txt;md5;1ff3df38a66ee5378031e4fac1799596",
+ //"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1707044072121/fan.txt;md5;c3e8c08b4cd6f7fd0f868ea48dd42cb2",
+ //"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;8640F864FF452A817883A6564EF32E0D",
+
+  "lives": [
+    {
+      "name": "adult_2023",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2023.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "name": "madou",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/madou.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "name": "18_adult",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/18_adult.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "name": "adult_2",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "",
+      "logo": ""
+    },
+    {
+      "name": "adult",
+      "type": 0,
+      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult.txt",
+      "playerType": 2,
+      "ua": "okhttp/3.15",
+      "epg": "",
+      "logo": ""
+    }
+  ],
+  "sites": [
   
 	{
 			"key": "❤91M豆资源",
@@ -142,6 +183,23 @@
 {"key": "乐播","name": "乐播av","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"},
 
 {"key": "小AV","name": "小AV","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://www.pgxdy.com/api/xml.php"},
+
+  {
+      "key": "泥巴",
+      "name": "泥巴",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "ext": "1"
+    },
+     {
+      "key": "MissAV",
+      "name": "MissAV",
+      "type": 3,
+      "api": "csp_Miss",
+      "searchable": 1,
+	  "style":{ "type":"rect", "ratio":1.33 }
+    }, 
 
   
     {
