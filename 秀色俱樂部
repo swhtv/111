@@ -466,37 +466,10 @@
 		
    
   ],
-  "lives": [
-    {
-      "group": "SWTV",
-      "channels": [
-        {
-          "name": "Global News",
-          "urls": [
-            "https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8"
-          ]
-        },
-        {
-          "name": "Global Toronto",
-          "urls": [
-            "https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8"
-          ]
-        },
-        {
-          "name": "CBC Ontario",
-          "urls": [
-            "https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8"
-          ]
-        },   
-        {
-          "name": "ALL Sports",
-          "urls": [
-            "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8"
-          ]
-        }
-      ]
-    }
-  ],
+
+
+
+
   "flags": [
     "youku",
     "qq",
