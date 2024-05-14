@@ -67,6 +67,23 @@
 			"quickSearch": 0
 		},
 
+{
+      "key": "hav ",
+      "name": "黄艾薇 ",
+      "type": 0,
+      "api": "https://www.pgxdy.com/api/xml.php ",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "apilj",
+      "name": "辣椒",
+      "type": 0,
+      "api": "https://apilj.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1
+    },
+
   {
     "key": "apilyzy",
     "name": "老鸭",
