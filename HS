@@ -1,6 +1,6 @@
 {
 ## spider
-"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
+//"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 //"spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",	
