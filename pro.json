@@ -2,7 +2,7 @@
 ## spider
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
-"spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",	
+//"spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",	
     # 直播
   "lives": [
     {
@@ -30,13 +30,6 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
                 "国产剧",
                 "欧美剧",
                 "韩剧",
@@ -45,7 +38,14 @@
                 "台剧",
                 "泰剧",
                 "纪录片",
-                "大陆综艺",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片", 
+		"大陆综艺",
                 "",
                 "港台综艺",
                 "日韩综艺",
