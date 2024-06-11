@@ -32,7 +32,6 @@ Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 CNBC,https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12774.m3u8
 CNBC W,https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12773.m3u8
 MSNBC,https://6oclock.xyz:8443/live//9rpAZwWZT9/zaGl252Y2w/12725.m3u8
-CP24,http://127.0.0.1:8756/5e202665000dc84807e8d5386f210655.ts
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -737,9 +736,6 @@ CGTN纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 [BD]東森新聞,https://epg.pw/stream/54221319de813f4675b6ccd9ab958d744ed33570caa663c854e9727240d7cbdb.m3u8
 
 FRANCE 法語,#genre#
-BFM FRANCE,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TOULONVAR/index.m3u8?end=END&start=LIVE
-BFM TECH&CO,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?end=END&start=LIVE
-TELE MAROC,https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8TELEPACE NEWS,https://live.mariatvcdn.com/teleradiopace6/d289fe76f16ad32afec471ea1b941583.sdp/index.m3u8
 法TF1,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10111
 EURO NEW FRANCE,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10105
 RFM TV,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
