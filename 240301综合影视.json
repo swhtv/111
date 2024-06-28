@@ -21,10 +21,18 @@
     "warningText": "華哥提醒你:請不要相信視頻中的广告.多謝大家.",
     "sites": [
 
-
 {
-            "key": "haiwaikan",
-            "name": "SW華哥-海外",
+      "key": "csp_xml无尽资源",
+      "name": " SW-華-无尽资源",
+      "type": 1,
+      "api": "https://api.wujinapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+{
+            "key": "ha iwai kan",
+            "name": "SW華 哥-海 外",
             "type": 1,
             "api": "https://haiwaikan.com/api.php/provide/vod",
             "searchable": 1,
@@ -65,15 +73,7 @@
             ]
         },
 
- {
-      "key": "csp_xml无尽资源",
-      "name": " SW-華-无尽资源",
-      "type": 1,
-      "api": "https://api.wujinapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
+ 
   
 {
 			"key": "卧龙资源",
