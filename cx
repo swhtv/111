@@ -32,9 +32,9 @@
 		},  
 
 
-//{
-            "key": "haiwaikan",
-            "name": "SW華哥-海外",
+{
+            "key": "hai wai kan",
+            "name": "SW 華哥-海 外",
             "type": 1,
             "api": "https://haiwaikan.com/api.php/provide/vod",
             "searchable": 1,
