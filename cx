@@ -4,6 +4,7 @@
 "spider":"https://github.com/swhtv/1/raw/main/A4.jar",
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 //"spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",
+//"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
 //"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://tool.weetai.cn/api",
     "lives": [
@@ -138,6 +139,7 @@
 {"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
 {"key":"drpy_js_大师兄","name":"大师兄[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%A4%A7%E5%B8%88%E5%85%84%E5%BD%B1%E8%A7%86.js"},
 {"key":"drpy_js_看了么","name":"看了么[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/看了么.js"},
+{ 			"key": "Iktv", 			"name": "KTV", 			"type": 3, 			"api": "csp_Iktv", 			"searchable": 1, 			"changeable": 0 		},
 
    {
             "key": "zy_飞速资源",
