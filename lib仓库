@@ -11,6 +11,8 @@
 {"name": "live","type": 0,"url": "https://gitlab.com/tvtg/vip/-/raw/main/log.txt","epg": "http://epg.112114.xyz/?ch={name}&date={date}"}],
 
 "sites":[
+
+{"key":"酷影","name":"🚛酷影┃4K","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "http://ys.realdou.cn:2683/api.php/app/"},
 {"key":"酷看","name":"🇹┃酷看影视┃秒播","type":3,"api":"csp_Kkys","timeout":15,"searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
 {"key": "豆瓣推荐","name": "豆瓣推荐｜公众号：天微科技","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 
