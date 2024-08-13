@@ -4,6 +4,7 @@
 "spider":"https://github.com/swhtv/1/raw/main/A4.jar",
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
 //"spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",
+//"spider": "http://47.99.102.252/jar/0805.jar;md5;4240ee3b8c229184391a6dee8c5d3ad6",
 //"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
 //"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://tool.weetai.cn/api",
@@ -81,6 +82,98 @@
 {"key":"临时资源","name":"SW-临时资源","type":1,"api":"http://43.242.202.173:60/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key": "百度","name": "SW-百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0},
 {"key":"荔枝","name":"️SW-荔枝","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.zjys.vip/api.php/iptv/vod/"},
+{
+    "key": "sw影院",
+    "name": "sw03",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://raw.githubusercontent.com/swhtv/1/main/SW03%E5%BD%B1%E9%99%A2"
+},    
+  {"key": "皇冠","name": "SW皇冠快播","type": 1,"api": "https://hong.hgyx.vip/api.php/provide/vod/"},
+{
+    "key": "MV",
+    "name": "️歌曲哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
+      },
+    "searchable": 1,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
+    "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
+},	
+{"key":"学外语","name":"SW学外语","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/waiyu.json"},
+    
+  {"key": "柠檬资源","name": "SW柠檬","type": 1,"api": "https://www.nmnm.cc/api.php/provide/vod/"},
+{"key": "三八资源","name": "SW三八","type": 1,"api": "https://vod38.com/api.php/provide/vod/"},  
+   {"key": "一舟影院","name": "SW一舟","type": 1,"api": "http://www.mandao.site/api.php/provide/vod/"},
+{"key": "无忧资源","name": "SW无忧","type": 1,"api": "https://www.wyvod.com/api.php/provide/vod/"}, 
+{"key": "追风资源","name": "SW追风","type": 1,"api": "http://www.zfsp.cc/api.php/provide/vod/"},    
+{"key": "追剧资源","name": "SW看剧","type": 1,"api": "https://www.zhuijuju.net/api.php/provide/vod/"},
+{"key": "影图资源","name": "SW影图","type": 1,"api": "https://cj.vodimg.top/api.php/provide/vod/"},
+{"key": "九零资源","name": "SW九零","type": 1,"api": "https://oknnews.com/api.php/provide/vod/"},
+{"key": "何以资源","name": "SW何以快播","type": 1,"api": "https://www.heyik.cn/api.php/provide/vod/"},
+{"key": "黑木资源","name": "SW木耳","type": 1,"api": "https://heimuer.tv/api.php/provide/vod/"},
+{"key": "鸣人资源","name": "SW鸣人","type": 1,"api":"https://json.heimuer.xyz/api.php/provide/vod/?ac=list"},
+ {
+            "key": "圣城",
+            "name": "SW圣城",
+              "jar": "http://47.99.102.252/jar/xc.jar",
+            "type": 3,
+            "api": "csp_SC1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+{
+    "key": "MV",
+    "name": "歌曲哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
+      },
+    "searchable": 1,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
+    "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
+},
+{
+    "key": "南瓜",
+    "name": "SW南瓜",
+    "type": 3,
+    "api": "csp_WexNgys"
+},
+{
+    "key":"t9-荐片",
+    "name":"SW荐片",
+    "type":4,
+    "api":"https://catbox.n13.club/t9/jianpian.php"
+},
+
+
+{"key":"苹果","name":"SW苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"低端","name":"SW低端","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
+
+
+
+{"key":"Aid","name":"SW急救┃教学","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
+
+    
+{"key": "360","name": "SW飞龙","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
+"国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},   
+
+{"key": "百度","name": "SW-百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0},
+
+
+
 
 {"key":"SW-欧帝影院","name":"SWTV華 欧帝影院","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"},
  {"key":"drpy_js_多瑙","name":" SWTV 華哥 多瑙[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%A4%9A%E7%91%99%E5%BD%B1%E8%A7%86.js","playerType":"2"},
