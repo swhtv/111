@@ -2,6 +2,25 @@
     {
         "name": "应用商店",
         "list": [
+ {
+               "name": "SWTV",
+                "url": "https://github.com/swhtv/ak/blob/main/SWTV(%E4%BA%8C).apk",
+                "icon": "http://aptv.pro/jpg/影音天堂.png",
+                "version": "扫码or点击安装"
+            },
+ {
+               "name": "SW华视BOX",
+                "url": "https://github.com/swhtv/ak/blob/main/SW%E8%8F%AF%E8%A6%96BOX_20231024_0018.apk",
+                "icon": "http://aptv.pro/jpg/影音天堂.png",
+                "version": "扫码or点击安装"
+            },
+ {
+               "name": "SW华视MAX",
+                "url": "https://github.com/swhtv/ak/blob/main/SW%E8%8F%AF(Cat)%E8%A6%96Max_20230813_0952_.apk",
+                "icon": "http://aptv.pro/jpg/影音天堂.png",
+                "version": "扫码or点击安装"
+            },
+
               {
                "name": "万能影视",
                 "url": "https://vip.123pan.cn/1833436336/%E4%B8%87%E8%83%BD%E5%BD%B1%E8%A7%86-%E8%AF%B7%E6%8A%8A%E5%9C%B0%E5%9D%80%E5%A4%8D%E5%88%B6%E5%88%B0%E6%B5%8F%E8%A7%88%E5%99%A8%E4%B8%8B%E8%BD%BD/%E4%B8%87%E8%83%BD%E5%BD%B1%E8%A7%86%281%29.apk",
