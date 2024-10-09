@@ -94,6 +94,8 @@
 {"key":"SW-欧帝影院","name":"SWTV華 欧帝影院","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E6%AC%A7%E5%B8%9D%E5%BD%B1%E9%99%A2.js"},
  {"key":"drpy_js_多瑙","name":" SWTV 華哥 多瑙[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%A4%9A%E7%91%99%E5%BD%B1%E8%A7%86.js","playerType":"2"},
 {"key":"金曼","name":"SWTV華 金曼","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
+{"key":"T4-黑狐","name":"sw黑狐(T4)","type":4,"api":"https://catbox.n13.club/t4/heihu.php"},
+{ "key": "文采", "name": "sw文采", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
   
 {
