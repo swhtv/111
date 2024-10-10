@@ -232,8 +232,11 @@ SW-TV港台,#genre#
 
 TVB 新聞台,http://live.cooltv.top/tv/tvb.php?id=2
 TVB 新聞台,http://live.cooltv.top/tv/tvb.php?id=0
-TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
-TVB新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+TVB 新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+TVB 新闻台,http://live.cooltv.top/tv/tvb.php?id=2&hq
+無線新聞台,http://line.greatstar.me/play/live.php?mac=10:27:BE:15:59:81&extension=ts&stream=153399
+無線新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 翡翠台,https://z88.ubtvfans.com/live/rx1/390/207eb167765508c920915d1ce02433f0/index.m3u8
