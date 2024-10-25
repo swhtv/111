@@ -3,6 +3,7 @@
 {
 //"spider": "http://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/2.jar;md5;0d46d7d1c01cd19b374a3280c8864596",
 //"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
+//"spider":"https://github.com/swhtv/1/raw/refs/heads/main/YSC.jar",	
 "spider": "https://11256.kstore.space/qxyc.jar",	
 //"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://tool.weetai.cn/api",
@@ -17,7 +18,7 @@
       "logo": ""
    }
   ],
-    "warningText": "華哥提醒你:請不要相信視頻中的广告.多謝大家.",
+    "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 { "key": "文采", "name": "sw-wencao", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 {"key":"T4-黑狐","name":"sw黑狐(T4)","type":4,"api":"https://catbox.n13.club/t4/heihu.php"},
@@ -103,7 +104,136 @@
 {"key":"金曼","name":"SWTV華 金曼","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
 {"key":"T4-黑狐","name":"sw黑狐(T4)","type":4,"api":"https://catbox.n13.club/t4/heihu.php"},
 { "key": "文采", "name": "sw文采", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
+{ "key": "文采", "name": "sw文采", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
+{"key":"原创","name":"SW原创","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
+{"key":"苹果","name":"SW苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
+{"key": "VIP影视","name": "VIP影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://11256.kstore.space/lib/VIPyingshi.json"},
+{"key":"暴风资源","name": "SW暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":23},
+{"key": "nangua","name": "SW南瓜2","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
+{
+  "key": "apizuidapi",
+  "name": "sw最大",
+  "type": 3,
+  "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
+  "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
+  },
+{"key": "MV大全","name": "MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},        
+{"key": "nangua","name": "南瓜2","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
+{    "key": "t4直播转点播",
+      "name": "swT4丨教育",
+      "type": 4,
+      "api": "http://120.53.102.254/dsp16",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+	{
+			"key": "csp_Ikanbot",
+			"name": "sw-机器",
+			"type": 3,
+			"api": "csp_Ikanbot",
+			"changeable": 1,
+			"playerType": 2,
+			"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
+			"ext":"https://v.aikanbot.com"
+		},
+	{
+      "key": "csp_myhy",
+      "name": "sw-嘛衣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/maoystv/6/main/XBPQ/分享MY.json"},
 
+{
+"key": "Bilfun",
+      "name": "sw-七之社区",
+      "type": 1,
+      "api": "https://cdk.centos.chat/api.php/provide/vod",
+      //"playUrl": "https://jx.centos.chat/?url=",
+      //"playUrl": "https://static-proxy.07voda.fun/api/jiexi/07vods-01.php?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+            "柒之社(蓝光专区)",
+            "电影",
+            "电视剧",
+            "综艺",
+            "动漫",
+            "体育赛事",
+            "纪录片",
+            "电影解说",
+            "短剧",
+            "预告片",
+      ]
+},
+ {"key":"圆涂影视","name":"sw圆涂","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
+{"key": "csp_xpath_A33","name":"🎸TV音乐","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
+
+
+{
+    "key": "sw影院",
+    "name": "🏅03",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "ext": "https://raw.githubusercontent.com/swhtv/1/main/SW03%E5%BD%B1%E9%99%A2"
+},
+{
+    "key": "csp_Bili短剧",
+    "name": "🅱️短剧哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
+      },
+    "searchable": 1,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
+    "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
+},
+{
+    "key": "MV",
+    "name": "🅱️歌曲哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "style": {
+    "type": "rect",
+    "ratio": 1.597
+      },
+    "searchable": 1,
+    "quickSearch": 0,
+    "changeable": 0,
+    "ext":"https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili音乐.json",
+    "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
+},	
+
+
+ {"key": "nangua","name": "sw-南瓜2","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
+      
+    {
+            "key": "圣城影视",
+            "name": "sw-圣城",
+              "jar": "http://47.99.102.252/jar/xc.jar",
+            "type": 3,
+            "api": "csp_SC1080",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+   
+	
+		
+       {
+            "key": "素白白",
+            "name": "sw-素白",
+             "jar": "http://47.99.102.252/jar/xc.jar",
+            "type": 3,
+            "api": "csp_Subaibai",
+            "searchable": 1,
+            "changeable": 1
+        },
   
 {
 			"key": "卧龙资源",
