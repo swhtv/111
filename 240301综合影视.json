@@ -7,11 +7,11 @@
 //"spider": "https://11256.kstore.space/qxyc.jar",	
 //"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://tool.weetai.cn/api",
-    "lives": [
+     "lives": [
     {
       "name": "adult_2023",
       "type": 0,
-      "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/lystv/short/main/影视/tvb/MTV.txt",
+      "url": "https://raw.githubusercontent.com/swhtv/111/main/%E5%8D%8E%E8%A7%86box%E5%8D%8E%E8%A7%86%E5%A4%A7%E5%85%A8swtv",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
