@@ -11,7 +11,7 @@
 //"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1713263749769/fan.txt;md5;c84c36278bd8bc95a63449a128074be0",
 //"spider":"https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
     "wallpaper": "https://tool.weetai.cn/api",
-    "lives": [
+     "lives": [
     {
       "name": "adult_2023",
       "type": 0,
@@ -21,9 +21,8 @@
       "epg": "",
       "logo": ""
    }
-],
-
-    "warningText": "華哥提醒你:請不要相信視頻中的广告.多謝大家.",
+  ],
+    "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
  {
