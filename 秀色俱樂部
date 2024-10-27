@@ -14,7 +14,7 @@
     {
       "name": "adult_2023",
       "type": 0,
-      "url": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/qirenzhidao/tvbox18/main/json/adult_2023.txt",
+      "url": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/%E6%BD%98%E5%A4%9A%E6%8B%89TV",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
