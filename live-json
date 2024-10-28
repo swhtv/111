@@ -10,16 +10,11 @@
 	{"name":"ibert-iptv直播","url":"https://m3u.ibert.me/txt/j_iptv.txt"},
 	{"name":"ibert-cn直播","url":"https://m3u.ibert.me/txt/o_cn.txt"},
 	
-	{"name":"肥羊自用直播","url":"https://ghp.ci/https://raw.githubusercontent.com/alantang1977/X/main/LIVE/youshandefeiyang.m3u"},
-	{"name":"🧸肥羊TV","url":"http://35455.koyeb.app/tv.m3u"},
-	{"name":"肥羊国内直播","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tv.m3u"},
-	{"name":"肥羊TPTV","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/tptv.m3u"},
-	{"name":"肥羊广东联通","url":"http://127.0.0.1:10079/c/3600/null/http://127.0.0.1:35455/gdcucc.m3u"},
 	
 	{"name":"全面","url":"https://ghp.ci/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u"},
 	{"name":"春盈","url":"http://47.108.190.141/wx/zb/chunyingzhibo.txt"},
 	{"name":"猫TV","url":"http://rihou.cc:567/gggg.nzk"},
-	{"name":"天天开心","url":"http://ttkx.live:55/lib/kx2024.txt"},
+
 	{"name":"流畅IPV4","url":"https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt"},
 	{"name":"gongdian","url":"https://gongdian.top/tv/gongdian-ipv6.txt"},
 	{"name":"gongdian-ipv4","url":"https://gongdian.top/tv/gongdian.txt"},
