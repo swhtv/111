@@ -30,5 +30,5 @@
 	{"name":"PixMan.BeeSport","url":"http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/beesport.m3u"},
 	{"name":"PixMan.TheTV","url":"http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/thetv.m3u"},
 	{"name":"PixMan.Hami","url":"http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/hami.m3u"},
-	{"name":"PixMan.DLHD","url":"http://127.0.0.1:10079/c/3600/null/http://192.168.101.2:5050/dlhd.m3u"}
+	{"name":"sw","url":"http://1288.nat123.cc/tt.txt"}
 ]
