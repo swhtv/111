@@ -27,45 +27,11 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
-  {
-            "key": "快车资源",
-            "name": "SW華 无尽",
-            "type": 1,
-            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-               "国产剧",
-                "港剧",
-                "台剧",
-                "欧美剧",
-                "韩剧",
-                "日剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "战争片",
-                "剧情片",
-                "动画片",
-                 "动漫",
-                "国产动漫",
-                "日本动漫",
-                "欧美动漫",
-                "综艺",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧美综艺",
-                "泰国剧"
-            ]
-        },
+  
 
  {
-            "key": "无尽资源",
-            "name": "SW華-无尽",
+            "key": "无尽 资源",
+            "name": "SW華 无尽",
             "type": 1,
             "api": "https://api.wujinapi.me/api.php/provide/vod/",
             "searchable": 1,
@@ -152,6 +118,43 @@
 {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
 
 { "key": "文采", "name": "sw文采", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
+
+
+{
+            "key": "快车资源",
+            "name": "SW華 快車",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+               "国产剧",
+                "港剧",
+                "台剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "战争片",
+                "剧情片",
+                "动画片",
+                 "动漫",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "综艺",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "泰国剧"
+            ]
+        },
 
 {"key": "VIP影视","name": "VIP影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://11256.kstore.space/lib/VIPyingshi.json"},
 {"key":"暴风资源","name": "SW暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":23},
