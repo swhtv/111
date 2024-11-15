@@ -27,11 +27,45 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
-  
+ {
+            "key": "華哥",
+            "name": "SW-華哥",
+            "type": 1,
+            "api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "港剧",
+                "台剧",
+                "欧美剧",
+                "韩剧",
+                "日剧",
+                "海外剧",
+                "动作片",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "战争片",
+                "剧情片",
+                "动画片",
+                 "动漫",
+                "国产动漫",
+                "日本动漫",
+                "欧美动漫",
+                "综艺",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧美综艺",
+                "泰国剧"
+            ]
+        },        
 
  {
-            "key": "无尽 资源",
-            "name": "SW華 无尽",
+            "key": "无尽资源",
+            "name": "SW華无尽",
             "type": 1,
             "api": "https://api.wujinapi.me/api.php/provide/vod/",
             "searchable": 1,
