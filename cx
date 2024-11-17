@@ -198,7 +198,9 @@
   "name": "sw最大",
   "type": 3,
   "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
-  "ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/%E6%9C%80%E5%A4%A7json"},
+  "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
+  },
+
 {"key": "sgabys","name": "華哥-星际UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 
 
