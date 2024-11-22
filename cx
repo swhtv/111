@@ -194,7 +194,7 @@
             ]
         },
 
-{"key": "VIP影视","name": "VIP影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://11256.kstore.space/lib/VIPyingshi.json"},
+
 {"key":"暴风资源","name": "SW暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":23},
 
 {
@@ -216,7 +216,7 @@
 
 
 
-{"key": "nangua","name": "SW南瓜2","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
+
 {    "key": "t4直播转点播",
       "name": "swT4丨教育",
       "type": 4,
@@ -263,21 +263,8 @@
 
 
 
- {"key": "nangua","name": "sw-南瓜2","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
+ {"key": "nangua","name": "sw-南瓜","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
       
-    {
-            "key": "圣城影视",
-            "name": "sw-圣城",
-              "jar": "http://47.99.102.252/jar/xc.jar",
-            "type": 3,
-            "api": "csp_SC1080",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-   
-	
-{"key":"苹果","name":"SW🍎苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {
       "key": "苹  果a",
       "name": "🍎苹果┃不卡",
