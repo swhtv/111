@@ -20,6 +20,10 @@
   ],
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
+
+{"key": "sgabys","name": "華哥-UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+
+
 { "key": "文采", "name": "sw-wencao", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","泰国剧","欧美动漫","日本动漫","国产动漫","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
@@ -31,7 +35,7 @@
   "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
   },
 {"key": "界界","name": "🐌SW-界界","type": 3,"api": "csp_XBPQ","jar": "./jar/XBPQ.jar","ext": {"主页url": "https://www.hkybqufgh.com/","简介": "</label>&&</div>","影片类型": "tags\">&&director\">","影片状态": "bottom\">&&</div>","二次截取": "videoList\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "https+://ywxohs.com+obs.gduamoe.com&&\",","标题": "vodName\":\"&&\"","副标题": "vodRemarks\":\"&&\"","链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,","导演": "导演:</div>&&主演","主演": "主演:</div>&&别名","线路标题": "寶寳","播放数组": "listitem\">&&info\">","播放列表": "<a&&</a>","倒序": "否","搜索url": "https://www.hkybqufgh.com/vod/search/{wd}","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},  
-{"key": "sgabys","name": "華哥-UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0}, {"key":"糯米","name":"華哥糯米-","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
+ {"key":"糯米","name":"華哥糯米-","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"T4-黑狐","name":"sw黑狐(T4)","type":4,"api":"https://catbox.n13.club/t4/heihu.php"},
 { "key": "文采", "name": "sw文采", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 {"key":"暴风资源","name": "sw暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":23},
