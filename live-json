@@ -1,5 +1,11 @@
 [
-
+{
+			"name": "sw-ak港台",
+			"type": 0,
+			"url": "https://aktv.top/live.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},	
 {"name":"SW華哥猫TV","url":"http://rihou.cc:567/gggg.nzk"},
 {"name":"SW-HK","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
 {"name":"SW-HK2","url":"https://freetv.fun/test_channels_hong_kong_original_new.txt"},
@@ -27,13 +33,7 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
-		{
-			"name": "爱看港台",
-			"type": 0,
-			"url": "https://aktv.top/live.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},			
+				
 		{
 			"name": "myernestlu",
 			"type": 0,
@@ -41,13 +41,7 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},
-		{
-			"name": "ganjue",
-			"type": 0,
-			"url": "http://27.54.236.201:6897/uploads/tvbox/tv.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
+		
 		{
 			"name": "wwb521",
 			"type": 0,
@@ -55,13 +49,7 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},	
-		{
-			"name": "qingwen",
-			"type": 0,
-			"url": "https://ghp.ci/https://raw.githubusercontent.com/qingwen07/awesome-iptv/maintvbox_live_all.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
+		
 {"name":"流畅IPV4","url":"https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt"}
 
 	
