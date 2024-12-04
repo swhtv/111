@@ -20,7 +20,48 @@
 {"name":"ibert-cn直播","url":"https://m3u.ibert.me/txt/o_cn.txt"},
 {"name":"全面","url":"https://ghp.ci/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u"},
 {"name":"全面2","url":"https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/CR.txt"},
-
+{
+			"name": "zbds",
+			"type": 0,
+			"url": "https://live.zbds.top/tv/iptv4.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "爱看港台",
+			"type": 0,
+			"url": "https://aktv.top/live.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},			
+		{
+			"name": "myernestlu",
+			"type": 0,
+			"url": "https://myernestlu.github.io/zby.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "ganjue",
+			"type": 0,
+			"url": "http://27.54.236.201:6897/uploads/tvbox/tv.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
+		{
+			"name": "wwb521",
+			"type": 0,
+			"url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/ipv4.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},	
+		{
+			"name": "qingwen",
+			"type": 0,
+			"url": "https://ghp.ci/https://raw.githubusercontent.com/qingwen07/awesome-iptv/maintvbox_live_all.txt",
+			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+			"logo": "https://epg.112114.xyz/logo/{name}.png"
+		},
 {"name":"流畅IPV4","url":"https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt"}
 
 	
