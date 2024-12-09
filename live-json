@@ -24,8 +24,10 @@
 {"name":"ibert-v6直播","url":"https://m3u.ibert.me/txt/fmml_dv6.txt"},
 {"name":"ibert-iptv直播","url":"https://m3u.ibert.me/txt/j_iptv.txt"},
 {"name":"ibert-cn直播","url":"https://m3u.ibert.me/txt/o_cn.txt"},
-{"name":"DIYP","url":"https://s.netimed.cn/diyp"},
-
+{"name":"CA","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca.m3u"},
+{"name":"CA P","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_samsung.m3u"},
+{"name":"CA S","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_pluto.m3u"},
+{"name":"CA ST","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_stingray.m3u"},
 {"name":"全面","url":"https://ghp.ci/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u"},
 {"name":"全面2","url":"https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/CR.txt"},
 {
