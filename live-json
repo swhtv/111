@@ -10,12 +10,7 @@
 {"name":"SW-HK","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
 {"name":"SW-HK2","url":"https://freetv.fun/test_channels_hong_kong_original_new.txt"},
 {"name":"SW-HK3","url":"https://freetv.fun/test_channels_hong_kong_new.txt"},
-{"name":"SW-iP2","url":"https://iptv.b2og.com/txt/all.txt"},
-{"name":"SW-US1","url":"https://freetv.fun/test_channels_united_states_new.txt"},
-{"name":"SW-US2","url":"https://freetv.fun/test_channels_united_states_original_new.txt"},
-{"name":"華哥IPTV country","url":"https://iptv-org.github.io/iptv/index.country.m3u"},
-{"name":"華哥IPTV Language ","url":"https://iptv-org.github.io/iptv/index.language.m3u"},
-{"name":"華哥IPTV category","url":"https://iptv-org.github.io/iptv/index.category.m3u"},
+
 {"name":"范明明IPV6","url":"https://ghp.ci/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"},
 {"name":"Guovin直播","url":"https://ghp.ci/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u"},
 {"name":"wwb521直播","url":"https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"},
@@ -28,6 +23,13 @@
 {"name":"CA P","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_samsung.m3u"},
 {"name":"CA S","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_pluto.m3u"},
 {"name":"CA ST","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_stingray.m3u"},
+{"name":"SW-iP2","url":"https://iptv.b2og.com/txt/all.txt"},
+{"name":"SW-US1","url":"https://freetv.fun/test_channels_united_states_new.txt"},
+{"name":"SW-US2","url":"https://freetv.fun/test_channels_united_states_original_new.txt"},
+{"name":"華哥IPTV country","url":"https://iptv-org.github.io/iptv/index.country.m3u"},
+{"name":"華哥IPTV Language ","url":"https://iptv-org.github.io/iptv/index.language.m3u"},
+{"name":"華哥IPTV category","url":"https://iptv-org.github.io/iptv/index.category.m3u"},
+
 {"name":"全面","url":"https://ghp.ci/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u"},
 {"name":"全面2","url":"https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/CR.txt"},
 {
