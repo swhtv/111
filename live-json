@@ -24,6 +24,8 @@
 {"name":"ibert-v6直播","url":"https://m3u.ibert.me/txt/fmml_dv6.txt"},
 {"name":"ibert-iptv直播","url":"https://m3u.ibert.me/txt/j_iptv.txt"},
 {"name":"ibert-cn直播","url":"https://m3u.ibert.me/txt/o_cn.txt"},
+{"name":"DIYP","url":"https://s.netimed.cn/diyp"},
+
 {"name":"全面","url":"https://ghp.ci/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u"},
 {"name":"全面2","url":"https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/CR.txt"},
 {
