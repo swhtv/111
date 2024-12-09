@@ -6,6 +6,7 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},	
+{"name":"SW-流畅IPV4","url":"https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt"},
 {"name":"SW華哥猫TV","url":"http://rihou.cc:567/gggg.nzk"},
 {"name":"SW-HK","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
 {"name":"SW-HK2","url":"https://freetv.fun/test_channels_hong_kong_original_new.txt"},
@@ -38,25 +39,10 @@
 			"url": "https://live.zbds.top/tv/iptv4.txt",
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
+		}
 				
-		{
-			"name": "myernestlu",
-			"type": 0,
-			"url": "https://myernestlu.github.io/zby.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},
-		
-		{
-			"name": "wwb521",
-			"type": 0,
-			"url": "https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/ipv4.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},	
-		
-{"name":"流畅IPV4","url":"https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt"}
+			
+
 
 	
 ]
