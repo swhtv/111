@@ -162,28 +162,7 @@
 {"key": "csp_xpath_A33","name":"🎸TV音乐","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 
 
-{
-    "key": "sw影院",
-    "name": "🏅03",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "ext": "https://raw.githubusercontent.com/swhtv/1/main/SW03%E5%BD%B1%E9%99%A2"
-},
-{
-    "key": "csp_Bili短剧",
-    "name": "🅱️短剧哔哩",
-    "type": 3,
-    "api": "csp_Bili",
-    "style": {
-    "type": "rect",
-    "ratio": 1.597
-      },
-    "searchable": 1,
-    "quickSearch": 0,
-    "changeable": 0,
-    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/Bili短剧.json",
-    "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
-},
+
 {
     "key": "MV",
     "name": "🅱️歌曲哔哩",
@@ -200,32 +179,6 @@
     "cookie": "http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt"
 },	
 
-
- {"key": "nangua","name": "sw-南瓜2","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
-      
-    {
-            "key": "圣城影视",
-            "name": "sw-圣城",
-              "jar": "http://47.99.102.252/jar/xc.jar",
-            "type": 3,
-            "api": "csp_SC1080",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-   
-	
-		
-       {
-            "key": "素白白",
-            "name": "sw-素白",
-             "jar": "http://47.99.102.252/jar/xc.jar",
-            "type": 3,
-            "api": "csp_Subaibai",
-            "searchable": 1,
-            "changeable": 1
-        },
-  
 {
 			"key": "卧龙资源",
 			"name": "卧龙",
@@ -284,8 +237,6 @@
 		},
 	    
 
-
-{"key":"drpy_爱壹帆","name":"SWTV華-爱壹 帆","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E7%88%B1%E5%A3%B9%E5%B8%862.js"},
 {"key":"drpy_js_豆瓣","name":"豆瓣 華 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
  {"key":"drpy_js_荐片","name":"華哥-视聼[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/荐片.js"},
 
