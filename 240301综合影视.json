@@ -119,8 +119,6 @@
 		},  
 {"key": "360","name": "SW飞龙","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
 "国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
-
-{"key":"金曼","name":"SWTV華 金曼","type":3,"api":"http://ftp6587948.host121.Sanfengyun.cn/bd/gtly/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/jm"},
 {"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"},
 {"key": "VIP影视","name": "VIP影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://11256.kstore.space/lib/VIPyingshi.json"},
 {"key": "MV大全","name": "MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},        
@@ -135,29 +133,7 @@
 			"ext":"https://v.aikanbot.com"
 		},
 	
-{
-"key": "Bilfun",
-      "name": "sw-七之社区",
-      "type": 1,
-      "api": "https://cdk.centos.chat/api.php/provide/vod",
-      //"playUrl": "https://jx.centos.chat/?url=",
-      //"playUrl": "https://static-proxy.07voda.fun/api/jiexi/07vods-01.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-            "柒之社(蓝光专区)",
-            "电影",
-            "电视剧",
-            "综艺",
-            "动漫",
-            "体育赛事",
-            "纪录片",
-            "电影解说",
-            "短剧",
-            "预告片",
-      ]
-},
+
  {"key":"圆涂影视","name":"sw圆涂","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
 {"key": "csp_xpath_A33","name":"🎸TV音乐","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 
