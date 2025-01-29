@@ -141,6 +141,20 @@
  {"key":"圆涂影视","name":"sw圆涂","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
 {"key": "csp_xpath_A33","name":"🎸TV音乐","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 
+{
+		"key": "ruyizy",
+		"name": "如意┃资源",
+		"type": 0,
+		"searchable": 1,
+		"filterClass": "电影片,连续剧,综艺片,动漫片,伦理片,预告片",
+		"firstClass": "国产剧,香港剧,韩国剧,欧美剧,日本剧,台湾剧,国产动漫,日韩动漫,大陆综艺,港台综艺,日韩综艺,欧美综艺",
+		"filterPlay": "",
+		"firstPlay": "",
+		"ext": "https://cj.rycjapi.com/api.php/provide/vod/from/rym3u8/at/xml/",
+		"flagable": 0,
+		"filterPlayFileKeywords": "",
+		"keepPlayFileKeywords": ""
+	},
 
 
 {
