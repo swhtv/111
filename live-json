@@ -6,6 +6,8 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},	
+
+{"name":"kimwang直播","url":"https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
 {"name":"SW-流畅IPV4","url":"https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt"},
 {"name":"SW華哥猫TV","url":"http://rihou.cc:567/gggg.nzk"},
 {"name":"SW-HK","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
@@ -16,7 +18,7 @@
 {"name":"Guovin直播","url":"https://ghp.ci/https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u"},
 {"name":"wwb521直播","url":"https://ghp.ci/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"},
 {"name":"joevess直播","url":"https://ghp.ci/https://raw.githubusercontent.com/joevess/IPTV/main/sources/iptv_sources.m3u8"},
-{"name":"kimwang直播","url":"https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
+
 {"name":"ibert-v6直播","url":"https://m3u.ibert.me/txt/fmml_dv6.txt"},
 {"name":"ibert-iptv直播","url":"https://m3u.ibert.me/txt/j_iptv.txt"},
 {"name":"ibert-cn直播","url":"https://m3u.ibert.me/txt/o_cn.txt"},
@@ -30,8 +32,6 @@
 {"name":"華哥IPTV country","url":"https://iptv-org.github.io/iptv/index.country.m3u"},
 {"name":"華哥IPTV Language ","url":"https://iptv-org.github.io/iptv/index.language.m3u"},
 {"name":"華哥IPTV category","url":"https://iptv-org.github.io/iptv/index.category.m3u"},
-
-{"name":"全面","url":"https://ghp.ci/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/Collect.m3u"},
 {"name":"全面2","url":"https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/CR.txt"},
 {
 			"name": "zbds",
