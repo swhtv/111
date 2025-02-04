@@ -154,8 +154,23 @@
 		},       
 
 {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
+{ "key": "文采", "name": "sw-wencao", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
-{ "key": "文采", "name": "sw文采", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
+
+{"key": "sgabys","name": "華哥-WENCAOUB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+
+{"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","泰国剧","欧美动漫","日本动漫","国产动漫","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
+
+{"key": "sgabys","name": "華哥-UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+
+
+{
+  "key": "apizuidapi",
+  "name": "sw最大",
+  "type": 3,
+  "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
+  "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
+  },
 
 
 {
@@ -195,76 +210,13 @@
         },
 
 
-{"key":"暴风资源","name": "SW暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":23},
-
-{
-  "key": "apizuidapi",
-  "name": "sw最大",
-  "type": 3,
-  "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
-  "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
-  },
-
-{"key": "sgabys","name": "華哥-星际UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
-
 
 {"key": "MV大全","name": "SW華MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},        
  {"key":"圆涂影视","name":"sw圆涂","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
 {"key": "csp_xpath_A33","name":"🎸TV音乐","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 
 {"key":"我的哔哩","name":"B站 華哥[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"},
-
-
-
-
-{    "key": "t4直播转点播",
-      "name": "swT4丨教育",
-      "type": 4,
-      "api": "http://120.53.102.254/dsp16",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-	{
-			"key": "csp_Ikanbot",
-			"name": "sw-机器",
-			"type": 3,
-			"api": "csp_Ikanbot",
-			"changeable": 1,
-			"playerType": 2,
-			"jar":"https://ghproxy.cn/https://raw.githubusercontent.com/PizazzGY/TVBox/main/spider.jar",
-			"ext":"https://v.aikanbot.com"
-		},
-	
-
-{
-"key": "Bilfun",
-      "name": "sw-七之社区",
-      "type": 1,
-      "api": "https://cdk.centos.chat/api.php/provide/vod",
-      //"playUrl": "https://jx.centos.chat/?url=",
-      //"playUrl": "https://static-proxy.07voda.fun/api/jiexi/07vods-01.php?url=",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "categories": [
-            "柒之社(蓝光专区)",
-            "电影",
-            "电视剧",
-            "综艺",
-            "动漫",
-            "体育赛事",
-            "纪录片",
-            "电影解说",
-            "短剧",
-            "预告片",
-      ]
-},
-
-
-
- {"key": "nangua","name": "sw-南瓜","type": 3,"playerType": "2","api": "http://47.99.102.252/drpy_libs/drpy2.min.js","ext": "https://gitee.com/arthroscopic-eye/jgy/raw/master/lib/南瓜.js"},
-      
+  
 {
       "key": "苹  果a",
       "name": "🍎苹果┃不卡",
