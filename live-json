@@ -6,10 +6,10 @@
 			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 			"logo": "https://epg.112114.xyz/logo/{name}.png"
 		},	
-
-{"name":"kimwang直播","url":"https://ghp.ci/https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt"},
-{"name":"SW-流畅IPV4","url":"https://ipv4wp.axzzz.top:9503/f/Xmlpf4/wbgzby.txt"},
 {"name":"SW華哥猫TV","url":"http://rihou.cc:567/gggg.nzk"},
+{"name":"kimwang直播","url":"https://gitee.com/zhang-station1/genius-film-and-television/raw/master/3658"},
+{"name":"SW-流畅IPV4","url":"http://124.71.189.194/zb.txt"},
+
 {"name":"SW-HK","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
 {"name":"SW-HK2","url":"https://freetv.fun/test_channels_hong_kong_original_new.txt"},
 {"name":"SW-HK3","url":"https://freetv.fun/test_channels_hong_kong_new.txt"},
