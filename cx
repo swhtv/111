@@ -171,7 +171,15 @@
   "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
   "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
   },
-
+{"key":"T4-6v","name":"磁力-6V(T4)","type":4,"api":"https://catbox.n13.club/t9/6v.php"},
+{"key":"T4-Bliych","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych"},
+{"key":"T4-mybili","name":"B站-mybili(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=我的哔哩"},
+{"key":"T4-bili","name":"B站-哔哩(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php"},
+{"key":"T4-合集","name":"B站-合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=合集"},
+{"key":"T4-美食","name":"B站-美食(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=美食"},
+{"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
+{"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
+{"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球星合集"},
 
 {
             "key": "快车资源",
