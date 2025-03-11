@@ -5,6 +5,7 @@
 //"spider":"https://github.com/swhtv/1/blob/main/Xspider.jar",
 //"spider": "http://64.112.42.49:1688/https://raw.githubusercontent.com/yuyu10245/yuyu/refs/heads/master/jar/spider.jar",
 "spider":"https://github.com/swhtv/1/raw/main/A4.jar",
+//"spider": "https://github.com/xyq254245/xyqonlinerule/raw/refs/heads/main/custom_spider.jar;md5;8bb2ca1440d7f7105cb8c94710fc25a0",
 //"spider":"https://github.com/swhtv/1/raw/refs/heads/main/YSC.jar",
 //"spider":"https://11256.kstore.space/qxyc.jar",
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
@@ -180,7 +181,12 @@
 {"key":"T4-中医","name":"sw華哥B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
 {"key":"T4-球类合集","name":"sw華哥B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
 {"key":"T4-球星合集","name":"sw華哥B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球星合集"},
-
+{"key":"csp_LocalFile","name":"💻本地视频","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":0},
+{"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/drpy.js","ext":"./dr_py/js/drpy.js"},
+{"key":"drpy_js_奇珍异兽","name":"奇珍异兽[js]","type":3,"api":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/drpy.js"},
+{"key":"drpy_js_优酷","name":"优酷[js]","type":3,"api":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/drpy.js","ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/%E4%BC%98%E9%85%B7.js"},
+{"key":"drpy_js_腾云驾雾","name":"腾云驾雾[js]","type":3,"api":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/drpy.js","ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/%E8%85%BE%E4%BA%91%E9%A9%BE%E9%9B%BE.js"},
+{"key":"drpy_js_百忙无果","name":"百忙无果[js]","type":3,"api":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/drpy.js","ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"},
 
 {"key": "MV大全","name": "SW華MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},        
  {"key":"圆涂影视","name":"sw圆涂","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
