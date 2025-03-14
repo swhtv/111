@@ -320,6 +320,15 @@
 {"key":"drpy_js_哔哩","name":"哔哩[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/1/main/%E5%93%94%E5%93%A9%E5%BD%B1%E8%A7%86.js"},
 {"key":"drpy_js_哔哩影视","name":"影视 | 哔哩影视[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/哔哩影视.js"},
 {"key":"drpy_js_楚门影院","name":"楚门影院[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/楚门影院.js"},
+{"key":"T4-6v","name":"磁力-6V(T4)","type":4,"api":"https://catbox.n13.club/t9/6v.php"},
+{"key":"T4-Bliych","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych"},
+{"key":"T4-mybili","name":"B站-mybili(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=我的哔哩"},
+{"key":"T4-bili","name":"B站-哔哩(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php"},
+{"key":"T4-合集","name":"B站-合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=合集"},
+{"key":"T4-美食","name":"B站-美食(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=美食"},
+{"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
+{"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
+{"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球星合集"},
 
   
       
