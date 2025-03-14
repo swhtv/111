@@ -229,7 +229,7 @@
 {"key": "csp_xpath_A33","name":"🎸TV音乐","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 
 {"key": "華ub星际","name": "華哥星际","type": 4,"api": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/ubxjvod","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
-
+{"key": "sgabys","name": "華哥-UB","type": 4,"api": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/ubxjvod","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
 {"key": "sgabys","name": "華哥-UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 
 {
