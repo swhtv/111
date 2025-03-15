@@ -31,14 +31,7 @@
 {"name":"華哥IPTV country","url":"https://iptv-org.github.io/iptv/index.country.m3u"},
 {"name":"華哥IPTV Language ","url":"https://iptv-org.github.io/iptv/index.language.m3u"},
 {"name":"華哥IPTV category","url":"https://iptv-org.github.io/iptv/index.category.m3u"},
-{"name":"全面2","url":"https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/refs/heads/main/CR.txt"},
-
-			{
-				"name": "YTLive",
-				"type": 0,
-				
-				"url": "./lib/yo21.txt"
-			},
+{"name":"全面2","url":"https://iptv345.com/?tid=gt"},
 
 {
 			"name": "zbds",
