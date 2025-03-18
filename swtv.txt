@@ -42,11 +42,12 @@ DW English ,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/in
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 Disney channel,https://fl5.moveonjoy.com/DISNEY_CHANNEL/index.m3u8
 Disney XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
+DISNEY JR,http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 sky news,https://stream.skynewsarabia.com/hls/sna_720.m3u8
-sky news,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+sky news 2,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 AJE news English,http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 CNN,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
@@ -55,7 +56,7 @@ CNN UHD,http://supersonictv.live:8080/roelle0923/roelle0923/21764
 CNN INTERNATIONAL,http://supersonictv.live:8080/roelle0923/roelle0923/21765
 CNN internationl,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-FOX NEWS HD,http://103.211.103.30:8880/live/D12m0667/85426398/28929.ts
+
 FOX News channel,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX News now ,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
@@ -71,6 +72,7 @@ History,https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36
 
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 鳳凰資訊,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
 
@@ -176,10 +178,13 @@ SW-TV港台,#genre#
 
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB NEWS,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-無线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-無线新闻台,http://vallest.uk/livehttpplay?channel_id=20123
-無线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+TVB NEWS,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 
+
+無线新闻台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
+
+無线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠 台,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
 翡翠 台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
@@ -189,15 +194,15 @@ TVB NEWS,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
+
 
 TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-TVB PLUS,http://r.jdshipin.com/qrfbg
+
+TVB PLUS,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,https://stream1.freetv.fun/4145554a7618635706dd249726b0e1141eba94401babdf76deadeb9cf884e407.m3u8
-HOY TV,https://stream1.freetv.fun/hoy-tv-3.m3u8
-HOY 77,http://cdn.132.us.kg/live/hoy/stream.m3u8
 HOY 77,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
+
+
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 鳳凰資訊,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
@@ -217,13 +222,6 @@ TVB星河,http://14.112.86.85:4022/udp/239.77.0.225:5146
 翡翠華麗,http://cdn9.1689.us.kg/smt1.1.php?id=Tvbjade
 翡翠華麗,http://58.254.14.91:808/hls/55/index.m3u8
 翡翠華麗,http://libof.kesx.top/live/5658kwkojtz.m3u8
-TVB粤语片台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-TVB戏剧台,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
-明珠台剧集,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-peal dramas,http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-廣東珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-廣東体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
-
 
 ATV WORLD,https://stream1.freetv.fun/08f572e03fb04a0e394febb2e2d08082cedc4ecba339019008f471731e6a8f88.m3u8
 ATV WORLD,https://stream1.freetv.fun/de78a5bddc78a16751b32abeef85fd892da97babeef58e21739986cfc5df0371.m3u8
@@ -406,8 +404,8 @@ SPORT TV 5,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2529/index.m3u
 ARENA SPORT 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7265/index.m3u
 ARENA SPORT,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2550/index.m3u
 
-
-
+UFC TV,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+NOW HKP1,https://7pal.short.gy/nowhkp1
  
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 Sports Connect,https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
@@ -439,6 +437,10 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 博斯無限,https://litv.zapi.us.kg/?id=litv-longturn10
 KTV SPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
 
+J SPORT,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J SPORT,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+J SPORT,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+super sport,https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 sport TV 1,https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 trace sport,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 TYC SPORT,http://38.41.8.1:8000/play/a02i
