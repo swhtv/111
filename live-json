@@ -1,11 +1,6 @@
 [
-{
-			"name": "sw-ak港台",
-			"type": 0,
-			"url": "https://aktv.top/live.txt",
-			"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-			"logo": "https://epg.112114.xyz/logo/{name}.png"
-		},	
+
+{"name":"sw-ak港台","url":"http://aktv.space/live.m3u"},
 {"name":"SW華哥猫TV","url":"http://rihou.cc:567/gggg.nzk"},
 {"name":"kimwang直播","url":"https://gitee.com/zhang-station1/genius-film-and-television/raw/master/3658"},
 {"name":"SW-流畅IPV4","url":"http://124.71.189.194/zb.txt"},
