@@ -10,6 +10,9 @@
 {"name":"SW-HK","url":"https://freetv.fun/test_channels_hong_kong_new.m3u"},
 {"name":"SW-HK2","url":"https://freetv.fun/test_channels_hong_kong_original_new.txt"},
 {"name":"SW-HK3","url":"https://freetv.fun/test_channels_hong_kong_new.txt"},
+{"name":"SW-TW1","url":"https://freetv.fun/test_channels_taiwan.txt"},
+{"name":"SW-TW2","url":"https://freetv.fun/test_channels_taiwan_original_new.txt"},
+{"name":"SW-malaysia","url":"https://freetv.fun/test_channels_malaysia_original_new.txt"},
 
 {"name":"范明明IPV6","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"},
 {"name":"FUNCTVTEST","url":"https://freetv.fun/test_channels_united_states.txt"},
