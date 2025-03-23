@@ -27,14 +27,6 @@
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","泰国剧","欧美动漫","日本动漫","国产动漫","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
 
-{
-  "key": "apizuidapi",
-  "name": "sw最大",
-  "type": 3,
-  "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
-  "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
-  },
-
 
 {"key":"暴风资源","name": "sw暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":23},
 
@@ -133,7 +125,7 @@
 
 {
       "key": "zxzj",
-      "name": "SW在线┃秒播",
+      "name": "SW在线",
       "type": 3,
       "api": "csp_Zxzj",
       "timeout": 15,
@@ -145,7 +137,7 @@
     },
 {
       "key": "csp_Bttoo",
-      "name": "SW比特┃秒播",
+      "name": "SW比特",
       "type": 3,
       "api": "csp_Bttwoo",
       "searchable": 1,
@@ -189,7 +181,7 @@
     },
 {
       "key": "萌米",
-      "name": SW萌米",
+      "name": SW萌米,
       "type": 3,
       "api": "csp_AppTT",
       "playerType": 2,
@@ -201,12 +193,6 @@
     },
   
  {"key":"圆涂影视","name":"sw圆涂","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
-{"key": "csp_xpath_A33","name":"🎸TV音乐","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
-
-{"key": "xjub","name": "華哥-xjUB","type": 4,"api": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/ubxjvod","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
-
-
-
 
 {
 			"key": "卧龙资源",
@@ -260,7 +246,7 @@
 			"name": "索尼┃3K 资源",
 			"type": 1,
 			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"categories": ["动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "诺克", "解说"],
+			"categories": ["国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "诺克", "解说"],
 			"searchable": 1,
 			"quickSearch": 1
 		},
