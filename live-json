@@ -12,8 +12,9 @@
 {"name":"SW-HK3","url":"https://freetv.fun/test_channels_hong_kong_new.txt"},
 
 {"name":"范明明IPV6","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"},
-{"name":"Guovin直播","url":"https://7337.kstore.space/twkj/tvzb.txt"},
-
+{"name":"FUNCTVTEST","url":"https://freetv.fun/test_channels_united_states.txt"},
+{"name":"FUNCTVTEST2","url":"https://freetv.fun/test_channels_united_states_new.txt"},
+{"name":"FUNCTVTEST3","url":"https://freetv.fun/test_channels_united_kingdom_new.txt"},
 {"name":"DIY直播","url":"https://s.netimed.cn/diyp"},
 {"name":"CA","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca.m3u"},
 {"name":"CA P","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_samsung.m3u"},
