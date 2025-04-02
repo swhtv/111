@@ -29,8 +29,8 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
  {
-            "key": "華哥",
-            "name": "SW華暴风",
+            "key": "華 哥",
+            "name": "SW華 暴风",
             "type": 1,
             "api": "https://api.wujinapi.me/api.php/provide/vod/",
             "searchable": 1,
