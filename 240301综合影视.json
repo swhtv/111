@@ -35,13 +35,17 @@
     "sites": [
 
  {"key":"wencao","name":"sw-wencao","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar"},    
-
+{
+      "key": "SW華-苹果",
+      "name": "SW華wencao",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+        "jar": "https://github.com/swhtv/1/blob/main/APPLE.txt",
+      "quickSearch": 1,
+      "changeable": 1
+    },
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
-
-
-	
-{"key": "sgabys","name": "華哥-UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
-
 
 
 
@@ -187,9 +191,6 @@
  {"key": "csp_XYQHiker_电影盒子","name":"sw电影盒子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E7%94%B5%E5%BD%B1%E7%9B%92%E5%AD%90.json"},
 {"key":"csp_Bilix","name":"sw哔哩综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/Bili.json"},
  {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
-
-
-
 	    
 {
       "key": "SW華苹果",
