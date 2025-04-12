@@ -166,19 +166,19 @@
 		},       
 
 {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
-{ "key": "文采", "name": "sw-wencao", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
+//{ "key": "文采", "name": "sw-wencao", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 
 {"key": "sgabys","name": "華哥-WENCAOUB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 
 //{"key": "華  哥","name": "SW華  暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","泰国剧","欧美动漫","日本动漫","国产动漫","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
-{"key": "sgabys","name": "華哥-UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
-{"key":"油条","name":"油条┃App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},
-{"key":"雨滴","name":"雨滴┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"},
-{"key":"优质","name":"优质┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9keXl6dHZhcHBhcGlnb29kZ3guNjguZ3k6MTI2ODkvY2l3azI4dnUzOGlvOC9hcGl1cmwudHh0fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="},
-{"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"},
-{"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"daHR0cDovL3YubGt1eXMuY24="},	 
+//{"key": "sgabys","name": "華哥-UB","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
+//{"key":"油条","name":"油条┃App","type":3,"api":"csp_Muou","playerType":2,"ext":"caHR0cDovL2FwcC53dWlxLmNufOS8mOS8mOWFlHw0LjEuOA=="},
+//{"key":"雨滴","name":"雨滴┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"},
+//{"key":"优质","name":"优质┃App","type":3,"api":"csp_Xdai","playerType":1,"ext":"jaHR0cHM6Ly9keXl6dHZhcHBhcGlnb29kZ3guNjguZ3k6MTI2ODkvY2l3azI4dnUzOGlvOC9hcGl1cmwudHh0fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkc3wxMDA="},
+//{"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"eaHR0cHM6Ly9ubXZvZC5jbjozMTY2L3dlYmNsb3VkL3JlbGF5LnBocD91cmw9"},
+//{"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":1,"ext":"daHR0cDovL3YubGt1eXMuY24="},	 
 {"key":"夜貓_drpy_xb","name":"小宝影视","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
 {"key":"T4-douban","name":"影视-豆瓣(T4)","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
 { "key": "HG影视", "name": "HG影视｜APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, 		"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar", "ext": "https://cs.hgyx.vip/api2/api.php/app/" },
@@ -251,7 +251,7 @@
         },
 {"key": "csp_XYQHiker_瓜子影院","name":"sw瓜子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.json"},
 {"key": "csp_XYQHiker_骚火电影VIP","name": "sw骚火","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"},
- {"key": "csp_XYQHiker_电影盒子","name":"sw电影盒子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E7%94%B5%E5%BD%B1%E7%9B%92%E5%AD%90.json"},
+//{"key": "csp_XYQHiker_电影盒子","name":"sw电影盒子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E7%94%B5%E5%BD%B1%E7%9B%92%E5%AD%90.json"},
 {"key":"csp_Bilix","name":"sw哔哩综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/Bili.json"},
  {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
 
@@ -279,7 +279,7 @@
  {"key":"圆涂影视","name":"sw圆涂","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
 {"key": "csp_xpath_A33","name":"🎸TV音乐","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "http://home.jundie.top:81/TVBox/MaooXB/mtv.json"},
 
-{"key":"我的哔哩","name":"B站 華哥[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"},
+//{"key":"我的哔哩","name":"B站 華哥[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"},
 
   
        
