@@ -33,7 +33,7 @@
   ],
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
- {"key":"圆涂","name":"sw-wencao","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://m51.gotto.top/api.php/v1.vod"},
+ {"key":"木耳","name":"SW-MUER","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
 {
       "key": "SW華-苹果",
       "name": "sw-apple",
@@ -169,7 +169,7 @@
                 "伦理片"
             ]
         },
-{"key":"木耳","name":"SW木耳","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
+
 {"key": "百度","name": "SW-百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0},
  {
             "key": "快看",
