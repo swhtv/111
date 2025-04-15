@@ -44,6 +44,9 @@
       "quickSearch": 1,
       "changeable": 1
     },
+
+{ "key": "雨见视频", "name": "雨见┃蓝光", "type": 3, "api": "csp_XBPQ", "jar":"assets://bhdc/宝盒/spider.jar", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": { "影片类型": "类型：&&</li>", "简介": "🌈宝盒提醒您:请勿相信影片中的广告，以免上当受骗。+简介：&&</div>", "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html", "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27" } },
+
 {
 			"key": "kimi",
 			"name": "華哥Kimi",
