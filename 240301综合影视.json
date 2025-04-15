@@ -58,28 +58,7 @@
 			"ext":"https://cdn09022024.gitlink.org.cn/api/v1/repos/guot55/yg/raw/lib%2FKimivod.json?ref=main"},
 	    
 { "key": "面包影视", "name": "面包┃影视", "type": 3, "api": "csp_XBPQ", "ext": "assets://bhdc/宝盒/XBPQ/面包影视.json" },
-    {
-      "key": "獨播",
-      "name": "❤獨播",
-      "type": 3,
-      "api": "csp_XPathMacFilter",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://dpaste.com/296S4NSUE.txt",
-      "jar": "https://ghproxy.com/https://raw.githubusercontent.com/lllyin/assets/master/fm.png;md5;945ad30d5255359385ba59b8fb061bb7"
-    },
-
-    {
-       "key": "csp_apple",
-       "name": "🍎苹果┃App",
-       "type": 3,
-       "api": "csp_LiteApple",
-       "playerType": 0,
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 1,
-       "jar": "https://qu.ax/JZbz.jpg"
-    },
+    {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
