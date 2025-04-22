@@ -35,11 +35,11 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
-{"key": "大师兄","name":"SW華大APPLE","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/js/大师兄影视.js"},
+
 
 {
       "key": "7点影视",
-      "name": "柒点┃蓝光",
+      "name": "SW-華 APPLE 華哥提示大家請不要相信視頻中出現的廣告",
       "type": 3,
       "changeable": 1,
       "searchable": 1,
@@ -69,6 +69,7 @@
       }
     },
 
+{"key": "大师兄","name":"華哥大師兄","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/js/大师兄影视.js"},
 {"key":"csp_LiteApple","name":"SW APPLE","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {
