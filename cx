@@ -32,7 +32,7 @@
     "sites": [
 
 
-{"key": "大师兄","name":"SW華-暴風 華哥提示不要相信視頻中的广告.如访问不到电影剧集，可去 主页 换不同的资源","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/js/大师兄影视.js"},
+{"key": "大师兄","name":"SW華-暴風 華哥提示如访问不到电影剧集可去 主页 换不同的资源","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/js/大师兄影视.js"},
 {"key":"csp_LiteApple","name":"SW APPLE","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {
