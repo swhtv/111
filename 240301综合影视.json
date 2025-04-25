@@ -68,8 +68,8 @@
         "线路标题": ">&&</em>"
       }
     },
-
-{"key": "大师兄","name":"華哥大師兄","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/js/大师兄影视.js"},
+{"key": "dr_网飞TV2","name":"SW華网飞","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E7%BD%91%E9%A3%9ETV.js"},
+{"key": "大师兄","name":"SW華-大师兄","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"},
 {"key":"csp_LiteApple","name":"SW APPLE","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {
@@ -99,8 +99,6 @@
       "quickSearch": 1,
       "changeable": 1
     },
-{"key": "dr_网飞TV","name":"SW華网飞","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://nctv.top/tv/js/网飞TV.js"},
-{"key": "dr_大师兄","name":"SW華大师兄","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"http://nctv.top/tv/js/大师兄影视.js"},
 
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
