@@ -47,6 +47,8 @@
     },
 {"key": "dr_网飞TV","name":"SW華网飞","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "http://nctv.top/tv/js/网飞TV.js"},
 
+{"key": "dr_网飞TV2","name":"SW華网飞2","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E7%BD%91%E9%A3%9ETV.js"},
+{"key": "大师兄2","name":"SW華-暴風2 ","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"},
 
 { "key": "永乐影视", "name": "永乐┃影视", "type": 3, "api": "csp_XBPQ", "ext": "assets://bhdc/宝盒/XBPQ/永乐影视.json" },
 
