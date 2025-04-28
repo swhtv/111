@@ -84,7 +84,7 @@
       "changeable": 0,
       "ext": "assets://bhdc/宝盒/js/ttt.js"
     },
-	{
+		{
      	 "key": "lf_js_search",
          "name": "搜索|lf_search",
          "type": 3,
@@ -101,14 +101,14 @@
             "name": "酷亚影视",
             "type": 3,
             "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/Js/%E9%85%B7%E4%BA%9A%E5%BD%B1%E8%A7%86.js"
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E9%85%B7%E4%BA%9A%E5%BD%B1%E8%A7%86.js"
         },
 	{
             "key": "唐人街影院",
             "name": "唐人街影院",
             "type": 3,
             "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/Js/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E8%A7%86.js"
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E9%99%A2.js"
         },
        
         {
@@ -116,8 +116,51 @@
             "name": "欧乐影院",
             "type": 3,
             "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/Js/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
         },
+        {
+            "key": "专享影视",
+            "name": "专享影视",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E4%B8%93%E4%BA%AB%E5%BD%B1%E8%A7%86.js"
+        },
+
+	{
+            "key": "海兔影院",
+            "name": "海兔影院",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%B5%B7%E5%85%94%E5%BD%B1%E9%99%A2.js"
+        },
+
+	{
+            "key": "火车太堵",
+            "name": "火车太堵",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E7%81%AB%E8%BD%A6%E5%A4%AA%E5%A0%B5.js"
+        },
+
+	{
+            "key": "西瓜在线",
+            "name": "西瓜在线",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E8%A5%BF%E7%93%9C%E5%9C%A8%E7%BA%BF.js"
+        },
+	{
+            "key": "小宝影院",
+            "name": "小宝影院",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2.js"
+        },
+	{ "key": "哈哈影视", "name": "哈哈 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/%E5%93%88%E5%93%88%E5%BD%B1%E8%A7%86.json" },
+	{ "key": "okzy", "name": "OK | 采集", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/ok%E8%B5%84%E6%BA%90.json" },
+	{ "key": "纽约影视", "name": "纽约 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://github.com/heroaku/TVboxo/blob/main/XBPQ/%E7%BA%BD%E7%BA%A6%E5%BD%B1%E8%A7%86.json" },
+	{ "key": "Euvod影视", "name": "Euvod | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/Euvod%E5%BD%B1%E8%A7%86.json" }, 
+	    
 
  {"key":"非凡","name":"華哥️非凡","type":1,"api":"http://cj.ffzyapi.com//api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
 
