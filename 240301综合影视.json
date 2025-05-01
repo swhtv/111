@@ -73,17 +73,15 @@
 {"key":"csp_LiteApple","name":"SW APPLE","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
 {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "腾腾┃4K",
-      "type": 3,
-      "api": "assets://bhdc/宝盒/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "assets://bhdc/宝盒/js/ttt.js"
-    },
+            "key": "糯米",
+            "name": "SW糯米",
+            "type": 3,
+            "api": "csp_NmyswvGuard",
+            "timeout": 10,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
 		{
      	 "key": "lf_js_search",
          "name": "搜索|lf_search",
