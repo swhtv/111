@@ -35,7 +35,9 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
-{"key": "dr_网飞TV2","name":"SW華WANFEI 華哥提示如访问不到影視資源可在這裏按OK鍵換不同站點","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E7%BD%91%E9%A3%9ETV.js"},
+{"key":"csp_LiteApple","name":"SW APPLE 華哥提示如访问不到影視資源可在這裏按OK鍵換不同站點","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
+{"key": "dr_网飞TV2","name":"SW華WANFEI ","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E7%BD%91%E9%A3%9ETV.js"},
 
 {
   "key": "apizuidapi",
@@ -77,7 +79,7 @@
     },
 
 {"key": "大师兄","name":"SW華-大师兄","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"},
-{"key":"csp_LiteApple","name":"SW APPLE","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+
 
 {
             "key": "糯米",
