@@ -1,34 +1,93 @@
-
-
-{ "url": https://raw.githubusercontent.com/swhtv/111/refs/heads/main/240301%E7%BB%BC%E5%90%88%E5%BD%B1%E8%A7%86.json", "name": "swtv" },
-
-{ "urls": [{ "url": "http://饭太硬.top/tv", "name": "饭太硬" },
-
-
-{ "url": "http://1288.nat123.cc/max11.json", "name": "SW128" },
-
-{ "url": "http://肥猫.love", "name": "肥猫" },
-
-{ "url": "https://pastebin.com/raw/5NHaxyGR", "name": "道长js" },
-
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json", "name": "高天流云js" },
-
-{ "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", "name": "高天流云XYQ" },
-
-{ "url": "https://yydsys.top/duo", "name": "多多" },
-
-{ "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json", "name": "南风" },
-
-{ "url": "http://rihou.cc:88/荷城茶秀", "name": "荷城茶秀" },
-
-{ "url": "https://download.kstore.space/download/3313/app/ymshaoer.txt", "name": "少儿频道" },
-
-{ "url": "https://www.yingm.cc/dm/dm.json", "name": "动漫频道" },
-
-{ "url": "https://tvbox.cainisi.cf", "name": "菜妮丝" },
-
-{ "url": "http://pandown.pro/tvbox/tvbox.json", "name": "巧儿" },
-
-{ "url": "https://download.kstore.space/download/2904/258.txt", "name": "微信公众号" },
-
-{ "url": "https://download.kstore.space/download/2904/369.txt", "name": "奇友汇" }]}
+//此多仓接口列表为公众号【多多影音】作者大聪明为粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+{
+    "urls": [
+        {
+            "url": "https://try.gogs.io/NB666/api/raw/main/config.bin",
+            "name": "🚀网盘线路"
+        }, 	
+{
+            "url": "http://1288.nat123.cc/max11.json",
+            "name": "SW线路"
+        }, 				
+        {
+            "url": "https://cnb.cool/fish2018/pg/-/git/raw/master/jsm.json",
+            "name": "🚀PG线路"
+        }, 				
+        {
+            "url": "http://www.饭太硬.com/tv",
+            "name": "🚀饭太硬线路"
+        },          	
+        {
+            "url": "https://cnb.cool/fish2018/zx/-/git/raw/master/FongMi.json",
+            "name": "🚀真心线路"
+        }, 
+       {
+            "url": "http://ok321.top/tv",
+            "name": "🚀OK线路"
+        },		
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json",
+            "name": "🚀香雅情线路"
+        },	   
+        {
+            "url": "http://tvbox.王二小放牛娃.top",
+            "name": "🚀王二小线路"
+        },		
+        {
+            "url": "http://tv.laohu.cool/tvbox.json",
+            "name": "🚀老虎线路"
+        }, 	 		
+        {
+            "url": "http://www.meowtv.vip/tvbox.json",
+            "name": "🚀喵影视线路"
+        },	
+        {
+            "url": "https://cnb.cool/fish2018/duanju/-/git/raw/main/tvbox.json",
+            "name": "🚀短剧线路"
+        }, 		
+        {
+            "url": "http://fmys.top/fmys.json",
+            "name": "🚀驸马线路"
+        },	
+        {
+            "url": "http://rihou.cc:555/nzk/nzk0722.json",
+            "name": "🚀D佬线路"
+        },  		
+        {
+            "url": "http://肥猫.com",
+            "name": "🚀肥猫线路"
+        }, 
+        {
+            "url": "http://我不是.摸鱼儿.com",
+            "name": "🚀摸鱼线路"
+        },		
+        {
+            "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json",
+            "name": "🚀南风线路"
+        }, 		 
+        {
+            "url": "http://mzjk.top/禁止贩卖",
+            "name": "🚀月光宝盒"
+        }, 
+        {
+            "url": "http://www.mpanso.com/小米/DEMO.json",
+            "name": "🚀小米线路"
+        }, 		 	
+        {
+            "url":"https://gitee.com/free-kingdom/dc/raw/main/T4.json",
+            "name": "🚀T4线路"
+        },	 		
+        {
+            "url": "https://毒盒.com/tv",
+            "name": "🚀毒盒线路"
+        },			
+        {
+            "url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "🚀高天流云"
+        },
+        {
+            "url":"https://gitee.com/yiwu369/6758/raw/master/1.json",
+            "name": "🚀青龙线路"
+        }		
+    ]
+}
