@@ -44,57 +44,59 @@
 {"key": "dr_网飞TV2","name":"SW華WANFEI ","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E7%BD%91%E9%A3%9ETV.js"},
 
 {
-  "key": "apizuidapi",
-  "name": "sw最大",
-  "type": 3,
-  "api": "https://git.acwing.com/YGFXZ/0/-/raw/main/caiji.js",
-  "ext": "https://api.zuidapi.com/api.php/provide/vod/at/json"
-  },
-{
-      "key": "7点影视",
-      "name": "SW-華7YS",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "api": "csp_XBPQ",
-      "ext": {
-        "数组": "<li&&</p>",
-        "链接": "href=\"&&\"",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "简介": "简介：&&</div>",
-        "副标题": "class=\"item-status text-overflow\">&&<",
-        "二次截取": "<ul class=\"row&&</ul",
-        "分类url": "https://www.7.movie/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$20#剧集$21#动漫$22#综艺$23#短剧$24",
-        "地区": "中国大陆&大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&其他||中国大陆&大陆&香港&韩国&美国&日本&法国&英国&德国&台湾&泰国&印度&其他||大陆&日本&欧美&其他||大陆&韩国&香港&台湾&美国&其它||空",
-        "剧情": "Netflix&剧情&科幻&动作&喜剧&爱情&冒险&儿童&歌舞&音乐&奇幻&动画&恐怖&惊悚&战争&传记&纪录&犯罪&悬疑&西部&灾难&古装&武侠&家庭&短片&校园&文艺&运动&青春&同性&励志&历史||Netflix&欧美&短剧&古装&武侠&励志&家庭&剧情&喜剧&战争&科幻&惊悚&恐怖&悬疑&犯罪&动作&冒险&历史&同性||Netflix&热血&科幻&美少女&魔幻&经典&励志&少儿&冒险&搞笑&推理&恋爱&治愈&幻想&校园&动物&机战&亲子&儿歌&运动&悬疑&怪物&战争&益智&青春&童话&竞技&动作&社会&友情&真人版&电影版&OVA版&TV版&新番动画&完结动画||Netflix&脱口秀&真人秀&选秀&八卦&访谈&情感&生活&晚会&搞笑&音乐&时尚&游戏&少儿&体育&纪实&科教&曲艺&歌舞&财经&汽车&播报&其他||古代&现代&穿越&玄幻&霸总&英雄救美&未婚妻&师姐&绝美&逆袭&美女&爱情&甜宠&虐恋&爽剧&搞笑&情感&动漫&萌宝",
-        "搜索数组": "<a&&</a>",
-        "搜索二次截取": "<ul class=\"ewave-page&&href\"&&\">",
-        "搜索": "https://www.7.movie/vodsearch/-------------.html?wd={wd}",
-        "搜索图片": "class=\"pic\">*data-original=\"&&\"",
-        "搜索链接": "class=\"btn-box\">\"&&\"</",
-        "播放数组": "ewave-playlist-sort-content\"&&</ul>",
-        "线路数组": "swiper-slide ewave-tab&&</li>",
-        "线路标题": ">&&</em>"
-      }
-    },
-
-{"key": "大师兄","name":"SW華-大师兄","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"},
-
-
-{
-            "key": "糯米",
-            "name": "SW糯米",
-            "type": 3,
-            "api": "csp_NmyswvGuard",
-            "timeout": 10,
+            "key": "csp_xml无尽资源",
+            "name": " SW-華-wujin",
+            "type": 1,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/",
             "searchable": 1,
             "quickSearch": 1,
-            "changeable": 1
+            "categories": [
+               "国产剧",
+                "香港剧",
+                "台湾剧",
+                "美国剧",
+                "纪录片",
+                "邵氏电影",           
+                "韩国剧",
+                "日本剧",
+                "海外剧",
+                  "年代穿越",
+                   "古装仙伕",
+                  "现代都市",
+                   "足球",
+                  "篮球",
+                 "演唱会",
+                 "预告片",
+                 "影市解说",
+                "动作片",
+                 "动画片",
+                "犯罪片",
+                "奇幻片",         
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧梅综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧美动漫",
+                "悬疑片",
+                "泰剧",
+                 "港台三级",
+                  "韩国伦理",
+                 "日本伦理",
+                  "西方伦理",
+                  "两性课堂 ",
+                "写真热舞"
+
+            ]
         },
+
 		{
      	 "key": "lf_js_search",
          "name": "搜索|lf_search",
@@ -129,52 +131,16 @@
             "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
             "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
         },
-        {
-            "key": "专享影视",
-            "name": "专享影视",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E4%B8%93%E4%BA%AB%E5%BD%B1%E8%A7%86.js"
-        },
-
-	{
-            "key": "海兔影院",
-            "name": "海兔影院",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%B5%B7%E5%85%94%E5%BD%B1%E9%99%A2.js"
-        },
-
-	{
-            "key": "火车太堵",
-            "name": "火车太堵",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E7%81%AB%E8%BD%A6%E5%A4%AA%E5%A0%B5.js"
-        },
-
-	{
-            "key": "西瓜在线",
-            "name": "西瓜在线",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E8%A5%BF%E7%93%9C%E5%9C%A8%E7%BA%BF.js"
-        },
-	{
-            "key": "小宝影院",
-            "name": "小宝影院",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%B0%8F%E5%AE%9D%E5%BD%B1%E9%99%A2.js"
-        },
+   
+	
+	
 	{ "key": "哈哈影视", "name": "哈哈 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/%E5%93%88%E5%93%88%E5%BD%B1%E8%A7%86.json" },
-	{ "key": "okzy", "name": "OK | 采集", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/ok%E8%B5%84%E6%BA%90.json" },
-	{ "key": "纽约影视", "name": "纽约 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://github.com/heroaku/TVboxo/blob/main/XBPQ/%E7%BA%BD%E7%BA%A6%E5%BD%B1%E8%A7%86.json" },
+	
+	
 	{ "key": "Euvod影视", "name": "Euvod | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/Euvod%E5%BD%B1%E8%A7%86.json" }, 
 	    
 
- {"key":"非凡","name":"華哥️非凡","type":1,"api":"http://cj.ffzyapi.com//api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","短剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-
+ 
  
 {
       "key": "SW華-苹果",
@@ -189,20 +155,13 @@
 
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
-{ "key": "西瓜视频", "name": "西瓜┃视频", "type": 3, "api": "csp_AmuXiguaV2", "searchable": 1, "quickSearch": 0, "filterable": 0, "changeable": 0, "style": { "type": "rect", "ratio": 1.597 } },
 
 { "key": "星芽短剧", "name": "上头┃短剧", "type": 3, "api": "csp_AppXY", "searchable": 1, "quickSearch": 0, "filterable": 0 },
 
-{ "key": "公众号", "name": "4K┃线路", "type": 3, "jar": "assets://bhdc/宝盒/YD.jar", "api": "csp_YDjisu", "searchable": 1, "changeable": 1 },
 
-{"key": "sgabys","name": "華哥-UB星際","type": 4,"api": "https://tang.hz.cz/power/ub18?token=48da13fc","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},  
- {"key": "dr_网飞TV2","name":"SW華网飞","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E7%BD%91%E9%A3%9ETV.js"},
-{"key": "大师兄","name":"SW華-大师兄","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"}, 
+ 
  {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
-{"key": "文 - 采","name": "文采","type": 3,"api": "csp_Jpys","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1 },
 
-{ "key": "文采", "name": "SW文采", "type": 3, "api": "csp_Jpys", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
-        { "key": "金牌影", "name": "金牌 | ", "type": 3, "api": "./JS/drpy2.min.js", "ext": "https://github.com/heroaku/TVboxo/blob/main/JS%2F%E9%87%91%E7%89%8C%E5%BD%B1%E8%A7%86.js" }, 
 
 {
             "key": "量子资源",
@@ -312,59 +271,7 @@
 
 {"key":"暴风资源","name": "sw暴风资源","api": "https://bfzyapi.com/api.php/provide/vod/","download":"","jiexiUrl":"","group": "影视","status": true,"isActive":true,"type": 1,"id":23},
 
-	    {
-            "key": "csp_xml无尽资源",
-            "name": " SW-華-wujin",
-            "type": 1,
-            "api": "https://api.wujinapi.me/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-               "国产剧",
-                "香港剧",
-                "台湾剧",
-                "美国剧",
-                "纪录片",
-                "邵氏电影",           
-                "韩国剧",
-                "日本剧",
-                "海外剧",
-                  "年代穿越",
-                   "古装仙伕",
-                  "现代都市",
-                   "足球",
-                  "篮球",
-                 "演唱会",
-                 "预告片",
-                 "影市解说",
-                "动作片",
-                 "动画片",
-                "犯罪片",
-                "奇幻片",         
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧梅综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "悬疑片",
-                "泰剧",
-                 "港台三级",
-                  "韩国伦理",
-                 "日本伦理",
-                  "西方伦理",
-                  "两性课堂 ",
-                "写真热舞"
-
-            ]
-        },
+	    
 {
 
 			"key": "索尼-资源",
@@ -383,7 +290,7 @@
 {"key": "360","name": "SW飞龙","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
 "国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
 
-{"key": "VIP影视","name": "VIP影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://11256.kstore.space/lib/VIPyingshi.json"},
+
 {"key": "MV大全","name": "MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},   
 {"key":"夜貓_drpy_xb","name":"SW小宝","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
 { "key": "HG影视", "name": "SW-HG", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, 		"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar", "ext": "https://cs.hgyx.vip/api2/api.php/app/" },
