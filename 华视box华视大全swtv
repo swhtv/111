@@ -406,7 +406,7 @@ DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/play
 DAZN W FOOTBALL,https://rakutenaa-dazn-daznwomensfootball-rakuten-sw2l7.amagi.tv/playlist/rakutenAA-dazn-daznwomensfootball-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee60b40896cf3b0014c962d44fa83439fd401e984dd0e83128022f316c894f983d14183e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f0d3d8ea951e01c7f27e6d3d67985f17999c4db1e3d29aabd5025ce/71/854x480_1821600/index.m3u8
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
-
+SPORTSNET NY,https://fl3.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
 TSN_1,https://fl3.moveonjoy.com/TSN_1/tracks-v1a1/mono.ts.m3u8
 TSN_2,https://fl3.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
 TSN_3,https://fl3.moveonjoy.com/TSN_3/tracks-v1a1/mono.ts.m3u8
@@ -416,21 +416,26 @@ CBS SPORT,https://7pal.short.gy/cbssptnw
 
 BOXING TV,https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v0.m3u8
 ESPN U,https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
+ESPN U,http://fl3.moveonjoy.com/ESPN_U/index.m3u8
+ESPN,http://41.205.93.154/ESPN/index.m3u8
+ESPN NEWS,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 MLB,https://livetv-fa.tubi.video/mlb3/playlist_1024x576.m3u8
 MIB NETWORD,https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
 NBA,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
-NFL,https://apollo.production-public.tubi.io/live/ac-nfl2/854x480.m3u8?ap.debug=0&ap.pt=0&ap.sid=e6512a07-cba4-41f0-bcfc-d01ae787bdd3&ap.skip_fallback=0&ap.c=Cohort-2&ap.ss=2ece11146d9a8d7626cdf710f8fb9698
+NBA,https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 NHL,https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
-SPORTSNET NY,https://fl3.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
+
 CBS SPORT,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
 BEIN SPORT XTRA,https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
-SKY sport,,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8 SPORT,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
+SKY sport,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8 SPORT,https://32tech0steam0dp01.org/live/SkySportTopEventFHD/chunks.m3u8
 CBS SPORT,https://7pal.short.gy/cbssptnw
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
-USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+Sharjah Sport,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+
 USEE sports,https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 football uk,https://dazn-daznwomensfootball-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-daznwomensfootball-rakuten/CDN/master.m3u8
 BEIN SPORT XTRA,https://aegis-cloudfront-1.tubi.video/82c7f2de-f4ea-44a4-8200-069c5c0bb639/playlist.m3u8
@@ -450,10 +455,7 @@ FOX 505,https://7pal.short.gy/fox505au
 FOX 506,https://7pal.short.gy/fox506au
 NBC SPORT,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
 UFC,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
-ESPN US,https://7pal.short.gy/espnus
-ESPN,http://41.205.93.154/ESPN/index.m3u8
-ESPN U,http://fl3.moveonjoy.com/ESPN_U/index.m3u8
-ESPN NEWS,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
+RACING TV,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 Sports Connect,https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
@@ -464,11 +466,9 @@ one golf,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
-
 GOLF KINGDOM,https://30a-tv.com/feeds/720p/53.m3u8
 ACCN NETWORK,https://fl3.moveonjoy.com/ACC_NETWORK/tracks-v1a1/mono.ts.m3u8
 ACL ,https://1815337252.rsc.cdn77.org/HLS/CORNHOLETV_v3.m3u8
-ADO TV,https://strhls.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_360p/chunks.m3u8?nimblesessionid=15451421
 ADVENTURE SPORTS,https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438/variant/22100062.m3u8
 AFRO SPORT  NIGERIA,https://newproxy3.vidivu.tv/vidivu_afrosport/tracks-v1a1/mono.ts.m3u8
 BAHRAIN SPORTS 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/chunklist_w1854918638_b978000.m3u8
@@ -476,10 +476,44 @@ BAHRAIN SPORTS 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo
 bein-esp,https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
 BEK TVSPORT,https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/chunklist_b546000_slENG.m3u8
 BILLIARD TV,https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV.m3u8
-PRIMOCANALE SPORT,https://livetr.teleromagna.it/teleromagna/live/live/teleromagna480/chunks.m3u8?nimblesessionid=139452209
 WORLD OF SPORTS,https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/240p-cc/index.m3u8
 TVRI SPORT,https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD-avc1_250000=10000-mp4a_64000_eng=20000.m3u8
 TURI SPORT,https://tvturf4.janus.cl/playlist/stream.m3u8?s=lq&t=3&id=5b03ef7e-d263-f50c-da37-da0e1b24e04c&q=&d=w
+Campuslore tv,https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist_640x360.m3u8
+Canal di Inter,https://video01.soultv.com.br/internacional/internacional/chunklist_w2013957890.m3u8
+CBS SPORT NETWORD,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
+colimdo tv live,https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
+Dudai Racing,https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist_b700000.m3u8
+Dudai Racing 2,https://dmithrvllta.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b300000.m3u8
+Dudai Racing 3,https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b300000.m3u8
+Dudai sport 1,https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b200000.m3u8
+Dudai sport 2,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8
+Dudai sport 3,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8
+FanDuel SPORTS NETWORD,https://fl3.moveonjoy.com/PAC_12/tracks-v1a1/mono.ts.m3u8
+FanDuel tv,https://fl3.moveonjoy.com/TVG/tracks-v1a1/mono.ts.m3u8
+FUDO SPORTS NETWORD,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
+FUEL TV,https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/640x360_985600/chunklist.m3u8
+Games+,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
+GEM FIT,https://ca-rt.onetv.app/gemfit/index-0.m3u8
+Hard Knocks,https://d3uyzhwvmemdyf.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/1328e981-8fe7-4230-ad09-e88477b568ef/3.m3u8
+Horse TV,https://a-cdn.klowdtv.com/live2/horsetv_720p/chunks.m3u8
+inter tv.https://insighttv-samsung-canada.amagi.tv/240p/index.m3u8
+IRIB 3,https://lenz.splus.ir/PLTV/88888888/224/3221226868/4.m3u8
+ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it_360p.m3u8
+K9,https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
+KCMN LD6,https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
+LEquipe,https://dshn8inoshngm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gac2i63dmu8b7/LEquipe_FR.m3u8
+LEquipe live 1,https://d3awaj0f2u3w26.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gy7euubgydp20-ssai-prd/master.m3u8
+LEquipe live 2,https://d2l55nvfkhk4sg.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jg7go1lqzgpny-ssai-prd/master.m3u8
+M-net Sport,https://live.mnet.mk/hls/mnet-sport.m3u8
+MadeinBO TV,https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
+MNB SPORT,https://live.mnb.mn/hls/mnb_sport.stream.m3u8
+MORE THAN SPORTS TV,https://mts1.iptv-playoutcenter.de/mts/mts-web/mts/mtsw3/chunks.m3u8?nimblesessionid=339570501
+MSG SPORT,https://fl3.moveonjoy.com/MSG/tracks-v1a1/mono.ts.m3u8
+NAUTICAL TV,https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
+OMAN SPORTS TV,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000.m3u8
+
+MADRID TV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 a sport,https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 yes sport,https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/youth-jordan/playlist.m3u8
@@ -491,37 +525,17 @@ J SPORT,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=J
 super sport,https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8
 sport TV 1,https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 trace sport,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
-TYC SPORT,http://38.41.8.1:8000/play/a02i
 Nile Sport,http://149.100.11.235:8080/NileSport/index.m3u8
 RED BULL TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 REGIO TV,https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
-
 SKY POKER,https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 EURO SPORT,https://7pal.short.gy/eusport2
-曼联MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 SPORTS TV,http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 TRACE SPORT STARS,http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-
-Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-FightBox,http://stream01.vnet.am/Fightbox/mono.m3u8
 RTA Sport,https://hls.rtasport.live/hls/stream.m3u8
-UFC Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-UFC Fight Network,https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 Hard Knocks HD,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
-
-Dubai Sports 1,https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
-Dubai Sports 2,https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
-Dubai Sports 3,https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
-Sharjah Sport,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-SPORT TV 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2526/index.m3u
-SPORT TV 3,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/6418/index.m3u
-SPORT TV 4,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2528/index.m3u
-SPORT TV 5,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2529/index.m3u
-ARENA SPORT 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/7265/index.m3u
-
-RENA SPORT,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2550/index.m3u
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 
 
@@ -532,63 +546,6 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
-
-
-CCTV-01咪咕,http://sport.pendy.dpdns.org/migu/608807420?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-02咪咕,http://sport.pendy.dpdns.org/migu/631780532?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-03咪咕,http://sport.pendy.dpdns.org/migu/624878271?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-04咪咕,http://sport.pendy.dpdns.org/migu/631780421?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-05咪咕,http://sport.pendy.dpdns.org/migu/641886683?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-5+咪咕,http://sport.pendy.dpdns.org/migu/641886773?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-06咪咕,http://sport.pendy.dpdns.org/migu/624878396?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-07咪咕,http://sport.pendy.dpdns.org/migu/673168121?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-08咪咕,http://sport.pendy.dpdns.org/migu/624878356?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-09咪咕,http://sport.pendy.dpdns.org/migu/673168140?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-10咪咕,http://sport.pendy.dpdns.org/migu/624878405?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-11咪咕,http://sport.pendy.dpdns.org/migu/667987558?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-12咪咕,http://sport.pendy.dpdns.org/migu/673168185?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-13咪咕,http://sport.pendy.dpdns.org/migu/608807423?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-14咪咕,http://sport.pendy.dpdns.org/migu/624878440?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-15咪咕,http://sport.pendy.dpdns.org/migu/673168223?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-17咪咕,http://sport.pendy.dpdns.org/migu/673168256?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-cct4欧洲咪咕,http://sport.pendy.dpdns.org/migu/608807419?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-cct4美洲咪咕,http://sport.pendy.dpdns.org/migu/608807416?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-东方卫视咪咕,http://sport.pendy.dpdns.org/migu/651632648?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-江苏卫视咪咕,http://sport.pendy.dpdns.org/migu/623899368?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-江西卫视咪咕,http://sport.pendy.dpdns.org/migu/783847495?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-湖北卫视咪咕,http://sport.pendy.dpdns.org/migu/947472496?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-NBA经典咪咕,http://sport.pendy.dpdns.org/migu/788815380?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-联赛经典咪咕,http://sport.pendy.dpdns.org/migu/780288994?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-足球风云咪咕,http://sport.pendy.dpdns.org/migu/788816794?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-直播体育咪咕,http://sport.pendy.dpdns.org/migu/654102378?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA 
-CCTV-01咪咕,http://goo.bkpcp.top/mg/cctv1 
-CCTV-02咪咕,http://goo.bkpcp.top/mg/cctv2 
-CCTV-03咪咕,http://goo.bkpcp.top/mg/cctv3 
-CCTV-04咪咕,http://goo.bkpcp.top/mg/cctv4 
-CCTV-05咪咕,http://goo.bkpcp.top/mg/cctv5 
-CCTV-06咪咕,http://goo.bkpcp.top/mg/cctv6 
-CCTV-07咪咕,http://goo.bkpcp.top/mg/cctv7 
-CCTV-08咪咕,http://goo.bkpcp.top/mg/cctv8 
-CCTV-09咪咕,http://goo.bkpcp.top/mg/cctv9 
-CCTV-10咪咕,http://goo.bkpcp.top/mg/cctv10 
-CCTV-11咪咕,http://goo.bkpcp.top/mg/cctv11 
-CCTV-12咪咕,http://goo.bkpcp.top/mg/cctv12 
-CCTV-13咪咕,http://goo.bkpcp.top/mg/cctv13 
-CCTV-14咪咕,http://goo.bkpcp.top/mg/cctv14 
-CCTV-15咪咕,http://goo.bkpcp.top/mg/cctv15 
-CCTV-16咪咕,http://goo.bkpcp.top/mg/cctv16 
-CCTV-17咪咕,http://goo.bkpcp.top/mg/cctv17 
-cct4欧洲咪咕,http://goo.bkpcp.top/mg/cctv4o 
-cct4美洲咪咕,http://goo.bkpcp.top/mg/cctv4m 
-CGT西语咪咕,http://goo.bkpcp.top/mg/cgtne 
-CGT阿语咪咕,http://goo.bkpcp.top/mg/cgtna 
-CGT法语咪咕,http://goo.bkpcp.top/mg/cgtnf 
-东方卫视咪咕,http://goo.bkpcp.top/mg/dfws 
-陕西卫视咪咕,http://goo.bkpcp.top/mg/sxws 
-湖北卫视咪咕,http://goo.bkpcp.top/mg/hubws 
-江西卫视咪咕,http://goo.bkpcp.top/mg/jxws 
-江苏卫视咪咕,http://goo.bkpcp.top/mg/jsws 
-海南卫视咪咕,http://goo.bkpcp.top/mg/hinws 
 
 日本JAPAN,#genre#
 
