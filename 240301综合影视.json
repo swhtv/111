@@ -165,7 +165,7 @@
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
-        "jar": "https://github.com/swhtv/1/raw/refs/heads/main/APPLE.txt",
+        "jar": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
       "quickSearch": 1,
       "changeable": 1
     },
