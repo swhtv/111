@@ -1,7 +1,8 @@
 #大全XC
 
 {
-"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
+"spider":"https://github.com/swhtv/ak/raw/refs/heads/main/fan%20(4).txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",
+//"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
 //"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
 //"spider":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar",
 //"spider":"https://github.com/swhtv/1/blob/main/Xspider.jar",
@@ -37,17 +38,7 @@
 
 {"key":"木耳","name":"SW-MUER 華哥提示如访问不到影視資源可在這裏按OK鍵換不同站點 ","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
 { "key": "文采", "name": "sw-wencao", "type": 3, "api": "csp_Jpys", "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/fan%20(4).txt", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
-{
-"key":"文2采",
-"name":"💮文采秒播",
-"type":3,
-"api":"csp_JpysGuard",
-"timeout":10,
-"playerType":2,
-"searchable":1,
-"quickSearch":1,
-"changeable":1
-},
+
 {"key": "大师兄","name":"SW華-大师兄 ","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"},
 
 {"key":"csp_LiteApple","name":"SW APPLE ","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
