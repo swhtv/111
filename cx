@@ -32,6 +32,8 @@
     "sites": [
 {"key":"csp_LiteApple","name":"SW APPLE 華哥提示如访问不到電影劇集可去 主页换不同资源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
+{ "key": "文采", "name": "sw-wencao", "type": 3, "api": "csp_Jpys", "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/fan%20(4).txt", "playerType": 2, "searchable": 1, "quickSearch": 1, "changeable": 1 },
+
 {
       "key": "SW華苹果",
       "name": "sw apple 華哥提示如访问不到電影劇集可去 主页换不同资源 ",
