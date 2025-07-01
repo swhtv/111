@@ -37,11 +37,19 @@
     "sites": [
 
 {"key":"木耳","name":"SW-MUER 華哥提示如访问不到影視資源可在這裏按OK鍵換不同站點 ","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":10,"categories":["国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","剧情片","动作片","冒险片","同性片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},"jar":"https://github.com/bluefriendCN/bin/raw/refs/heads/main/fan.txt"},
-
-
+	    
 {"key": "大师兄","name":"SW華-大师兄 ","type":3,"api":"http://nctv.top/tv/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E5%A4%A7%E5%B8%88%E5%85%84.js"},
 
-{"key":"csp_LiteApple","name":"SW APPLE ","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
+{
+      "key": "SW華-苹果",
+      "name": "sw-apple",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+        "jar": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
+      "quickSearch": 1,
+      "changeable": 1
+    },
 
 {"key": "dr_网飞TV2","name":"SW華WANFEI ","type": 3,"api": "http://nctv.top/tv/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 0,"ext": "https://raw.githubusercontent.com/swhtv/1/refs/heads/main/%E7%BD%91%E9%A3%9ETV.js"},
 
@@ -98,6 +106,7 @@
 
             ]
         },
+{ "key": "360资源", "name": "華SW-360资源, "type": 1, "api": "https://360zy.com/api.php/seaxml/vod/", "searchable": 1, "changeable": 1, "categories": [ "国产剧", "韩国剧", "日本剧","香港剧", "欧美剧", "记录片", "台湾剧", "海外剧", "泰国剧",  "电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫" ] },
 
 {"key":"csp_XBPQ_金牌","name":"SW 金牌(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"作者":"小可乐/2408/第五版","站名":"金牌影院","请求头":"User-Agent$PC_UA","编码":"UTF-8","图片代理":"0","主页url":"https://m.cfkj86.com","首页":"120","起始页":"1","分类url":"/vod/show/id/{cateId}/class/{class}/area/{area}/year/{year}/lang/{lang}/page/{catePg};;mrcWR","分类":"电影&剧集&综艺&动漫","分类值":"1&2&3&4","二次截取":"默认--list\":\\[&&\\]||首页--data\":{\"home&&newestShortTvPageData","数组":"{&&}","标题":"vodName\":\"&&\"","图片":"https://ywxohs.com+obs.gduamoe.com&&\"","副标题":"vodRemarks\":\"&&\"+_+vodDoubanScore\":&&,","链接":"/detail/+vodId\":&&,","影片年代":"vodYear\":\"&&\"","影片地区":"vodArea\":\"&&\"","影片类型":"vodClass\":\"&&\"","状态":"vodRemarks\":\"&&\"","导演":"vodDirector\":\"&&\"","主演":"vodActor\":\"&&\"","简介":"vodContent\":\"&&\"","线路二次截取":"episodeList\":&&\"likeData","线路数组":"\\[&&\\]","线路标题":".:雷蒙影视:.","播放二次截取":"episodeList\":&&\"likeData[替换:nid\":>>nid\":/1/]","播放数组":"\\[&&\\]","播放列表":"{&&}","播放标题":"name\":\"&&\"","播放链接":"nid\":&&,","播放链接前缀":"https://m.cfkj86.com/vod/play/+play/&&/","直接播放":"0","嗅探词":".mp4#.m3u8","搜索请求头":"User-Agent$PC_UA","搜索url":"/vod/search/{wd}","搜索模式":"1","搜索二次截取":"result*list\":\\[&&\\]","搜索数组":"{&&}","搜索标题":"vodName\":\"&&\"","搜索图片":"vodPic\":\"&&\"","搜索副标题":"vodRemarks\":\"&&\"+_+vodDoubanScore\":&&,","搜索链接":"/detail/+vodId\":&&,","筛选":"1","类型":"喜剧片$1/type/22#动作片$1/type/23#科幻片$1/type/30#爱情片$1/type/26#悬疑片$1/type/27#奇幻片$1/type/87#剧情片$1/type/37#恐怖片$1/type/36#犯罪片$1/type/35#动画片$1/type/33#惊悚片$1/type/34#战争片$1/type/25#冒险片$1/type/31#灾难片$1/type/81#理论片$1/type/83#其他片$1/type/43||国产剧$2/type/14#欧美剧$2/type/15#港台剧$2/type/16#日韩剧$2/type/62#其他剧$2/type/68||国产综艺$3/type/69#港台综艺$3/type/70#日韩综艺$3/type/72#欧美综艺$3/type/73#其他综艺$3/type/74||国产动漫$4/type/75#日韩动漫$4/type/76#欧美动漫$4/type/77","剧情":"空||古装&战争&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&短片||真人秀&音乐&脱口秀||喜剧&科幻&热血&冒险&动作&运动&战争&儿童","剧情值":"*","地区":"中国大陆&中国香港&中国台湾&美国&日本&韩国&印度&泰国&其他||中国大陆&中国香港&中国台湾&日本&韩国&美国&泰国&其他||中国大陆&中国香港&中国台湾&日本&韩国&美国&其他||中国大陆&日本&美国&其他","地区值":"*","年份":"2025@&2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010&2009~2000||2025&2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010||2025&2024&2023&2022&2021&2020||2025&2024&2023&2022&2021&2020&2019&2018&2017&2016&2015&2014&2013&2012&2011&2010","年份值":"*","语言":"国语&英语&粤语&韩语&日语&其他||普通话&英语&粤语&韩语&日语&泰语&其他||国语&英语&粤语&韩语&日语&其他||国语&英语&日语&其他","语言值":"*"}},
 
@@ -150,16 +159,7 @@
 
  
  
-{
-      "key": "SW華-苹果",
-      "name": "sw-apple",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-        "jar": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
-      "quickSearch": 1,
-      "changeable": 1
-    },
+
 
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
