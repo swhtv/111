@@ -1,4 +1,4 @@
-SW-TV ,#genre#
+SW-華哥TV ,#genre#
 
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
@@ -63,6 +63,8 @@ Disney XD,https://fl5.moveonjoy.com/DISNEY_XD/index.m3u8
 
 DISNEY_JR,https://fl3.moveonjoy.com/DISNEY_JR/tracks-v1a1/mono.ts.m3u8
 DISNEY JR,http://fl2.moveonjoy.com/DISNEY_JR/index.m3u8
+CARTOON_NETWORK,https://fl3.moveonjoy.com/CARTOON_NETWORK/tracks-v1a1/mono.ts.m3u8
+
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
@@ -92,9 +94,9 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 Discovery_Channel,https://fl3.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.ts.m3u8
 DISCOVERY_FAMILY,https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.m3u8
 DISCOVERY_LIFE,https://fl3.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.ts.m3u8
-Discovery HD,http://195.245.99.242/Discovery/playlist.m3u8
 Discovery,http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/526.m3u8
 Discovery_Science,http://143.244.60.30/Discovery_Science/index.m3u8
+TBS,https://fl3.moveonjoy.com/TBS/tracks-v1a1/mono.ts.m3u8
 FOOD_NETWORK,https://fl3.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.ts.m3u8
 E!,https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.ts.m3u8
 TLC,https://fl3.moveonjoy.com/TLC/tracks-v1a1/mono.ts.m3u8
@@ -112,7 +114,15 @@ HBO,https://fl3.moveonjoy.com/HBO/tracks-v1a1/mono.ts.m3u8
 HBO_2,https://fl5.moveonjoy.com/HBO_2/tracks-v1a1/mono.ts.m3u8
 HBO_COMEDY,https://fl3.moveonjoy.com/HBO_COMEDY/tracks-v1a1/mono.ts.m3u8
 HBO_FAMILY,https://fl1.moveonjoy.com/HBO_FAMILY/tracks-v1a1/mono.m3u8
-
+SHOWTIME_EXTREME,https://fl1.moveonjoy.com/SHOWTIME_EXTREME/tracks-v1a1/mono.m3u8
+SHOWTIME,https://fl3.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.ts.m3u8
+SHOWTIME_2,https://fl1.moveonjoy.com/SHOWTIME_2/tracks-v1a1/mono.m3u8
+SHOWTIME_NEXT,https://fl1.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.m3u8
+SHOWTIME_WEST,https://fl3.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.ts.m3u8
+Sony_Movie_Channel,https://fl3.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
+Crave 2,https://fl3.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.ts.m3u8
+Crave 3,https://fl5.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.ts.m3u8
+Crave 4,https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 Dateline,https://dz59iptwz5rxs.cloudfront.net/live/master_6.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 TED Talks,https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
@@ -126,10 +136,7 @@ SKY News Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngr
 QVC UK,https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/1/1.m3u8
 
 The Weather channel,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63da370e2e477400081cf8b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7782-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6b5c5f52-01b7-44d8-a06c-1f05f3169a75
-Crave 2,https://fl3.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.ts.m3u8
-Crave 3,https://fl5.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.ts.m3u8
 
-Crave 4,https://fl3.moveonjoy.com/CRAVE_4/index.m3u8
 NHK_World_Premium,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
 NHK world,https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8
 
@@ -439,10 +446,10 @@ TSN 3,p2p://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
 
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 
-PPV_1,https://fl1.moveonjoy.com/PPV_1/tracks-v1a1/mono.m3u8
+
 GOLF,https://fl5.moveonjoy.com/GOLF/tracks-v1a1/mono.ts.m3u8
 GOLF,https://fl5.moveonjoy.com/GOLF/index.m3u8
-NHL SPORT,https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
+
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
@@ -454,13 +461,13 @@ Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
 Sky Sports Main Event,P2p://starvod.xyz:19806/0be128b9d8e247cc9a1a07d4eaa386d5.ts
 Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
-
+NBA,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
+NBA,https://fl3.moveonjoy.com/NBA_TV/index.m3u8
 astro cricket,http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157565.ts
 CBS SPORT,https://7pal.short.gy/cbssptnw
 CBS SPORT,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
 CBS SPORT NETWORD,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
 MSG SPORT,https://fl3.moveonjoy.com/MSG/tracks-v1a1/mono.ts.m3u8
-BOXING TV,https://1180885077.rsc.cdn77.org/HLS/BOXINGTV_v0.m3u8
 
 ESPN_2,https://fl3.moveonjoy.com/ESPN_2/tracks-v1a1/mono.ts.m3u8
 ESPN U,https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
@@ -471,8 +478,7 @@ ESPN P,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN NEWS,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 MLB,https://livetv-fa.tubi.video/mlb3/playlist_1024x576.m3u8
 MIB NETWORD,https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
-NBA,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
-NBA,https://fl3.moveonjoy.com/NBA_TV/index.m3u8
+
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 UFC,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
@@ -884,6 +890,18 @@ N24,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channe
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
 
 VOX 1,https://hls.vox1.live/hls/stream.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
