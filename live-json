@@ -4,8 +4,13 @@
 
 
 {"name":"范明明IPV6","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"},
-{"name":"FUNCTVTEST","url":"https://freetv.fun/test_channels_united_states.txt"},
-{"name":"FUNCTVTEST2","url":"https://freetv.fun/test_channels_united_states_new.txt"},
+{"name":"1","url":"https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/refs/heads/main/tv.m3u"},
+{"name":"2","url":"https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"},
+{"name":"3","url":"https://raw.githubusercontent.com/joevess/IPTV/refs/heads/main/home.m3u8"},
+{"name":"4","url":"https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"},
+{"name":"5","url":"https://gh-proxy.com/https://raw.githubusercontent.com/zeee-u/lzh06/main/fl.m3u"},
+
+{"name":"8","url":"https://freetv.fun/test_channels_united_states_new.txt"},
 {"name":"FUNCTVTEST3","url":"https://freetv.fun/test_channels_united_kingdom_new.txt"},
 {"name":"DIY直播","url":"https://s.netimed.cn/diyp"},
 {"name":"CA","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca.m3u"},
