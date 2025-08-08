@@ -4,7 +4,7 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
 CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 GLOBAL CA,https://fl3.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.ts.m3u8
-
+CP24 (T),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/45831
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 CityNews Calgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-1Mbps.m3u8
@@ -44,6 +44,7 @@ MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+CNBC HD,https://fl1.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
 CNBC HD,https://fl5.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
 CNBC 2,https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 CNBC Africa,https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
@@ -98,10 +99,12 @@ Discovery,http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/526.m3u8
 Discovery_Science,http://143.244.60.30/Discovery_Science/index.m3u8
 TBS,https://fl3.moveonjoy.com/TBS/tracks-v1a1/mono.ts.m3u8
 FOOD_NETWORK,https://fl3.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.ts.m3u8
+COOKING_CHANNEL,https://fl3.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.ts.m3u8
 E!,https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.ts.m3u8
 TLC,https://fl3.moveonjoy.com/TLC/tracks-v1a1/mono.ts.m3u8
 HGTV,https://fl3.moveonjoy.com/HGTV/tracks-v1a1/mono.ts.m3u8
 DIY Netword,https://fl1.moveonjoy.com/DIY/tracks-v1a1/mono.m3u8
+TNT,https://fl1.moveonjoy.com/TNT/tracks-v1a1/mono.m3u8
 National_Geographic,https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 Nat_Geo_Wild,https://fl3.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
 Nat-Geo,http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
@@ -119,6 +122,7 @@ SHOWTIME,https://fl3.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.ts.m3u8
 SHOWTIME_2,https://fl1.moveonjoy.com/SHOWTIME_2/tracks-v1a1/mono.m3u8
 SHOWTIME_NEXT,https://fl1.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.m3u8
 SHOWTIME_WEST,https://fl3.moveonjoy.com/SHOWTIME_WEST/tracks-v1a1/mono.ts.m3u8
+BRAVO,https://fl1.moveonjoy.com/BRAVO/tracks-v1a1/mono.m3u8
 Sony_Movie_Channel,https://fl3.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
 Crave 2,https://fl3.moveonjoy.com/CRAVE_2/tracks-v1a1/mono.ts.m3u8
 Crave 3,https://fl5.moveonjoy.com/CRAVE_3/tracks-v1a1/mono.ts.m3u8
@@ -234,6 +238,7 @@ The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amag
 TRUE HISTORY,https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist_webvtt.m3u8
 Country tv,https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
 Military_History,https://fl3.moveonjoy.com/Military_History/tracks-v1a1/mono.ts.m3u8
+W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
 YES_NETWORK,https://fl3.moveonjoy.com/YES_NETWORK/tracks-v1a1/mono.ts.m3u8
 
 SW-TV港台,#genre#
@@ -276,10 +281,9 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-鳳凰資訊,https://k44991.kylintv.tv/live/pxinhd_iphone.m3u8
+
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
@@ -430,9 +434,11 @@ TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 SUPER TENNIS,https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 SPORTSNET NY,https://fl3.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
+TSN_1,https://tvpass.org/live/tsn1/hd
 TSN_1,https://fl3.moveonjoy.com/TSN_1/tracks-v1a1/mono.ts.m3u8
 TSN_2,https://fl3.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
 TSN_3,https://fl3.moveonjoy.com/TSN_3/tracks-v1a1/mono.ts.m3u8
@@ -443,32 +449,34 @@ TSN 1,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 TSN 2,http://cord-cutter.net:8080/live/Ss5DKE/232455/47442.ts
 TSN 2,p2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
 TSN 3,p2p://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
-
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
-
-
 GOLF,https://fl5.moveonjoy.com/GOLF/tracks-v1a1/mono.ts.m3u8
 GOLF,https://fl5.moveonjoy.com/GOLF/index.m3u8
+SPORTS NET 360,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7969
+SPORTS NET EAST,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7970
+SPORTS NET ONTARIO,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7971
+SPORTS NET WEST,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7972
+Sportsnet Pacific,http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/45809
 
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
-W network,http://fl3.moveonjoy.com/W_NETWORK/index.m3u8
-NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
-DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
 
-Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
-
-SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
-Sky Sports Main Event,P2p://starvod.xyz:19806/0be128b9d8e247cc9a1a07d4eaa386d5.ts
-Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
-NBA,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
+NBA TV,https://fl1.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8
+NBA TV,https://fl3.moveonjoy.com/NBA_TV/tracks-v1a1/mono.ts.m3u8
 NBA,https://fl3.moveonjoy.com/NBA_TV/index.m3u8
-astro cricket,http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/157565.ts
+NBA,http://170.yfvodcdn.com:19980/live/nbaTV2/hls.m3u8
+BIG_TEN_NETWORK,https://fl3.moveonjoy.com/BIG_TEN_NETWORK/tracks-v1a1/mono.ts.m3u8
+SEC_NETWORK,https://fl3.moveonjoy.com/SEC_NETWORK/tracks-v1a1/mono.ts.m3u8
+MSG NETWORK,https://fl3.moveonjoy.com/MSG/tracks-v1a1/mono.ts.m3u8
+MLB_NETWORK,https://fl1.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.m3u8
+MARQUEE_SPORTS_NETWORK,https://fl1.moveonjoy.com/MARQUEE_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
+Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
+SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
+Fight Sports,p2p://starvod.xyz:19806/759b38a5e84a4877baed62ffdf82a2ee.ts
 CBS SPORT,https://7pal.short.gy/cbssptnw
 CBS SPORT,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
 CBS SPORT NETWORD,https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.ts.m3u8
 MSG SPORT,https://fl3.moveonjoy.com/MSG/tracks-v1a1/mono.ts.m3u8
-
 ESPN_2,https://fl3.moveonjoy.com/ESPN_2/tracks-v1a1/mono.ts.m3u8
 ESPN U,https://fl3.moveonjoy.com/ESPN_U/tracks-v1a1/mono.ts.m3u8
 ESPN U,http://fl3.moveonjoy.com/ESPN_U/index.m3u8
@@ -476,9 +484,8 @@ ESPN,http://41.205.93.154/ESPN/index.m3u8
 ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN P,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN NEWS,http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
-MLB,https://livetv-fa.tubi.video/mlb3/playlist_1024x576.m3u8
-MIB NETWORD,https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
 
+MIB NETWORD,https://fl3.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.ts.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 UFC,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
@@ -490,9 +497,9 @@ Sharjah Sport,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 British Eurosport UK,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 
 FOX_Sports_1,https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-FOX SPORT 1,http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/756.ts
+
 FOX SPORT 1,https://fl3.moveonjoy.com/FOX_Sports_1/tracks-v1a1/mono.ts.m3u8
-FOX SPORT 2,http://013tv.com:8080/live/friptv/AwWjvV6QuXDY84xR5meJhk/757.ts
+
 FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
 FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
@@ -506,6 +513,28 @@ FOX 504,https://7pal.short.gy/fox504au
 FOX 505,https://7pal.short.gy/fox505au
 FOX 506,https://7pal.short.gy/fox506au
 NBC SPORT,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
+
+Astro Arena,https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
+Astro Arena 2,https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
+Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
+Astro Premier League 2,https://smart.pendy.dpdns.org/Smart.php?id=go_assp2
+Astro Grandstand,https://wahyu1ptv.pages.dev/AstroGrandStand-HD.m3u8
+Astro Football,https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
+Bahrain Sports 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+Bahrain Sports 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+XFC MMA,https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+Sportv 1,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
+Sportv 2,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
+Sportv 3,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
+Sport TV 1,https://wahyu1ptv.pages.dev/Sport.TV1-HD.m3u8
+Sport TV 2,https://wahyu1ptv.pages.dev/Sport.TV2-HD.m3u8
+Sport TV 3,https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
+Sport TV 4,https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8
+Sport TV 5,https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
+Sport TV 6,https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
+
+
+
 RACING TV,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 Sport En France,https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
@@ -788,11 +817,11 @@ CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
 Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 FRANCE 法語,#genre#
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-
 FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 BFM TV,https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+RT FRANCE,https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
 ICI MONTREAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
@@ -800,6 +829,236 @@ TVA QUEBEC,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/Video-3M
 Montreal Greek TV,http://live.greektv.ca/hls1/greektv.m3u8
 CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
 cpac,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=1400000.m3u8
+AFRICA 24,https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+LCI,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/btv/py/lci1.m3u8
+FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+LE MÉDIA TV,https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
+TV5MONDE INFO,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
+BFM NEWS,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TV/index.m3u8?end=END&start=LIVE
+BFM TV ,https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
+BFM TV (backup),https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+BFM TV (backup),https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7ea82c2886420955
+BFM TV (backup),https://mit2-cdn-edge-live06.pfd.sfr.net/bfm-ncdn-live-premium-pal1.pfd.sfr.net/sid=054akapminjaseksmkrg/shls/LIVE$BFM_TV/index.m3u8?start=LIVE&end=END
+BFM TV (backup),https://d133u1kwyeqhav.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-cfh0ys5588w7f/index.m3u8
+BFM TV (backup),https://d2me2cx8crwpp6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-456wmaba0e7dw/index.m3u8
+BFM 2,https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
+BFM 2 (backup),https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+BFM BUSINESS ,https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
+BFM BUSINESS,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
+BFM DICI,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_DICI_ALPESDUSUD/index.m3u8?end=END&start=LIVE
+BFM LYON,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_LYON/index.m3u8?end=END&start=LIVE
+BFM NICE,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8?end=END&start=LIVE
+LE FIGARO IDF,https://static.lefigaro.fr/secom/tnt.m3u8
+i24 NEWS FR,https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+LN24 BE,https://live-ln24.digiteka.com/1911668011/index.m3u8
+RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+AFRICA 24 FR,https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
+TV FINANCE,https://strhlslb01.streamakaci.tv/str_tvfinance_tvfinance/str_tvfinance_multi/playlist.m3u8
+EURONEWS FR (backup),http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d35bcaf1ff4a00078af0a6livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+LE MÉDIA TV (backup),https://raw.githubusercontent.com/BG47510/tube/main/lemedia.m3u8
+LE FIGARO IDF (backup),https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+CHÉRIE 25,https://cherie25.nrjaudio.fm/hls/live/2038375/c25/master.m3u8
+GÉNÉRATIONS TV,https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
+ALPE D'HUEZ TV,https://edge14.vedge.infomaniak.com/livecast/ik:adhtv/manifest.m3u8
+IL TV,https://live.creacast.com/iltv/smil:iltv.smil/playlist.m3u8
+MOSELLE TV,https://live.creacast.com/mirabelletv/smil:mirabelletv.smil/playlist.m3u8
+VOSGES TV,https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
+PUISSANCE TÉLÉVISION,https://edge13.vedge.infomaniak.com/livecast/ik:puissancetelevision/manifest.m3u8
+CANNES LÉRINS TV,https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
+TV8 MONTBLANC,https://tvradiozap.eu/tools/dm-m3u8.php/x3wqv8b.m3u8
+BRIONNAIS TV,https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
+BRIONNAIS TV,https://stream2.mandarine.media/brionnais_tv/brionnais_tv/playlist.m3u8
+ASTV,https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
+MADRAS FM TV,https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
+TNTV,https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+ETV GUADELOUPE,https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
+TV MONACO,https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
+BEL RTL,https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
+CARAC 1,https://rougetv.vedge.infomaniak.com/livecast/rougetv/master.m3u8
+CARAC 1,http://event.vedge.infomaniak.com/livecast/event/manifest.m3u8
+CARAC 2,https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
+CARAC 3,https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
+TVM 3,https://edge11.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
+CANAL 9,https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
+CPAC TV,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
+ICI MONTRÉAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+RTP I,https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+RTP 3,https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
+CNN PORTUGAL,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
+SIC NOTÍCIAS,https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
+SIC,https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
+TVI,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
+TVI INT,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
+TVI V+,https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
+TVI REALITY,https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
+SIC REPLAY,https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
+SIC HD ALTA DEFINIÇÃO,https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+TVI AFRICA,https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
+RTP AFRICA,https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
+RTP ACORES,https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
+RTP MADEIRA,https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
+RTP MEMORIA,https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
+KURIAKOS CINE,https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+KURIAKOS KIDS,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+TRACE BRAZUCA,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
+RTP 3 (backup sd),https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
+RTP 3 (tvhlsdvr),https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+RTP 3 (tvhlsdvr_HD),https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
+RTP ACORES (backup),https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_slpor.m3u8
+EURONEWS PT (backup),http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+SIC NOTÍCIAS (backup),https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8
+TVI V+ (ex-TVI FICCAO),https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
+SOL MÙSICA,https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+PEQUE TV,https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+VIVE KANAL D DRAMA,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+VIVE KANAL D DRAMA,https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
+TRACE LATINA,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
+TRACE LATINA,https://d3b13j525hja2q.cloudfront.net/23073/Latina/encrypted/4/prog_index.m3u8
+TRACE LATINA,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-latina/encrypted.m3u8
+REAL MADRID TV,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96cd34e01740008ef1c97livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+REAL MADRID TV,https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65f96c0c2873090008d356d1livestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+EL TORO TV,https://streaming-1.eltorotv.com/lb0/eltorotv-streaming-web/index.m3u8
+SUR 1 ANDALUCÍA,https://cdnlive.codev8.net/rtvalive/smil:DtRLVjt1.smil/playlist.m3u8
+SUR 1 ANDALUCÍA,https://d3kph49ozqk4tr.cloudfront.net/out/v1/b9781dec66d64d5f975b398c31f371db/index.m3u8
+SUR 1 ANDALUCÍA,https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8
+SUR 1 ANDALUCÍA,https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
+SUR 2 ANDALUCÍA,https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
+SUR NOTICIAS ANDALUCÍA,https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
+CINE ANDALUCÍA,https://cdnlive.codev8.net/rtvalive/smil:channel24.smil/playlist.m3u8
+COCINA ANDALUCÍA,https://cloud.fastchannel.es/mic/manifiest/hls/acocina/acocina.m3u8
+ARAGÓN TV,https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+24 H CANARIAS,https://ztnr.rtve.es/ztnr/5473142.m3u8
+CASTILLA MEDIA,https://cdnapisec.kaltura.com/p/2288691/sp/228869100/playManifest/entryId/1_sqa9madm/format/applehttp/.m3u8
+TV CATALUNYA 24H,https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+TELE MADRID INT,https://new-international-23-secure2.akamaized.net/index.m3u8
+TELE MADRID OTRA,https://laotra-1-23-secure2.akamaized.net/master.m3u8
+TVG GALICIA EU,https://crtvg-europa.flumotion.cloud/playlist.m3u8
+TVG GALICIA AM,https://crtvg-america.flumotion.cloud/playlist.m3u8
+EITB 1,https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
+EITB 2,https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
+EITB INT,https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+EITB DEPORTE,https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
+TV RIOJA,https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+DW ESPAÑOL,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+PRESS HISPAN TV,https://live.presstv.ir/hls/hispantv.m3u8
+CNN EN ESPAÑOL ,https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+RT ESPAÑOL,https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
+RT ESPAÑOL,https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+TVE INTERNACIONAL (america),https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
+TVE INTERNACIONAL (america),https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8
+STAR TVE (espana),https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/star_main_dvr_1080.m3u8
+RAI 3,https://wzstreaming.rai.it/TVlive/smil:liveStream.smil/playlist.m3u8
+TELETICINO,https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
+ITALIA 2 TV,https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
+RETE TV,https://57068da1deb21.streamlock.net/retetvitalia/retetvitalia/playlist.m3u8
+RETE 55,https://live1.giocabet.tv/stream/6/index.m3u8
+CANALE 7,http://wms.shared.streamshow.it/canale7/canale7/playlist.m3u8
+CAFE TV 24,https://srvx1.selftv.video/cafe/live/playlist.m3u8
+CANALE 10,https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
+EURO TV,https://5f22d76e220e1.streamlock.net/eurotv/eurotv/playlist.m3u8
+DEEJAY TV,https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+RADIO ITALIA TV,https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+RADIO KISS KISS TV,https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+SKY NEWS,https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+SKY NEWS,https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_1080.m3u8
+SKY NEWS,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/55b285cd2665de274553d66flivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+GB NEWS,https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
+GB NEWS,https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+TALK NEWS,https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8
+FREE SPEECH TV,https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+REUTERS TV,https://amg00453-reuters-amg00453c1-samsung-de-2111.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-samsungde/playlist.m3u8
+BLOOMBERG UK,https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+BLOOMBERG UK,https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+BLOOMBERG US,https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+BLOOMBERG EU,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/playlist.m3u8
+BLOOMBERG EU,https://8c916ce141544c85a361e55898216cf0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_Bloomberg-2/playlist.m3u8
+BLOOMBERG EU,https://www.bloomberg.com/media-manifest/streams/eu.m3u8
+BLOOMBERG EVENT,https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+BLOOMBERG ORIGINALS,https://bloomberg-quicktake-4-us.plex.wurl.tv/playlist.m3u8
+EURONEWS EN,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca1da6c593a5d78f0e7edcelivestitch/master.m3u8?deviceDNT=%7BTARGETOPT%7D&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceType=samsung-tvplus&deviceMake=samsung
+ABC NEWS AUSTRALIA,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+SKY NEWS AUSTRALIA,https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist/amg00663-skynews-skynewsau-samsungau/playlist.m3u8
+INDIA TODAY,https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+FRANCE 24 EN,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+FRANCE 24 FAST,https://amg00106-france24-france24-samsungde-39lcm.amagi.tv/playlist/amg00106-france24-france24-samsungde/playlist.m3u8
+FRANCE 24 FAST,https://amg00106-france24-france24-samsunguk-qvpp8.amagi.tv/playlist/amg00106-france24-france24-samsunguk/playlist.m3u8
+DW ENGLISH,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DW ENGLISH +,https://dwamdstream105.akamaized.net/hls/live/2015531/dwstream105/index.m3u8
+DW ENGLISH +,https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
+i24 NEWS EN,https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+TELESUR EN,https://cdnenmain.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+ARIRANG WORLD,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+ARIRANG WORLD,https://amdlive-ch01-g-ctnd-com.akamaized.net/arirang_1gch/smil:arirang_1gch.smil/playlist.m3u8
+ARIRANG WORLD,https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+NHK WORLD,https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+TRT WORLD,https://tv-trtworld.medya.trt.com.tr/master.m3u8
+AL JAZEERA NEWS,https://live-hls-web-aje.getaj.net/AJE/master.m3u8
+CGTN NEWS,https://news.cgtn.com/resource/live/english/cgtn-news.m3u8
+CGTN NEWS,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+PRESS TV [censure-ifany],https://live.presstv.ir/hls/presstv.m3u8
+RT NEWS [censure-blocked],https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
+RT NEWS [censure-blocked],https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+RT NEWS [censure-blocked],http://69.64.57.208:8080/russiatoday/playlist.m3u8
+CNN INT (backup),https://dqmhiwgbe98iq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1e8xhm2nv4xdw/index.m3u8
+CNN INT (backup),https://d3508xo7u38fy2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j79jq28qz6knd/index.m3u8
+CNN INT (backup),https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+CNN INT (backup),https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+CNN FAST (backup),https://du6zy613vobd4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-g58rwi2g496ww/CNNFAST_GB.m3u8
+CNN FAST (backup),https://d2sybdl23b9psq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bocx3i7bjz0dg/CNNFAST_GB.m3u8
+CNN FAST (backup),https://d2dbclbbd0dwnj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vfen7v8uxmmt1/CNNFAST_GB.m3u8
+CNN FAST (backup),https://d1k2s17sgkoemp.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-i4f8wxg6jeqii/CNNFAST_GB.m3u8
+CNN FAST (backup),https://d3hnx79nr9mhdw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1u2levt4fksmr/CNNFAST_GB.m3u8
+CNN INT [downlink],https://d30x5vsa85tvmd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7y561g9sa9uht/index.m3u8
+CNN INT [downlink],https://dhzhj55w8hou6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bmoob4iijm59i/index.m3u8
+CNN INT [downlink],https://d1mj4zol5huu6l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tp1e68v8mb0lb/index.m3u8
+|ℹ️|MORE-INFO➡️: ☛RECEPTIONIPTV.BLOGSPOT.COM,https://github.com/ipstreet312/freeiptv/raw/master/ressources/infos/barkers/blogv.ts
+DELUXE MUSIC Deutsch Schlager,https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+DELUXE MUSIC Deutsch Pop,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/95d6544c-4164-11ec-9c7c-2cf753b8a203/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
+DELUXE MUSIC Winter Time,https://d2l1hs6hxlg3df.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-pb0nloqsgtwc2/index.m3u8
+DELUXE MUSIC Lounge Extra,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/8ef13d2a-80c1-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=FR&vendor=samsung
+DELUXE MUSIC Lounge Extra,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/ec8e5c43-6fae-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=DE&vendor=samsung
+
+
+CLUBBING TV,https://d1j2csarxnwazk.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uze1m6xh4fiyr-ssai-prd/master.m3u8
+TRACE URBAN,https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+TRACE URBAN,https://amg01131-tracetv-traceurbanuk-samsunguk-6r213.amagi.tv/playlist/amg01131-tracetv-traceurbanuk-samsunguk/playlist.m3u8
+TRACE URBAN,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-urban/encrypted.m3u8
+TRACE SPORTS,https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
+TRACE SPORTS,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+L'ÉQUIPE TV,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dmotion/py/eqpe/ekip.m3u8
+L'ÉQUIPE TV,https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lequipe/la-chaine-l-equipe-en-direct-dm.m3u8
+SUPERTOONS FR,https://jmp2.uk/sam-FRBD5100002NL.m3u8
+PLUTO KIDS,https://jmp2.uk/sam-FRAJ38000035M.m3u8
+MGG E-SPORT,https://d1mdvi698umja9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kuib43fy5umqi-ssai-prd/mgg.m3u8
+MOTORVISION FR,https://d1qswsont218xa.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-im2kwho8ev6jk/mv_fr.m3u8
+MOTORVISION TV,https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
+TECH&CO,https://live-cdn-technco-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055bd2f1574d94862544
+TECH&CO,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_TECHANDCO/index.m3u8?start=LIVE&end=END
+TECH&CO,https://diepwaqe4bq8t.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a5iu62314y9pt/index.m3u8
+TV5MONDE VOYAGE,https://d1qvkge2x4ev90.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8q6p9i1t9dw2k/tvfvo.m3u8
+NATURE TIME,https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+PLUTO CUISINE,https://jmp2.uk/sam-FRBA3300044VR.m3u8
+ALLO CINÉ,https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+RAKUTEN TOP FILMS TV,https://01ac9352fbfa4204998783d41f9b1a2e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6068/master.m3u8
+WILD SIDE TV,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+TELE NOVELA TV,https://stormcast-telenovelatv-1-fr.samsung.wurl.tv/playlist.m3u8
+WILD SIDE TV,https://versatile-wildsidetv-1-fr.samsung.wurl.tv/playlist.m3u8
+PLUTO CINÉ,https://jmp2.uk/sam-FRAJ3800002W5.m3u8
+PLUTO POLAR,https://jmp2.uk/sam-FRAJ38000089S.m3u8
+
+KTO,https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
+DIEU TV,https://cdn.katapy.io/cache/stream/katapytv/dieu/playlist.m3u8
+EV TV ÉVANGILE,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
+
+MY ZEN,https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+MY ZEN WELLBEING,https://amg01492-secomsasmediart-myzen-fr-rakuten-spvgz.amagi.tv/hls/amagi_hls_data_rakutenAA-myzen-fr-rakuten/CDN/master.m3u8
+FASHION TV,https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+FASHION TV,https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+FASHION TV,https://34963c1506c8467bb8132d8a9ae4fedc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_FashionTV/playlist.m3u8
+FASHION TV,https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.tv/playlist.m3u8
+FASHION TV,https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=5457
+
+
 CHCOTV CA,https://temp4.isilive.ca/live/CHCOTV/live/chunklist.m3u8
 TV5 MONDE INFO,https://d161b1o6wfc5a3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3u7sgewc3l8ri/tvfm.m3u8
 Le Figaro IDF,https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
@@ -890,9 +1149,6 @@ N24,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channe
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
 
 VOX 1,https://hls.vox1.live/hls/stream.m3u8
-
-
-
 
 
 
