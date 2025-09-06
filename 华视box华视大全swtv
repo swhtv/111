@@ -7,10 +7,13 @@ GLOBAL CA,https://fl3.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.ts.m3u8
 CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/4583
 CP24(TEST),http://xxip25.top:8080/85468216/20751659/57357
-CP24(TEST 2),http://cord-cutter.net:8080/25464931/30585186/57257
-CP24(TEST 2),http://panelguys.top:8080/7gxkVz/122352/57257
+CP24(TEST 2),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
+CP24(TEST),http://cord-cutter.net:8080/25464931/30585186/57257
+CP24(TEST),http://panelguys.top:8080/7gxkVz/122352/57257
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
+
+
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 MSNBC UHD,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
@@ -69,6 +72,7 @@ HGTV,https://fl3.moveonjoy.com/HGTV/tracks-v1a1/mono.ts.m3u8
 DIY Netword,https://fl1.moveonjoy.com/DIY/tracks-v1a1/mono.m3u8
 TNT,https://fl1.moveonjoy.com/TNT/tracks-v1a1/mono.m3u8
 History,https://fl1.moveonjoy.com/history_channel/index.m3u8
+HISTORY,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/201.ts
 National_Geographic,https://fl3.moveonjoy.com/National_Geographic/index.m3u8
 Nat_Geo_Wild,https://fl3.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.ts.m3u8
 Nat-Geo,http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
@@ -131,6 +135,7 @@ BBC FOUR,https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8_output_0
 FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 ABC,https://fl1.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.m3u8
+
 CityNews Calgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-1Mbps.m3u8
 CityNews Vancouver,https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/Video-1Mbps.m3u8
 Global Toronto,https://live.corusdigitaldev.com/groupd/live/deb8cec5-87fb-460a-ab82-0929374fc5fb/live.isml/.m3u8?checkedby:iptvcat.com
@@ -481,6 +486,7 @@ SPORTSNET NY,https://fl3.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
 TSN_1,https://tvpass.org/live/tsn1/hd
 TSN_1,https://fl3.moveonjoy.com/TSN_1/tracks-v1a1/mono.ts.m3u8
 TSN 1,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
+TSN 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92029.ts
 TSN_2,https://fl3.moveonjoy.com/TSN_2/tracks-v1a1/mono.ts.m3u8
 TSN 2,http://cord-cutter.net:8080/live/Ss5DKE/232455/47442.ts
 TSN 2,p2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
@@ -542,12 +548,7 @@ FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
 FOX SPORTS,https://apollo.production-public.tubi.io/live/fox-sports.m3u8
 FOX SPORT ES,https://apollo.production-public.tubi.io/live/fox-sports-espanol.m3u8
 
-NBC SPORT,https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-NBC Sports Bay Area (720p),https://tvpass.org/live/nbc-sports-bay-area/hd
-NBC Sports Boston (1080p),https://tvpass.org/live/nbc-sports-boston/hd
-NBC Sports Philadelphia (720p),https://tvpass.org/live/nbc-sports-philadelphia/hd
-NBC Universo West (720p),http://190.11.225.124:5000/live/universo_hd/playlist.m3u8
-NBCLX,https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+
 Astro Arena,https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 Astro Arena 2,https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
 Astro Premier League 1,https://smart.pendy.dpdns.org/Smart.php?id=go_assp1
@@ -557,6 +558,21 @@ Astro Football,https://wahyu1ptv.pages.dev/AstroFootBall-HD.m3u8
 Bahrain Sports 1,https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 Bahrain Sports 2,https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 XFC MMA,https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+
+Eurosport 1 FHD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/1dd7d1b1-2dcc-466f-a89c-8cd8dc179803.m3u
+Eurosport 1 HD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/e3a049a9-8dcf-4339-9ee0-5c7c154c4008.m3u
+Eurosport 1 SD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/c3ceb99e-a399-472b-891d-e8d930f7b58b.m3u
+Eurosport 2 FHD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/6633d68f-88e4-4940-8d72-a205d24cef1a.m3u
+Eurosport 2 HD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/29ce11e1-120a-46b5-894a-c1a7f02b4e1d.m3u
+Eurosport 2 SD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/fe6cb40e-b0ea-4fd4-a991-41de3fe665ce.m3u
+DAZN LaLiga HD ?,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/b81de965-b43f-4ed7-bb72-f8165da5ec97.m3u
+DAZN LaLiga HD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/6d549c00-e627-42a4-9171-77c212fc1517.m3u
+DAZN LaLiga SD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/66383d51-7fbe-499e-88e7-eaa633bb1ce5.m3u
+M+ LaLiga TV HD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/1ea1afcd-4870-4c59-a3db-bc34904ab3dc.m3u
+M+ LaLiga TV HD ?,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/d9aa6410-f84e-444e-aea2-0b1a74c6d584.m3u
+M+ LaLiga TV SD,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/6f15becd-fa9f-47cd-9e67-2d927e049f0b.m3u
+
+
 Sportv 1,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
 Sportv 2,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
 Sportv 3,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
@@ -566,8 +582,6 @@ Sport TV 3,https://wahyu1ptv.pages.dev/Sport.TV3-HD.m3u8
 Sport TV 4,https://wahyu1ptv.pages.dev/Sport.TV4-HD.m3u8
 Sport TV 5,https://wahyu1ptv.pages.dev/Sport.TV5-HD.m3u8
 Sport TV 6,https://wahyu1ptv.pages.dev/Sport.TV6-HD.m3u8
-
-
 
 RACING TV,https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
@@ -1143,13 +1157,6 @@ N24,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channe
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
 
 VOX 1,https://hls.vox1.live/hls/stream.m3u8
-
-
-
-
-
-
-
 
 
 
