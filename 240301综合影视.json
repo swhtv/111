@@ -36,6 +36,7 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
+{"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
 {
             "key": "csp_xml无尽资源",
@@ -127,13 +128,7 @@
          "ext": "18+"
    	 },
      
-        {
-            "key": "酷亚影视",
-            "name": "酷亚影视",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E9%85%B7%E4%BA%9A%E5%BD%B1%E8%A7%86.js"
-        },
+  
 	{
             "key": "唐人街影院",
             "name": "唐人街影院",
@@ -157,12 +152,7 @@
 	
 	{ "key": "Euvod影视", "name": "Euvod | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/Euvod%E5%BD%B1%E8%A7%86.json" }, 
 	    
-
- 
- 
-
-
-{"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
+  
 
 
 { "key": "星芽短剧", "name": "上头┃短剧", "type": 3, "api": "csp_AppXY", "searchable": 1, "quickSearch": 0, "filterable": 0 },
