@@ -1,4 +1,4 @@
-SW-華哥TV ,#genre#
+W-華哥TV ,#genre#
 
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
@@ -13,8 +13,7 @@ CP24(TEST),http://cord-cutter.net:8080/25464931/30585186/57257
 CP24(TEST),https://fl1.moveonjoy.com/CP24/tracks-v1a1/mono.m3u8
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
-
-
+THE_WEATHER_CHANNEL,https://fl3.moveonjoy.com/THE_WEATHER_CHANNEL/tracks-v1a1/mono.ts.m3u8
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 MSNBC UHD,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 MSNBC,https://fl1.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
@@ -32,8 +31,10 @@ CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 FOX_NEWS_CHANNEL,https://fl1.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 FOX News channel sd,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 FOX NOW,https://apollo.production-public.tubi.io/live/ac-wnyw.m3u8
+CBS news,https://fl3.moveonjoy.com/CBSEAST/tracks-v1a1/mono.ts.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 DW English ,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+BBC_WORLD_NEWS,https://fl3.moveonjoy.com/BBC_WORLD_NEWS/tracks-v1a1/mono.ts.m3u8
 BBC NEWS 24,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist_4300k.m3u8
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 sky news,https://stream.skynewsarabia.com/hls/sna_720.m3u8
@@ -41,9 +42,7 @@ sky news 2,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 AJE news English,http://live-hls-web-aje.getaj.net/AJE/index.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
-FOX BUSINESS,https://fl5.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
-FOX BUSINESS,https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
-
+FOX_Business,https://fl3.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
@@ -53,7 +52,7 @@ CNBC 2,https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
 CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
 NBC,https://cors-proxy.cooks.fyi/https://streamer2.nexgen.bz/NBC/index.m3u8
-
+ABC news,https://fl1.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.m3u8
 ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 Discovery_ID,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/196.ts
@@ -65,7 +64,9 @@ Discovery_Science,http://143.244.60.30/Discovery_Science/index.m3u8
 TBS,https://fl1.moveonjoy.com/TBS/tracks-v1a1/mono.m3u8
 FOOD_NETWORK,https://fl1.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.m3u8
 COOKING_CHANNEL,https://fl1.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.m3u8
+COOKING_CHANNEL,https://fl3.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.ts.m3u8
 E!,https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
+E_ENTERTAINMENT,https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/tracks-v1a1/mono.m3u8
 TLC,https://fl1.moveonjoy.com/TLC/tracks-v1a1/mono.m3u8
 TLC,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/194.ts
 Travel_Channel,https://fl1.moveonjoy.com/Travel_Channel/tracks-v1a1/mono.m3u8
@@ -84,6 +85,7 @@ WILD EARTH,https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oan
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 Animal_Planet,https://fl1.moveonjoy.com/Animal_Planet/tracks-v1a1/mono.m3u8
+Animal_Planet,https://fl3.moveonjoy.com/Animal_Planet/tracks-v1a1/mono.ts.m3u8
 HBO,https://fl1.moveonjoy.com/HBO/tracks-v1a1/mono.m3u8
 HBO,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/162.ts
 HBO 2,https://fl1.moveonjoy.com/HBO_2/tracks-v1a1/mono.m3u8
@@ -484,7 +486,8 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 
 SPORT体育 ,#genre#
-TENNIS_CHANNEL,,https://fl1.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.m3u8
+TENNIS_CHANNEL,https://fl3.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.ts.m3u8
+TENNIS_CHANNEL,https://fl1.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.m3u8
 TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee45510d13af7e2014e947e40fa83439fd401ea80d35a83478423f2469f92a1dd821682e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f023d76a9054f3d75acedf1faeabcda2ffc1d550b648259d786/81/640x360_1020800/index.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
@@ -494,9 +497,10 @@ DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 DAZN F1,http://proxy25g.la24tv.com:8080/live/MANEL_15112023/1RA277561H6309204/61edd8cc-3253-4e20-8664-c9c222c12839.m3u
 SPORTSNET NY,https://fl3.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
-TSN_1,https://tvpass.org/live/tsn1/hd
+SPORTSNET ONE,https://fl3.moveonjoy.com/SPORTSNET/tracks-v1a1/mono.ts.m3u8
+PPV_1,https://fl1.moveonjoy.com/PPV_1/tracks-v1a1/mono.m3u8
 TSN_1,https://fl1.moveonjoy.com/TSN_1/tracks-v1a1/mono.m3u8
-
+TSN_1,https://tvpass.org/live/tsn1/hd
 TSN 1,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 TSN 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92029.ts
 TSN_2,https://fl1.moveonjoy.com/TSN_2/tracks-v1a1/mono.m3u8
@@ -516,9 +520,8 @@ GOLF,https://fl5.moveonjoy.com/GOLF/index.m3u8
 WORLD_FISHING_NETWORK,https://fl1.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.m3u8
 SPORTSMAN_CHANNEL,https://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
 SPORTSMAN_CHANNEL,https://fl1.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.m3u8
-
+ACC sports_NETWORK,https://fl1.moveonjoy.com/ACC_NETWORK/tracks-v1a1/mono.m3u8
 beIN Sports USA,https://fl1.moveonjoy.com/BEIN_SPORTS/tracks-v1a1/mono.m3u8
-
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 NHL_NETWORK,https://fl1.moveonjoy.com/NHL_NETWORK/tracks-v1a1/mono.m3u8
 NFL_NETWORK,https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
@@ -1180,5 +1183,3 @@ N24,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channe
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
 
 VOX 1,https://hls.vox1.live/hls/stream.m3u8
-
-
