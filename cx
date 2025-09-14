@@ -147,16 +147,6 @@
         },
 
 
-
-
-
-{ "key": "drpyS_5点电影[S]", "name": "五点电影", "type": 4, "api": "http://117.72.120.174:5757/api/5点电影[S]?pwd=zy", "searchable": 1, "filterable": 1, "quickSearch": 1, "ext": "" },
-
-
-{ "key": "drpyS_KTV歌厅[听]", "name": "MV音乐", "type": 4, "api": "https://zhxy.eu.org/api/KTV歌厅[听]", "searchable": 2, "filterable": 1, "quickSearch": 0, "ext": "" },
-{ "key": "戏曲", "name": "戏曲大全", "type": 3, "api": "csp_Bili", "jar": "https://cik03-cos.7moor-fs1.com/im/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/c8fd2c83-7f26-4d9a-983c-042d25692adf/2024-06-18/2024-06-18_00:47:33/1718642853998/96346083/duo.jar;md5;5C5116C70E15343433C8480C3B448408", "searchable": 0, "quickSearch": 1, "filterable": 1, "ext": "https://image-c.weimobwmc.com/ol-OlSf/9a72ac3a9fa24d3f84cebcf008e4ed0d.jpg" },
-
-
  {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
 {
      	 "key": "lf_js_search",
@@ -253,46 +243,9 @@
 		},       
 {"key":"夜貓_drpy_xb","name":"小宝影视","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
 {"key":"T4-douban","name":"影视-豆瓣(T4)","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
-{ "key": "HG影视", "name": "HG影视｜APP", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, 		"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar", "ext": "https://cs.hgyx.vip/api2/api.php/app/" },
-{"key":"夜貓_drpy_xb","name":"SW小宝","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
+{"key":"夜貓_drpy_xb","name":"SW  小宝","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
 {"key":"T4-douban","name":"豆瓣sw","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
- {
-            "key": "hw",
-            "name": "🐔┃华为资源站",
-            "type": 1,
-            "api": "https://cjhwba.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "香港剧",
-                "韩国剧",
-                "欧美剧",
-                "台湾剧",
-                "大陆综艺",
-                "国产动漫",
-                "日韩动漫",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "惊悚片",
-                "家庭篇",
-                "古装片",
-                "历史片",
-                "悬疑片",
-                "犯罪片",
-                "灾难片",
-                "纪录片",
-                "短片",
-                "动画片",
-                "西部片",
-                "伦理片"
-            ]
-        },
+
 {"key": "百度","name": "SW-百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0},
  {
             "key": "量子资源",
@@ -340,65 +293,7 @@
 			"quickSearch": 1
 		},    
     
-   {
-            "key": "红牛资源",
-            "name": "红牛｜采集",
-            "type": 1,
-            "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "港澳剧",
-                "日剧",
-                "欧美剧",
-                "台湾剧",
-                "泰剧",
-                "韩剧",
-                "纪录片",
-                "动作片",
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "动漫电影"
-            ]
-        }, 
-    
-     {
-            "key": "极速资源",
-            "name": "极速｜采集",
-            "type": 1,
-            "api": "https://jszyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-               "内地剧",
-                "欧美剧",
-                "香港剧",
-                "韩剧",
-                "台湾剧",
-                "日剧",
-                "马泰剧",
-                "恐怖片",
-                "动画片",
-                "剧情片",
-                "战争片",
-                "动作片",
-                "记录片",
-                "爱情片",
-                "喜剧片",
-                "科幻片",
-                "灾难片",
-                "悬疑片",
-                "犯罪片",
-                "中国动漫",
-                "日本动漫",
-                "欧美动漫"
-            ]
-        },
+ 
         
         {
             "key": "洽洽影视",
@@ -412,9 +307,6 @@
             "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
         },
 {"key": "csp_XYQHiker_瓜子影院","name":"sw瓜子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E7%93%9C%E5%AD%90%E5%BD%B1%E8%A7%86.json"},
-{"key": "csp_XYQHiker_骚火电影VIP","name": "sw骚火","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"},
-//{"key": "csp_XYQHiker_电影盒子","name":"sw电影盒子","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E7%94%B5%E5%BD%B1%E7%9B%92%E5%AD%90.json"},
-{"key":"csp_Bilix","name":"sw哔哩综合","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/biliext/Bili.json"},
  {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
 
 
