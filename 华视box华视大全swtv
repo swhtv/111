@@ -20,7 +20,7 @@ MSNBC UHD,https://fl7.moveonjoy.com/MSNBC/tracks-v1a1/mono.ts.m3u8
 MSNBC,http://fl4.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
 
-BNN,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91883.ts
+
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
@@ -558,23 +558,7 @@ British Eurosport UK,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:duba
 FOX_Sports_1,https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
 
-sony ten 1,http://app.hughag.store/api/762cf859a8/playlist.m3u8
-Sony ten 2,http://app.hughag.store/api/45dc1e0f41/playlist.m3u8
-Sony ten 5,http://app.hughag.store/api/d74ec2f219/playlist.m3u8
 
-F1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/15572.ts
-sportnet one,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92049.ts
-sportnet ontario,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92051.ts
-sportnet pacific,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92053.ts
-sportnet west,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92057.ts
-sportnet world,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92057.ts
-sportnet 360,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92047.ts
-BT TNT SPORT 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/386.ts
-BT TNT SPORT 2,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/387.ts
-BT TNT SPORT 3,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/387.ts
-BEIN SPORT 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/400.ts
-BEIN SPORT 2,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/401.ts
-BEIN SPORT 3,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/402.ts
 
 Astro Arena,https://wahyu1ptv.pages.dev/AstroArena-HD.m3u8
 Astro Arena 2,https://wahyu1ptv.pages.dev/AstroArena2-HD.m3u8
