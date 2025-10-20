@@ -8,11 +8,12 @@ GLOBAL CA,http://212.102.60.231:80/CA_GLOBAL/index.m3u8
 GLOBAL CA,https://fl41.moveonjoy.com/CA_GLOBAL/tracks-v1a1/mono.m3u8
 CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
 CP24(TEST),http://tvmate.icu:8080/99437538/28260477/57357
-CP24(TEST 2),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
 CP24(TEST 2),http://fortv.cc:8080/b6twFE/414151/47218
+CP24(TEST 2),http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/91917.ts
 CP24(TEST),http://cord-cutter.net:8080/25464931/30585186/57257
 CP24俻,http://fortv.cc:8080/b6twFE/414151/57257
 CP24俻,http://fortv.cc:8080/b6twFE/414151/57345
+CP24(TEST),http://tv.zeuspro.xyz:8080/Mickael/0fbfc1d5b527/7959
 City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
 CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 
@@ -31,8 +32,6 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 CNN,https://fl41.moveonjoy.com/CNN/index.m3u8
-CNN,http://41.205.93.154:80/CNN/index.m3u8
-
 CNN  UHD,https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN internationl,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
@@ -353,85 +352,56 @@ Always Funny Videos,https://linear-12.frequency.stream/dist/glewedtv/12/hls/mast
 
 
 SW-TV港台,#genre#
+
+TVB NEWS,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-TVB NEWS,http://43.251.102.18:4000/play/a00d
-TVB NEWS,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
-
-無綫新聞台,,http://r.jdshipin.com/CkuBd
-
-無綫新聞台,http://tri-metal.dsmynas.net:8001/bysid/83.m3u8
 無綫新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-無綫新聞台,http://aktv_stream.m16tv.cfd/stream/aktv2/null-4/AKTV.m3u8
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-TVB無线新聞,http://110.235.82.60:8001/bysid/83
+
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
-翡翠 台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
-翡翠 台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
-TVB翡翠,http://r.jdshipin.com/qClQf
-TVB翡翠,http://r.jdshipin.com/qrfbg
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+TVB翡翠,http://r.jdshipin.com/qrfbg
+TVB翡翠,http://r.jdshipin.com/qClQf
 TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-TVB PLUS,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
+TVB PLUS备3,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB plus备3,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 TVB星河,http://r.jdshipin.com/Voac4
 TVB翡翠,http://r.jdshipin.com/62WM7
-明珠台,http://r.jdshipin.com/ZQ4kN
-TVB星河,http://r.jdshipin.com/sXuuD
-HOY資訊台,http://43.251.102.18:4000/play/a004
-HOY資訊台,http://live4play.uk/livehttpplay?channel_id=20191
 
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
+TVB星河,http://r.jdshipin.com/sXuuD
 HOY資訊台,http://lzoq.serv00.net/daili/Smartv.php?id=viusix_twn
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
-
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰美洲,https://k44991.kylintv.tv/live/pxnaus_iphone.m3u8
 
 翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
+
+VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
+VIUTV,http://php.jdshipin.com:8880/smt.php?id=viutv
+VIU SIX,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
+-ViuTVsix,,http://grandprix2023.asuscomm.com:8892/bysid/96.m3u8
 -ViuTVsix,http://bziyunshao.synology.me:8889/bysid/96.m3u8
--ViuTV,http://bziyunshao.synology.me:8889/bysid/99.m3u8
 -ViuTVsix,http://tri-metal.dsmynas.net:8000/bysid/96.m3u8
--ViuTV,http://tri-metal.dsmynas.net:8000/bysid/99.m3u8
-TVB无线华丽,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
-TVB明珠台,http://grandprix2023.asuscomm.com:8892/bysid/2.m3u8
-TVB明珠台,http://1b6467f415.iok.la:9931/tsfile/live/1009_1.m3u8
 
--明珠台,http://bziyunshao.synology.me:8890/bysid/2.m3u8
--明珠台,http://tri-metal.dsmynas.net:8001/bysid/2.m3u8
-无线翡翠,http://php.jdshipin.com/smt.php?id=jade_twn
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-美亚电影粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-无线明珠高清,http://119.32.12.17:2901/udp/224.1.100.123:11111
-无线明珠标清,http://119.32.12.17:2901/udp/224.1.100.2:11111
-无线明珠高清,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
-无线明珠标清,http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111
-无线华丽,http://cdn9.163189.xyz/smt1.1.php?id=Tvbjade
-华丽翡翠,http://cdn9.163189.xyz/smt1.1.php?id=Wlt
-无线华丽,http://php.jdshipin.com/smt.php?id=Tvbjade
-无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
-千禧经典,http://cdn9.163189.xyz/smt1.1.php?id=Tvbclassic
-千禧经典,http://cdn9.163189.xyz/smt3.1.1.php?id=Tvbclassic
-Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
+美亚电影粤,http://php.jdshipin.com:8880/smt.php?id=meiya
+千禧香港台,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
+無线娱乐台,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
@@ -636,6 +606,18 @@ Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 UFC H,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
+
+Sky Sport Premier League,http://146.19.169.196:9981/stream/channelid/824598371
+Sky Sport Golf,http://146.19.169.196:9981/stream/channelid/2092238595
+Sky Sport F1,http://146.19.169.196:9981/stream/channelid/556803633
+Sky Sport Tennis,http://146.19.169.196:9981/stream/channelid/1740646067
+Sky Sport Austria 1,http://146.19.169.196:9981/stream/channelid/660378621
+Sky Sport Austria 2,http://146.19.169.196:9981/stream/channelid/625939151
+Sky Sport Austria 3,http://146.19.169.196:9981/stream/channelid/2025726820
+Sky Sport Austria 4,http://146.19.169.196:9981/stream/channelid/870239900
+Sky Sport Austria 5,http://146.19.169.196:9981/stream/channelid/2088027819
+
+
 ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
