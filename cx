@@ -3,6 +3,7 @@
 {
 
 "spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
+//"spider": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896"
 //"spider": "https://github.com/liu673cn/box/raw/refs/heads/main/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
 //"spider":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar",
 //"spider":"https://github.com/swhtv/1/blob/main/Xspider.jar",
@@ -40,27 +41,17 @@
 {"key": "華哥 bf","name": "SW-華哥 暴風 ","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},
 {"key":"csp LiteApple","name":"SW-APPLE 華哥提示如访问不到電影劇集可去 主页换不同资源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
- {
-      "key": "糯米",
-      "name": "小脑斧┃糯米┃秒播",
-      "type": 3,
-      "api": "csp_NmyswvGuard",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "文采",
-      "name": "小脑斧┃文采┃秒播",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-  },
+{"key":"天天","name":"天天┃高峰期用不了就点我换源或者搜索","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l3888jig44gi291li"},
+{"key":"csp_xlys","name":"修罗┃无搜索","type":3,"api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
+{"key":"追剧","name":"追剧┃App","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg0939791h1l2681i6g94li291li"},
+{"key":"剧评","name":"剧评┃App","type":3,"api":"csp_Jpys","playerType":1,"ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
+{"key":"巧技二","name":"巧技┃仅搜索","type":3,"api":"csp_qiao2","playerType":2,"ext":"7lj763gg402i79425739i7jghj118797l4hj840gi18633331l4708g2h7145403549g44l8ii56i187681hkjj3hhgh1ih3l32j250lk1k786lj20j468hk3hli4l46gig4i3g7g2722328j0136h01i7g5183k22k7gg3i72hk81gl8k9839kl7i0707"},
+{"key":"yunyun","name":"云云┃无搜索","type":3,"api":"csp_Qiji","playerType":2,"ext":"7lj763gg402i79425h2384j4g949j899hll9990i9kjl6l740h1342hjlg1848401g8610h9995i998j351gl38kklkj1hkhll757010k7hji6h377ih37k060g35161jhl3i5h0l2702g7299452l4297k5697g5390lk6935k2i9g48l8j2kh27l1g014k7j9475g8"},
+{"key":"yizys","name":"驿站┃无搜索","type":3,"api":"csp_Qiji","playerType":2,"ext":"7lj763gg402i7942552h8ljjlj0jjki7g4lg99099jjh6l6l514k08hjl807161j139753h090539gig3604gi80lgl30jk3hk637h53gh9ljkij2lig30k277g50354k2k3jkl1g17i2820ii582l0483g61k6i79k7kk7274h1i5g6jjj833h2390k42396hik71kigl18k613"},
+{"key":"巧技三","name":"巧技三┃QD4K","type":3,"api":"csp_Qiji","playerType":2,"ext":"7lj763gg0939791i5820839jhg498h93ljh9i353ihi73l2k5l5j48g4l21j035j01850ig6i904998l6j09g1j0g1l712hlg37g670ll5k39jl62jj329kl3ilj19"},
+{"key":"柠檬","name":"柠檬┃App","type":3,"api":"csp_Nmvod","playerType":2,"ext":"7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"},
+{"key":"NoSearch_csp_BBB","name":"哔哩哔哩","type":3,"api":"csp_Bili","searchable":1,"quickSearch":0,"filterable":1,"ext":"7lj763gg402i7942463j9j9jg1558j9jl8g19213il86316k465719lik1585907179l13hj8h5j9j"},
+
 
 {
       "key": "SW華苹果",
