@@ -41,88 +41,17 @@
 {"key": "華哥 bf","name": "SW-華哥 暴風 ","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},
 {"key":"csp LiteApple","name":"SW-APPLE 華哥提示如访问不到電影劇集可去 主页换不同资源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 
+{"key":"Yingtantv","name": "💯影探┃TV┃App","type":3,"api":"csp_Yingtantv","searchable":1,"changeable":0,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/xiaolinshao/linshao/main/影探王二小放牛娃.jar"},
 {
-            "key": "獨播",
-            "name": "獨播",
-            "type": 3,
-            "api": "csp_XPathMacFilter",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": "https://tvbox.cainisi.cf/json/duboku.json",
-            "jar": "https://tvbox.cainisi.cf/jar/fm1204.jar;md5;9060b67dfec8782aca6e79ba17c0979b"
-        },
-        {
-            "key": "haiwaikan",
-            "name": "海外看",
-            "type": 1,
-            "api": "https://haiwaikan.com/api.php/provide/vod",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "日本动漫",
-                "国产动漫",
-                "欧美动漫",
-                "国产剧",
-                "韩剧",
-                "日剧",
-                "台剧",
-                "泰剧",
-                "港剧",
-                "欧美剧",
-                "动画电影",
-                "韩国综艺",
-                "国产综艺",
-                "日本综艺",
-                "欧美综艺",
-                "冒险片",
-                "剧情片",
-                "动作片",
-                "同性片",
-                "喜剧片",
-                "奇幻片",
-                "恐怖片",
-                "悬疑片",
-                "惊悚片",
-                "战争片",
-                "歌舞片",
-                "灾难片",
-                "爱情片",
-                "犯罪片",
-                "科幻片",
-                "纪录片",
-                "经典片"
-            ]
-        },
-
-{
-            "key": "找資源",
-            "name": "找資源",
-            "type": 3,
-            "api": "csp_Zhaozy",
-            "searchable": 1,
-            "changeable": 0,
-            "ext": "影視天下第一$$$test2$$$test2",
-            "jar": "https://tvbox.cainisi.cf/jar/fm1204.jar;md5;9060b67dfec8782aca6e79ba17c0979b"
-        },
-        {
-            "key": "csp_Nbys",
-            "name": "🛫泥巴┃海外",
-            "type": 3,
-            "api": "csp_NiNi",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm1204.jar;md5;9060b67dfec8782aca6e79ba17c0979b"
-        },
-        {
-            "key": "星星",
-            "name": "🛫星星┃海外",
-            "type": 3,
-            "api": "csp_Star",
-            "searchable": 1,
-            "changeable": 1,
-            "jar": "https://tvbox.cainisi.cf/jar/fm1204.jar;md5;9060b67dfec8782aca6e79ba17c0979b"
-        },
-
+   "key": "安博",
+   "name": "安博点播",
+   "type": 4,
+   "api": "https://ali.唐.hz.cz/site/ub1818",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0
+  },
+{"key":"獨播","name":"獨播","type":3,"style":{"type":"rect","ratio":1.485},"api":"csp_XPathMacFilter","searchable":1,"changeable":1,"ext":"https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"},
 
 {
       "key": "SW華苹果",
