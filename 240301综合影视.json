@@ -93,8 +93,7 @@
             ]
         },
 
-{"key":"浪酷影视","name":"💡浪酷｜影视","type":3,"api":"csp_AppRJ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"url":"http://v.lkuys.cn"}},
-{"key":"瓜子影视","name":"💡瓜子｜影视","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1},
+
  {
             "key": "MTV",
             "name": "🎶明星┃MV",
@@ -110,17 +109,7 @@
             "ext": {
                 "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
             }，
- {
-      "key": "文采",
-      "name": "小脑斧┃文采┃秒播",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-  },
+
 
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
@@ -201,18 +190,7 @@
       }
     },
     
-    {
-      "key": "永永",
-      "name": "SW永永SW",
-      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://www.guangyingmi.com",
-        "dataKey": "230fnsodfsdhfon2",
-        "siteApi": "get",
-        "version": ""
-      }
-    },
+   
    
     {
       "key": "csp_Wwys",
@@ -239,13 +217,13 @@
       "playerType": 2,
       "ext": "https://shdy5.us"
     },
-    {
+   {
       "key": "csp_Gz360",
       "name": "SW🍉┃瓜子┃",
       "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
       "api": "csp_Gz360",
       "playerType": 2
-    },
+    }, 
     {
       "key": "csp_LiteApple",
       "name": "SW🍎┃苹果┃",
@@ -256,17 +234,7 @@
       "filterable": 1
     },
    
-    {
-      "key": "猎手",
-      "name": "SW🐆┃猎手┃",
-      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
-      "api": "https://gitee.com/PizazzXS/another-d/raw/master/movie/py/LSYS.py",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2
-    },
+
 
   {
             "key": "Bili",
@@ -1107,5 +1075,6 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
