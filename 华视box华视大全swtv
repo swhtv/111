@@ -4,6 +4,7 @@ Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
 CBC NEWS,https://d36tuf8zz9b2bm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-hfw6opvomwxih/CBC_News_International.m3u8
 CBC NEWS,https://livetv-fa.tubi.video/cbc2/master360P.m3u8
+CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 CPAC canada,https://d7z3qjdsxbwoq.cloudfront.net/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/.m3u8
@@ -24,7 +25,7 @@ THE WEATHER CHANNEL,https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 MSNBC UHD,https://fl41.moveonjoy.com/MSNBC/tracks-v1a1/mono.m3u8
 
-MSNBC,http://fl31.moveonjoy.com/MSNBC/index.m3u8
+MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
@@ -68,9 +69,9 @@ ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be
 BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 Discovery_ID,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/196.ts
-Discovery_Channel,https://fl31.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.m3u8
-DISCOVERY_FAMILY,https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.m3u8
-DISCOVERY_LIFE,https://fl31.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.m3u8
+Discovery_Channel,https://fl1.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.m3u8
+DISCOVERY_FAMILY,https://fl1.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.m3u8
+DISCOVERY_LIFE,https://fl1.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.m3u8
 
 FOOD_NETWORK,https://fl41.moveonjoy.com/FOOD_NETWORK/tracks-v1a1/mono.m3u8
 COOKING_CHANNEL,https://fl1.moveonjoy.com/COOKING_CHANNEL/tracks-v1a1/mono.m3u8
@@ -303,6 +304,8 @@ TVB NEWS,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 香港_C+_,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
+NOW新闻台,https://cdn.163189.xyz/163189/now
+now news,http://hls.168.us.kg/u/332/master.m3u8
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
@@ -474,7 +477,7 @@ DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/play
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 
-
+TSN_1,https://fl1.moveonjoy.com/TSN/index.m3u8
 TSN_1,https://tvpass.org/live/tsn1/hd
 TSN 1,http://cord-cutter.net:8080/live/Ss5DKE/232455/47440.ts
 TSN 1,http://g-med.xyz:25461/live/antokata/eLHwHa4UHY/92029.ts
@@ -530,7 +533,12 @@ MSG SPORT,https://fl1.moveonjoy.com/MSG/index.m3u8
 ESPN_2,https://fl1.moveonjoy.com/ESPN_2/tracks-v1a1/mono.m3u8
 ESPN_U,https://fl1.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
 
-
+NHL Centre Ice 8,http://fl1.moveonjoy.com/NHL_8/index.m3u8
+NHL Centre Ice 7,http://fl1.moveonjoy.com/NHL_7/index.m3u8
+NHL Centre Ice 6,http://fl1.moveonjoy.com/NHL_6/index.m3u8
+NHL Centre Ice 5,http://fl1.moveonjoy.com/NHL_5/index.m3u8
+NHL Centre Ice 4,http://fl1.moveonjoy.com/NHL_4/index.m3u8
+TVA,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 
 
 SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
@@ -539,6 +547,11 @@ SPOTV 2,P2p://starvod.xyz:19806/3f3dcaacc92f4d88948cd947c7e3b5f9.ts
 ESPN,http://41.205.93.154/ESPN/index.m3u8
 ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
 ESPN NEWS,https://fl1.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
+ESPN,https://e3.thetvapp.to/hls/ESPN/mono.m3u8
+ESPN 2,https://e3.thetvapp.to/hls/ESPN2/mono.m3u8
+CCTV 5+,https://yunmei.tv/cctv/cctv-5+.m3u8
+
+
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
@@ -652,18 +665,21 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 CGTN Espanol,https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
-广东珠江频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育频备,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+五星体育,https://cdn3.163189.xyz/163189/wxty
 大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-CCTV 13,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226128/index.m3u8
 广东卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
+CCTV 13,https://cdn3.163189.xyz/163189/cctv13
+CCTV-13 HD,http://120.76.248.139/live/bfgd/4200000067.m3u8
+CCTV-13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
 CCTV 1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV 4,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 CCTV 5,https://yunmei.tv/cctv/cctv-5.m3u8
+
 CCTV 5+,https://yunmei.tv/cctv/cctv-5+.m3u8
 CCTV 4 hd,https://xv4766.kylintv.tv/live/cctv4hd_iphone.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
@@ -720,6 +736,26 @@ CCTV5+,http://api.kkitv.itv888.cn:8080/hls/xsb4znrv3c/index.m3u8
 东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
+CCTV-1,http://123.10.78.134:808/hls/1/index.m3u8
+CCTV-2,http://123.10.78.134:808/hls/2/index.m3u8
+CCTV-3,http://123.10.78.134:808/hls/3/index.m3u8
+CCTV-4,http://123.10.78.134:808/hls/4/index.m3u8
+CCTV-5,http://123.10.78.134:808/hls/5/index.m3u8
+CCTV-6,http://123.10.78.134:808/hls/6/index.m3u8
+CCTV-7,http://123.10.78.134:808/hls/7/index.m3u8
+CCTV-8,http://123.10.78.134:808/hls/8/index.m3u8
+CCTV-9,http://123.10.78.134:808/hls/9/index.m3u8
+CCTV-11,http://123.10.78.134:808/hls/11/index.m3u8
+CCTV-10,http://123.10.78.134:808/hls/10/index.m3u8
+CCTV-12,http://123.10.78.134:808/hls/12/index.m3u8
+CCTV-13,http://123.10.78.134:808/hls/13/index.m3u8
+CCTV-14,http://123.10.78.134:808/hls/14/index.m3u8
+CGTN,http://123.10.78.134:808/hls/16/index.m3u8
+CCTV-15,http://123.10.78.134:808/hls/15/index.m3u8
+
+
+
+
 
 FRANCE 法語,#genre#
 
