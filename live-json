@@ -1,6 +1,9 @@
 [
-{"name":"1","url":"https://iptv-org.github.io/iptv/index.m3u"},
+{"name":"ca","url":"https://iptv-org.github.io/iptv/countries/ca.m3u"},
+{"name":"uk","url":"https://iptv-org.github.io/iptv/countries/uk.m3u"},
+{"name":"us","url":"https://iptv-org.github.io/iptv/countries/us.m3u"},
 
+{"name":"ita","url":"https://iptv-org.github.io/iptv/countries/it.m3u"},
 {"name":"SW華哥ak直播","url":"https://tv.iill.top/m3u/Live"},
 
 {"name":"SW華哥猫TV","url":"http://rihou.cc:567/gggg.nzk"},
