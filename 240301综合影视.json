@@ -99,7 +99,28 @@
 {"key": "華哥","name": "SW華暴风","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},   
 
 {"key":"csp_ipianba","name":"片吧SW","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
-
+{
+            "key": "莫小影视",
+            "name": "🎬莫小｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E8%8E%AB%E5%B0%8F%E5%BD%B1%E8%A7%86.json"
+        },
+       
+        {
+            "key": "永乐影视",
+            "name": "🎎永乐｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
+        },
+        {
+            "key": "三九影视",
+            "name": "❄️三九｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
+        },
 {
       "key": "csp_Jpys",
       "name": "SW🥇️金牌",
@@ -219,7 +240,14 @@
       "filterable": 1
     },
    
-
+  {
+            "key": "欧乐影院",
+            "name": "欧乐影院",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
+            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
+        },
+   
 	    
 { "key": "360资源", "name": "360资源-采集", "type": 1, "api": "https://360zy.com/api.php/seaxml/vod/", "searchable": 1, "changeable": 1, "categories": [ "国产动漫", "日韩动漫", "国产剧", "韩国剧", "日本剧", "电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "香港剧", "欧美剧", "记录片", "台湾剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "欧美动漫", "港台动漫", "海外动漫" ] },
 
@@ -260,14 +288,7 @@
             "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E9%99%A2.js"
         },
        
-        {
-            "key": "欧乐影院",
-            "name": "欧乐影院",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
-        },
-   
+      
 	
 	
 	{ "key": "哈哈影视", "name": "哈哈 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/%E5%93%88%E5%93%88%E5%BD%B1%E8%A7%86.json" },
@@ -1027,6 +1048,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
