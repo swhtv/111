@@ -37,14 +37,14 @@ CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 FOX_NEWS_CHANNEL,https://fl41.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 FOX_NEWS_CHANNEL,https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 Fox news channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-fox-now,https://livetv-fa.tubi.video/fox-live-now/index.m3u8
+
 FOX BUSINESS,https://fl31.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
 FOX BUSINESS,https://stream-aleph.m.ro/Aleph/ngrp:Alephbiz9X16.stream_all/playlist.m3u8
 CPAC,https://cpac-ca-live.cdn.vustreams.com/groupa/live/f9809cea-1e07-47cd-a94d-2ddd3e1351db/live.isml/live-video_track=600000.m3u8
 CBS news,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-sky news 2,https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 AJE news English,https://live-hls-apps-aje-fa.getaj.net/AJE/03.m3u8
 AJE news English,http://live-hls-web-aje.getaj.net/AJE/index.m3u8
@@ -100,8 +100,7 @@ History,https://fl1.moveonjoy.com/history_channel/index.m3u8
 
 National_Geographic,https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
 Nat_Geo_Wild,https://fl1.moveonjoy.com/Nat_Geo_Wild/tracks-v1a1/mono.m3u8
-Nat-Geo,http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/176654.m3u8
-Wild Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+ Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 WILD EARTH,https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7b00b4ddb39f7e3014e917d10fa83439fd401ea85d708834a847ff8109f96a2ded54387e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3ec028d077745969226905dafc4e68697341c4fb912568f561/126/640x360_1020800/index.m3u8
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
@@ -145,7 +144,7 @@ Disney XD,https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
 
 Nick Jr East,https://fl1.moveonjoy.com/NICK_JR/index.m3u8
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
-Nick Music (720p),https://fl1.moveonjoy.com/NICK_MUSIC/index.m3u8
+
 Nickelodeon,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
 NickToons,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
@@ -463,8 +462,6 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 SPORT体育 ,#genre#
 
-TENNIS_CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
-
 
 TENNIS_CHANNEL,https://fl31.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.ts.m3u8
 TENNIS CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
@@ -480,18 +477,20 @@ DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 TSN_1,https://fl1.moveonjoy.com/TSN/index.m3u8
 
 TSN 1,http://fortv.cc:8080/b6twFE/414151/57292
-TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
+TSN_ 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 
 TSN 2,p2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
 TSN 2,http://nocable.cc:8080/5AGbfz/324331/47442
 
-TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
+TSN_ 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 3,http://nocable.cc:8080/5AGbfz/324331/47444
 TSN 3,p2p://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
 
 TSN_5,https://fl1.moveonjoy.com/TSN_5/index.m3u8
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
+
+FIFA,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/e6a69f55-a6f0-4a72-9cf3-0c3f555e000e/1.m3u8
 NHL Centre Ice 8,http://fl1.moveonjoy.com/NHL_8/index.m3u8
 NHL Centre Ice 7,http://fl1.moveonjoy.com/NHL_7/index.m3u8
 NHL Centre Ice 6,http://fl1.moveonjoy.com/NHL_6/index.m3u8
@@ -537,7 +536,7 @@ ESPN,https://e3.thetvapp.to/hls/ESPN/mono.m3u8
 ESPN 2,https://e3.thetvapp.to/hls/ESPN2/mono.m3u8
 CCTV 5,https://yunmei.tv/cctv/cctv-5.m3u8
 CCTV 5+,https://yunmei.tv/cctv/cctv-5+.m3u8
-FIFA,https://d2w9q46ikgrcwx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/e6a69f55-a6f0-4a72-9cf3-0c3f555e000e/1.m3u8
+
 
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
@@ -552,10 +551,7 @@ SONY TEN 2 HD,https://www.redbooks.site/x11.php?id=167571.m3u8
 SONY TEN 3 HD,https://www.redbooks.site/x11.php?id=167572.m3u8
 SONY TEN 4,https://www.redbooks.site/x11.php?id=167595.m3u8
 ASTRO CRICKET HD,https://www.redbooks.site/x11.php?id=167581.m3u8
-SUPERSPORT CRICKET,https://www.redbooks.site/x11.php?id=167592.m3u8
-FOX CRICKET,https://www.redbooks.site/x11.php?id=167593.m3u8
-SKY SPORTS CRICKET,https://www.redbooks.site/x11.php?id=167594.m3u8
-BEIN SPORT CRICKET,https://www.redbooks.site/x11.php?id=167584.m3u8
+
 
 NOW SPORTS PL 1 HD,https://www.redbooks.site/x11.php?id=223056.m3u8
 NOW SPORTS PL 2 HD,https://www.redbooks.site/x11.php?id=223057.m3u8
@@ -712,6 +708,7 @@ CCTV11,https://yunmei.tv/cctv/cctv-11.m3u8
 CCTV12,https://yunmei.tv/cctv/cctv-12.m3u8
 CCTV13,https://yunmei.tv/cctv/cctv-13.m3u8
 CCTV16,https://67886.sdmdbb.com/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8?auth_key=1762525328-0-0-e8b17d026863af9480f352ba9cfc5a46
+
 
 
 
