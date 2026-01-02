@@ -2,7 +2,7 @@
 {
 ## spider
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
+//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
   "sites": [
   {
             "key": "zy_无尽资源",
@@ -111,27 +111,7 @@
             ]
         },  
   
- {
-      "key": "唐 人 街",
-      "name": "唐 人 街",
-      "type": 0,
-      "api": "https://www.tangrenjie.tv/api.php/provide/vod/at/xml"
-    }, 
-  
- {
-      "key": "F O X",
-      "name": " F O X",
-      "type": 0,
-      "api": "https://foxzy.net/api.php/provide/vod/at/xml/"
-    },   
-    
-{
-      "key": " 快  播",
-      "name": " 快  播",
-      "type": 0,
-      "api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml"
-    },
-
+ 
 {
             "key": "zy_量子 资源",
             "name": "接口┃量子 资源",
