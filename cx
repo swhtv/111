@@ -80,7 +80,8 @@
   {"key":"cspipianba","name":"SW華 片吧 華哥 提示如访问不到電影劇集可去 主页换不同资源","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综
 艺$4"}}, 
 {"key": "華哥bf","name": "SW華哥 暴風 ","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list","playUrl": "","categories": ["国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","海外剧","纪录片","动作片","犯罪片","科幻片","剧情片","悬疑片","喜剧片","战争片","爱情片","恐怖片","动画片","泰国剧","欧美动漫","动漫片","日韩动漫","港台动漫","国产动漫","海外动漫","足球","篮球","大陆综艺","港台综艺","日本综艺","综艺频道","新马泰综艺"]},
-
+ {"key":"csp_xlys","name":"修罗┃影视","type":3,"jar":"https://github.com/swhtv/ak/raw/refs/heads/main/qiaoji.jar","api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
+ {"key": "csp_XYQHiker_骚火电影VIP","name": "骚火电影┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"},
 
 
 {"key":"csp LiteApple","name":"SW-APPLE 華哥提示如访问不到電影劇集可去 主页换不同资源","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
