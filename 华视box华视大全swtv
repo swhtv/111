@@ -18,7 +18,7 @@ ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 CP24(TEST1),http://fortv.cc:8080/b6twFE/414151/47218
-CP24(TEST1),http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
+
 CP24(TEST2),http://nocable.cc:8080/5AGbfz/324331/57257
 CP24(TEST2),http://tvmate.icu:8080/99437538/28260477/57357
 
@@ -26,7 +26,7 @@ FOX_NEWS CHANNEL,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX_NEWS CHANNEL,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 FOX_NEWS CHANNEL,https://fl31.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 FOX_NEWS CHANNEL,https://a1xs.vip/300011
-FOX_NEWS CHANNEL,http://iptvpro.pw:35451//live/swtv123/87654321/1183.ts
+
 Fox news channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 Fox news channel,https://a1xs.vip/300011
 Fox news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
@@ -35,8 +35,7 @@ MSNBC UHD,http://41.205.93.154/MSNBC/index.m3u8
 MSNBC,http://fl1.moveonjoy.com/MSNBC/index.m3u8
 MSNBC,http://41.205.93.154/MSNBC/index.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
-global ca,http://iptvpro.pw:35451//live/swtv123/87654321/1455.ts
-City Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1438.ts
+
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
 BBC HD,https://a1xs.vip/1000001
 BBC,https://a1xs.vip/1000002
@@ -317,9 +316,6 @@ SW-TV港台,#genre#
 無綫新聞台,http://r.jdshipin.com/CkuBd
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB無线新聞,http://rihou.cc:555/tv/[Mt]无线新闻
-新时代1测试,http://iptvpro.pw:35451//live/SUPER-F/87654321/445.ts
-
-TVB 88 跑馬台,http://iptvpro.pw:35451//live/SUPER-F/87654321/136.ts
 
 
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
@@ -746,21 +742,21 @@ CCTV 4 hd,https://xv4766.kylintv.tv/live/cctv4hd_iphone.m3u8
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 
 
-CCTV1,https://yunmei.tv/cctv/cctv-1.m3u8
+CCTV1,http://rihou.cc:555/tv/[JR]CCTV-01
 CCTV1,https://aaaa.dds0557.com/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8?auth_key=1768315835-0-0-81a805a55eab9bbe17d1020e8b987d61
-CCTV2,https://yunmei.tv/cctv/cctv-2.m3u8
+CCTV2,http://rihou.cc:555/tv/[JR]CCTV-02
 CCTV2,https://aaaa.dds0557.com/livetv/hlcc/K_CpRQ7HR/K_CpRQ7HR_live.m3u8?auth_key=1768316093-0-0-6f2b47b410f631ba236a105adb451be7
-CCTV3,https://yunmei.tv/cctv/cctv-3.m3u8
-CCTV4,https://yunmei.tv/cctv/cctv-4.m3u8
-CCTV5,https://yunmei.tv/cctv/cctv-5.m3u8
-CCTV6,https://yunmei.tv/cctv/cctv-6.m3u8
-CCTV7,https://yunmei.tv/cctv/cctv-7.m3u8
-CCTV8,https://yunmei.tv/cctv/cctv-8.m3u8
-CCTV9,https://yunmei.tv/cctv/cctv-9.m3u8
-CCTV10,https://yunmei.tv/cctv/cctv-10.m3u8
-CCTV11,https://yunmei.tv/cctv/cctv-11.m3u8
-CCTV12,https://yunmei.tv/cctv/cctv-12.m3u8
-CCTV13,https://yunmei.tv/cctv/cctv-13.m3u8
+CCTV3,http://rihou.cc:555/tv/[JR]CCTV-03
+CCTV4,http://rihou.cc:555/tv/[JR]CCTV-04
+CCTV5,http://rihou.cc:555/tv/[JR]CCTV-05
+CCTV6,http://rihou.cc:555/tv/[JR]CCTV-06
+CCTV7,http://rihou.cc:555/tv/[JR]CCTV-07
+CCTV8,http://rihou.cc:555/tv/[JR]CCTV-08
+CCTV9,http://rihou.cc:555/tv/[JR]CCTV-09
+CCTV10,http://rihou.cc:555/tv/[JR]CCTV-10
+CCTV11,http://rihou.cc:555/tv/[JR]CCTV-11
+CCTV12,http://rihou.cc:555/tv/[JR]CCTV-12
+CCTV13,http://rihou.cc:555/tv/[JR]CCTV-13
 CCTV16,https://67886.sdmdbb.com/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8?auth_key=1762525328-0-0-e8b17d026863af9480f352ba9cfc5a46
 
 
