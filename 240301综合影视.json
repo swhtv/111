@@ -4,9 +4,10 @@
 //"spider":"https://github.com/swhtv/ak/raw/refs/heads/main/fan%20(4).txt;md5;363b678342a43763ffbc6c3ec6c5fc0b",
 //"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
 //"spider": "https://github.com/swhtv/box/raw/refs/heads/main/spider.jar;md5;3d161697458ecbcd2651a749db761ba1",
-	
+
+"spider":"https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",	
 //"spider": "https://github.com/liu673cn/box/raw/refs/heads/main/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
-"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
+//"spider":"https://github.com/swhtv/1/raw/main/A4.jar",
 //"spider":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar",
 //"spider":"https://github.com/swhtv/1/blob/main/Xspider.jar",
 //"spider": "http://64.112.42.49:1688/https://raw.githubusercontent.com/yuyu10245/yuyu/refs/heads/master/jar/spider.jar",
@@ -38,6 +39,104 @@
   ],
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
+ {
+            "key": "金牌影视",
+            "name": "☀金牌🔹華哥",
+            "type": 3,
+            "api": "csp_Jpys",
+            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
+  {
+      "key": "瓜子影视",
+      "name": "☀瓜子🔹官源",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+
+ {"key":"csp_xlys","name":"修罗┃影视","type":3,"jar":"https://github.com/swhtv/ak/raw/refs/heads/main/qiaoji.jar","api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
+ {"key": "csp_XYQHiker_骚火电影VIP","name": "骚火电影┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"},
+
+     {
+            "key": "灵虎",
+            "name": "灵虎｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "https://bind.315999.xyz/89.txt",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+{
+            "key": "热播影视",
+            "name": "热播｜APP",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+   {
+            "key": "蔬菜",
+            "name": "蔬菜丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://huohu.yihn.cc",
+                "site": "",
+                "dataKey": "huohushipingetap",
+                "dataIv": "huohushipingetap",
+                "deviceId": "",
+                "version": "140",
+                "ua": ""
+            }
+        },
+{
+            "key": "金牌影视",
+            "name": "金牌｜影视",
+            "type": 3,
+            "api": "csp_Jpys",
+            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
+{
+            "key": "西瓜影视",
+            "name": "西瓜｜影视",
+            "type": 3,
+            "api": "csp_Gz360",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+    {
+            "key": "骚火影视",
+            "name": "骚火｜影视",
+            "type": 3,
+            "api": "csp_SaoHuo",
+            "playerType": 2,
+            "ext": "https://shdy5.us"
+        },
+ {
+            "key": "爱看机器人",
+            "name": "爱看｜影视",
+            "type": 3,
+            "api": "csp_Ikanbot",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
 
 {
             "key": "csp_xml无尽资源",
@@ -1049,6 +1148,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
