@@ -103,13 +103,7 @@
                 "ua": ""
             }
         },
-{
-            "key": "金牌影视",
-            "name": "金牌｜影视",
-            "type": 3,
-            "api": "csp_Jpys",
-            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-        },
+
 {
             "key": "西瓜影视",
             "name": "西瓜｜影视",
@@ -224,7 +218,7 @@
 {
       "key": "csp_Jpys",
       "name": "SW🥇️金牌",
-      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
+      "type": 3,"jar": "https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
       "api": "csp_Jpys"
     },
     
@@ -236,14 +230,7 @@
       "api": "csp_AppRJ",
       "ext": "http://v.rbotv.cn"
     },
-    {
-      "key": "梦回",
-      "name": "SW梦回",
-      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
-      "api": "csp_AppRJ",
-      "ext": "http://v.lkuys.cn"
-    },
-    
+
     {
       "key": "肥猫",
       "name": "SW肥猫",
@@ -256,21 +243,7 @@
         "version": "201"
       }
     },
-    {"key":"T4-caiji","name":"影视-采集(T4)","type":4,"api":"https://catbox.n13.club/t9/caiji.php"},
    
-    {
-      "key": "再来",
-      "name": "SW再来",
-      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
-      "api": "csp_AppGet",
-      "ext": {
-        "url": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
-        "dataKey": "37kj83zs1q16jk6t",
-        "siteApi": "qiji",
-        "version": ""
-      }
-    },
-    
     {
       "key": "仓鼠",
       "name": "SW🐹耗子",
@@ -296,15 +269,6 @@
       }
     },
     
-   
-   
-    {
-      "key": "csp_Wwys",
-      "name": "SW🌾️农民",
-      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
-      "api": "csp_Wwys",
-      "ext": "https://www.wwgz.cn"
-    },
    
     {
       "key": "csp_Xlys",
@@ -1148,6 +1112,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
