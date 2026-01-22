@@ -67,6 +67,343 @@
 			"searchable": 0,
 			"quickSearch": 0
 		},
+
+     {
+            "key": "csp_XYQHiker_酷爱网>",
+            "name": "🔞酷爱网✈️",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/酷爱成人网.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_黄S仓库123",
+            "name": "🔞黄S仓库123✈️🔗",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库123.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "csp_XYQHiker_黄S仓库la",
+            "name": "🔞黄S仓库啦✈️🔗",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/黄色仓库啦.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_丽丽AV",
+            "name": "🔞丽丽AV",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/丽丽av.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+  {
+            "key": "csp_XYQHiker_杏吧",
+            "name": "🔞杏吧",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/杏吧视频.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+  {
+            "key": "csp_XYQHiker_正MAV",
+            "name": "🔞正MAV",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/正妹av.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "csp_XYQHiker_亚色影库",
+            "name": "🔞亚色影库",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/亚色影库.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.8
+            }
+        },
+ {
+            "key": "csp_XYQHiker_日日撸",
+            "name": "🔞日日撸",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/日日撸.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "csp_XYQHiker_台湾kiss",
+            "name": "🔞台湾kiss",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/台湾kiss.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_18jav",
+            "name": "🔞18JAV(XYQHiker)",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/18jav.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+  {
+            "key": "csp_XYQHiker_xvideos",
+            "name": "🔞Xvideos",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/xvideos.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+  {
+            "key": "csp_XYQHiker_xHamster",
+            "name": "🔞xHamster",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/xHamster.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_qinav",
+            "name": "🔞Qinav",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/qinav.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "api.sexnguon.com",
+            "name": "🔞Sexnguon",
+            "type": 1,
+            "api": "http://api.sexnguon.com/api.php/provide/vod/",
+            "searchable": 1,
+            "recordable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_porn87",
+            "name": "🔞porn87",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/porn87.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+  {
+            "key": "csp_XYQHiker_MOTV",
+            "name": "🔞MOTV",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/motv.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_hohoj",
+            "name": "🔞HOHOJ",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/hohoj.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_444咖啡",
+            "name": "🔞444咖啡",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/444咖啡.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_18av",
+            "name": "🔞18AV",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/18av.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_javtsunami",
+            "name": "🔞javtsunami",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javtsunami.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+ {
+            "key": "csp_XYQHiker_av6k",
+            "name": "🔞JAV6K",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av6k.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "csp_XYQHiker_javffm",
+            "name": "🔞JAVFFM",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javffm.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        {
+            "key": "csp_XYQHiker_javtsunami",
+            "name": "🔞javtsunami",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javtsunami.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+
+ {
+            "key": "csp_XYQHiker_鲨鱼av",
+            "name": "🔞鲨鱼av",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/鲨鱼av.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+
         
 {
       "key": "hav ",
