@@ -20,14 +20,13 @@ RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m
 CP24(TEST1),http://fortv.cc:8080/b6twFE/414151/47218
 CP24(TEST2),http://nocable.cc:8080/5AGbfz/324331/57257
 CP24(TEST2),http://tvmate.icu:8080/99437538/28260477/57357
-FOX_NEWS CHANNEL,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-FOX_NEWS CHANNEL,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-FOX_NEWS CHANNEL,https://a1xs.vip/300011
-Fox news channel,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-Fox news channel,https://a1xs.vip/300011
-Fox news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
-Fox news channel,http://nocable.cc:8080/5AGbfz/324331/1818
-Fox news channel,http://96.44.160.246:9999/smt.php?id=foxnews_twn
+FOX NEWS CHANNEL,https://a1xs.vip/300011
+FOX NEWS CHANNEL,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+FOX NEWS CHANNEL,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+Fox-news channel,https://a1xs.vip/300011
+Fox-news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_300.m3u8
+Fox-news channel,http://nocable.cc:8080/5AGbfz/324331/1818
+
 MSNBC HD,http://41.205.93.154/MSNBC/index.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
@@ -333,17 +332,7 @@ NowGolf 2,http://194.147.100.173/jsy/p.php/?id=3jUbG4_Po8aPJMlflO4gJw
 Now630体育台,http://194.147.100.173/jsy/p.php/?id=Y7GLIE5NxvtEXOwuOowIWA
 NOW 641NBA,http://rihou.cc:555/tv/Now641NBA
 NowSports641,http://194.147.100.173/jsy/p.php/?id=Ig_dD2W55YbMe1oJqX7NAQ
-88跑马台,http://194.147.100.173/jsy/p.php/?id=TMeqPLGdesmwpt7QhKTITQ
-Now668跑马台,http://194.147.100.173/jsy/p.php/?id=gcenEGlqZAYF0Afw2tEY3g
-mySUPER獎門人,http://194.147.100.173/jsy/p.php/?id=6zNd0xzq-uDOGtDN_Evu2w
-mySUPER EYT,http://194.147.100.173/jsy/p.php/?id=cqZvLsCCYpE1mBIUmZaMCQ
-mySUPER識食,http://194.147.100.173/jsy/p.php/?id=upVaHnU9hFhHbpRpTJy8UQ
-mySUPER識嘆,http://194.147.100.173/jsy/p.php/?id=i3Rn6iU4PI6oxxQtDWUgeg
-mySUPER Music,http://194.147.100.173/jsy/p.php/?id=NPV_iVzKYGWgjx6WaZC7Tg
-mySUPER金曲,http://194.147.100.173/jsy/p.php/?id=XqXBlQCBr-azyEB-ro02Lg
-mySUPER煲劇,http://194.147.100.173/jsy/p.php/?id=kAk1cSxuAmF3sShaeF6dlw
-mySUPER劇場,http://194.147.100.173/jsy/p.php/?id=J6tXh0jaWGsp7qSm4rQclw
-mySUPER話當年,http://194.147.100.173/jsy/p.php/?id=S2TtmWkN1xnAipFu2HxD4w
+
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠 台,https://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
@@ -361,9 +350,9 @@ TVB星河,http://r.jdshipin.com/Voac4
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://r.jdshipin.com/sXuuD
 無綫星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-千禧香港经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
+千禧香港经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 TVB翡翠,http://r.jdshipin.com/62WM7
 亞洲武俠台,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
