@@ -30,7 +30,7 @@
     {
       "name": "adult_2023",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/swhtv/111/main/%E5%8D%8E%E8%A7%86box%E5%8D%8E%E8%A7%86%E5%A4%A7%E5%85%A8swtv",
+      "url": "http://194.147.100.173/box/tvzb9.txt",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
@@ -1112,6 +1112,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
