@@ -20,13 +20,13 @@ RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m
 CP24(TEST1),http://fortv.cc:8080/b6twFE/414151/47218
 CP24(TEST2),http://nocable.cc:8080/5AGbfz/324331/57257
 CP24(TEST2),http://tvmate.icu:8080/99437538/28260477/57357
-FOX NEWS CHANNEL,https://a1xs.vip/300011
-FOX NEWS CHANNEL,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
-FOX NEWS CHANNEL,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+FOX NEWS-CHANNEL,https://a1xs.vip/300011
+FOX NEWS-CHANNEL,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
+FOX NEWS-CHANNEL,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
+FOX NEWS-CHANNEL,https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 
 Fox-news channel,http://nocable.cc:8080/5AGbfz/324331/1818
-Fox-news channel,https://use14.playlist.live-video.net/v1/playlist/CpAGjYUhIZxwprPZu4Lumji0oMf0BSgxhRjcOiIjiefcsjLH6IL_QDoyDU5fXEldcBYPtirXnMswJmBd0-fnY4BGd4lOvh4uUOg1aeNfQSM7LYvaX66sD-2X0xZTXCt9NMscZEQMhmJFsBj2tt3k-mA0-ttwkN79IlcjAozxH63lVg61Krx6Sk_OnfC-0wa5wXjb9WSW6ObocMjIMhg0r9ul9KXPO-4HrlJt_MljiBM3gUhxJAnKyM6uso_ucOOUnhOFN-83UO_B2JM_id8a48NgNbVJUAc1QzZsujydb3GV6mN5YoM-vHuBtKOq1nqhJ0AknoOAylndHhCqiUKPOAtL5Dic92AB5azzlt01REetsKDO0eVXybZD9iks0DvMa7GuxZi6_JsXoHlkS0_ydk9K5U2XC-jpmX5DMvmKtkcOAmM8hkON5pw-jeaagxYRUu60MuPplHsvr3ruFszQQEGsJBRoh5vkm_V5KZt0W2jnjKFxFhbbevZO2lUCmwsxTLaedv21Ml71XNITOMD6VaX7eyi2wydYmRQIEgx37ZhzQ8HmEsYTqK807PvlYPo5VsAt1s1znP22GcbJmy4GvbT3eOP3pqYcq7Nu05-qrBIAzzhtXu-JcNTpd4UomDRtK5im-LSCVRnR9NeNIimlL182v8K7yOTqqB4KxMUgx4r77U8WLP6js29DH4ir7wtbGuJjJhoE-U4A9-MtGK7W3dy-GMCbYuuEjzrhsfFdVKD9ZmkeskDwTH08E9-5EWwQ8k7mP0SLROBpslxgRz5P9Oq0JVgcWDJ9inwtHYbQPk6Eab9WzsfsPV8NwESbNsq0W7Ra9GzptUJie1iV6gch98Fkd-QZTlkYAD4lC7nCWjbIvD-Mia-6PYCaP8fcuQYbor_mq3QKKBH2yHLguRMfhX4KOuuISHRI60xFXgpZhSBOzSXbva42XTbhup5DK523TzVfj7oihZ5vDR-UOfPhYrCr3-jXBYwp0iLxFZjdq6fOLqWa1hklo4YRa5ocGL9XzU9OTbIlutf8vQtjxat3eUGlXxoMvvuuFlF0zNMzHegMIAEqCXVzLWVhc3QtMjCfDg.m3u8
-Fox-news channel,https://a1xs.vip/300011
+Fox-news channel,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 Fox-news channel,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 MSNBC HD,http://41.205.93.154/MSNBC/index.m3u8
 MSNBC HD,https://cdn.livenewsplayer.com/hls/msnbcsd/msnbcsd/chunklist_w742319325_tkbmV3enN0YXJ0dGltZT0xNzY5MTg0NjEzJm5ld3plbmR0aW1lPTE3NjkxOTE4MTMmbmV3emhhc2g9MmFnWWJOb2pPYTRZaDZza3FiRExOMWZLQ3U2OW1FWDlZelBZT0tmaE93U2JsQkpJQ3JuU29tdGlKUzRLVjV1dmFUVnI1RWQ4YUxLa1U5X3JNNDVYUGc9PQ==.m3u8
@@ -37,6 +37,9 @@ BBC HD,https://a1xs.vip/1000001
 BBC,https://a1xs.vip/1000002
 BBC news,https://a1xs.vip/1000015
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+BBC ONE,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
+BBC TWO,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/52449019-c378-4e85-b20e-1f51e0d5bb4a/4.m3u8
+
 SKY NEWS,https://a1xs.vip/1000018
 CNN,https://fl41.moveonjoy.com/CNN/index.m3u8
 CNN UK,https://a1xs.vip/1000016
@@ -545,6 +548,8 @@ TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 BEIN SPORT 1,https://a1xs.vip/700001
+beIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
+
 TNT SPORT 1,https://a1xs.vip/300002
 TNT sport 1,https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
 TNT sport 2,https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
@@ -634,11 +639,6 @@ UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/p
 UFC H,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/united-fight-alliance/master.m3u8
 
 
-TNT Sports3,http://194.147.100.173/jsy/p.php/?id=4MaIgoia7j1V89vcpxE9Xg
-TNT Sports4,http://194.147.100.173/jsy/p.php/?id=lmDjZi5PH2txgts6F7uvSQ
-
-beIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
-mg咪咕体育1,https://msj.188766.xyz/play?id=3000000001000005308&token=13e656dd13e656dd13e656dd13e656dd
 
 now sport 603,https://yang-1989.eu.org/live/now-630
 NowSports1,http://194.147.100.173/jsy/p.php/?id=qNGn_TakOsOwRpn3Mjm45g
@@ -648,11 +648,23 @@ NowSports4,http://194.147.100.173/jsy/p.php/?id=-o4hvKP6WsBmxEXSZN5rdg
 NowSports5,http://194.147.100.173/jsy/p.php/?id=xvK2bcmrLuugfax6eqdqLw
 NowSports6,http://194.147.100.173/jsy/p.php/?id=wBgYnyVy1rfMCut9dnxBaw
 NowSports7,http://194.147.100.173/jsy/p.php/?id=CCeKNXjAhM9Q7b34vyw4fQ
-NOW英超1,http://rihou.cc:555/tv/Now英超壹台
+
+NowSports英超,http://194.147.100.173/jsy/p.php/?id=Cg80BB1FyNzag8LF_ADlug
 NowSports英超1台,http://194.147.100.173/jsy/p.php/?id=Yw8eBmhP9o9G7c552e17Og
 NowSports英超2台,http://194.147.100.173/jsy/p.php/?id=IhiIinNGPjlT1-oCwa1mUQ
 NowSports英超3台,http://194.147.100.173/jsy/p.php/?id=P0dsHfOajC0BsK429cbsWg
-
+NowSports英超4台,http://194.147.100.173/jsy/p.php/?id=xOzqpUzWsL_iyx5e6YJynA
+NowSports英超5台,http://194.147.100.173/jsy/p.php/?id=YZI3-hzKBK4G8X2mArHawA
+NowSports英超6台,http://194.147.100.173/jsy/p.php/?id=6vOiNmKxN--XPqzAj0CUug
+bEIN Sports 3,http://194.147.100.173/jsy/p.php/?id=n1COMauvxq_QCxCQTif7xg
+NowGolf 2,http://194.147.100.173/jsy/p.php/?id=fg2VzJXI0xeXw174eUWbVg
+NowGolf 3,http://194.147.100.173/jsy/p.php/?id=LuUOPG4hJYdDpA0Jm0hdTg
+Now630体育台,http://194.147.100.173/jsy/p.php/?id=04RgWhnLtNVOfYLMAPQIrw
+NowSports641,http://194.147.100.173/jsy/p.php/?id=H0QUaPX921fgupBc90oWRg
+NowSportsPlus,http://194.147.100.173/jsy/p.php/?id=dUIs6e1djzIREYHXZSVevA
+88跑马台,http://194.147.100.173/jsy/p.php/?id=S6mg18-MfQqirnoeqmKQOA
+Now668跑马台,http://194.147.100.173/jsy/p.php/?id=19TaCfqV8C7kqkmYfUGiQA
+Now336报价台,http://194.147.100.173/jsy/p.php/?id=NSf0HQBk9oPiVMZw81S2hg
 ELEVEN sport 1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN sport 2,rtmp://f13h.mine.nu/sat/tv741
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
@@ -844,6 +856,19 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 凤凰资讯,http://zb.xpgtv.net/ysp/smt.php?id=phoenixinfo_hd
 
 
+
+
+解码选（内置）播放,#genre#
+XINGSHIDAI E,http://iptvpro.pw:35451//live/SUPER-F/87654321/445.ts
+XINGSHIDAI W ,http://iptvpro.pw:35451//live/SUPER-F/87654321/446.ts
+XINGSHIDAI HD,http://iptvpro.pw:35451//live/SUPER-F/87654321/447.ts
+OMNI 2,http://iptvpro.pw:35451//live/swtv123/87654321/1450.ts
+MSNBC,http://iptvpro.pw:35451//live/swtv123/87654321/1273.ts
+CP24 B,http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
+CP24,http://iptvpro.pw:35451//live/swtv123/87654321/1429.ts
+CTV  Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.ts
+City TV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1438.ts
+BNN,http://iptvpro.pw:35451//live/swtv123/87654321/1356.ts
 
 
 FRANCE 法語,#genre#
