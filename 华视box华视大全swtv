@@ -316,9 +316,7 @@ SW-TV港台,#genre#
 無綫新聞台,http://r.jdshipin.com/CkuBd
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 TVB無线新聞,http://rihou.cc:555/tv/[Mt]无线新闻
-新時代1,http://194.147.100.173/jsy/p.php/?id=No8fyxGZCnQ48AuXsbUW6g
-新時代1b,http://194.147.100.173/jsy/p.php/?id=jSOdhRwPs21f1PSJYYpfVA
-新時代2,http://194.147.100.173/jsy/p.php/?id=jTQCGqsbkPDMhkjN5ubj1g
+
 
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 香港有綫新聞78,http://rihou.cc:555/tv/[Mt]有线新闻
@@ -861,9 +859,7 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 解码选（内置）播放,#genre#
 CP24 ,http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
 Networks,http://iptvpro.pw:35451//live/swtv123/87654321/1372.ts
-新時代  1,http://iptvpro.pw:35451//live/SUPER-F/87654321/445.ts
-新時代  1 b ,http://iptvpro.pw:35451//live/SUPER-F/87654321/446.ts
-新時代  2HD,http://iptvpro.pw:35451//live/SUPER-F/87654321/447.ts
+
 OMNI 2,http://iptvpro.pw:35451//live/swtv123/87654321/1450.ts
 MSNBC,http://iptvpro.pw:35451//live/swtv123/87654321/1273.ts
 Global Ontario,http://iptvpro.pw:35451//live/swtv123/87654321/1455.ts
