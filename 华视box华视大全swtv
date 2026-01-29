@@ -534,7 +534,7 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 
 
-SPORT体育 ,#genre#
+SW-SPORT体育 ,#genre#
 
 
 TENNIS _CHANNEL,https://fl31.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.ts.m3u8
@@ -756,7 +756,7 @@ Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfight
 
 
 
-CCTV+卫视,#genre#
+SW-CCTV+卫视,#genre#
 CCTV 13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
 
@@ -856,14 +856,15 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 
 
 
-解码选（内置）播放,#genre#
+解码选(内置)播放,#genre#
 CP24 ,http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
 Weather Networks,http://iptvpro.pw:35451//live/swtv123/87654321/1372.ts
-
 OMNI 2,http://iptvpro.pw:35451//live/swtv123/87654321/1450.ts
 MSNBC,http://iptvpro.pw:35451//live/swtv123/87654321/1273.ts
 Global Ontario,http://iptvpro.pw:35451//live/swtv123/87654321/1455.ts
+FOX News,http://iptvpro.pw:35451//live/swtv123/87654321/1183.ts
 CTV  Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1435.ts
+CTV 2,http://iptvpro.pw:35451//live/swtv123/87654321/1428.ts
 City TV Toronto,http://iptvpro.pw:35451//live/swtv123/87654321/1438.ts
 TSN 1,http://iptvpro.pw:35451//live/swtv123/87654321/1395.ts
 TSN 2,http://iptvpro.pw:35451//live/swtv123/87654321/1396.ts
@@ -873,9 +874,20 @@ TSN 5,http://iptvpro.pw:35451//live/swtv123/87654321/1399.ts
 Sportsnet 1,http://iptvpro.pw:35451//live/swtv123/87654321/1443.ts
 Sportsnet ON,http://iptvpro.pw:35451//live/swtv123/87654321/1445.ts
 Sportsnet P,http://iptvpro.pw:35451//live/swtv123/87654321/1446.ts
+F1,http://iptvpro.pw:35451//live/swtv123/87654321/1563.ts
+Premier Sports 1,http://iptvpro.pw:35451//live/swtv123/87654321/1509.ts
+Premier Sports 2,http://iptvpro.pw:35451//live/swtv123/87654321/1510.ts
+Now 英超1台 CH621 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/89.ts
+Now 英超1台 (EN) CH621 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/90.ts
+Now 英超2台 CH622 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/91.ts
+Now 英超3台CH623 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/92.ts
+Now 英超4台 CH624 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/93.ts
+Now 英超5台 CH625 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/94.ts
+Now 英超6台 CH626 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/95.ts
+HK NBA TV,http://iptvpro.pw:35451//live/swtv123/87654321/65070.ts
 
 
-FRANCE 法語,#genre#
+SW-FRANCE 法語,#genre#
 
 FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
 EV TV ÉVANGILE,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
@@ -1105,7 +1117,7 @@ FX2,https://toonixhls.wns.live/hls/stream.m3u8
 
 
 
-日本JAPAN,#genre#
+SW-日本JAPAN,#genre#
 CGTN JP,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
 NHK World ,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
 
@@ -1190,7 +1202,7 @@ Sport Live Plus,https://ca01.utako.moe/sport_live_plus/index.m3u8
 
 
 
-韩国KOREA,#genre#
+SW-韩国KOREA,#genre#
 
 
 CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
@@ -1319,7 +1331,7 @@ Fox News Talk Radio,http://fnurtmp-f.akamaihd.net/i/FNRADIO_1@92141/master.m3u8
 
 
 
-Italia,#genre#
+SW-Italia,#genre#
 Rai NEWS 24,https://streamcdne2-8e7439fdb1694c8da3a0fd63e4dda518.msvdn.net/rainews1/hls/rainews_1800/chunklist.m3u8
 Rai Premium,https://ilglobotv-live.akamaized.net/channels/RAIPremium/events(1000)/RAIPremium-video=1800000.m3u8
 Rai 1,https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
@@ -1337,7 +1349,7 @@ Kiss Kiss Italia TV,https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playl
 TV Yes Italia,https://stream1.aswifi.it/radioyes/live/index.m3u8
 Cusano Italia TV,https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
 
-Mexico,#genre#
+SW-Mexico,#genre#
 SPAIN LIVE TV LA2,https://d4g9wh8d4wiaw.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/eef03bcc-4a23-41f4-a6b6-d2c0789e592d/3.m3u8
 24 HORAS SPAIN,https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_360.m3u8
 HCH VIVO,https://live2.eu-north-1a.cf.dmcdn.net/sec2(Rp-ynFkvmUBYU8aOUUtou7HwiT7QJy9X_BCk_tbthkgdtauhyjrLPhQWXk0YTThCraGvTeqSi_68Ds1cwU-6aeZkz6bXz_nSA4etOTdEAW7QfI-TA6edJOI77PUpB2xi)/cloud/3/x81za5c/s/live-480.m3u8
@@ -1400,7 +1412,7 @@ UMTV,https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/chunkli
 VB MEDIA TV,https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/tracks-v2a1/mono.m3u8
 VISION TELEVISION,https://cloudvideo.servers10.com:8081/8016/tracks-v1a1/mono.m3u8
 
-COMBODIA,#genre#
+SW-COMBODIA,#genre#
 EAC NEWS,https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 TVK1,https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8
 TVK2,https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8
@@ -1413,7 +1425,7 @@ NETLINK TV,https://netlink.netlinkbroadcaster.com/hls/test.m3u8
 MY TV,https://live.happywatch99.com/livehd11/90ecf35382a7597e553200692c3fc384.sdp/chunks.m3u8
 APSARA TV11,https://live.ams.com.kh/app/stream/playlist.m3u8
 
-CHILE,#genre#
+SW-CHILE,#genre#
 U LOS LAGOS TV,https://tv.ulagos.cl/web/live.m3u8
 UESTV,https://tls-cl.cdnz.cl/uestv/live/chunklist_w1345339806.m3u8
 UTV,https://v2.tustreaming.cl/utv/tracks-v1a1/mono.m3u8
