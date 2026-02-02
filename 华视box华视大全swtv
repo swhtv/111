@@ -858,6 +858,8 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 
 解码选(内置)播放,#genre#
 CP24 ,http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
+CP24 A,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1350.ts
+CP24 B,http://iptvpro.pw:35451//live/iptvsw0116/sw87654321/1350.ts
 Weather Networks,http://iptvpro.pw:35451//live/swtv123/87654321/1372.ts
 OMNI 2,http://iptvpro.pw:35451//live/swtv123/87654321/1450.ts
 MSNBC,http://iptvpro.pw:35451//live/swtv123/87654321/1273.ts
@@ -872,7 +874,9 @@ TSN 3,http://iptvpro.pw:35451//live/swtv123/87654321/1397.ts
 TSN 4,http://iptvpro.pw:35451//live/swtv123/87654321/1398.ts
 TSN 5,http://iptvpro.pw:35451//live/swtv123/87654321/1399.ts
 Sportsnet 1,http://iptvpro.pw:35451//live/swtv123/87654321/1443.ts
-Sportsnet ON,http://iptvpro.pw:35451//live/swtv123/87654321/1445.ts
+Sportsnet 1 A,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1443.ts
+Sportsnet ONT,http://iptvpro.pw:35451//live/swtv123/87654321/1445.ts
+Sportsnet ONT A,http://iptvpro.pw:35451//live/swtv116a/ak87654321/1445.ts
 Sportsnet P,http://iptvpro.pw:35451//live/swtv123/87654321/1446.ts
 F1,http://iptvpro.pw:35451//live/swtv123/87654321/1563.ts
 Premier Sports 1,http://iptvpro.pw:35451//live/swtv123/87654321/1509.ts
