@@ -188,41 +188,7 @@
 {"key":"T4-douban","name":"豆瓣sw","type":4,"api":"https://catbox.n13.club/t9/douban.php"},
 
 {"key": "百度","name": "SW-百度","type": 1,"api": "https://api.apibdzy.com/api.php/provide/vod/?ac=list","searchable": 1,"filterable": 0},
- {
-            "key": "量子资源",
-            "name": "量子｜采集",
-            "type": 1,
-            "api": "https://cj.lziapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "changeable": 1,
-            "categories": [
-                "国产剧",
-                "欧美剧",
-                "香港剧",
-                "韩国剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "泰国剧",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "欧美综艺"
-            ]
-        },
+
       
 	{
 			"key": "索尼-资源",
@@ -258,11 +224,6 @@
 {"key":"T4-美食","name":"sw華哥B站-美食(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=美食"},
 {"key":"T4-中医","name":"sw華哥B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
 {"key":"T4-球类合集","name":"sw華哥B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
-
-
-{"key":"drpy_js_豆瓣","name":"豆瓣[js]","type":3,"api":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/dr_py/js/drpy.js","ext":"./dr_py/js/drpy.js"},
-
-{"key": "MV大全","name": "SW華MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},        
 
 {"key":"我的哔哩","name":"B站 華哥[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/我的哔哩.js"},
 
@@ -301,9 +262,6 @@
             ]
         },
         
-
-{"key": "360","name": "SW飞龙","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
-"国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
 
 
 		{
