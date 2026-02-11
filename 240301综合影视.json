@@ -297,15 +297,7 @@
       "api": "csp_Gz360",
       "playerType": 2
     }, 
-    {
-      "key": "csp_LiteApple",
-      "name": "SW🍎┃苹果┃",
-      "type": 3,"jar": "https://6296.kstore.vip/PandaQ250828.jpg;md5;faff0adc799face065ec66a0ee01761e",
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
    
   {
             "key": "欧乐影院",
@@ -318,16 +310,6 @@
 	    
 { "key": "360资源", "name": "360资源-采集", "type": 1, "api": "https://360zy.com/api.php/seaxml/vod/", "searchable": 1, "changeable": 1, "categories": [ "国产动漫", "日韩动漫", "国产剧", "韩国剧", "日本剧", "电影片", "连续剧", "综艺片", "动漫片", "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "香港剧", "欧美剧", "记录片", "台湾剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "欧美动漫", "港台动漫", "海外动漫" ] },
 
-{
-      "key": "SW華-苹果",
-      "name": "sw-apple",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-        "jar": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
-      "quickSearch": 1,
-      "changeable": 1
-    },
 
 
 {"key":"csp_XBPQ_欧洲","name":"sw雷蒙-欧洲(XBPQ)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"https://euvod.tv/","分类url":"https://euvod.tv/vodshow/{cateId}--------{catePg}---.html","分类数组":"library-item&&</a>","分类ID":"/vodshow/&&-----------.html","分类标题":">&&</a>","数组":"module-item-pic&&</div>","标题":"title=\"&&\"","图片":"data-src=\"&&\"","链接":"href=\"&&\"","播放数组":"scroll-content&&</div>","播放标题":"<span>&&</span>","播放列表":"<a&&</a>","线路数组":"data-dropdown-value&&</div>","线路标题":".:雷蒙影视:.+<span>&&</span>","搜索数组":"video-info&&</h3>","搜索url":"https://euvod.tv/vodsearch/-------------.html?wd={wd}"}},
@@ -1115,6 +1097,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
