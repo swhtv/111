@@ -80,13 +80,13 @@ National Geographci H,http://cord-cutter.net:8080/live/Rw83jK/946540/46722.m3u8
 National Geographic (East),http://cord-cutter.net:8080/live/Rw83jK/946540/9277.m3u8
 National Geographic,http://nocable.cc:8080/rex800@hotmail.com/R07053636260B/9277
 
-Discovery_Channel,https://fl1.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.m3u8
+Discovery_Channel,https://fl31.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.m3u8
 Discovery_Channel HD,https://fl31.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.ts.m3u8
 DISCOVERY_FAMILY,https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.ts.m3u8
 DISCOVERY_LIFE,https://fl31.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.ts.m3u8
 Discovery Channel,https://a1xs.vip/300034
 Science Channel,https://fl31.moveonjoy.com/Discovery_Science/tracks-v1a1/mono.ts.m3u8
-Discovery Science,http://143.244.60.30/Discovery_Science/index.m3u8
+
 Animal Planet,https://a1xs.vip/300035
 History Channel,http://143.244.60.30/history_channel/index.m3u8
 History,https://fl1.moveonjoy.com/history_channel/index.m3u8
@@ -406,11 +406,13 @@ TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 Sky Sports Football,https://a1xs.vip/2000003
-NBA TV,https://fl1.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8
+NBA TV,https://fl31.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8
 DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
 
+
+TSN-1,https://fl41.moveonjoy.com/TSN/tracks-v1a1/mono.m3u8
 TSN 1,http://fortv.cc:8080/b6twFE/414151/57292
 TSN_ 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
 TSN 2,p2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
@@ -443,8 +445,8 @@ TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef
 
 CBS SPORT NETWORD,https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
 CBS SPORT NETWORD,http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
-NBC GOLF,https://fl1.moveonjoy.com//GOLF/tracks-v1a1/mono.m3u8
-GOLF,http://143.244.60.30/GOLF/index.m3u8
+NBC GOLF,https://fl31.moveonjoy.com//GOLF/tracks-v1a1/mono.m3u8
+
 WORLD_FISHING_NETWORK,https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.m3u8
 FOX_Sports_1,https://fl31.moveonjoy.com/FOX_Sports_1/index.m3u8
 FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
@@ -558,7 +560,6 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-五星体育,https://cdn3.163189.xyz/163189/wxty
 
 广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
 广东卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
@@ -573,22 +574,17 @@ CCTV 4,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 CCTV1,http://rihou.cc:555/tv/[JR]CCTV-01
 CCTV2,http://rihou.cc:555/tv/[JR]CCTV-02
 CCTV3,http://rihou.cc:555/tv/[JR]CCTV-03
-CCTV4,http://rihou.cc:555/tv/[JR]CCTV-04
-CCTV5,http://rihou.cc:555/tv/[JR]CCTV-05
-CCTV6,http://rihou.cc:555/tv/[JR]CCTV-06
+
+
 CCTV7,http://rihou.cc:555/tv/[JR]CCTV-07
-CCTV8,http://rihou.cc:555/tv/[JR]CCTV-08
+
 CCTV9,http://rihou.cc:555/tv/[JR]CCTV-09
-CCTV10,http://rihou.cc:555/tv/[JR]CCTV-10
-CCTV11,http://rihou.cc:555/tv/[JR]CCTV-11
-CCTV12,http://rihou.cc:555/tv/[JR]CCTV-12
 
 
 CCTV-1 综合 ,http://23.237.228.134/live5/CCTV1.m3u8
 CCTV-2 财经,http://23.237.228.134/live5/CCTV2.m3u8
 CCTV-3 综艺,http://23.237.228.134/live5/CCTV3.m3u8
-CCTV-4 中文国际,http://23.237.228.134/live5/CCTV4.m3u8
-CCTV-5 体育频道,http://23.237.228.134/live5/CCTV5.m3u8
+
 CCTV-5+ 体育赛事,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-6 电影,http://23.237.228.134/live5/CCTV6.m3u8
 CCTV-7 军事农业,http://23.237.228.134/live5/CCTV7.m3u8
@@ -602,9 +598,9 @@ CCTV-14 少儿http://23.237.228.134/live3/CCTV14.m3u8
 CCTV-15 音乐,http://23.237.228.134/live3/CCTV15.m3u8
 CCTV-17 农业,http://23.237.228.134/live3/CCTV17.m3u8
 CGTN,http://23.237.228.134/live3/CGTN.m3u8
-北京卫视,http://23.237.228.134/live3/beijing.m3u8
+
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
-江苏卫视,http://23.237.228.134/live3/jiangsu.m3u8
+
 湖南卫视,http://23.237.228.134/live6/hunan.m3u8
 浙江卫视,http://23.237.228.134/live6/zhejiang.m3u8
 深圳卫视,http://23.237.228.134/live6/shenzhen.m3u8
@@ -613,28 +609,12 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 广西卫视,http://23.237.228.134/live6/guangxi.m3u8
 湖北卫视,http://23.237.228.134/live6/hubei.m3u8
 四川卫视,http://23.237.228.134/live6/sichuan.m3u8
-河南卫视,http://23.237.228.134/live6/henan.m3u8
+
 海南卫视,http://23.237.228.134/live6/hainan.m3u8
-黑龙江卫视,http://23.237.228.134/live6/heilongjiang.m3u8
+
 重庆卫视,http://23.237.228.134/live6/chongqing.m3u8
 贵州卫视,http://23.237.228.134/live6/guizhou.m3u8
-山东卫视,http://23.237.228.134/live8/shandong.m3u8
-内蒙古卫视,http://23.237.228.134/live8/neimenggu.m3u8
-云南卫视,http://23.237.228.134/live8/yunnan.m3u8
-山西卫视,http://23.237.228.134/live8/shanxi.m3u8
-青海卫视,http://23.237.228.134/live8/qinghai.m3u8
-吉林卫视,http://23.237.228.134/live8/jilin.m3u8
-辽宁卫视,http://23.237.228.134/live8/liaoning.m3u8
-天津卫视,http://23.237.228.134/live8/tianjing.m3u8
-江西卫视,http://23.237.228.134/live8/jiangxi.m3u8
-安徽卫视,http://23.237.228.134/live8/anhui.m3u8
-陕西卫视,http://23.237.228.134/live8/shanxiws.m3u8
-河北卫视,http://23.237.228.134/live8/hebei.m3u8
-甘肃卫视,http://23.237.228.134/live8/gansu.m3u8
-广东南方卫视,http://zb.xpgtv.net/ysp/smt.php?id=nanfang_twn
-珠江台,http://zb.xpgtv.net/ysp/smt.php?id=zhujiang
-凤凰卫视,http://zb.xpgtv.net/ysp/smt.php?id=phoenixtv_hd
-凤凰资讯,http://zb.xpgtv.net/ysp/smt.php?id=phoenixinfo_hd
+
 
 
 
@@ -642,9 +622,6 @@ CGTN,http://23.237.228.134/live3/CGTN.m3u8
 解码选(内置)播放,#genre#
 CP24 ,http://iptvpro.pw:35451//live/swtv123/87654321/1350.ts
 
-Now 英超1台 (EN) CH621 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/90.ts
-Now 英超2台 CH622 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/91.ts
-Now 英超3台CH623 (HK),http://iptvpro.pw:35451//live/swtv123/87654321/92.ts
 
 SW-FRANCE 法語,#genre#
 
