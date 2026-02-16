@@ -65,13 +65,8 @@ canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
 NHK_World_Premium,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
 CNBC,http://41.205.93.154:80/CNBC/index.m3u8
-CNBC HD,https://fl31.moveonjoy.com/CNBC/tracks-v1a1/mono.m3u8
+
 CNBC HD,http://41.205.93.154:80/CNBC/index.m3u8
-CNBC 2,https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
-CNBC 2,https://fl31.moveonjoy.com/CNBC/tracks-v1a1/mono.ts.m3u8
-CNBC IND,https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w576315509_b384000_sleng.m3u8
-CNBC HD,https://tv.casindo.org/hls/58/58.m3u8
-ABC News-Aus,https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 BBC Earth,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
@@ -80,27 +75,21 @@ National Geographci H,http://cord-cutter.net:8080/live/Rw83jK/946540/46722.m3u8
 National Geographic (East),http://cord-cutter.net:8080/live/Rw83jK/946540/9277.m3u8
 National Geographic,http://nocable.cc:8080/rex800@hotmail.com/R07053636260B/9277
 
-Discovery_Channel,https://fl31.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.m3u8
-Discovery_Channel HD,https://fl31.moveonjoy.com/Discovery_Channel/tracks-v1a1/mono.ts.m3u8
-DISCOVERY_FAMILY,https://fl31.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/tracks-v1a1/mono.ts.m3u8
-DISCOVERY_LIFE,https://fl31.moveonjoy.com/DISCOVERY_LIFE/tracks-v1a1/mono.ts.m3u8
+
 Discovery Channel,https://a1xs.vip/300034
-Science Channel,https://fl31.moveonjoy.com/Discovery_Science/tracks-v1a1/mono.ts.m3u8
 
 Animal Planet,https://a1xs.vip/300035
-History Channel,http://143.244.60.30/history_channel/index.m3u8
-History,https://fl1.moveonjoy.com/history_channel/index.m3u8
-National_Geographic,https://fl31.moveonjoy.com/National_Geographic/tracks-v1a1/mono.m3u8
+
 Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 WILD EARTH,https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7b00b4ddb39f7e3014e917d10fa83439fd401ea85d708834a847ff8109f96a2ded54387e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3ec028d077745969226905dafc4e68697341c4fb912568f561/126/640x360_1020800/index.m3u8
-Travel_Channel,https://fl31.moveonjoy.com/Travel_Channel/tracks-v1a1/mono.m3u8
+
 COOKING CHANNEL,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3259.ts
 HGTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3836.ts
 TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
 TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
-Smithsonian Channel,https://fl31.moveonjoy.com/SMITHSONIAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
+
 TNT,https://a1xs.vip/300001
 
 Game Show Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
@@ -109,33 +98,16 @@ Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 AMC,http://148.113.160.49:14209
 
-HBO HD,http://148.113.160.49:14188
-HBO+,http://148.113.160.49:14194
-HBO+,http://148.113.160.49:14193
-HBO-family,http://148.113.160.49:14191
-HBO-family,http://148.113.160.49:14190
-HBO-mundi,http://148.113.160.49:14185
-HBO-mundi,http://148.113.160.49:14184
-HBO-pop,http://148.113.160.49:14181
-HBO-pop,http://148.113.160.49:14182
-HBO-xtreme,http://148.113.160.49:14175
-HBO-xtreme,http://148.113.160.49:14176
-HBO HD,http://208.87.242.79/livehttpplay?channel_id=20093
+
 HBO WEST,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2490.ts
 SONY,http://148.113.160.49:14205
 SONY,http://148.113.160.49:14204
-TLC,http://41.205.93.154/TLC/index.m3u8
+
 BRAVO,http://41.205.93.154/BRAVO/index.m3u8
-SHOWTIME_EXTREME,https://fl31.moveonjoy.com/SHOWTIME_EXTREME/tracks-v1a1/mono.m3u8
-SHOWTIME,https://fl31.moveonjoy.com/SHOWTIME/tracks-v1a1/mono.m3u8
-SHOWTIME_2,https://fl31.moveonjoy.com/SHOWTIME_2/tracks-v1a1/mono.m3u8
-SHOWTIME_NEXT,https://fl31.moveonjoy.com/SHOWTIME_NEXT/tracks-v1a1/mono.m3u8
-Showtime 2,http://143.244.60.30/SHOWTIME_2/index.m3u8
-Showtime Women,http://fl31.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-Sony_Movie_Channel,https://fl31.moveonjoy.com/Sony_Movie_Channel/tracks-v1a1/mono.ts.m3u8
+
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 
-Sky Cinema Hits,https://a1xs.vip/210002
+
 Sky Cinema Action,https://a1xs.vip/210006
 Sky Cinema Family,https://a1xs.vip/210007
 
@@ -144,9 +116,8 @@ AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 
 AWE,https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 AWE Encore,https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-Disney XD,https://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-TNT Novelas (M)(SD),http://tv.zapping.life:8080/tadegarcia1/YJNFyDSNsR/9737
-Nick Jr East,https://fl1.moveonjoy.com/NICK_JR/index.m3u8
+
+
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 Nickelodeon,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
@@ -268,7 +239,7 @@ NOW live,https://hls.168.us.kg/u/331/stream_0.m3u8?u=ru&p=681cfe61cfaa9b629ef23f
 
 now sport 603,https://yang-1989.eu.org/live/now-630
 now sport,http://rihou.cc:555/tv/[Mt]Now体育
-無綫体育,http://rihou.cc:555/tv/[Hk]无线体育
+
 
 
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
@@ -403,14 +374,14 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 SW-SPORT体育 ,#genre#
 
-
-TENNIS _CHANNEL,https://fl31.moveonjoy.com/TENNIS_CHANNEL/tracks-v1a1/mono.ts.m3u8
 TENNIS CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+
+
 TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee45510d13af7e2014e947e40fa83439fd401ea80d35a83478423f2469f92a1dd821682e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f023d76a9054f3d75acedf1faeabcda2ffc1d550b648259d786/81/640x360_1020800/index.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 Sky Sports Football,https://a1xs.vip/2000003
-NBA TV,https://fl31.moveonjoy.com/NBA_TV/tracks-v1a1/mono.m3u8
+
 DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
@@ -447,30 +418,17 @@ HUB SPORT 1,https://hls.iill.top/api/Hub-Sports-1/index.m3u8
 HUB SPORT 2,https://hls.iill.top/api/Hub-Sports-2/index.m3u8
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 
-CBS SPORT NETWORD,https://fl31.moveonjoy.com/CBS_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
-CBS SPORT NETWORD,http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
-NBC GOLF,https://fl31.moveonjoy.com//GOLF/tracks-v1a1/mono.m3u8
 
-WORLD_FISHING_NETWORK,https://fl31.moveonjoy.com/WORLD_FISHING_NETWORK/tracks-v1a1/mono.m3u8
-FOX_Sports_1,https://fl31.moveonjoy.com/FOX_Sports_1/index.m3u8
 FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
 beIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
 bein-esp,https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
-BIG_TEN_NETWORK,https://fl31.moveonjoy.com/BIG_TEN_NETWORK/tracks-v1a1/mono.m3u8
-SEC_NETWORK,https://fl31.moveonjoy.com/SEC_NETWORK/tracks-v1a1/mono.m3u8
-MSG NETWORK,https://fl31.moveonjoy.com/MSG/tracks-v1a1/mono.m3u8
-MLB_NETWORK,https://fl31.moveonjoy.com/MLB_NETWORK/tracks-v1a1/mono.m3u8
-FanDuel SPORTS NETWORD,https://fl41.moveonjoy.com/PAC_12/tracks-v1a1/mono.ts.m3u8
-MARQUEE_SPORTS_NETWORK,https://fl31.moveonjoy.com/MARQUEE_SPORTS_NETWORK/tracks-v1a1/mono.m3u8
+B
 TNT 1,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 TVA,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 ESPN,http://41.205.93.154/ESPN/index.m3u8
-ESPN_U,https://fl31.moveonjoy.com/ESPN_U/tracks-v1a1/mono.m3u8
-ESPN_U,http://143.244.60.30/ESPN_U/index.m3u8
-ESPN,P2p://starvod.xyz:19806/9bc1e4b6eaf34aaa9d83dbe293f62490.ts
-ESPN NEWS,https://fl31.moveonjoy.com/ESPN_NEWS/tracks-v1a1/mono.m3u8
+
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
@@ -497,7 +455,7 @@ Sportv 1,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21002.ts
 Sportv 2,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21005.ts
 Sportv 3,http://sinalprivado.info:80/live/632035/GqGcFV4ntu/21008.ts
 SPORT TV 1,https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
-FanDuel SPORTS NETWORD,https://fl31.moveonjoy.com/PAC_12/tracks-v1a1/mono.ts.m3u8
+
 FUDO SPORTS NETWORD,https://apollo.production-public.tubi.io/live/ac-fubo.m3u8
 FUEL TV,https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/640x360_985600/chunklist.m3u8
 Sports Italia,https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
@@ -579,12 +537,11 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 CCTV 1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV 4,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 
-cctv 5,https://timetv.shop/http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
+
 cctv 5,https://tttttt.zpyxxs.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1769732418-0-0-76f10d3b56e481b66423865b77c130cf
-cctv 5+,
-https://timetv.fit/http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078001_dlna.m3u8
+
 cctv 5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1769734545-0-0-f8ffa667ffb6407c50b4b347719f921a
-cctv 5+,https://timetv.shop/http://69.30.246.194/live/cctv5p.m3u8
+
 CCTV1,http://rihou.cc:555/tv/[JR]CCTV-01
 CCTV2,http://rihou.cc:555/tv/[JR]CCTV-02
 CCTV3,http://rihou.cc:555/tv/[JR]CCTV-03
@@ -602,16 +559,11 @@ CCTV-3 综艺,http://23.237.228.134/live5/CCTV3.m3u8
 CCTV-5+ 体育赛事,http://23.237.228.134/live5/CCTV5p.m3u8
 CCTV-6 电影,http://23.237.228.134/live5/CCTV6.m3u8
 CCTV-7 军事农业,http://23.237.228.134/live5/CCTV7.m3u8
-CCTV-8 电视剧 ,http://23.237.228.134/live5/CCTV8.m3u8
+
 CCTV-9 记录 ,http://23.237.228.134/live5/CCTV9.m3u8
-CCTV-10 科教,http://23.237.228.134/live5/CCTV10.m3u8
-CCTV-11 戏曲,http://23.237.228.134/live3/CCTV11.m3u8
-CCTV-12 社会与法,http://23.237.228.134/live3/CCTV12.m3u8
-CCTV-13 新闻频道,http://23.237.228.134/live3/CCTV13.m3u8
-CCTV-14 少儿http://23.237.228.134/live3/CCTV14.m3u8
-CCTV-15 音乐,http://23.237.228.134/live3/CCTV15.m3u8
-CCTV-17 农业,http://23.237.228.134/live3/CCTV17.m3u8
-CGTN,http://23.237.228.134/live3/CGTN.m3u8
+
+
+江蘇卫视,http://69.30.246.194/live/jsws.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 东方卫视,http://23.237.228.134/live3/dongfang.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
@@ -1308,3 +1260,4 @@ N24,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channe
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
 
 VOX 1,https://hls.vox1.live/hls/stream.m3u8
+
