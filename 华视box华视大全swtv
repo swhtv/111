@@ -52,7 +52,7 @@ CNN internationl,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d
 CNN internationl,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 FOX BUSINESS,https://fl31.moveonjoy.com/FOX_Business_Network/tracks-v1a1/mono.ts.m3u8
-
+TBS,https://tvpass.org/live/TBSEast/sd
 CBS news,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
@@ -76,18 +76,27 @@ National Geographic,http://1tv41.icu:8080/live/6eTxFb/839668/46722.m3u8
 National Geographci H,http://cord-cutter.net:8080/live/Rw83jK/946540/46722.m3u8
 National Geographic (East),http://cord-cutter.net:8080/live/Rw83jK/946540/9277.m3u8
 National Geographic,http://nocable.cc:8080/rex800@hotmail.com/R07053636260B/9277
-
-
+Discovery Channel,https://tvpass.org/live/DiscoveryChannelEast/sd
+Discovery Family Channel,https://tvpass.org/live/DiscoveryFamily/sd
+Discovery Life Channel,https://tvpass.org/live/DiscoveryLife/sd
 Discovery Channel,https://a1xs.vip/300034
-
+History Channel,https://tvpass.org/live/HistoryEast/sd
+History ,https://tv.iill.top/4gtv/4gtv-live026
+CIS,https://tv.iill.top/4gtv/4gtv-live027
+MagellanTV,https://tv.iill.top/4gtv/4gtv-live123
+HLN,https://tvpass.org/live/HLN/sd
+BBC Earth,https://hls.iill.top/api/BBC-Earth/index.m3u8
+BBC Lifestyle,https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+Discovery,https://hls.iill.top/api/Discovery/index.m3u8
 Animal Planet,https://a1xs.vip/300035
-
+The Weather Channel,https://tvpass.org/live/TheWeatherChannel/sd
 Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 WILD EARTH,https://d2f9g9rfw2kx84.cloudfront.net/playlist/amg01290-wildearth-oando/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7b00b4ddb39f7e3014e917d10fa83439fd401ea85d708834a847ff8109f96a2ded54387e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3ec028d077745969226905dafc4e68697341c4fb912568f561/126/640x360_1020800/index.m3u8
 
 FoodNetwork,https://tvpass.org/live/FoodNetworkEast/sd
+COOKING CHANNEL,https://tvpass.org/live/CookingChannel/sd
 COOKING CHANNEL,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3259.ts
-
+E!,https://tvpass.org/live/EEast/sd
 HGTV,https://tvpass.org/live/HGTVEast/sd
 HGTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3836.ts
 
@@ -97,36 +106,32 @@ TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
 TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
-
 TNT,https://a1xs.vip/300001
-
 Game Show Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
-
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 AMC,http://148.113.160.49:14209
-
 HBO,https://tvpass.org/live/HBOEast/sd
 HBO 2,https://tvpass.org/live/HBO2East/sd
-
 HBO Family,https://tvpass.org/live/HBOFamilyEast/sd
 HBO Signature,https://tvpass.org/live/HBOSignatureEast/sd
-
 HBO Comedy,https://tvpass.org/live/HBOComedyEast/sd
-
-
-
-
-
+HBO,https://hls.iill.top/api/HBO/index.m3u8
+HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBO Family,https://hls.iill.top/api/HBO-Family/index.m3u8
+HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 HBO WEST,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2490.ts
 SONY,http://148.113.160.49:14205
 SONY,http://148.113.160.49:14204
-
+Bravo,https://tvpass.org/live/BravoEast/sd
 BRAVO,http://41.205.93.154/BRAVO/index.m3u8
-
+A&E,https://tvpass.org/live/AEEast/sd
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
-
-
+FX Movie ,https://tvpass.org/live/FXMovieChannel/sd
+FX ,https://tvpass.org/live/FXEast/sd
+FXX ,https://tvpass.org/live/FXXEast/sd
+Showtime ,https://tvpass.org/live/ShowtimeEast/sd
+Showtime 2,https://tvpass.org/live/Showtime2East/sd
 Sky Cinema Action,https://a1xs.vip/210006
 Sky Cinema Family,https://a1xs.vip/210007
 
@@ -136,7 +141,9 @@ AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 AWE,https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 AWE Encore,https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 
-
+Disney Eastern Feed,https://tvpass.org/live/DisneyChannelEast/sd
+Disney Junior USA East,https://tvpass.org/live/DisneyJuniorEast/sd
+Disney XD USA Eastern Feed,https://tvpass.org/live/DisneyXDEast/sd
 Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 Nickelodeon,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
@@ -385,10 +392,10 @@ AWE Encore,https://aweencore-tcl.amagi.tv/playlist.m3u8
 
 
 SW-SPORT体育 ,#genre#
+Pickleball,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pickleball-now/playlist.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22979&ads.content_duration=18000&ads.episode_id=144646&ads.show_id=5387&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CLifestyle%2CDocumentary%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Pickleball%20Now&ads.episodetitle=Pickleball%20Now&ads.keywords=pickleball%2Cpickleball%20live%2Cpickleball%20highlights%2Cpickleball%20tv%2Cpickleball%20tournaments%2Cpickleball%20players%2Cpickleball%20interviews%2Cpickleball%20league%2Cpickleball%20training%2Cpickleball%20rules%2Cpickleball%20tips%2Cglobal%20pickleball%2Cpickleball%20matches%2Cpickleball%20now%2Cpickleball%20now%20tv&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=5W2fQMT03fO
 
 TENNIS CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
-
-
+Tennis Channel,https://tvpass.org/live/TennisChannel/sd
 TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee45510d13af7e2014e947e40fa83439fd401ea80d35a83478423f2469f92a1dd821682e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f023d76a9054f3d75acedf1faeabcda2ffc1d550b648259d786/81/640x360_1020800/index.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
@@ -429,23 +436,78 @@ HUB Premier 7,https://hls.iill.top/api/Hub-Premier-7/index.m3u8
 HUB Premier 8,https://hls.iill.top/api/Hub-Premier-8/index.m3u8
 HUB SPORT 1,https://hls.iill.top/api/Hub-Sports-1/index.m3u8
 HUB SPORT 2,https://hls.iill.top/api/Hub-Sports-2/index.m3u8
+Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
+Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
+Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
+Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
+Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
+beIN Sports 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
+beIN Sports 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
+beIN Sports 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
+beIN Sports 4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
+beIN Sports 5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
+Fox Sports 1,https://tvpass.org/live/FoxSports1/sd
+Fox Sports 2,https://tvpass.org/live/FoxSports2/sd
 
-
-FOX SPORT 2,https://tvpass.org/live/FoxSports2/sd
 beIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
 bein-esp,https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
-B
+ACC Network,https://tvpass.org/live/ACCNetwork/sd
+Altitude Sports Denver,https://tvpass.org/live/altitude-sports-denver/sd
 TNT 1,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 Sky Sports Football,P2p://starvod.xyz:19806/204a67325bd4490e8823bd4931cc9d0a.ts
 TVA,https://tvalive-dai01.akamaized.net/Content/HLS/Live/channel(575b93c5-be31-ee34-6285-14620fd14048)/index.m3u8
 ESPN,http://41.205.93.154/ESPN/index.m3u8
+Big Ten Network,https://tvpass.org/live/BTN/sd
+CBS LA,https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+NY,https://tvpass.org/live/WCBSDT1/sd
+CBS Sports Network,https://tvpass.org/live/CBSSportsNetworkUSA/sd
+Chicago Sports Network,https://tvpass.org/live/chicago-sports-network/sd
 
 Canal Motor,https://digicom.hls.iptvdc.com/motorstv/index.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist_1024x576.m3u8
 UFC,https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
 
+ESPN,https://tvpass.org/live/ESPN/sd
+ESPN Deportes,https://tvpass.org/live/espn-deportes/sd
+ESPN News,https://tvpass.org/live/ESPNews/sd
+ESPN U,https://tvpass.org/live/ESPNU/sd
+ESPN2,https://tvpass.org/live/ESPN2/sd
+MLB Network,https://tvpass.org/live/MLBNetwork/sd
+Monumental Sports Network,https://tvpass.org/live/monumental-sports-network/sd
+NBA TV USA,https://tvpass.org/live/NBATV/sd
+NBC (KNBC) Los Angeles,https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+NY,https://tvpass.org/live/WNBCDT1/sd
+NBC Sports Bay Area,https://tvpass.org/live/nbc-sports-bay-area/sd
+NBC Sports Boston,https://tvpass.org/live/nbc-sports-boston/sd
+NBC Sports California,https://tvpass.org/live/nbc-sports-california/sd
+NBC Sports Philadelphia,https://tvpass.org/live/nbc-sports-philadelphia/sd
+New England Sports Network,https://tvpass.org/live/new-england-sports-network/sd
+NewsMax TV,https://tvpass.org/live/NewsmaxTV/sd
+NFL Network,https://tvpass.org/live/NFLNetwork/sd
+NFL RedZone,https://tvpass.org/live/NFLRedZone/sd
+NHL Network USA,https://tvpass.org/live/NHLNetwork/sd
+
+Fanduel Sports Indiana,https://tvpass.org/live/fanduel-sports-indiana/sd
+Fanduel Sports Network Detroit,https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
+Fanduel Sports Network Florida,https://tvpass.org/live/fanduel-sports-network-florida/sd
+Fanduel Sports Network Great Lakes,https://tvpass.org/live/fanduel-sports-network-great-lakes/sd
+Fanduel Sports Network North,https://tvpass.org/live/fanduel-sports-network-north/sd
+Fanduel Sports Network Ohio Cleveland,https://tvpass.org/live/fanduel-sports-network-ohio-cleveland/sd
+Fanduel Sports Network Oklahoma,https://tvpass.org/live/fanduel-sports-network-oklahoma/sd
+Fanduel Sports Network San Diego,https://tvpass.org/live/fanduel-sports-network-san-diego/sd
+Fanduel Sports Network Socal,https://tvpass.org/live/fanduel-sports-network-socal/sd
+Fanduel Sports Network South Carolinas,https://tvpass.org/live/fanduel-sports-network-south-carolinas/sd
+Fanduel Sports Network South Tennessee,https://tvpass.org/live/fanduel-sports-network-south-tennessee-usa/sd
+Fanduel Sports Network West,https://tvpass.org/live/fanduel-sports-network-west/sd
+Fanduel Sports Network Wisconsin,https://tvpass.org/live/fanduel-sports-network-wisconsin/sd
+Fanduel Sports Southeast Georgia,https://tvpass.org/live/fanduel-sports-southeast-georgia/sd
+Fanduel Sports Southeast North Carolina,https://tvpass.org/live/fanduel-sports-southeast-north-carolina/sd
+Fanduel Sports Southeast South Carolina,https://tvpass.org/live/fanduel-sports-southeast-south-carolina/sd
+Fanduel Sports Southeast Tennessee Nashville,https://tvpass.org/live/fanduel-sports-southeast-tennessee-nashville/sd
+Fanduel Sports Sun,https://tvpass.org/live/fanduel-sports-sun/sd
+Fanduel Sports Tennessee East,https://tvpass.org/live/fanduel-sports-tennessee-east/sd
 cctv 5,https://timetv.shop/http://43.152.31.17:843/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078401_dlna.m3u8
 cctv 5,https://tttttt.zpyxxs.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1769732418-0-0-76f10d3b56e481b66423865b77c130cf
 cctv 5+,
@@ -1268,13 +1330,9 @@ canal gov,https://canalgov-stream.ebc.com.br/GOV-mp4a_128000=20000.m3u8
 
 
 
-POLAND波兰,#genre#
-TVP poland,https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-TVN poland,https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
-polast sport,https://windnew.newkso.ru/wind/premium50/mono.m3u8
+Deutsch POLAND,#genre#
 
 
-德语Deutsch,#genre#
 24HD,https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
 
 Schaled TV,https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
@@ -1283,6 +1341,8 @@ DW NEWS,http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream0
 DW NEWS,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 N24,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ae2b55-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=39199e43-689e-4f83-9f74-b89605373bf0&serverSideAds=false
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
+TVP poland,https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+TVN poland,https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+polast sport,https://windnew.newkso.ru/wind/premium50/mono.m3u8
 
 VOX 1,https://hls.vox1.live/hls/stream.m3u8
-
