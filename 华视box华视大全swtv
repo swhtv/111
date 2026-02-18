@@ -278,7 +278,7 @@ TVB星河,http://r.jdshipin.com/Voac4
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河,http://r.jdshipin.com/sXuuD
 無綫星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
-无线星河,http://php.jdshipin.com/smt.php?id=Xinhe
+
 千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 千禧经典台,https://o11.163189.xyz/stream/live/tvbc/
 
@@ -304,26 +304,18 @@ VIU SIX,http://php.jdshipin.com:8880/smt.php?id=viusix_twn
 -ViuTVsix,http://tri-metal.dsmynas.net:8000/bysid/96.m3u8
 
 無綫娛樂台,http://rihou.cc:555/tv/[PL]无线娱乐
-無线娱乐台,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+RK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
--鳳凰衛視香港台,http://bziyunshao.synology.me:8890/bysid/85.m3u8
--鳳凰衛視香港台,http://tri-metal.dsmynas.net:8001/bysid/85.m3u8
 
 鳳凰中文,http://r.jdshipin.com/cCCzW
 鳳凰資詢,http://r.jdshipin.com/0Rp07
 鳳凰香港,http://r.jdshipin.com/yDoTN
-港剧天地,https://live.ottiptv.cc/douyu/4290711
-奇光港剧,https://live.ottiptv.cc/douyu/11849873
-经典邵氏,https://live.ottiptv.cc/douyu/4246519
-奇光剧场,https://live.ottiptv.cc/douyu/8009547
-斗鱼港剧,https://live.ottiptv.cc/douyu/9548850
-橙记港剧,https://live.ottiptv.cc/douyu/4549169
-港剧天地,https://live.ottiptv.cc/douyu/5522351
+
 Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
@@ -559,19 +551,10 @@ CCTV 1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV 4,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 
 CCTV 5,http://rihou.cc:555/tv/[mg]CCTV-05
-CCTV 5+,http://rihou.cc:555/tv/[mg]CCTV-5p
+
 cctv 5,https://tttttt.zpyxxs.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1769732418-0-0-76f10d3b56e481b66423865b77c130cf
 
 cctv 5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1769734545-0-0-f8ffa667ffb6407c50b4b347719f921a
-
-CCTV1,http://rihou.cc:555/tv/[JR]CCTV-01
-CCTV2,http://rihou.cc:555/tv/[JR]CCTV-02
-CCTV3,http://rihou.cc:555/tv/[JR]CCTV-03
-
-
-CCTV7,http://rihou.cc:555/tv/[JR]CCTV-07
-
-CCTV9,http://rihou.cc:555/tv/[JR]CCTV-09
 
 
 
@@ -584,16 +567,9 @@ CCTV9,http://rihou.cc:555/tv/[JR]CCTV-09
 
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 
-深圳卫视,http://69.30.246.194/live/sznws.m3u8
-东南卫视,http://69.30.246.194/live/dnws.m3u8
-山东卫视,http://69.30.246.194/live/sdws.m3u8
-广西卫视,http://69.30.246.194/live/gxws.m3u8
-湖北卫视,http://69.30.246.194/live/hbws.m3u8
-四川卫视,http://69.30.246.194/live/scws.m3u8
+
 
 海南卫视,http://69.30.246.194/live/hnws.m3u8
-重庆卫视,http://69.30.246.194/live/cqws.m3u8
-貴州卫视,http://69.30.246.194/live/gzws.m3u8
 
 
 
