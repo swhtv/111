@@ -556,8 +556,36 @@ cctv 5,https://tttttt.zpyxxs.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_
 
 cctv 5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1769734545-0-0-f8ffa667ffb6407c50b4b347719f921a
 
+CCTV 1,http://rihou.cc:555/tv/[mg]CCTV-01
+
+CCTV 2,http://rihou.cc:555/tv/[mg]CCTV-02
+
+CCTV 3,http://rihou.cc:555/tv/[mg]CCTV-03
+
+CCTV 4,http://rihou.cc:555/tv/[mg]CCTV-04
+
+CCTV 5,http://rihou.cc:555/tv/[mg]CCTV-05
+
+CCTV 6,http://rihou.cc:555/tv/[mg]CCTV-06
+
+CCTV 7,http://rihou.cc:555/tv/[mg]CCTV-07
 
 
+CCTV 8,http://rihou.cc:555/tv/[mg]CCTV-08
+
+CCTV 9,http://rihou.cc:555/tv/[mg]CCTV-09
+
+CCTV 10,http://rihou.cc:555/tv/[mg]CCTV-10
+
+CCTV 11,http://rihou.cc:555/tv/[mg]CCTV-11
+
+CCTV 12,http://rihou.cc:555/tv/[mg]CCTV-12
+
+CCTV 14,http://rihou.cc:555/tv/[mg]CCTV-14
+
+CCTV 15,http://rihou.cc:555/tv/[mg]CCTV-15
+
+CCTV 16,http://rihou.cc:555/tv/[mg]CCTV-16
 
 
 江蘇卫视,http://69.30.246.194/live/jsws.m3u8
@@ -565,14 +593,22 @@ cctv 5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth
 
 东方卫视,http://69.30.246.194/live/dfws.m3u8
 
+东方衛視,http://rihou.cc:555/tv/[mg]东方卫视
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 
 
-
+深圳衛視,http://rihou.cc:555/tv/[mg]深圳卫视
 海南卫视,http://69.30.246.194/live/hnws.m3u8
 
+山东衛視,http://rihou.cc:555/tv/[mg]山东卫视
 
+湖北衛視,http://rihou.cc:555/tv/[mg]湖北卫视
 
+云南衛視,http://rihou.cc:555/tv/[mg]云南卫视
+
+山西衛視,http://rihou.cc:555/tv/[mg]山西卫视
+
+天津衛視,http://rihou.cc:555/tv/[mg]天津卫视
 
 
 
