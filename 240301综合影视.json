@@ -78,34 +78,6 @@
                 "version": "120"
             }
         },
-{
-            "key": "热播影视",
-            "name": "热播｜APP",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "https://m.hkybqufgh.com,http://v.rbotv.cn,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-            }
-        },
-   {
-            "key": "蔬菜",
-            "name": "蔬菜丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "http://huohu.yihn.cc",
-                "site": "",
-                "dataKey": "huohushipingetap",
-                "dataIv": "huohushipingetap",
-                "deviceId": "",
-                "version": "140",
-                "ua": ""
-            }
-        },
 
 {
             "key": "西瓜影视",
@@ -196,14 +168,7 @@
 
 
 {"key":"csp_ipianba","name":"片吧SW","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
-{
-            "key": "莫小影视",
-            "name": "🎬莫小｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E8%8E%AB%E5%B0%8F%E5%BD%B1%E8%A7%86.json"
-        },
-       
+
         {
             "key": "永乐影视",
             "name": "🎎永乐｜影视",
@@ -211,13 +176,7 @@
             "api": "csp_XBPQ",
             "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
         },
-        {
-            "key": "三九影视",
-            "name": "❄️三九｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E4%B8%89%E4%B9%9D%E5%BD%B1%E8%A7%86.json"
-        },
+      
 {
       "key": "csp_Jpys",
       "name": "SW🥇️金牌",
