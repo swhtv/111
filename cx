@@ -34,7 +34,7 @@
     "sites": [
  {
             "key": "无尽 资源",
-            "name": "SW華无尽 華哥提示如访问不到電影劇集可去 主页换不同资源",
+            "name": "SW无尽 華哥祝大家馬年行好運,身體健康,大吉大利",
             "type": 1,
             "api": "https://api.wujinapi.me/api.php/provide/vod/",
             "searchable": 1,
