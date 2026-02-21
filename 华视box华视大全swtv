@@ -117,6 +117,8 @@ Game Show Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/sti
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 AMC,http://148.113.160.49:14209
+
+TNT,http://nor1live.win/livehttpplay?channel_id=23133
 HBO,https://tvpass.org/live/HBOEast/sd
 HBO 2,https://tvpass.org/live/HBO2East/sd
 HBO Family,https://tvpass.org/live/HBOFamilyEast/sd
@@ -280,6 +282,7 @@ now sport 603,https://yang-1989.eu.org/live/now-630
 now sport,http://rihou.cc:555/tv/[Mt]Now体育
 無綫体育,http://rihou.cc:555/tv/[Us]无线体育
 
+now sports 精選,http://hls.168.us.kg/u/630/master.m3u8
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠 台,https://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
@@ -594,8 +597,38 @@ RTA Sport,https://hls.rtasport.live/hls/stream.m3u8
 Hard Knocks HD,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
 
+解碼 選(內置),#genre#
+
+TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
+
+TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
+
+TSN 3 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
+
+TSN 4 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
+
+TSN 5 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
+
+Sportsnet one,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
+Sportsnet 360,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
+Sportsnet NY,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97492.ts
+Sportsnet east,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3072.ts
+
+Sportsnet west,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3068.ts
+Sportsnet world,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
+Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
+
+Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
+NBA TV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
+
+SKY F1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
 
 
+OMNI 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
+
+新时代多伦多,http://iptvpro.pw:35451//live/87654321/12345678/445.ts
+新时代温哥华,http://iptvpro.pw:35451//live/87654321/12345678/446.ts
+新时代2 hd , http://iptvpro.pw:35451//live/87654321/12345678/447.ts
 SW-CCTV+卫视,#genre#
 CCTV 13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
