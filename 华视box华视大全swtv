@@ -105,6 +105,7 @@ E!,https://tvpass.org/live/EEast/sd
 HGTV,https://tvpass.org/live/HGTVEast/sd
 HGTV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3836.ts
 
+Travel channel,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8?ads.vf=-W-Hab4e1BO
 TravelChannl,https://tvpass.org/live/TravelChannelEast/sd
 TLC TV,https://tvpass.org/live/TLCEast/sd
 TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
@@ -112,7 +113,10 @@ TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 TNT,https://a1xs.vip/300001
-Game Show Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
+
+TNT,http://nor1live.win/livehttpplay?channel_id=23133
+Game Show 
+Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 AMC,http://148.113.160.49:14209
@@ -424,18 +428,19 @@ TSN 1 HD,http://208.87.242.55/livehttpplay?channel_id=50206
 TSN 1,http://fortv.cc:8080/b6twFE/414151/57292
 TSN1,https://tvpass.org/live/tsn1/sd
 TSN_ 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
-TSN 2,p2p://starvod.xyz:19806/6639610519f948e4840717653a2a2645.ts
+
+TSN 1,https://7pal.short.gy/tsn1ca
+TSN 2,https://7pal.short.gy/tsn2ca
 TSN 2,http://nocable.cc:8080/5AGbfz/324331/47442
 TSN_ 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 3,http://nocable.cc:8080/5AGbfz/324331/47444
-TSN 3,p2p://starvod.xyz:19806/0dc6e758078d49c68545c6d47cb22013.ts
+TSN 3,https://7pal.short.gy/tsn3ca
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
-TSN 4,http://nocable.cc:8080/5AGbfz/324331/66783
-TSN 5,http://nocable.cc:8080/5AGbfz/324331/16131
-TSN 5,http://nocable.cc:8080/5AGbfz/324331/57295
+TSN 4,https://7pal.short.gy/tsn4ca
+TSN 5,https://7pal.short.gy/tsn5ca
 Pickleball,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pickleball-now/playlist.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22979&ads.content_duration=18000&ads.episode_id=144646&ads.show_id=5387&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CLifestyle%2CDocumentary%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Pickleball%20Now&ads.episodetitle=Pickleball%20Now&ads.keywords=pickleball%2Cpickleball%20live%2Cpickleball%20highlights%2Cpickleball%20tv%2Cpickleball%20tournaments%2Cpickleball%20players%2Cpickleball%20interviews%2Cpickleball%20league%2Cpickleball%20training%2Cpickleball%20rules%2Cpickleball%20tips%2Cglobal%20pickleball%2Cpickleball%20matches%2Cpickleball%20now%2Cpickleball%20now%20tv&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=5W2fQMT03fO
 
-
+Sportsnet one,https://7pal.short.gy/sptsnet1
 TNT 1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 TNT 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 TNT 3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
@@ -565,23 +570,17 @@ Dudai Racing 3,https://dmithrvllta.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubas
 Dudai sport 1,https://dmidspta.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/chunklist_b200000.m3u8
 Dudai sport 2,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b300000.m3u8
 Dudai sport 3,https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b300000.m3u8
-
 Games+,https://a-cdn.klowdtv.com/live2/fntsy_720p/chunks.m3u8
 Horse TV,https://a-cdn.klowdtv.com/live2/horsetv_720p/chunks.m3u8
-
 ITV Deportes,https://thm-it-roku.otteravision.com/thm/it/it_360p.m3u8
 KCMN LD6,https://amg02873-kravemedia-mtrspt1-distrotv-mnsrl.amagi.tv/playlist/amg02873-kravemedia-mtrspt1-distrotv/playlist.m3u8
 M-net Sport,https://live.mnet.mk/hls/mnet-sport.m3u8
 MadeinBO TV,https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
 MNB SPORT,https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-
 NAUTICAL TV,https://a-cdn.klowdtv.com/live2/nautical_720p/chunks.m3u8
 OMAN SPORTS TV,https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b250000.m3u8
-
 MADRID TV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
 KTV SPORT,http://88.212.15.27/live/test_rtvs_sport_hevc/playlist.m3u8
-
 sport TV 1,https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 trace sport,https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 Nile Sport,http://149.100.11.235:8080/NileSport/index.m3u8
@@ -597,41 +596,41 @@ Hard Knocks HD,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.am
 Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
 
 解碼 選(內置),#genre#
-
 TSN 1 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3146.ts
-
 TSN 2 UHD ,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3145.ts
-
 TSN 3 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3144.ts
-
 TSN 4 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3143.ts
-
 TSN 5 UHD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3142.ts
-
 Sportsnet one,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3071.ts
 Sportsnet 360,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3073.ts
 Sportsnet NY,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/97492.ts
 Sportsnet east,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3072.ts
-
 Sportsnet west,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3068.ts
 Sportsnet world,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/88060.ts
 Sportsnet ONT,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3070.ts
-
 Sportsnet PAC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3069.ts
 NBA TV,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2470.ts
-
 SKY F1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/2189.ts
+TLC,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3686.ts
+TLC HD,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3763.ts
+Crave 1,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3184.ts
+
+Crave 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3185.ts
+
+Crave 3,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3186.ts
+Crave 4,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3187.ts
 
 
-OMNI 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/3087.ts
 
-新时代多伦多,http://iptvpro.pw:35451//live/87654321/12345678/445.ts
-新时代温哥华,http://iptvpro.pw:35451//live/87654321/12345678/446.ts
-新时代2 hd , http://iptvpro.pw:35451//live/87654321/12345678/447.ts
+
+
+
+
+
+
 SW-CCTV+卫视,#genre#
 CCTV 13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
-
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
