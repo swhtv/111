@@ -30,14 +30,15 @@ FOX NEWS-CHANNEL,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.c
 FOX NEWS-CHANNEL,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 Fox-news channel,https://tvpass.org/live/FoxNewsChannel/sd
 Fox-news channel,https://ustvgo.live/proxy.php?url=https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-
+FOX Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
+Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
+CNBC,http://41.205.93.154:80/CNBC/index.m3u8
+CNBC HD,https://tvpass.org/live/CNBC/sd
 MSNBC HD,http://41.205.93.154/MSNBC/index.m3u8
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
-
-
-NBC,http://41.205.93.154/NBC/index.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
+NBC,http://41.205.93.154/NBC/index.m3u8
 NBC 15,https://ad-playlistserver.aws.syncbak.com/playlist/899088/master.m3u8?access_token=eyJhbGciOiJIUzI1NiIsImtpZCI6IkdyYXkyMDE2MDgyOSIsInN1YiI6IioiLCJ0eXAiOiJKV1QifQ.eyJleHAiOjE3OTAzNjkxMDUsImlzcyI6IldMUyIsIm1kNSI6ImJhZTU4Y2ZlZWM2NmU1MjZkNmVjZmE1YmUzNTQxMzQ4IiwibWlkIjoiODk5MDg4In0.vBWkHmqS3z3dpq8UWfbk4wFd-vQlj6B0up-rpt7X_7Q
 NBC 26,https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
@@ -47,16 +48,16 @@ BBC news,https://a1xs.vip/1000015
 BBC NEWS,https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC ONE,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 BBC TWO,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/52449019-c378-4e85-b20e-1f51e0d5bb4a/4.m3u8
-
 SKY NEWS,https://a1xs.vip/1000018
 ABC,http://41.205.93.154/ABC/index.m3u8
+
 CNN US,https://tvpass.org/live/CNN/sd
 CNN HD,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 CNN UK,https://a1xs.vip/1000016
 CNN US ,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN internationl,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-FOX Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
+
 TBS,https://tvpass.org/live/TBSEast/sd
 CBS news,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
@@ -69,11 +70,8 @@ RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 THE WEATHER CHANNEL,https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/3.m3u8
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
-Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
 NHK_World_Premium,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
-CNBC,http://41.205.93.154:80/CNBC/index.m3u8
 
-CNBC HD,https://tvpass.org/live/CNBC/sd
 BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 BBC Earth,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
@@ -453,8 +451,18 @@ TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
 TSN 4,https://7pal.short.gy/tsn4ca
 TSN 5,https://7pal.short.gy/tsn5ca
 Pickleball,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pickleball-now/playlist.m3u8?ads.rnd=12345&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=22979&ads.content_duration=18000&ads.episode_id=144646&ads.show_id=5387&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CLifestyle%2CDocumentary%2CEnglish&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=en&ads.showtitle=Pickleball%20Now&ads.episodetitle=Pickleball%20Now&ads.keywords=pickleball%2Cpickleball%20live%2Cpickleball%20highlights%2Cpickleball%20tv%2Cpickleball%20tournaments%2Cpickleball%20players%2Cpickleball%20interviews%2Cpickleball%20league%2Cpickleball%20training%2Cpickleball%20rules%2Cpickleball%20tips%2Cglobal%20pickleball%2Cpickleball%20matches%2Cpickleball%20now%2Cpickleball%20now%20tv&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=5W2fQMT03fO
-
+sportnet 360,http://208.87.242.55/livehttpplay?channel_id=28000
+sportnet Ontario,http://208.87.242.55/livehttpplay?channel_id=40133
 Sportsnet one,https://7pal.short.gy/sptsnet1
+Astro Badminton HD,http://208.87.242.55/livehttpplay?channel_id=13304
+Premier League2 HD,http://208.87.242.55/livehttpplay?channel_id=13303
+Astro Football HD,http://208.87.242.55/livehttpplay?channel_id=13300
+Premier League HD,http://208.87.242.55/livehttpplay?channel_id=13302
+
+Astro Sports Plus HD, http://208.87.242.55/livehttpplay?channel_id=13306
+Astro Badminton 2 HD,http://208.87.242.55/livehttpplay?channel_id=13305
+Astro Grandstand HD,http://208.87.242.55/livehttpplay?channel_id=13301
+
 TNT 1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
 TNT 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
 TNT 3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
