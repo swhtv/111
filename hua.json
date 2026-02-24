@@ -4,9 +4,46 @@
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
 //"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
   "sites": [
-  {
-            "key": "zy_无尽资源",
-            "name": "SW華 无尽",
+ 
+ 
+        {
+            "key": "zy_金鹰资源",
+            "name": "SW華 金鹰",
+            "type": 1,
+            "api": "https://jyzyapi.com/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "内地剧",
+                "香港剧",
+                 "欧美剧",
+                "韩剧",
+                "日剧",
+                "马泰剧",
+                "动作片",
+                "爱情片",
+                "喜剧片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "记录片",
+                "动漫",
+                "动画片",
+                "中国动漫",
+                "日本动漫",
+                "欧梅动漫",
+                "综艺",
+                "台湾剧",
+                "体育赛事"
+            ]
+        },
+           
+    
+    
+    {
+            "key": "zy无尽资源",
+            "name": "SW華无尽",
             "type": 1,
             "api": "https://api.wujinapi.me/api.php/provide/vod/",
             "searchable": 1,
@@ -1054,6 +1091,7 @@
     "cms.qdwght.com"
   ]
 }
+
 
 
 
