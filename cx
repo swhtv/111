@@ -165,6 +165,7 @@
  {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
 
 
+  {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},   
 
   
        
