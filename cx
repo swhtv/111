@@ -35,29 +35,9 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
-   {
-            "key": "洽洽瓜子影视",
-            "name": "sw洽洽",
-            "type": 3,
-            "api": "csp_AppGZ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-		"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
-            "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
-        },
-{ "key": "哈哈-影视", "name": "華哥-哈哈-影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/%E5%93%88%E5%93%88%E5%BD%B1%E8%A7%86.json" },
-
- 
-
-  {"key":"cspipianba","name":"SW華 片吧 華哥 提示如访问不到電影劇集可去 主页换不同资源","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综
-艺$4"}}, 
- {"key":"csp_xlys","name":"修罗┃影视","type":3,"jar":"https://github.com/swhtv/ak/raw/refs/heads/main/qiaoji.jar","api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
-
-    
  {
       "key": "zycj_天天",
-      "name": "天天",
+      "name": "SW華哥-TTYS",
       "type": 1,
       "api": "https://api.1080zyku.com/inc/apijson.php",
       "playUrl": "",
@@ -129,6 +109,28 @@
         "欧美综艺"
       ]
     },   
+
+   {
+            "key": "洽洽瓜子",
+            "name": "sw-洽洽",
+            "type": 3,
+            "api": "csp_AppGZ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+		"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
+            "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
+        },
+{ "key": "哈哈-影视", "name": "華哥-哈哈-影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/%E5%93%88%E5%93%88%E5%BD%B1%E8%A7%86.json" },
+
+ 
+
+  {"key":"cspipianba","name":"SW華 片吧 華哥 提示如访问不到電影劇集可去 主页换不同资源","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综
+艺$4"}}, 
+ {"key":"csp_xlys","name":"修罗┃影视","type":3,"jar":"https://github.com/swhtv/ak/raw/refs/heads/main/qiaoji.jar","api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
+
+    
+
      
         {
             "key": "永乐影视",
