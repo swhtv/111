@@ -437,18 +437,45 @@
                 "动漫电影"
             ]
         }, 
-    
-	    
-{
+    
+ {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
 
-			"key": "索尼-资源",
-			"name": "SW華-索尼资源",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"categories": ["国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "诺克", "解说"],
-			"searchable": 1,
-			"quickSearch": 1
-		},  
+{"key":"T4-2024热门","name":"音乐-热门MV(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=2024"},
+        
+{"key":"T4-麻雀","name":"影视-麻雀(T4)","type":4,"api":"https://catbox.n13.club/t9/麻雀视频.php"},
+  {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},   
+{"key":"T4-jieshuo","name":"B站-解说(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=影视解说"},
+{"key":"T4-bmtv","name":"B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=bMTV"},
+{"key":"T4-Blixs","name":"B站-相声(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixs"},
+{"key":"T4-Blixq","name":"B站-戏曲(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixq"},
+{"key":"T4-Bliych","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych"},
+{"key":"T4-mybili","name":"B站-mybili(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=我的哔哩"},
+{"key":"T4-bili","name":"B站-哔哩(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php"},
+{"key":"T4-waiyu","name":"B站-外语(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=waiyu"},
+{"key":"T4-bili1","name":"B站-幼儿(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=少儿教育"},
+{"key":"T4-bili2","name":"B站-小学(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小学课堂"},
+{"key":"T4-bili3","name":"B站-初中(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=初中课堂"},
+{"key":"T4-bili4","name":"B站-高中(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=高中课堂"},
+{"key":"T4-小灯塔科学","name":"B站-小灯塔科学(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔科学"},
+{"key":"T4-小灯塔地理","name":"B站-小灯塔地理(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔地理"},
+{"key":"T4-小灯塔百科","name":"B站-小灯塔百科(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔百科"},
+{"key":"T4-小灯塔国学","name":"B站-小灯塔国学(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔国学"},
+{"key":"T4-儿童口才","name":"B站-儿童口才(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童口才"},
+{"key":"T4-儿童拼音","name":"B站-儿童拼音(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童拼音"},
+{"key":"T4-儿童识字","name":"B站-儿童识字(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童识字"},
+{"key":"T4-儿童思维","name":"B站-儿童思维(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童思维"},
+{"key":"T4-儿童英语","name":"B站-儿童英语(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童英语"},
+{"key":"T4-儿童硬笔","name":"B站-儿童硬笔(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童硬笔"},
+{"key":"T4-儿童编程","name":"B站-儿童编程(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童编程"},
+{"key":"T4-儿童武术","name":"B站-儿童武术(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童武术"},
+{"key":"T4-哔哩套餐1","name":"B站-哔哩套餐1(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=哔哩套餐1"},
+{"key":"T4-哔哩套餐2","name":"B站-哔哩套餐2(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=哔哩套餐2"},
+{"key":"T4-软件教程","name":"B站-软件教程(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=软件教程"},
+{"key":"T4-合集","name":"B站-合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=合集"},
+{"key":"T4-美食","name":"B站-美食(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=美食"},
+{"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
+{"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
+{"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球星合集"},  
 
 {"key":"机器人","name":"机器SW","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
 {"key":"csp_hmhd","name":"河马SW","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}},
@@ -1100,6 +1127,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
