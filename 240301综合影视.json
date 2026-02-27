@@ -471,7 +471,7 @@
 {"key":"T4-哔哩套餐1","name":"B站-哔哩套餐1(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=哔哩套餐1"},
 {"key":"T4-哔哩套餐2","name":"B站-哔哩套餐2(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=哔哩套餐2"},
 {"key":"T4-软件教程","name":"B站-软件教程(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=软件教程"},
-{"key":"T4-合集","name":"B站-合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=合集"},
+
 {"key":"T4-美食","name":"B站-美食(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=美食"},
 {"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
 {"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
@@ -1127,6 +1127,7 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
 
 
