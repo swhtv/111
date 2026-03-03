@@ -1,19 +1,21 @@
 [
 {"name":"SW華哥 1 TV","url":"http://rihou.cc:567/gggg.nzk"},
+{"name":"SW華哥 2 TV","url":"https://live.catvod.com/tv.m3u"},
+{"name":"SW華哥 3 TV","url":"https://iptv.catvod.com/tv.m3u"},
+{"name":"SW華哥 4 TV","url":"https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"},
+{"name":"SW華哥 5 TV","url":"https://tvv.tw/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/TV/zby.m3u"},
+{"name":"SW華哥 6 TV","url":"https://wget.la/raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/TV/lzxw.txt"},
+{"name":"SW華哥 7 TV","url":"https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt"},
+{"name":"SW華哥 8 TV","url":"http://1tv.dqtx.cc"},
+{"name":"SW華哥 9 TV","url":"https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u"},
+{"name":"SW華哥 10 TV","url":"https://epg.pw/test_channels_hong_kong.m3u"},
+{"name":"SW華哥 11 TV","url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"},
 
-{"name":"SW華哥 2 TV","url":"https://ghps.cc/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json"},
-
-{"name":"ca","url":"https://iptv-org.github.io/iptv/countries/ca.m3u"},
-{"name":"uk","url":"https://iptv-org.github.io/iptv/countries/uk.m3u"},
-{"name":"us","url":"https://iptv-org.github.io/iptv/countries/us.m3u"},
-
-{"name":"ita","url":"https://iptv-org.github.io/iptv/countries/it.m3u"},
-{"name":"Xiaomi","url":"https://www.apsattv.com/xiaomi.m3u"},
 
 
-{"name":"SW華哥bit直播","url":"https://tv.iill.top/m3u/Gather"},
+{"name":"SW華哥bit直播","url":"https://gitee.com/alexkw/app/raw/master/kgk.txt"},
 {"name":"ibert-v6直播","url":"https://iptv.b2og.com/txt/fmml_ipv6.txt"},
-{"name":"范明明IPV6","url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u"},
+{"name":"范明明IPV6","url":"https://live.fanmingming.cn/tv/m3u/ipv6.m3u"},
 {"name":"roku usca","url":"https://www.apsattv.com/rok.m3u"},
 {"name":"Tablo","url":"https://www.apsattv.com/tablo.m3u"},
 {"name":"LocalNow","url":"https://www.apsattv.com/localnow.m3u"},
@@ -29,7 +31,11 @@
 {"name":"CA ST","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_stingray.m3u"},
 {"name":"9","url":"https://www.apsattv.com/xiaomi.m3u"},
 {"name":"SW-US1","url":"https://freetv.fun/test_channels_united_states_new.txt"},
-
+{"name":"ca","url":"https://iptv-org.github.io/iptv/countries/ca.m3u"},
+{"name":"uk","url":"https://iptv-org.github.io/iptv/countries/uk.m3u"},
+{"name":"us","url":"https://iptv-org.github.io/iptv/countries/us.m3u"},
+{"name":"ita","url":"https://iptv-org.github.io/iptv/countries/it.m3u"},
+{"name":"Xiaomi","url":"https://www.apsattv.com/xiaomi.m3u"},
 {"name":"華哥IPTV country","url":"https://iptv-org.github.io/iptv/index.country.m3u"},
 {"name":"華哥IPTV Language ","url":"https://iptv-org.github.io/iptv/index.language.m3u"},
 {"name":"華哥IPTV category","url":"https://iptv-org.github.io/iptv/index.category.m3u"},
