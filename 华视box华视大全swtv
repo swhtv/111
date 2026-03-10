@@ -118,7 +118,42 @@ Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/ch
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 AMC,http://148.113.160.49:14209
+TBS,http://41.205.93.154/TBS/tracks-v1a1/mono.m3u8
+ABC,http://41.205.93.154/ABC/tracks-v1a1/mono.m3u8
+ANIMALPLANET,http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
+BBC ONE,http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
+BBC THREE,http://41.205.93.154/BBCTHREE/tracks-v1a1/mono.m3u8
+BBC TWO,http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
+BRAVO,http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
+CNBC,http://41.205.93.154/CNBC/tracks-v1a1/mono.m3u8
+DISCOVERY.http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
+DIY,http://fl51.moveonjoy.com/DIY/tracks-v1a1/mono.ts.m3u8
+FOX 49,http://41.205.93.154/FOX49/tracks-v1a1/mono.m3u8
+FOX-NEWS,http://41.205.93.154/FOX-NEWS/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO 2,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
+HBO_COMEDY,http://23.237.104.106:8080/USA_HBO_COMEDY/tracks-v1a
+HBO ZONE,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+LIFETIME,http://41.205.93.154/LIFETIME/tracks-v1a1/mono.m3u8
+NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
+QVC,http://fl51.moveonjoy.com/QVC/tracks-v1a1/mono.ts.m3u8
+SHOWTIME_FAMILY,http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
+SPORTSMAN_CHANNEL,http://fl51.moveonjoy.com/SPORTSMAN_CHANNEL/tracks-v1a1/mono.ts.m3u8
+STARZ,http://fl51.moveonjoy.com/STARZ/tracks-v1a1/mono.ts.m3u8
+STARZ_CINEMA,http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
+STARZ_COMEDY,http://fl51.moveonjoy.com/STARZ_COMEDY/tracks-v1a1/mono.ts.m3u8
+TMC,http://41.205.93.154/TMC/tracks-v1a1/mono.m3u8
+DISNEY_XD,http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
+DISNEY_JUNIOR,http://23.237.104.106:8080/USA_DISNEY_JUNIOR/tracks-v1a1/mono.m3u8
+E,http://23.237.104.106:8080/USA_E/tracks-v1a1/mono.m3u8
+FOOD_NETWORK,http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
+FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
+FXX,http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
+HLN,http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
+NAT_GEO,http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
+NAT_GEO_WILD,http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
 
+WE TV,http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
 HBO,https://tvpass.org/live/HBOEast/sd
 HBO 2,https://tvpass.org/live/HBO2East/sd
 HBO Family,https://tvpass.org/live/HBOFamilyEast/sd
@@ -408,7 +443,8 @@ Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 BoSi Tennis,http://208.87.242.55/livehttpplay?channel_id=42026
 Sky Sports Football,https://a1xs.vip/2000003
-
+NFL_NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/tracks-v1a1/mono.m3u8
 DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
 DAZN 1,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2531/index.m3u
 DAZN 2,http://czrb8vng.ottclub.xyz/iptv/AHMQNVLWUTM5PW/2517/index.m3u
