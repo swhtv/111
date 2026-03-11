@@ -125,7 +125,44 @@
 
 { "key": "哈哈-影视", "name": "華哥-哈哈-影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/%E5%93%88%E5%93%88%E5%BD%B1%E8%A7%86.json" },
 
- 
+ {"key": "T4-qiyi", "name": "華哥七壹APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/七壹APP.php"},
+  {"key": "T4-youtu", "name": "華哥优兔APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/优兔APP.php"},
+  {"key": "T4-xiaozhu", "name": "華哥小猪APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/小猪APP.php"},
+{"key": "T4-shuzi", "name": "華哥数字APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/数字APP.php"},
+  {"key": "T4-juzi", "name": "SW橘子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/橘子APP.php"},
+  {"key": "T4-duanyou", "name": "SW段友APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/段友APP.php"},
+  {"key": "T4-huomao", "name": "SW火猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/火猫APP.php"},
+  {"key": "T4-linghu", "name": "SW灵虎APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/灵虎APP.php"},
+  {"key": "T4-aiying", "name": "SW爱盈APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/爱盈APP.php"},
+  {"key": "T4-wangzi", "name": "SW王子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/王子APP.php"},
+  {"key": "T4-yuanmeng", "name": "SW缘梦APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/缘梦APP.php"},
+  {"key": "T4-laoying", "name": "SW老鹰APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/老鹰APP.php"},
+
+  {"key": "T4-lanying", "name": "SW蓝鹰APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/蓝鹰APP.php"},
+
+  {"key": "T4-guwo", "name": "SW顾我APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/顾我APP.php"},
+  {"key": "T4-yizhan", "name": "SW驿站APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/驿站APP.php"},
+  
+  {"key": "T4-heimao", "name": "SW黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
+  {
+  "key": "T4-zhuiyi",
+  "name": "sw追忆APP(T4)",
+  "type": 4,
+  "api": "https://catbox.n13.club/ai/追忆APP.php"
+},
+{
+  "key": "T4-lanying",
+  "name": "sw蓝鹰APP(T4)",
+  "type": 4,
+  "api": "https://catbox.n13.club/ai/蓝鹰APP.php"
+},
+{
+  "key": "T4-huomao",
+  "name": "sw火猫APP(T4)",
+  "type": 4,
+  "api": "https://catbox.n13.club/ai/火猫APP.php"
+},
+
 
   {"key":"cspipianba","name":"SW華 片吧 華哥 提示如访问不到電影劇集可去 主页换不同资源","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综
 艺$4"}}, 
@@ -719,4 +756,5 @@
         "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
     ]
 }
+
 
