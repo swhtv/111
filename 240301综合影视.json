@@ -59,7 +59,20 @@
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
  
-
+{
+            "key": "文才",
+            "name": "🌺文才┃在线",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "Jpys"
+            },
+            "timeout": 10
+        },
  {"key":"csp_xlys","name":"修罗┃影视","type":3,"jar":"https://github.com/swhtv/ak/raw/refs/heads/main/qiaoji.jar","api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
  {"key": "csp_XYQHiker_骚火电影VIP","name": "骚火电影┃影视","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"},
 
