@@ -140,7 +140,7 @@
 
   {"key": "T4-lanying", "name": "SW蓝鹰APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/蓝鹰APP.php"},
 
-  {"key": "T4-guwo", "name": "SW顾我APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/顾我APP.php"},
+  {"key": "T4-guwo", "name": "SW顾我APP(T4)", "type": 4, "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/%E9%A1%BE%E6%88%91PH"},
   {"key": "T4-yizhan", "name": "SW驿站APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/驿站APP.php"},
   
   {"key": "T4-heimao", "name": "SW黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
