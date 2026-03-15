@@ -349,7 +349,222 @@
                 "分类url": "https://m.ycblcw.com/;;!H"
             }
         },
-
+{
+        "key":"爱奇艺弹幕",
+        "name":"🦄爱奇艺视频 TG:@usfgrjk",
+        "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+        "type":3,
+        "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+         "searchable":1,
+         "quickSearch":0,
+         "changeable":1,
+         "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/爱奇艺弹幕.js"
+         },
+         {
+         "key":"优酷弹幕",
+         "name":"🦄优酷视频｜追剧",
+         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+         "type":3,
+         "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+         "searchable":1,
+         "quickSearch":0,
+         "changeable":1,
+         "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/优酷弹幕.js"
+         },
+         {"key":"腾讯弹幕",
+         "name":"🦄腾讯视频｜追剧",
+         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+         "type":3,
+         "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+         "searchable":1,
+         "quickSearch":0,
+         "changeable":1,
+         "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/腾讯弹幕.js"
+         },
+         {
+         "key":"芒果弹幕",
+         "name":"🦄芒果视频｜追剧",
+         "jar":"https://gitee.com/yiwu369/6758/raw/master/jar/spider.jar",
+          "type":3,
+          "api":"https://gitee.com/yiwu369/6758/raw/master/JS/drpy2.min.js",
+          "searchable":1,
+          "quickSearch":0,
+          "changeable":1,
+           "ext":"https://gitee.com/yiwu369/6758/raw/master/JS/芒果弹幕.js"
+           },
+        {"key": "sgys",
+        "name": "🦄搜狗视频｜追剧",
+        "type": 3,
+        "api": "MJS_sgys",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp",
+        "api": "http://www.meowtv.cn/js/drpy2.min.js"
+        },
+        {
+			"key": "zhuanxiang",
+			"name": "🦄专享4K｜追剧",
+			"type": 4,
+			"api": "http://sspa8.top:99/php/%E4%B8%93%E4%BA%AB.php"
+		},
+		{
+			"key": "T4-哇哇",
+			"name": "🦄哇哇影视｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/哇哇影视.php"
+		},
+        {
+            "name": "🦄糖心｜追剧",
+            "key": "TnewGr",
+            "type": 3,
+            "api": "csp_TnewGrAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png" 
+        },
+        {
+            "name": "🦄金牌｜追剧",
+            "key": "JinPai",
+            "type": 3,
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+         {
+            "name": "🦄伊外｜追剧",
+            "key": "YIys",
+            "type": 3,
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
+        },
+        {
+            "key": "还行",
+            "name": "🦄还行4K｜追剧",
+            "jar": "https://xiuxiu-pro.meitudata.com/posters/5199d8f8bcbe3c6d6938ded33cb90596.png",
+            "type": 3,
+            "api": "csp_AppYs",
+            "searchable": 1,
+            "quickSearch": 1,
+            "ext": "http://m51.gotto.top/api.php/v1.vod"
+        },
+        {
+			"key": "T4-huaxiaozhu111",
+			"name": "🦄花小猪｜追剧",
+			"type": 4,
+			"api": "https://catbox.n13.club/t9/huaxiaozhu.php"
+		},
+        {
+            "key": "量子2k",
+            "name": "🦄量子影视｜追剧",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playurl": "json:https://lziplayer.com/?url=",
+            "categories": [
+               "国产剧",
+               "国产动漫",
+               "泰国剧",
+               "台湾剧",
+               "香港剧",
+               "欧美剧",
+               "韩国剧",
+               "日本剧",
+               "动漫",
+               "体育",
+               "剧情片",
+               "动作片",
+               "爱情片",
+               "喜剧片"
+       ]
+       },
+       {
+			"key": "爱瓜TV",
+			"name": "🦄爱瓜TV｜追剧",
+			"type": 4,
+			"api": "http://zhangqun1818.serv00.net/aigua1.php"
+		},
+        {    
+            "key": "热播影视",
+            "name": "🦄热播影视｜追剧",
+            "type": 3,
+            "jar":"https://gitee.com/nm_nm/interface/raw/master/spider.jar;md5;06094f7f426755b6dd338459069a4e95",             "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+            "url": "http://v.rbotv.cn"
+            }
+        },
+         {
+            "key":"瓜子",
+            "name":"🦄瓜子影视｜追剧",
+            "type":3,
+            "api":"csp_Guazi",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "playerType":1,
+            "changeable":1,
+            "jar":"https://ghproxy.net/https://raw.githubusercontent.com/qdpdwjx/ziyuan/master/JAR/fuma.jar;md5;542ED744B07121213F70323B9BCBECCA"
+         },
+         {
+            "key": "API_如意",
+            "name": "🦄如意影视｜追剧",
+            "type": 1,
+            "api": "https://cj.rycjapi.com/api.php/provide/vod",
+            "ext": "",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "categories": [
+        "动作片",
+        "灾难片",
+        "爱情片",
+        "科幻片",
+        "战争片",
+        "喜剧片",
+        "恐怖片",
+        "预告片",
+        "剧情片",
+        "记录片",
+        "动画电影",
+        "电影解说",
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "短剧",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺",
+        "足球",
+        "篮球",
+        "网球",
+        "斯诺克",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "港台动漫",
+        "海外动漫"
+         ]
+        },
 
 
 		
