@@ -1,16 +1,13 @@
 SW-華哥TV ,#genre#
-
+City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
+CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
 Global News,https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8?checkedby:iptvcat.com
-
-
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 CBC NEWS,https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-City tv News,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m3u8
-CityNews Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/Video-1Mbps.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -18,7 +15,6 @@ FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_50
 FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 AJA news,http://live-hls-web-aja.getaj.net/AJA/02.m3u8 
 AJE news English,https://live-hls-apps-aje-fa.getaj.net/AJE/03.m3u8
-
 OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
@@ -81,27 +77,18 @@ BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 BBC Earth,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 Discovery Channel,https://a1xs.vip/300034
-
-Discovery Family Channel,https://tvpass.org/live/DiscoveryFamily/sd
-Discovery Life Channel,https://tvpass.org/live/DiscoveryLife/sd
-
+DISCOVERY.http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
 HISTORY,http://nor1live.win/livehttpplay?channel_id=23105
-
-
 Animal Planet,https://a1xs.vip/300035
-
 Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 TLC HD,http://79.127.238.228:14433
 TLC,http://104.250.145.76/livehttpplay?channel_id=23319
 E,http://23.237.104.106:8080/USA_E/tracks-v1a1/mono.m3u8
 FOOD_NETWORK,http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
-
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 TNT,https://a1xs.vip/300001
-
-TNT 2,http://nor1live.win/livehttpplay?channel_id=23133
+TNT,http://nor1live.win/livehttpplay?channel_id=23133
 Game Show 
 Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
@@ -123,7 +110,7 @@ BRAVO,http://41.205.93.154/BRAVO/index.m3u8
 A&E,https://tvpass.org/live/AEEast/sd
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
 
-DISCOVERY.http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
+
 DIY,http://fl51.moveonjoy.com/DIY/tracks-v1a1/mono.ts.m3u8
 
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
