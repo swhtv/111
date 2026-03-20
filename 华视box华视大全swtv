@@ -485,6 +485,15 @@ RTHK33,https://live.astradamy.com/hk33/index.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
+中天新聞,https://litv.tzh911.qzz.io/litv.php?id=4gtv-4gtv074&token=pixman
+TVBS新聞台,http://47.104.163.156:50/台湾.php?id=tvbsxw
+中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
+中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
+台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
+华视新闻,http://74.91.26.218:82/live/ctsnews.m3u8
+民视新闻台,http://74.91.26.218:82/live/ftvnews.m3u8
+东森新闻,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+
 ELEVEN体育1,rtmp://f13h.mine.nu/sat/tv731
 ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
