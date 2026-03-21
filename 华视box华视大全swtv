@@ -293,6 +293,7 @@ SW-TV港台,#genre#
 無綫新聞台,http://r.jdshipin.com/CkuBd
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
+HOY新闻,http://rihou.cc:555/tv/[Pd]有线新闻
 
 NOW新闻台,https://cdn.163189.xyz/163189/now
 
@@ -1004,7 +1005,91 @@ cctv5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_
 海南卫视,http://69.30.246.194/live/hnws.m3u8
 
 
+CCTV1,http://221.229.212.86:14923
+CCTV1,http://221.229.212.86:14977
+CCTV2,http://221.229.212.86:14993
+CCTV3,http://221.229.212.86:14985
+CCTV4,http://221.229.212.86:14994
+CCTV5,http://221.229.212.86:14924
+CCTV5,http://221.229.212.86:14982
+CCTV5+,http://221.229.212.86:14925
+CCTV5+,http://221.229.212.86:14981
+CCTV6,http://221.229.212.86:14995
+CCTV7,http://221.229.212.86:14997
+CCTV8,http://221.229.212.86:14996
+CCTV9,http://221.229.212.86:14904
+CCTV10,http://221.229.212.86:14998
+CCTV11,http://221.229.212.86:14986
+CCTV12,http://221.229.212.86:14987
+CCTV13,http://221.229.212.86:14979
+CCTV14,http://221.229.212.86:14989
+CCTV15,http://221.229.212.86:14905
+CCTV16,http://221.229.212.86:14926
+CCTV16,http://221.229.212.86:14910
+CCTV17,http://221.229.212.86:14965
+广东体育,http://221.229.212.86:14975
+广东珠江,http://221.229.212.86:14909
+凤凰资讯,http://221.229.212.86:14896
+凤凰香港台,http://221.229.212.86:14897
+凤凰中文,http://221.229.212.86:14898
 
+安徽卫视,http://221.229.212.86:14902
+北京卫视,http://221.229.212.86:14901
+重庆卫视,http://221.229.212.86:14970
+东方卫视,http://221.229.212.86:14999
+东南卫视,http://221.229.212.86:14974
+河北卫视,http://221.229.212.86:14973
+河南卫视,http://221.229.212.86:14992
+湖南卫视,http://221.229.212.86:14983
+江苏卫视,http://221.229.212.86:14980
+江西卫视,http://221.229.212.86:14990
+辽宁卫视,http://221.229.212.86:14991
+宁夏卫视,http://221.229.212.86:14971
+山东卫视,http://221.229.212.86:14988
+山西卫视,http://221.229.212.86:14972
+深圳卫视,http://221.229.212.86:14903
+天津卫视,http://221.229.212.86:14906
+未知,http://221.229.212.86:14966
+
+CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
+CCTV-2HD,http://107.150.60.122/live/cctv2hd.m3u8
+CCTV-3HD,http://107.150.60.122/live/cctv3hd.m3u8
+CCTV-4HD,http://107.150.60.122/live/cctv4hd.m3u8
+CCTV-5HD,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV-6HD,http://107.150.60.122/live/cctv6hd.m3u8
+CCTV-7HD,http://107.150.60.122/live/cctv7hd.m3u8
+CCTV-8HD,http://107.150.60.122/live/cctv8hd.m3u8
+CCTV-9HD,http://107.150.60.122/live/cctv9hd.m3u8
+CCTV-10HD,http://107.150.60.122/live/cctv10hd.m3u8
+CCTV-11HD,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV-12HD,http://107.150.60.122/live/cctv12hd.m3u8
+CCTV-13HD,http://107.150.60.122/live/cctv13hd.m3u8
+CCTV-14HD,http://107.150.60.122/live/cctv14hd.m3u8
+CCTV-15HD,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV-16HD,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV-17HD,http://107.150.60.122/live/cctv17hd.m3u8
+CCTV-5+HD,http://107.150.60.122/live/cctv5p.m3u8
+CCTV-4K超高清,http://107.150.60.122/live/cctv4k.m3u8
+CCTV-8K超高清,http://107.150.60.122/live/cctv8k.m3u8
+湖南卫视HD,http://107.150.60.122/live/hnwshd.m3u8
+东方卫视HD,http://107.150.60.122/live/dfwshd.m3u8
+浙江卫视HD,http://107.150.60.122/live/zjwshd.m3u8
+江苏卫视HD,http://107.150.60.122/live/jswshd.m3u8
+重庆卫视HD,http://107.150.60.122/live/cqwshd.m3u8
+东南卫视HD,http://107.150.60.122/live/dnwshd.m3u8
+广西卫视HD,http://107.150.60.122/live/gxwshd.m3u8
+湖北卫视HD,http://107.150.60.122/live/hbwshd.m3u8
+辽宁卫视HD,http://107.150.60.122/live/lnwshd.m3u8
+山东卫视HD,http://107.150.60.122/live/sdwshd.m3u8
+天津卫视HD,http://107.150.60.122/live/tjwshd.m3u8
+陕西卫视HD,http://107.150.60.122/live/snwshd.m3u8
+广东卫视HD,http://107.150.60.122/live/gdwshd.m3u8
+深圳卫视HD,http://107.150.60.122/live/szwshd.m3u8
+青海卫视,http://107.150.60.122/live/qhws.m3u8
+西藏卫视,http://107.150.60.122/live/xzws.m3u8
+大湾区卫视,http://107.150.60.122/live/nfws.m3u8
+CCTV-央视文化精品,http://107.150.60.122/live/ysjp.m3u8
+CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 
 
 
