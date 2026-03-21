@@ -990,75 +990,18 @@ CCTV 4H,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
 
 cctv5,https://tttttt.zpyxxs.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1769732418-0-0-76f10d3b56e481b66423865b77c130cf
 cctv5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1769734545-0-0-f8ffa667ffb6407c50b4b347719f921a
-CCTV 1 h,http://rihou.cc:555/tv/[mg]CCTV-01
-CCTV 2,http://rihou.cc:555/tv/[mg]CCTV-02
-CCTV 3,http://rihou.cc:555/tv/[mg]CCTV-03
-CCTV 4,http://rihou.cc:555/tv/[mg]CCTV-04
-CCTV 5,http://rihou.cc:555/tv/[mg]CCTV-05
-CCTV 5 +,http://rihou.cc:555/tv/[mg]CCTV-5p
-CCTV 6,http://rihou.cc:555/tv/[mg]CCTV-06
-CCTV 7,http://rihou.cc:555/tv/[mg]CCTV-07
-CCTV 8,http://rihou.cc:555/tv/[mg]CCTV-08
-CCTV 9,http://rihou.cc:555/tv/[mg]CCTV-09
-CCTV 10,http://rihou.cc:555/tv/[mg]CCTV-10
-CCTV 11,http://rihou.cc:555/tv/[mg]CCTV-11
-CCTV 12,http://rihou.cc:555/tv/[mg]CCTV-12
-CCTV 14,http://rihou.cc:555/tv/[mg]CCTV-14
-CCTV 15,http://rihou.cc:555/tv/[mg]CCTV-15
-CCTV 16,http://rihou.cc:555/tv/[mg]CCTV-16
+
 江蘇卫视,http://69.30.246.194/live/jsws.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
-东方衛視,http://rihou.cc:555/tv/[mg]东方卫视
+
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
 浙江衛視,http://qq1231.us:80/4r9abwQEf3/mYUa7YJRrA/123652
 東方衛視,http://qq1231.us:80/4r9abwQEf3/mYUa7YJRrA/123640
-
-
-
-
-深圳衛視,http://rihou.cc:555/tv/[mg]深
-圳卫视
 海南卫视,http://69.30.246.194/live/hnws.m3u8
-山东衛視,http://rihou.cc:555/tv/[mg]山东卫视
-湖北衛視,http://rihou.cc:555/tv/[mg]湖北卫视
-云南衛視,http://rihou.cc:555/tv/[mg]云南卫视
-山西衛視,http://rihou.cc:555/tv/[mg]山西卫视
-天津衛視,http://rihou.cc:555/tv/[mg]天津卫视
 
-CCTV1,http://go.bkpcp.top/mg/cctv1 
-CCTV2,http://go.bkpcp.top/mg/cctv2 
-CCTV3,http://go.bkpcp.top/mg/cctv3 
-CCTV4,http://go.bkpcp.top/mg/cctv4 
-CCTV5,http://go.bkpcp.top/mg/cctv5
-CCTV5+,http://go.bkpcp.top/mg/cctv5p 
-CCTV6,http://go.bkpcp.top/mg/cctv6
-CCTV7,http://go.bkpcp.top/mg/cctv7 
-CCTV8,http://go.bkpcp.top/mg/cctv8
-CCTV9,http://go.bkpcp.top/mg/cctv9
-CCTV10,http://go.bkpcp.top/mg/cctv10 
-CCTV11,http://go.bkpcp.top/mg/cctv11
-CCTV12,http://go.bkpcp.top/mg/cctv12 
-CCTV13,http://go.bkpcp.top/mg/cctv13 
-CCTV14,http://go.bkpcp.top/mg/cctv14
-CCTV15,http://go.bkpcp.top/mg/cctv15
-CCTV16,http://go.bkpcp.top/mg/cctv16
-CCTV17,http://go.bkpcp.top/mg/cctv17 
-北京卫视,http://go.bkpcp.top/mg/bjws
-东方卫视,http://go.bkpcp.top/mg/dfws
-浙江卫视,http://go.bkpcp.top/mg/zjws 
-江苏卫视,http://go.bkpcp.top/mg/jsws 
-湖南卫视,http://go.bkpcp.top/mg/hunws 
-广东卫视,http://go.bkpcp.top/mg/gdws 
-深圳卫视4k,http://go.bkpcp.top/mg/szws 
-山东卫视,http://go.bkpcp.top/mg/sdws
-河南卫视,http://go.bkpcp.top/mg/hnws
-江西卫视,http://go.bkpcp.top/mg/jxws 
-湖北卫视,http://go.bkpcp.top/mg/hubws 
-海南卫视,http://go.bkpcp.top/mg/hinws
-陕西卫视,http://go.bkpcp.top/mg/sxws 
-兵团卫视,http://go.bkpcp.top/mg/btws 
-黑龙江视,http://go.bkpcp.top/mg/hljws
+
+
 
 
 
