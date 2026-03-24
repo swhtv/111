@@ -35,9 +35,25 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
+       {
+            "key": "奇奇",
+            "name": "KK-華哥",
+            "type": 3,
+            "api": "csp_AppQi",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "http://110.42.67.221:8009",
+                "dataKey": "123456789abcdefg",
+                "dataIv": "123456789abcdefg",
+                "init": "initV122",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+
    {
-            "key": "洽洽-瓜子",
-            "name": "sw華哥-洽洽",
+            "key": "洽洽瓜子",
+            "name": "sw 華哥-洽洽",
             "type": 3,
             "api": "csp_AppGZ",
             "searchable": 1,
