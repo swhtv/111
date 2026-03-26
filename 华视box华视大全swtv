@@ -21,14 +21,12 @@ RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-
+FOXBUSINESS,http://41.205.93.154/FOXBUSINESS/tracks-v1a1/mono.m3u8
 FOX NEWS CHANNEL,http://41.205.93.154/FOX-NEWS/tracks-v1a1/mono.m3u8
-FOX NEWS CHANNEL,https://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary_400.m3u8
 Fox-news channel,https://tvpass.org/live/FoxNewsChannel/sd
 fox news,http://84.17.50.102/foxnews/tracks-v1a1/mono.ts.m3u8
 
 FOX 49,http://41.205.93.154/FOX49/tracks-v1a1/mono.m3u8
-FOXBUSINESS,http://41.205.93.154/FOXBUSINESS/tracks-v1a1/mono.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
 CNBC WORLD HD,http://nor1live.win/livehttpplay?channel_id=23117
@@ -36,10 +34,9 @@ CNBC WORLD HD,http://nor1live.win/livehttpplay?channel_id=23117
 CNBC HD,http://nor1live.win/livehttpplay?channel_id=23115
 CNBC,http://nor1live.win/livehttpplay?channel_id=23115
 CNBC hd,http://41.205.93.154/CNBC/tracks-v1a1/mono.m3u8
-CNBC Europe,https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
-cnbc-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
+CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
-MSNBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
+NBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 MSNBC ,http://nor1live.win/livehttpplay?channel_id=23116
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
@@ -78,7 +75,10 @@ BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStud
 BBC Earth,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
 Discovery Channel,https://a1xs.vip/300034
-DISCOVERY.http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
+DISCOVERY,http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
+NAT_GEO,http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
+NAT_GEO_WILD,http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
+WE TV,http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
 HISTORY,http://nor1live.win/livehttpplay?channel_id=23105
 Animal Planet,https://a1xs.vip/300035
 Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
@@ -89,6 +89,7 @@ TLC,http://104.250.145.76/livehttpplay?channel_id=23319
 E,http://23.237.104.106:8080/USA_E/tracks-v1a1/mono.m3u8
 FOOD_NETWORK,http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+OUTDOOR CHANNEL,http://nor1live.win/livehttpplay?channel_id=23138
 wild tv,https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100055.m3u8
 TNT,https://a1xs.vip/300001
 TNT,http://nor1live.win/livehttpplay?channel_id=23133
@@ -96,31 +97,25 @@ Game Show
 Central,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e90e8cb05d2b0007f10a61/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a54a2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=06d7c73f-91e9-44c5-868e-5336253a1d67
 Go2Travel,https://go2thls.wns.live/hls/stream.m3u8
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
-
+HLN,http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
 TBS,http://41.205.93.154/TBS/tracks-v1a1/mono.m3u8
 ABC,http://41.205.93.154/ABC/tracks-v1a1/mono.m3u8
 ANIMALPLANET,http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
-
 BRAVO,http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
-HLN,http://23.237.104.106:8080/USA_HLN/tracks-v1a1/mono.m3u8
-NAT_GEO,http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
-NAT_GEO_WILD,http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
-
-WE TV,http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
-
 Bravo,https://tvpass.org/live/BravoEast/sd
 BRAVO,http://41.205.93.154/BRAVO/index.m3u8
 A&E,https://tvpass.org/live/AEEast/sd
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
-
-
 DIY,http://fl51.moveonjoy.com/DIY/tracks-v1a1/mono.ts.m3u8
-
 HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
 HBO 2,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
-
 HBO ZONE,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
+HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
+HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
 LIFETIME,http://41.205.93.154/LIFETIME/tracks-v1a1/mono.m3u8
+Country tv,https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
+Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
+world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
 
 QVC,http://fl51.moveonjoy.com/QVC/tracks-v1a1/mono.ts.m3u8
 SHOWTIME_FAMILY,http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
@@ -137,37 +132,7 @@ FXX,http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
 
 Sky Cinema Action,https://a1xs.vip/210006
 Sky Cinema Family,https://a1xs.vip/210007
-
-HISTORY EAST USA HD,http://nor1live.win/livehttpplay?channel_id=23105
-TV ONE HD,http://nor1live.win/livehttpplay?channel_id=23114
-COMEDY CARIBE HD,http://nor1live.win/livehttpplay?channel_id=23119
-LIFETIME EAST HD,http://nor1live.win/livehttpplay?channel_id=23106
-HGTV HD WEST,http://nor1live.win/livehttpplay?channel_id=23097
-FOOD NETWORK HD WEST,http://nor1live.win/livehttpplay?channel_id=23098
-E! EAST HD,http://nor1live.win/livehttpplay?channel_id=23113
-E! WEST HD,http://nor1live.win/livehttpplay?channel_id=23008
-NICK JR HD,http://nor1live.win/livehttpplay?channel_id=23044
-CARTOON NETWORK HD,http://nor1live.win/livehttpplay?channel_id=23045
-TUDN MX HD,http://nor1live.win/livehttpplay?channel_id=23048
-UNIVERSAL CRIME HD,http://nor1live.win/livehttpplay?channel_id=23052
-GALAVISION EAST HD,http://nor1live.win/livehttpplay?channel_id=23090
-GALAVISION WEST HD,http://nor1live.win/livehttpplay?channel_id=23091
-OUTDOOR CHANNEL,http://nor1live.win/livehttpplay?channel_id=23138
-TELEMUNDO MOUNTAIN HD,http://nor1live.win/livehttpplay?channel_id=23004
-UNIVISION TUDN USA HD,http://nor1live.win/livehttpplay?channel_id=23092
-bravo HD,http://nor1live.win/livehttpplay?channel_id=23110
-BRAVO HD,http://nor1live.win/livehttpplay?channel_id=23070
-HBO FAMILY HD,http://nor1live.win/livehttpplay?channel_id=23049
-COMEDY WEST HD,http://nor1live.win/livehttpplay?channel_id=23083
-OXYGEN West HD,http://nor1live.win/livehttpplay?channel_id=23067
-TRAVEL CHANNEL HD WEST,http://nor1live.win/livehttpplay?channel_id=23099
-A&E HD,http://nor1live.win/livehttpplay?channel_id=23104
-LMN HD,http://nor1live.win/livehttpplay?channel_id=23107
-Hallmark Movie East HD,http://nor1live.win/livehttpplay?channel_id=23059
-Hallmark Movie west HD,http://nor1live.win/livehttpplay?channel_id=23060
-Vice HD,http://nor1live.win/livehttpplay?channel_id=23109
 AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
-
 AWE,https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 AWE Encore,https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
 
@@ -277,11 +242,6 @@ BEACH TV (1+),http://media4.tripsmarter.com:1935/LiveTV/MTVHD/playlist.m3u8
 BEACH TV (2+),http://media4.tripsmarter.com:1935/LiveTV/BTVHD/chucklist.m3u8
 BETO TV LIFESTYLE ENGLISH,http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 DC COUNCIL CHANNEL,http://video.oct.dc.gov/out/u/15_12.m3u8
-Country tv,https://a-cdn.klowdtv.com/live2/countrytv_720p/chunks.m3u8
-W network,https://fl41.moveonjoy.com/W_NETWORK/index.m3u8
-
-Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
-world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
 
 
 
@@ -289,9 +249,10 @@ SW-TV港台,#genre#
 
 
 無綫新聞台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-無綫新聞台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
 無綫新聞台,http://r.jdshipin.com/CkuBd
 TVB無线新聞,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+TVB無线新聞,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 HOY新闻,http://rihou.cc:555/tv/[Pd]有线新闻
 
@@ -308,7 +269,7 @@ NOW体育,http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&strea
 HOY 77,http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 HOY TV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hoytv
-
+TVB娛樂新闻台,http://rihou.cc:555/tv/[PL]无线娱乐
 翡翠 台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠 台,https://cdn6.163189.xyz/163189/fct4k
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
@@ -370,7 +331,7 @@ Astr剧集,http://php.jdshipin.com:8880/TVOD/iptv.php?id=aod
 無線新聞台超清[TVB News HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30024
 無線新聞台高清[TVB News,http://67.220.71.199:2347/livehttpplay?channel_id=20123
 无线新闻台,http://74.91.26.218:82/live/inews.m3u8
-無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
+
 无线新闻台,http://pull-vivek.speedws.com/live/aaawxxw.flv
 HOY77,http://iptv.4666888.xyz/iptv2A.php?id=35
 HOY78,http://iptv.4666888.xyz/iptv2A.php?id=31
@@ -420,7 +381,7 @@ TVB亞洲劇臺[TVB Asian Select],http://67.220.71.199:2347/livehttpplay?channel
 廣東體育高清[GRT-SPORTS HD],http://67.220.71.199:2347/livehttpplay?channel_id=20130
 嶺南戲曲[Lingnan Drama],http://67.220.71.199:2347/livehttpplay?channel_id=20142
 岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
-珠江臺[ZHUJIANG TV],http://67.220.71.199:2347/livehttpplay?channel_id=20144
+
 港臺電視32高清[RTHK TV 32 HD],http://67.220.71.199:2347/livehttpplay?channel_id=30028
 CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 廣東體育超清[GRT-SPORTS HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30031
@@ -429,10 +390,6 @@ RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
 港臺電視32超清[RTHK TV 32 HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30067
 博斯網球[BoSi Tennis],http://67.220.71.199:2347/livehttpplay?channel_id=42026
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
-HBO Hits,https://hls.iill.top/api/HBO-Hits/index.m3u8
-HBO Signature,https://hls.iill.top/api/HBO-Signature/index.m3u8
-
-
 
 TntSports3,http://iptv.4666888.xyz/iptv2A.php?id=3
 wwwe,http://iptv.4666888.xyz/iptv2A.php?id=5
@@ -457,9 +414,6 @@ ASTROAEC,http://o11.163189.xyz/stream/live/aec/
 ASTRO欢喜台,http://o11.163189.xyz/stream/live/hxt/
 IQIYI,http://o11.163189.xyz/stream/live/iqiyi/
 千禧经典,https://smt.1678520.xyz/smt3.2.1.php?id=Tvbclassic
-
-
-
 
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
@@ -957,8 +911,8 @@ TVA Sports 2,https://restream-live.realiptv.to:443/live/ALEX/sg5ng25ikf/59869.ts
 
 
 SW-CCTV+卫视,#genre#
-CCTV 13,https://cdn3.163189.xyz/163189/cctv13
-CCTV-13,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
+CCTV 13新闻,https://cdn3.163189.xyz/163189/cctv13
+CCTV-13新闻,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovL3R2dGouanh3bHR4LmNvbTo4MDAzL2NjdHYxMy5tM3U4
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -973,37 +927,27 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-
-
-
-广东体育,http://r.jdshipin.com/LiYdg
 珠江台,http://r.jdshipin.com/sE5vO
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育,http://r.jdshipin.com/LiYdg
+广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
+广东卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
 
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 东方卫视4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-
-广东卫视,https://h5cdn3.kylintv.tv/live/gdtvhd_iphone.m3u8
-广东卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/gdsatellite.m3u8
 鳳凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 鳳凰中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰中文,http://122.117.71.103:8574/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 CCTV 1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 CCTV 4H,https://hc9lby9bzw8zcar.wcetv.com/hls/cctv4.m3u8
-
-
-
 cctv5,https://tttttt.zpyxxs.com/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1769732418-0-0-76f10d3b56e481b66423865b77c130cf
 cctv5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_key=1769734545-0-0-f8ffa667ffb6407c50b4b347719f921a
 
 江蘇卫视,http://69.30.246.194/live/jsws.m3u8
 浙江卫视,http://69.30.246.194/live/zjws.m3u8
 东方卫视,http://69.30.246.194/live/dfws.m3u8
-
 湖南卫视,http://69.30.246.194/live/hnws.m3u8
-浙江衛視,http://qq1231.us:80/4r9abwQEf3/mYUa7YJRrA/123652
-東方衛視,http://qq1231.us:80/4r9abwQEf3/mYUa7YJRrA/123640
 海南卫视,http://69.30.246.194/live/hnws.m3u8
 
 
@@ -1096,18 +1040,17 @@ CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 
 
 SW-FRANCE 法語,#genre#
-
-FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
-EV TV ÉVANGILE,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
-LE MÉDIA TV,https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
-i24 NEWS FR,https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
-LN24 BE,https://live-ln24.digiteka.com/1911668011/index.m3u8
 FRANCE 24(FR),https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_500.m3u8
 FRANCE NEWS(EN),https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
 BFM TV,https://live-cdn-stream-euw1.bfmtv.bct.nextradiotv.com/master.m3u8
 AFRICA 24,https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 AFRICA 24 FR,https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
+LE MÉDIA TV,https://raw.githubusercontent.com/BG47510/tube/refs/heads/main/lemedia.m3u8
+LN24 BE,https://live-ln24.digiteka.com/1911668011/index.m3u8
+i24 NEWS FR,https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
+FRANCE INFO:,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frin.m3u8
+EV TV ÉVANGILE,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/extr/py/evtv.m3u8
 ICI MONTREAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8 
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
@@ -1334,55 +1277,9 @@ TBS Japan,https://tbs5.mov3.co/hls/tbs.m3u8
 QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
 NHK 総合,https://nhk4.mov3.co/hls/nhk.m3u8
-TOKYO MX1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=6
-Disney Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=6
-スペースシャワーTV/SPACE SHOWER TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26&isp=6
-BS 松竹東急,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=6
 
-
-衛星劇場 / Eisei Gekijo,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=6
-ディズニージュニア お子さま向けディズニー番組/ Disney jr,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=6
-アニマルプラネット/AnimalPlanetJapan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=6
-Cartoon Network,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25&isp=6
-フジテレビNEXT,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=6
-TAKARAZUKA SKY STAGE宝塚歌劇団,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=6
-NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=6
-NHK Eテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=6
-日本テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=6
-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=6
-フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=6
-テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=6
-テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=6
-MBS毎日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=6
-ABCテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=6
-関西テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=6
-読売テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=6
-テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=6
-NHK General TV Osaka,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=6
-SUN TV H /サンテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=6
-NHK BSP 4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=6
-BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=6
-BS 朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=6
-BS TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=6
-BS テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=6
-BS Fuji HD,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=6
-WOWOW Cinema,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=6
-WOWOW Live,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=6
-Star Channel 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=6
-J SPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=6
-J SPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=6
-日本映画専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=6
-BS釣りビジョン,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=6
-スカイ・A / Sky A,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01&isp=6
-日テレジータス / Nittele G+,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=6
-ゴルフネットワーク Golf,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=6
-時代劇専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=6
-ホームドラマチャンネル 韓流・時代劇,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=6
-キッズステーション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=6
-ファミリー劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=6
-東映チャンネル / Toei Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=6
-チャンネル銀河,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=6
 TBS (备用),https://tbs5.mov3.co/hls/tbs.m3u8
+
 NHK G,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=4
 NHK E,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
 日本テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03&isp=4
