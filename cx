@@ -292,7 +292,17 @@
 {"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
 {"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
 {"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球星合集"},
-  
+  {
+      "key": "csp_Bili_yanchh",
+      "name": "歌手┃合集",
+      "type": 3,
+      "jar": "https://jihulab.com/e8/4k/-/raw/master/jar/fine.jar",
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://jihulab.com/e8/4k/-/raw/master/json/geshou.json"
+    },
        
         {
             "key": "zy_金鹰资源",
