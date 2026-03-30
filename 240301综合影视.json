@@ -568,6 +568,59 @@
 			]
 		},    
 
+{
+            "key": "bilibili",
+            "name": "｜哔哩｜合集",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 1,
+            "changeable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.433
+            },
+            "ext": {
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/config/bilibili.json",
+                "cookie": ""
+            }
+        },
+{
+            "key": "哔哩哔哩戏曲",
+            "name": "｜哔哩｜戏曲",
+            "type": 3,
+            "api": "csp_Bili",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": {
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lrzy/config/blxq.json",
+                "cookie": ""
+            },
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+{
+            "key": "缘梦",
+            "name": "🧡｜缘梦｜APP",
+            "type": 3,
+            "searchable": 1,
+            "changeable": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "http://165.99.42.137:5432",
+                "dataKey": "1234567890987654",
+                "dataIv": "1234567890987654"
+            }
+        },
+
+{
+            "key": "360影视",
+            "name": "｜六零｜影视",
+            "type": 3,
+            "api": "csp_SP360"
+        },
 
 	    
 
