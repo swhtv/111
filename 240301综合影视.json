@@ -70,20 +70,7 @@
                 "url": "http://v.rbotv.cn"
             }
         },
- {
-            "key": "小猪",
-            "name": "👑小猪 華哥",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://tiantangwulu.oss-cn-shanghai.aliyuncs.com/xinjian.txt",
-                "dataKey": "k5t2fp3h9d25hn9y",
-                "dataIv": "k5t2fp3h9d25hn9y",
-                "ua": "okhttp/3.10.0"
-            }
-        },
+ 
 
   {
             "key": "橘皮",
@@ -94,29 +81,7 @@
             "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E6%A9%98%E7%9A%AE.jar",
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
- {
-            "key": "巧技五",
-            "name": "🔍艘艘 sw",
-            "type": 3,
-            "api": "csp_qiao2",
-            "playerType": 2,
-            "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E6%A9%98%E7%9A%AE.jar",
-            "ext": "7lj763gg402i7942412h849jg1558j9jl8g19213il86316k465719lik158491h179312hk935886ig2l05g9"
-        },
-
-   {
-            "key": "优兔",
-            "name": "👑优兔 華哥",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://uututv-1319209748.cos.ap-shanghai.myqcloud.com/uutuv4.txt",
-                "dataKey": "UrWKPnmQWJA8AQzd",
-                "dataIv": "UrWKPnmQWJA8AQzd"
-            }
-        },
+ 
         {
             "key": "王子",
             "name": "👑王子｜華哥",
@@ -130,21 +95,7 @@
                 "dataIv": "5a9w6x58dsq6z3a6"
             }
         },
-        {
-            "key": "爱盈",
-            "name": "👑爱盈｜華哥",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "site": "https://rxysyyds.oss-cn-chengdu.aliyuncs.com/qiji.txt",
-                "dataKey": "sjvlwnhk6h9znl61",
-                "dataIv": "sjvlwnhk6h9znl61",
-                "version": "305",
-                "ua": "okhttp/3.10.0"
-            }
-        },
+     
        {
             "key": "奇奇",
             "name": "👑奇奇｜華哥",
@@ -220,25 +171,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-{"key": "T4-qiyi", "name": "華哥七壹APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/七壹APP.php"},
-  {"key": "T4-youtu", "name": "華哥优兔APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/优兔APP.php"},
-  {"key": "T4-xiaozhu", "name": "華哥小猪APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/小猪APP.php"},
-{"key": "T4-shuzi", "name": "華哥数字APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/数字APP.php"},
-  {"key": "T4-juzi", "name": "SW橘子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/橘子APP.php"},
-  {"key": "T4-duanyou", "name": "SW段友APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/段友APP.php"},
-  {"key": "T4-huomao", "name": "SW火猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/火猫APP.php"},
-  {"key": "T4-linghu", "name": "SW灵虎APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/灵虎APP.php"},
-  {"key": "T4-aiying", "name": "SW爱盈APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/爱盈APP.php"},
-  {"key": "T4-wangzi", "name": "SW王子APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/王子APP.php"},
-  {"key": "T4-yuanmeng", "name": "SW缘梦APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/缘梦APP.php"},
-  {"key": "T4-laoying", "name": "SW老鹰APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/老鹰APP.php"},
 
-  {"key": "T4-lanying", "name": "SW蓝鹰APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/蓝鹰APP.php"},
-
-
-  {"key": "T4-yizhan", "name": "SW驿站APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/驿站APP.php"},
-  
-  {"key": "T4-heimao", "name": "SW黑猫APP(T4)", "type": 4, "api": "https://catbox.n13.club/ai/黑猫APP.php"},
  
 
  {
@@ -374,7 +307,17 @@
             "quickSearch": 1,
             "filterable": 1,
             "categories": [
-        "动作片",
+      
+        "国产剧",
+        "欧美剧",
+        "香港剧",
+        "韩国剧",
+        "台湾剧",
+        "日本剧",
+        "海外剧",
+        "泰国剧",
+        "短剧",
+           "动作片",
         "灾难片",
         "爱情片",
         "科幻片",
@@ -386,15 +329,6 @@
         "记录片",
         "动画电影",
         "电影解说",
-        "国产剧",
-        "欧美剧",
-        "香港剧",
-        "韩国剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "泰国剧",
-        "短剧",
         "大陆综艺",
         "港台综艺",
         "日韩综艺",
@@ -510,11 +444,7 @@
             "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E9%99%A2.js"
         },
        
-      
-	
-	
-	{ "key": "哈哈影视", "name": "哈哈 | 影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/%E5%93%88%E5%93%88%E5%BD%B1%E8%A7%86.json" },
-	
+ 
 	
  
  {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
@@ -560,53 +490,17 @@
     
  {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
 
-{"key":"T4-2024热门","name":"音乐-热门MV(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=2024"},
-        
-{"key":"T4-麻雀","name":"影视-麻雀(T4)","type":4,"api":"https://catbox.n13.club/t9/麻雀视频.php"},
-  {"key":"新浪资源","name":"新浪资源(切)","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},   
-{"key":"T4-jieshuo","name":"B站-解说(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=影视解说"},
-{"key":"T4-bmtv","name":"B站-MTV(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=bMTV"},
-{"key":"T4-Blixs","name":"B站-相声(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixs"},
-{"key":"T4-Blixq","name":"B站-戏曲(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Blixq"},
-{"key":"T4-Bliych","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych"},
-{"key":"T4-mybili","name":"B站-mybili(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=我的哔哩"},
-{"key":"T4-bili","name":"B站-哔哩(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php"},
-{"key":"T4-waiyu","name":"B站-外语(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=waiyu"},
-{"key":"T4-bili1","name":"B站-幼儿(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=少儿教育"},
-{"key":"T4-bili2","name":"B站-小学(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小学课堂"},
-{"key":"T4-bili3","name":"B站-初中(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=初中课堂"},
-{"key":"T4-bili4","name":"B站-高中(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=高中课堂"},
-{"key":"T4-小灯塔科学","name":"B站-小灯塔科学(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔科学"},
-{"key":"T4-小灯塔地理","name":"B站-小灯塔地理(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔地理"},
-{"key":"T4-小灯塔百科","name":"B站-小灯塔百科(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔百科"},
-{"key":"T4-小灯塔国学","name":"B站-小灯塔国学(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=小灯塔国学"},
-{"key":"T4-儿童口才","name":"B站-儿童口才(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童口才"},
-{"key":"T4-儿童拼音","name":"B站-儿童拼音(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童拼音"},
-{"key":"T4-儿童识字","name":"B站-儿童识字(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童识字"},
-{"key":"T4-儿童思维","name":"B站-儿童思维(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童思维"},
-{"key":"T4-儿童英语","name":"B站-儿童英语(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童英语"},
-{"key":"T4-儿童硬笔","name":"B站-儿童硬笔(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童硬笔"},
-{"key":"T4-儿童编程","name":"B站-儿童编程(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童编程"},
-{"key":"T4-儿童武术","name":"B站-儿童武术(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=儿童武术"},
-{"key":"T4-哔哩套餐1","name":"B站-哔哩套餐1(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=哔哩套餐1"},
-{"key":"T4-哔哩套餐2","name":"B站-哔哩套餐2(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=哔哩套餐2"},
-{"key":"T4-软件教程","name":"B站-软件教程(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=软件教程"},
 
-{"key":"T4-美食","name":"B站-美食(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=美食"},
-{"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
-{"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
-{"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球星合集"},  
 
 {"key":"机器人","name":"机器SW","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
-{"key":"csp_hmhd","name":"河马SW","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.hemahd.com/tags/{cateId}-{area}-------{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺","分类值": "1&2&3&4"}},
-{"key":"csp_ipianba","name":"片吧SW","type":3,"api":"csp_XBPQ","ext":{"分类url": "https://www.ipianba.com/class/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html","分类":"电影$1#剧集$2#动漫$3#综艺$4"}},
+
 	    
 {"key": "360","name": "SW飞龙","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
 "国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
 
- {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
+ 
 
-{"key": "MV大全","name": "MV大全","type": 4,"api": "http://120.53.102.254/dsp/", "searchable": 1, "quickSearch": 1, "filterable": 1},   
+
 {"key":"夜貓_drpy_xb","name":"SW小宝","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
 
 
@@ -674,71 +568,12 @@
 			]
 		},    
 
-		{
-			"key": "索尼 资源",
-			"name": "索尼┃3K 资源",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"categories": ["国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "诺克", "解说"],
-			"searchable": 1,
-			"quickSearch": 1
-		},
+
 	    
 
-   {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"},
+   {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/drpy.js"}
  
 
-
-
-
-{"key":"T4-6v","name":"磁力-6V(T4)","type":4,"api":"https://catbox.n13.club/t9/6v.php"},
-{"key":"T4-Bliych","name":"B站-演唱会(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=Bliych"},
-{"key":"T4-mybili","name":"B站-mybili(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=我的哔哩"},
-{"key":"T4-bili","name":"B站-哔哩(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php"},
-{"key":"T4-合集","name":"B站-合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=合集"},
-{"key":"T4-美食","name":"B站-美食(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=美食"},
-{"key":"T4-中医","name":"B站-中医(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=中医"},
-{"key":"T4-球类合集","name":"B站-球类合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球类合集"},
-{"key":"T4-球星合集","name":"B站-球星合集(T4)","type":4,"api":"https://catbox.n13.club/t9/bili.php?id=球星合集"},
-
-  
-      
-        {
-            "key": "csp_SNzy",
-            "name": "🐉┃索尼┃3 k高清",
-            "type": 1,
-            "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "categories": [
-                "动作片",
-                "喜剧片",
-                "科幻片",
-                "恐怖片",
-                "爱情片",
-                "剧情片",
-                "战争片",
-                "记录片",
-                "国产剧",
-                "欧美剧",
-                "香港剧",
-                "韩国剧",
-                "台湾剧",
-                "日本剧",
-                "海外剧",
-                "泰国剧",
-                "国产动漫",
-                "日韩动漫",
-                "欧动漫",
-                "港台动漫",
-                "海外动漫",
-                "大陆综艺",
-                "港台综艺",
-                "日韩综艺",
-                "美综艺"
-            ]			
-        }  
     ],
     "parses": [
 
