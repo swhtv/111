@@ -35,9 +35,7 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
-{
-     	 "key": "華哥影库search检索中心",
-         "name": 華哥影库search检索中心",
+{"key":"華哥影库search检索中心","name": "華哥影库search检索中心",
          "type": 3,
          "searchable": 0,
          "changeable": 1,
