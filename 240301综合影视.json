@@ -71,6 +71,18 @@
             }
         },
  
+{ 
+              "key": "lf_js_search", 
+         "name": "搜索|lf_search", 
+         "type": 3, 
+         "searchable": 0, 
+         "changeable": 1, 
+         "quickSearch": 0, 
+         "filterable": 0, 
+         "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/lf_search3_min.js", 
+         "ext": "18+" 
+            }, 
+
 
   {
             "key": "橘皮",
