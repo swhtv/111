@@ -3,8 +3,8 @@
 {
 
 
-
-"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
+ "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
+//"spider": "https://github.com/swhtv/1/raw/refs/heads/main/applejar.jar",
 //"spider": "http://cdn.qiaoji8.com/fix250410.jar;md5;bb362e424047eec85220dc5aa1066896",
 //"spider": "https://github.com/liu673cn/box/raw/refs/heads/main/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
 //"spider":"https://github.com/swhtv/1/raw/refs/heads/main/qxyc%E5%A4%A9%E5%BE%AE%E7%A7%91%E6%8A%80.jar",
@@ -58,6 +58,119 @@
 		"jar":"https://github.com/franksun1211/TVBOX/raw/main/APP/TVBoxOSC/tvbox/spider.jar",
             "ext": "KhY021WelCEl+6MsvwnzaPussky6FQJcpCjT9V7/D61ft9vQAhNEPOYSMZVJSODd/JOOSOwUzim+9qfvgpNz7SvUPpAkXAweyrp76WY8s5EBwW7DBMY="
         },
+
+ {
+            "key": "华谊",
+            "name": "🎭华谊｜華哥",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "华谊",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
+                "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.muyue.tool",
+                "host": "",
+                "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
+                "version": "1.0.0.4",
+                "decrypt": "1"
+            }
+        },
+        {
+            "key": "苹果",
+            "name": "🍎苹果｜華哥",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "小苹果",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "S0VNDTJHOFHHCNMRAW5IV2TOS2PBPQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.juechufsh.android.xpg1",
+                "host": "",
+                "site": "https://xpgandroid03-1372779881.cos.ap-beijing.myqcloud.com/app_xpg_android.txt",
+                "version": "1.0.0.3",
+                "decrypt": "0"
+            }
+        },
+
+ {
+            "key": "橘汁",
+            "name": "🍹橘汁｜華哥",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "橘汁",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+                "dataKey": "RTRTUJZWWMO0ZWV6EFBOSURNCTK4PQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.tjjiangh.android",
+                "host": "",
+                "site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
+                "version": "3.0.1.9",
+                "decrypt": "1"
+            }
+        },
+  {
+            "key": "三秋影视",
+            "name": "📚三秋｜華哥",
+            "type": 3,
+            "api": "csp_App3Q"
+        },
+ {
+            "key": "顾我",
+            "name": "🛡️顾我｜華哥",
+            "type": 3,
+            "api": "csp_AppDrama",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "appName": "顾我追剧",
+                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
+                "dataKey": "QK40VUWYWE45L0DOSTVOTEP0AM44PQ==",
+                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+                "pkg": "com.bingewatch.android",
+                "host": "",
+                "site": "https://guwoandroid-1372779881.cos.ap-guangzhou.myqcloud.com/app_guwozhuijuandroid.txt",
+                "version": "2.0.0.1",
+                "decrypt": "0"
+            }
+        },
+  {
+            "key": "云播",
+            "name": "📺云播｜華哥",
+            "type": 3,
+            "api": "csp_AppFox",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "host": "http://app.hktvyb.cc"
+            }
+        },
+ {
+            "key": "猎豹",
+            "name": "🐆猎豹｜華哥",
+            "type": 3,
+            "api": "csp_AppGet",
+            "searchable": 1,
+            "changeable": 1,
+            "ext": {
+                "url": "https://444421.xyz",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025"
+            }
+        },
+
 
 
  {
