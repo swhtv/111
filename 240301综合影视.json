@@ -374,6 +374,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+	  "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
             "ext": {
                 "appName": "华谊",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
@@ -394,6 +395,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+			 "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
             "ext": {
                 "appName": "小苹果",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
@@ -416,6 +418,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+	  "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
             "ext": {
                 "appName": "橘汁",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
@@ -433,7 +436,8 @@
             "key": "三秋影视",
             "name": "📚三秋｜APP",
             "type": 3,
-            "api": "csp_App3Q"
+            "api": "csp_App3Q",
+	   "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar"
         },		
  {
             "key": "顾我",
@@ -443,6 +447,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
+	  "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
             "ext": {
                 "appName": "顾我追剧",
                 "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCduNEnfxGaLuQRk5ABzXHhPV43zi00sCHjLo8BYc+Wi6xXm2b4v0i28Sq4WlNCKhseft9fz8kO/qLr6/022o1RcuOU7e4GFL3U9WnNODwRBYSYWd+K8nqpI/tAUDmZEBGRWqjrc7x6aMl3A+xpnWkLbPCLsuhbuuUE3tv09oeOpwIDAQAB",
