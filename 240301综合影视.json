@@ -40,16 +40,7 @@
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
 
- {
-      "key": "瓜子影视",
-      "name": "☀瓜子🔹華哥",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
+ 
 
  {
             "key": "金牌影视",
@@ -58,6 +49,18 @@
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
+
+{
+      "key": "瓜子-影视",
+      "name": "☀瓜子-華哥",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+
+
  {
             "key": "热播影视",
             "name": "💡热播 華哥",
