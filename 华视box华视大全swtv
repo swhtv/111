@@ -8,6 +8,7 @@ Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USP
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
 CBC NEWS,https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -18,7 +19,7 @@ AJE news English,https://live-hls-apps-aje-fa.getaj.net/AJE/03.m3u8
 OAN NEWS,https://a-cdn.klowdtv.com/live1/oan_720p/chunks.m3u8
 Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-ICI RDI,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+ICI ,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 FOXBUSINESS,http://41.205.93.154/FOXBUSINESS/tracks-v1a1/mono.m3u8
@@ -28,9 +29,7 @@ FOX 49,http://41.205.93.154/FOX49/tracks-v1a1/mono.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
 CNBC WORLD HD,http://nor1live.win/livehttpplay?channel_id=23117
-
 CNBC HD,http://nor1live.win/livehttpplay?channel_id=23115
-CNBC,http://nor1live.win/livehttpplay?channel_id=23115
 CNBC hd,http://41.205.93.154/CNBC/tracks-v1a1/mono.m3u8
 CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 NBC,http://41.205.93.154/NBC/tracks-v1a1/mono.m3u8
@@ -41,41 +40,33 @@ NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u
 NBC,http://41.205.93.154/NBC/index.m3u8
 NBC 26,https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 EURONEWS,https://a-cdn.klowdtv.com/live3/euronews_720p/chunks.m3u8
-
-
 BBC ONE,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 BBC TWO,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/52449019-c378-4e85-b20e-1f51e0d5bb4a/4.m3u8
 BBC ONE,http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
 BBC THREE,http://41.205.93.154/BBCTHREE/tracks-v1a1/mono.m3u8
 BBC TWO,http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
-
-ABC,http://41.205.93.154/ABC/index.m3u8
 CNN HD,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 CNN HD,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
 CNN internationl,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
-
+BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 TBS,https://tvpass.org/live/TBSEast/sd
-CBS news,https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 THE WEATHER CHANNEL,https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/3.m3u8
 THE WEATHER CHANNEL,https://tvpass.org/live/TheWeatherChannel/sd
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
-NHK_World_Premium,https://cdn4.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=25-mp4a_380800_jpn=28.m3u8
+ABC,http://41.205.93.154/ABC/index.m3u8
 abc news,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
 BBC EARTH,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 BBC Earth,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/58366634-aa54-41fa-8923-4938bc769f8a/0.m3u8
 CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master480p.m3u8
-Discovery Channel,https://a1xs.vip/300034
+
 DISCOVERY,http://41.205.93.154/DISCOVERY/tracks-v1a1/mono.m3u8
 NAT_GEO,http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
 NAT_GEO_WILD,http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
 WE TV,http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
 HISTORY,http://nor1live.win/livehttpplay?channel_id=23105
-
 Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 TLC E,https://tvpass.org/live/TLCEast/hd
 TLC E,https://tvpass.org/live/TLCEast/sd
@@ -121,33 +112,22 @@ STARZ,http://fl51.moveonjoy.com/STARZ/tracks-v1a1/mono.ts.m3u8
 STARZ_CINEMA,http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
 STARZ_COMEDY,http://fl51.moveonjoy.com/STARZ_COMEDY/tracks-v1a1/mono.ts.m3u8
 TMC,http://41.205.93.154/TMC/tracks-v1a1/mono.m3u8
-DISNEY_XD,http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
-DISNEY_JUNIOR,http://23.237.104.106:8080/USA_DISNEY_JUNIOR/tracks-v1a1/mono.m3u8
-
 FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
 FXX,http://23.237.104.106:8080/USA_FXX/tracks-v1a1/mono.m3u8
-
-Sky Cinema Action,https://a1xs.vip/210006
-Sky Cinema Family,https://a1xs.vip/210007
 AMC Absolute Reality,https://amc-absolutereality-1-us.plex.wurl.tv/playlist.m3u8
 AWE,https://a-cdn.klowdtv.com/live1/awe_720p/playlist.m3u8
 AWE Encore,https://a-cdn.herringnetwork.com/affiliate/awee/playlist.m3u8
-
+DISNEY_XD,http://23.237.104.106:8080/USA_DISNEY_XD/tracks-v1a1/mono.m3u8
+DISNEY_JUNIOR,http://23.237.104.106:8080/USA_DISNEY_JUNIOR/tracks-v1a1/mono.m3u8
 Disney Eastern Feed,https://tvpass.org/live/DisneyChannelEast/sd
 Disney Junior USA East,https://tvpass.org/live/DisneyJuniorEast/sd
-
-Nick Jr. Pluto TV,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5106-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d95e31ff-c65d-438c-9466-ddbbd097b4cf
 Nickelodeon,http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 nickelodeon,http://nor1live.win/livehttpplay?channel_id=23099
-Nickelodeon en Español,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988
-NickToons,http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654ca7f92c1d3300086b608c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b6610-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=359ee837-a829-4fe0-9d99-8dc36018ced2
 MovieSphere (1080p),https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-
 Dateline,https://dz59iptwz5rxs.cloudfront.net/live/master_6.m3u8
 yahoo F,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 Business 24,https://cdn-globecast.akamaized.net/live/eds/business24_tv/hls_video/business24_tv-avc1_400000=2-mp4a_98400=1.m3u8
 DeFiance TV,https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist216-hp.m3u8
-SKY News Weather,https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/chunklist_b306000.m3u8
 QVC UK,https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/1/1.m3u8
 
 CityNews Calgary,https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/Video-1Mbps.m3u8
@@ -204,6 +184,7 @@ KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/playlist.m3u8
 美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/chunklist0.m3u8
 美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
 美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/playlist.m3u8
+
 PBS KET2,https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
 PBS TV,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
 PBS MPT,https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
@@ -458,7 +439,7 @@ MoMo综合,rtmp://f13h.mine.nu/sat/tv761
 
 寰宇新闻,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OGzBGO_5rjP_x_fBbIjWnn4LHjBH2ukJK6v_-VCP5x3tP1unCAxP9T392rhTgwF2O68ij3NP5pn1khx_QGEDs3LBNfg0cvWaFBYAjUA5S7_ZcVfKe_a-GD7-HESRwIQt42LkfGPQMCUPZTHQ4NwQ0YviYaezVyIO3YlWngG6wrgWv5GWj9uhg7CvxEhYXI9tmgvxlroN0VhBpAwE3kBxLtVQ.m3u8?u=1757123819
 寰宇台湾,http://8.218.84.3:8885/live/NlAhgdR475_p9pHeKE1G1rILoVl18Qqe36jUsiWqY5S26LQzNA-82o0LSiNo13OG-NsW6bSFcgEjK8p4ZtP-qEnEKjjD6eb_Hv9ytKbTQ5H2giI6H_2Tu8K-Gu2bk8h3W-O-obbn2XVao8W6T4KSnqpkY6v7Pg2Hj3Zx4-9lz8YgzGMxmDCPSgnFl7iQip9fuHsB9eM3t14UjftDSchHSbF5SksuSS2_nlQANM4-dmUfZe5-3nGhZuSvBa9HNWKHLa78cN9Bf1SwHev-eG5S_A.m3u8?u=1757123819
-中天新聞,https://tv.iill.top/4gtv/4gtv-4gtv009
+中天新聞,https://a3f1b2.kylintv.tv/live/cti_iphone.m3u8
 TVBS新聞台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
 TVBS H新聞台,https://tv.iill.top/4gtv/media-live073
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
@@ -555,20 +536,6 @@ Star Sports 1 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
 
-Sportsnet one,https://7pal.short.gy/sptsnet1
-
-Eurosport 1,https://hls.iill.top/api/Eurosport-1/index.m3u8
-Eurosport 2,https://hls.iill.top/api/Eurosport-2/index.m3u8
-beIN Sports 1,https://hls.iill.top/api/beIN-Sports-1/index.m3u8
-beIN Sports 2,https://hls.iill.top/api/beIN-Sports-2/index.m3u8
-beIN Sports 3,https://hls.iill.top/api/beIN-Sports-3/index.m3u8
-beIN Sports 4,https://hls.iill.top/api/beIN-Sports-4/index.m3u8
-beIN Sports 5,https://hls.iill.top/api/beIN-Sports-5/index.m3u8
-TNT 1,https://hls.iill.top/api/TNT-Sports-1/index.m3u8
-TNT 2,https://hls.iill.top/api/TNT-Sports-2/index.m3u8
-TNT 3,https://hls.iill.top/api/TNT-Sports-3/index.m3u8
-TNT 4,https://hls.iill.top/api/TNT-Sports-4/index.m3u8
-TNT 5,https://hls.iill.top/api/TNT-Sports-5/index.m3u8
 GOLF USA,http://nor1live.win/livehttpplay?channel_id=23130
 NBA USA,http://nor1live.win/livehttpplay?channel_id=23128
 FOX PREMIUM HD,http://nor1live.win/livehttpplay?channel_id=23054
@@ -691,19 +658,7 @@ FOX SPORTS CHILE HD,http://104.250.128.34/livehttpplay?channel_id=23559
 FOX SPORTS 2 HD ARG,http://104.250.128.34/livehttpplay?channel_id=23701
 
 
-HUB Premier 1,https://hls.iill.top/api/Hub-Premier-1/index.m3u8
-HUB Premier 2,https://hls.iill.top/api/Hub-Premier-2/index.m3u8
-HUB Premier 3,https://hls.iill.top/api/Hub-Premier-3/index.m3u8
-HUB Premier 4,https://hls.iill.top/api/Hub-Premier-4/index.m3u8
-HUB Premier 5,https://hls.iill.top/api/Hub-Premier-5/index.m3u8
-HUB Premier 6,https://hls.iill.top/api/Hub-Premier-6/index.m3u8
-HUB Premier 7,https://hls.iill.top/api/Hub-Premier-7/index.m3u8
-HUB Premier 8,https://hls.iill.top/api/Hub-Premier-8/index.m3u8
-HUB SPORT 1,https://hls.iill.top/api/Hub-Sports-1/index.m3u8
-HUB SPORT 2,https://hls.iill.top/api/Hub-Sports-2/index.m3u8
-Fight Sports,https://hls.iill.top/api/Fight-Sports/index.m3u8
-Spotv 1,https://hls.iill.top/api/Spotv-1/index.m3u8
-Spotv 2,https://hls.iill.top/api/Spotv-2/index.m3u8
+
 
 beIN Sports Xtra,https://bein-xtra-xumo.amagi.tv/amRdirect/us_privacy=&is_lat=0&uid=1jcg2gtht-cdbi-kvo-k0t7-ado7t24s5u/hls/amagi_hls_data_beinAAAAA-bein-xtra-xumoA/CDN/1920x1080_4540800/chunklist.m3u8
 bein-esp,https://bein-esp-xumo.amagi.tv/playlistR240p.m3u8
@@ -842,43 +797,7 @@ cctv5+,https://tttttt.zpyxxs.com/livetv/hlcc/eYPhRQnNg/eYPhRQnNg_live.m3u8?auth_
 
 
 
-CCTV-1HD,http://107.150.60.122/live/cctv1hd.m3u8
-CCTV-2HD,http://107.150.60.122/live/cctv2hd.m3u8
-CCTV-3HD,http://107.150.60.122/live/cctv3hd.m3u8
-CCTV-4HD,http://107.150.60.122/live/cctv4hd.m3u8
-CCTV-5HD,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV-6HD,http://107.150.60.122/live/cctv6hd.m3u8
-CCTV-7HD,http://107.150.60.122/live/cctv7hd.m3u8
-CCTV-8HD,http://107.150.60.122/live/cctv8hd.m3u8
-CCTV-9HD,http://107.150.60.122/live/cctv9hd.m3u8
-CCTV-10HD,http://107.150.60.122/live/cctv10hd.m3u8
-CCTV-11HD,http://107.150.60.122/live/cctv11hd.m3u8
-CCTV-12HD,http://107.150.60.122/live/cctv12hd.m3u8
-CCTV-13HD,http://107.150.60.122/live/cctv13hd.m3u8
-CCTV-14HD,http://107.150.60.122/live/cctv14hd.m3u8
-CCTV-15HD,http://107.150.60.122/live/cctv15hd.m3u8
-CCTV-16HD,http://107.150.60.122/live/cctv16hd.m3u8
-CCTV-17HD,http://107.150.60.122/live/cctv17hd.m3u8
-CCTV-5+HD,http://107.150.60.122/live/cctv5p.m3u8
-CCTV-4K超高清,http://107.150.60.122/live/cctv4k.m3u8
-CCTV-8K超高清,http://107.150.60.122/live/cctv8k.m3u8
-湖南卫视HD,http://107.150.60.122/live/hnwshd.m3u8
-东方卫视HD,http://107.150.60.122/live/dfwshd.m3u8
-浙江卫视HD,http://107.150.60.122/live/zjwshd.m3u8
-江苏卫视HD,http://107.150.60.122/live/jswshd.m3u8
-重庆卫视HD,http://107.150.60.122/live/cqwshd.m3u8
-东南卫视HD,http://107.150.60.122/live/dnwshd.m3u8
-广西卫视HD,http://107.150.60.122/live/gxwshd.m3u8
-湖北卫视HD,http://107.150.60.122/live/hbwshd.m3u8
-辽宁卫视HD,http://107.150.60.122/live/lnwshd.m3u8
-山东卫视HD,http://107.150.60.122/live/sdwshd.m3u8
-天津卫视HD,http://107.150.60.122/live/tjwshd.m3u8
-陕西卫视HD,http://107.150.60.122/live/snwshd.m3u8
-广东卫视HD,http://107.150.60.122/live/gdwshd.m3u8
-深圳卫视HD,http://107.150.60.122/live/szwshd.m3u8
-青海卫视,http://107.150.60.122/live/qhws.m3u8
-西藏卫视,http://107.150.60.122/live/xzws.m3u8
-大湾区卫视,http://107.150.60.122/live/nfws.m3u8
+
 CCTV-央视文化精品,http://107.150.60.122/live/ysjp.m3u8
 CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
 CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
@@ -1172,10 +1091,10 @@ FX2,https://toonixhls.wns.live/hls/stream.m3u8
 SW-日本JAPAN,#genre#
 CGNTV Japan,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP_1.m3u8
 CGTN JP,https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-NHK World ,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8
+
 TBS Japan,https://tbs5.mov3.co/hls/tbs.m3u8
 
-QVC,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+
 フジテレビ,https://fujitv4.mov3.co/hls/fujitv.m3u8
 NHK 総合,https://nhk4.mov3.co/hls/nhk.m3u8
 NHK G (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
@@ -1186,8 +1105,7 @@ Fuji TV (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3
 TV Asahi (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
 TV Tokyo (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
 TOKYO MX1 (Primehome),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
-NHKG,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01&isp=4
-NHKE,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd02&isp=4
+
 NHK G,https://nl.utako.moe/NHK_G/index.m3u8
 NHK E,https://nl.utako.moe/NHK_E/index.m3u8
 WOWOW Cinema,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=6
