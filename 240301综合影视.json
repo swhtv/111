@@ -50,32 +50,9 @@
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
 
-{
-      "key": "瓜子-影视",
-      "name": "☀瓜子-華哥",
-      "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
 
-
- {
-            "key": "热播影视",
-            "name": "💡热播 華哥",
-            "type": 3,
-            "api": "csp_AppRJ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": {
-                "url": "http://v.rbotv.cn"
-            }
-        },
- 
 { 
-              "key": "lf_js_search", 
+              "key": "華哥lf_js_search", 
          "name": "搜索|lf_search", 
          "type": 3, 
          "searchable": 0, 
@@ -86,8 +63,7 @@
          "ext": "18+" 
             }, 
 
-
-  {
+ {
             "key": "橘皮",
             "name": "💡橘皮 華哥",
             "type": 3,
@@ -97,7 +73,7 @@
             "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
         },
 
-		{"key":"追剧达人","name":"追剧达人┃App","type":3,"api":"csp_AppV6","playerType":2, "jar": "http://cdn.qiaoji8.com/fix260405.jar;md5;a1a6eb9019361159bbcc90be3dff0908","ext":"7lj763gg0939795l0264j881k412j8i6hil9990j96j86k72071754k9l10252040k925ig59j5ijj94330jg198h6hk0jl4l572395lk3h7i5k864jl7jh14hgi5l54h5g48il7h63l26798j56665i9jhk0g2g32l3ki6h35l5i7g38hi973k12g4i5j3k2l9365h4l309h54h862i7239409h1k98j85h76j041805103lj2k749jjg06404l7011351661lg01i792l05722ik3j26h2260hk2588h6762lg5h2hgj140039l75548k1j5jh5hih18il5165k341ikjh6l39742i3l04i6l31g404i82885ig83ki6787h520k5773g6207h0i46jlijh8jil759673hk5g43hj897073g1l2li3ijjgilj9gjji4j8h08g8g7820g1lkgh97493h89g266l12123kkl85li5ig5838l659803i0hklkkl250h47kj5i3h81kik3jl07310616651h0lk70k1hg4190069i8721g8k949365i86hhgg4k85382lj3601gkh21hj49ih73132232h587g4ji59g52j58lj1g92hii190g96ll4k4l42058j4g7i0l9k8h0312hj36j1j0g6094952489k22g7gg27370lk152jljk3hk7375364k0i992kgjg3k52ggl1jj63l359klk2hl9558i40g199j099i4ghihk68l3273556g27179g4hl858i811430l47j61lgl8j0l3618k261g7329l64979jk08k9408947792h71g2i41h0j08i0jgi13l92i7li6820l7k20443jj01373450728k130073523hhk7015j7i3k36hkik0jg113k4883l190kh072gjj51k43jh130kj7k3hg268i4058ij67k022h824l3i97i4l4l1874h340ji9g70h88gi015h7j1678h4l71glih86j99g6970132583720j0l5i876309961i429365871h079825k4khl9j52856gkhhlk5kkili2gi43hhlj8i197ji32k606h139h988g6g23l862ijk15gl9i71kg1jg25081g1g80180llkhil1j0ii4gh3152i7kl60237ih156jh57j9kg8kh60i9087874k579hl00h45gj27520908907g9g09hk4gj81862iigkg009h64h3661h305h9799549h4h676j0k1h17gigg2010l4895356k228g86g1386834lig41l76i65001892h742g4j59h4923k5i25i9h26286gl646g62i2535l7gj4596j3gk1ii222hg05ji31lk2gj6j8jg9h695k3l12li4ill821ghh605l0k6766jk30k8h329l24l6j7gl3g872522k15k60j2j62hk760lihg84ig85ll346k3131k187jh064886g6296i513jig14jhi426k1j017965h0hj32ii899g03j5g00027ik9l3ljj050k617i85jklg7jkhl823jh41g8k62984k6h2l59gih2il552gj9iij1655771j970h24808i39gk1345hg5h5lj12h32j998j5lgiil9h95i182374h3jk0k05il909j6h2494g395i6g2i54i321kg2l6j6hh5j98929822hjg245k62121g816503jii30l9l4j8ji65l3l6197g8k752l3i37i4hgk22jg5jk9l0j6937gk81l21923130l4i9gh65l56667k95h791903h082glj7l2gg2lj81l529j057jhj7l9j13hj4hl6116426871i8h0i62hk46lg34ig7l05i705g5156h1572h6k937h1g1g71l3i410i2j530243glk97444jjl67811ik1k45008llj0k4h31k5hkl85517807711h67lkg976i4463156l34kk33h9365jh2glj88kghkhhkjgj16288547j2226045h5j97jk7l7g88i53h2hj90075g1kh86j65643578924gh24jjh3j8kkl644iik414k52i81j585ill90g37998hh2l4kh4272051i5ghjh993glll07gjljj086j57480l5k9i14i4g31l8k9kh96j241g1k398k0hl0g251kj2i03483935g897l319l6i3i5k181k84647kjg52l526hi3791649891j6kll5410k71kjg327g9j1i25060g669gk24g3kk5i03jgh681k3kg667h097j2675k1i5hh24g1lh6k4kil08374lh5hllkj897ilhkk26k954jll11177299j3499j3hk78g91l29i1951270048l9gjl9081l01g51gjl934h4h60ligk2i8kj7987i40k5ll49g58j47jl9k4lg09h94173g6246ggh0j9kjh690i55i15709k7g8h1h2051i691g9631hk8041j7j327710986j642l74i341g65623947gj704kl4i7g7lg0i1i49g91k764072ll159ik2l1l8i92i06407g5533kh96lkhh190l8300k58kk51i5k51537gk011g0154h2l62hj726g10gj035k2103j0j5gl7iih025g4249j86i5k90ill993g51jh4j7603g1lg54j46khj47608i6hj06028kl44598243k78l76ii86317ijiik75k006i2951g22621k2gj50h87646l0758l8ihi4i90g2h34i208i21076j6i65i679l20i9j7572h97992794i7332227592lgj69g5j9kkj1314hk3i4953031i485l5i0782161k8417i5425h6i9i7gi7k478007269h477i3ij3663429532ik08h79369ik29l1h2j5k1l4805ii3671717l760i59316k6j81kkl14l2j901ih68hk2k69iggkjjih83k1jh7329369i48gigg262h04hh2l7l4651lk9041395725h1827i5670i49k8lk8"},
+{"key":"追剧达人","name":"追剧达人┃App","type":3,"api":"csp_AppV6","playerType":2, "jar": "http://cdn.qiaoji8.com/fix260405.jar;md5;a1a6eb9019361159bbcc90be3dff0908","ext":"7lj763gg0939795l0264j881k412j8i6hil9990j96j86k72071754k9l10252040k925ig59j5ijj94330jg198h6hk0jl4l572395lk3h7i5k864jl7jh14hgi5l54h5g48il7h63l26798j56665i9jhk0g2g32l3ki6h35l5i7g38hi973k12g4i5j3k2l9365h4l309h54h862i7239409h1k98j85h76j041805103lj2k749jjg06404l7011351661lg01i792l05722ik3j26h2260hk2588h6762lg5h2hgj140039l75548k1j5jh5hih18il5165k341ikjh6l39742i3l04i6l31g404i82885ig83ki6787h520k5773g6207h0i46jlijh8jil759673hk5g43hj897073g1l2li3ijjgilj9gjji4j8h08g8g7820g1lkgh97493h89g266l12123kkl85li5ig5838l659803i0hklkkl250h47kj5i3h81kik3jl07310616651h0lk70k1hg4190069i8721g8k949365i86hhgg4k85382lj3601gkh21hj49ih73132232h587g4ji59g52j58lj1g92hii190g96ll4k4l42058j4g7i0l9k8h0312hj36j1j0g6094952489k22g7gg27370lk152jljk3hk7375364k0i992kgjg3k52ggl1jj63l359klk2hl9558i40g199j099i4ghihk68l3273556g27179g4hl858i811430l47j61lgl8j0l3618k261g7329l64979jk08k9408947792h71g2i41h0j08i0jgi13l92i7li6820l7k20443jj01373450728k130073523hhk7015j7i3k36hkik0jg113k4883l190kh072gjj51k43jh130kj7k3hg268i4058ij67k022h824l3i97i4l4l1874h340ji9g70h88gi015h7j1678h4l71glih86j99g6970132583720j0l5i876309961i429365871h079825k4khl9j52856gkhhlk5kkili2gi43hhlj8i197ji32k606h139h988g6g23l862ijk15gl9i71kg1jg25081g1g80180llkhil1j0ii4gh3152i7kl60237ih156jh57j9kg8kh60i9087874k579hl00h45gj27520908907g9g09hk4gj81862iigkg009h64h3661h305h9799549h4h676j0k1h17gigg2010l4895356k228g86g1386834lig41l76i65001892h742g4j59h4923k5i25i9h26286gl646g62i2535l7gj4596j3gk1ii222hg05ji31lk2gj6j8jg9h695k3l12li4ill821ghh605l0k6766jk30k8h329l24l6j7gl3g872522k15k60j2j62hk760lihg84ig85ll346k3131k187jh064886g6296i513jig14jhi426k1j017965h0hj32ii899g03j5g00027ik9l3ljj050k617i85jklg7jkhl823jh41g8k62984k6h2l59gih2il552gj9iij1655771j970h24808i39gk1345hg5h5lj12h32j998j5lgiil9h95i182374h3jk0k05il909j6h2494g395i6g2i54i321kg2l6j6hh5j98929822hjg245k62121g816503jii30l9l4j8ji65l3l6197g8k752l3i37i4hgk22jg5jk9l0j6937gk81l21923130l4i9gh65l56667k95h791903h082glj7l2gg2lj81l529j057jhj7l9j13hj4hl6116426871i8h0i62hk46lg34ig7l05i705g5156h1572h6k937h1g1g71l3i410i2j530243glk97444jjl67811ik1k45008llj0k4h31k5hkl85517807711h67lkg976i4463156l34kk33h9365jh2glj88kghkhhkjgj16288547j2226045h5j97jk7l7g88i53h2hj90075g1kh86j65643578924gh24jjh3j8kkl644iik414k52i81j585ill90g37998hh2l4kh4272051i5ghjh993glll07gjljj086j57480l5k9i14i4g31l8k9kh96j241g1k398k0hl0g251kj2i03483935g897l319l6i3i5k181k84647kjg52l526hi3791649891j6kll5410k71kjg327g9j1i25060g669gk24g3kk5i03jgh681k3kg667h097j2675k1i5hh24g1lh6k4kil08374lh5hllkj897ilhkk26k954jll11177299j3499j3hk78g91l29i1951270048l9gjl9081l01g51gjl934h4h60ligk2i8kj7987i40k5ll49g58j47jl9k4lg09h94173g6246ggh0j9kjh690i55i15709k7g8h1h2051i691g9631hk8041j7j327710986j642l74i341g65623947gj704kl4i7g7lg0i1i49g91k764072ll159ik2l1l8i92i06407g5533kh96lkhh190l8300k58kk51i5k51537gk011g0154h2l62hj726g10gj035k2103j0j5gl7iih025g4249j86i5k90ill993g51jh4j7603g1lg54j46khj47608i6hj06028kl44598243k78l76ii86317ijiik75k006i2951g22621k2gj50h87646l0758l8ihi4i90g2h34i208i21076j6i65i679l20i9j7572h97992794i7332227592lgj69g5j9kkj1314hk3i4953031i485l5i0782161k8417i5425h6i9i7gi7k478007269h477i3ij3663429532ik08h79369ik29l1h2j5k1l4805ii3671717l760i59316k6j81kkl14l2j901ih68hk2k69iggkjjih83k1jh7329369i48gigg262h04hh2l7l4651lk9041395725h1827i5670i49k8lk8"},
 
 {"key":"小柚子","name":"小柚子┃App","type":3,"api":"csp_AppV6","playerType":2,"jar": "http://cdn.qiaoji8.com/fix260405.jar;md5;a1a6eb9019361159bbcc90be3dff0908","ext":"7lj763gg0939795i0678i481k40hi2i7g2k69i0l96j86474001154kgl6024107089k54g7915ijj94330jg198h6hk0jl4l572395lk3h7i5k864jl7jh14hgi5l54h5g58il3gk376g7i9k50280l9hl801243kl1h87822l4jjg58g856hlh285j4021308h77hgll0hl4448320792319j81194j01i6kig4394284997751892jj7939200i614i0565g01hgij5i1107i9j763lh97916lk5g872l7kgj0i69kg551333k15557l1i78816894i885i7kg041j2i57k363g756j0094h9560h4k938i59gk33886661520k5g35l56j66470j918khli0k2522475h0l41gij9j1k2k6i59ihhjjkiggkjlg2448g73g9gi817h1hk1i970k5i99524146i624890lk8k5hj5ljll7kl062g3kig9gg694j08ki5i3g80k3gj964865131j7j0j0lk80j19g31g036lj86g089ljjjj289i2lg5hgk405jkh2660jk2ki499994hj776i6i604i340091jk4jih8388h921ii074k8ll41k060h48h723171k92kj7g73h42gjgiig601494h12ih61k1g7383705k65j989h60l17k5j7kk28kh481g7783jg688jj46kj6998l6h5g41gi70815hj7h894kh8hj1jk53i3553j5745kh4h084g9h9013g827068ihk5gll366j612104167kg5l26h146i94590784608598i97307j08i785k31lg4j8h8297jk3gl7767i2194i2327388h470i054817812644jkl1ik61jgihj22g0g17k0k4giii1035944j9g25h526hi0j0jj137kl32llgg38770ig27504k4ghl6l6873g6631kilk72h4hg4j43710g41glkh41jkl57j98gl99331j56093hi2i1h42g11h267lj49241357kh529i03728l897jkl50j7h0k4j1kjk4hj5ll8lil1184kkk2276301k9lgig81304ih6glhkg3i94h67j87932h12185ig6737i9jlhljj0i74893332h7kj02j07kj3i63993581l3i066g13g0k77k57hh9079852l65106h7gj31g98290i683g1812ii6i12k97408921603001jghl77g5757623587i2l819i070kh6hk5i13911lhi6g36h6k66il37i995578384480j3458789h3042ll6k06lhk427j39k968i55h3963l5g02294lk9552l473i8448372k33685ihjjh079261g22l230ii8608kl59390l5439hh2hi2g405g0567g49h2h76556617491160371h06141igj36k9g38kl66ki7504381g9516843i17ikjk1jjlll53i06942635l2g67g1g508j1gjh175j3jl2g3kik921k8371116007gkg2i148jlik08jh63g6i33187k6h6g3h4j75llg088jh8j81g774112lk327ih6hj3lh04645934808g42h2195lgk6ll93jh9056653668h4kj3h02lh96g11h2ig9l1g5k0k6kh1i3923hlj6j7ii4h97i2873584jk68k02h24836l48039j3290khj8k64lk8957k5igk77162j30kikjk978jkl99l3i1i05h2ggg3191i0j116j9ig9644k54799h84jh94080736j04373l9ikj2h503k11ikhg080kk06g7h2544l266l61ik9kig09l866g277k6l6484l3g4k4999457077gk6921291381j215j7jg22082jk7914j699770ii20jgi77519i5i0jg96007kkih44768500j115985h434i1470h1kkj64g537i560i67lg08l8hli8kkij4477k8541k4304l18i88068i9l5ghgg4j84llj14l657j9i5l47403769lh70967lii0lhgig7763l4766i6ji06h7h47k0il8l52g3i42i6889371562j5hkig9k0l99hl79k4l6570l7g7j4h02kk2ilj961g93g7h67h002g693gg72i86g130l62l0g2k5j5180gkg50hl6l6ilg1g5k83h6jk7916h1j4jig531k49i81820890i06i523j31j429k01554g2157glji4633l0j47i88793760g163g6i0hi4h547j7gl64g5ig9g7jghij518ih57l8lhg300l8l60gk57jk9lj5k7000l34kj9j4805gg97l19l8800g05038l96j1g2j1h63g3gi0i234g5gj63j98lj2i302g4i80j7hk3g919g063l9h4k02ig250088h0j259k729g9g636j18il4k00k4g0h0k8667l0h369266i4g110lg84635712h38g75l04k102970570i10h560378lki95jh790l7il1357l672gj416hkj6i8kgh47i0045627035j0k299hi0h71982iijllgj067751567kij11h722734h1i9g117569l2447g5k3ll1ljll67ih07274147i76i50hgl6kh81h001ikl22379118k7l5kl4hg5h16h2h5046498hj4lg1381472k36khi743hkkkgjl0g1479206ig53j0494jh11kl6909g138k29hki05j1ijh05k28953300303632ij2gl204962521kh2gi22k1j7264237g94gj83i00g9khl0108l87i4g0144700l504h18g6514gi341985150798g7ii1kj6g15667jlk309iil2k31058k648058k6i132952kl5llj4hlkg9644877l4658lh65i18440k2jj1kkk1ilji353977jg5637494kh8i86igg49l73637jj74lk1lj287k0lh52k341h4ilhjl55354522hg97265j7ij2j881ki7083g5h0"},
 
@@ -119,21 +95,6 @@
             }
         },
      
-       {
-            "key": "奇奇",
-            "name": "👑奇奇｜華哥",
-            "type": 3,
-            "api": "csp_AppQi",
-            "searchable": 1,
-            "changeable": 1,
-            "ext": {
-                "url": "http://110.42.67.221:8009",
-                "dataKey": "123456789abcdefg",
-                "dataIv": "123456789abcdefg",
-                "init": "initV122",
-                "ua": "okhttp/3.10.0"
-            }
-        },
         {
             "key": "老鹰",
             "name": "👑老鹰｜華哥",
@@ -168,23 +129,8 @@
             }
         },
 
-{
-            "key": "西瓜影视",
-            "name": "西瓜｜影视",
-            "type": 3,
-            "api": "csp_Gz360",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-    {
-            "key": "骚火影视",
-            "name": "骚火｜影视",
-            "type": 3,
-            "api": "csp_SaoHuo",
-            "playerType": 2,
-            "ext": "https://shdy5.us"
-        },
+
+   
  {
             "key": "爱看机器人",
             "name": "爱看｜影视",
@@ -278,17 +224,7 @@
         },
        
 
-         {
-            "name": "🦄伊外｜追剧",
-            "key": "YIys",
-            "type": 3,
-            "api": "csp_YIysAmns",
-            "searchable": 1,
-            "filterable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "jar": "http://cnb.cool/aooooowuuuuu/FreeSpider/-/git/raw/main/bfdb--cvdvds.png"
-        },
+    
     
        {
 			"key": "爱瓜TV",
@@ -488,63 +424,7 @@
             }
         },		
 
-{
-            "key": "csp_xml无尽资源",
-            "name": " SW-華-wujin",
-            "type": 1,
-            "api": "https://api.wujinapi.me/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "categories": [
-               "国产剧",
-                "香港剧",
-                "台湾剧",
-                "美国剧",
-                "纪录片",
-                "邵氏电影",           
-                "韩国剧",
-                "日本剧",
-                "海外剧",
-                  "年代穿越",
-                   "古装仙伕",
-                  "现代都市",
-                   "足球",
-                  "篮球",
-                 "演唱会",
-                 "预告片",
-                 "影市解说",
-                "动作片",
-                 "动画片",
-                "犯罪片",
-                "奇幻片",         
-                "喜剧片",
-                "爱情片",
-                "科幻片",
-                "恐怖片",
-                "剧情片",
-                "战争片",
-                "大陆综艺",
-                "日韩综艺",
-                "港台综艺",
-                "欧梅综艺",
-                "国产动漫",
-                "日韩动漫",
-                "欧美动漫",
-                "悬疑片",
-                "泰剧",
-                 "港台三级",
-                  "韩国伦理",
-                 "日本伦理",
-                  "西方伦理",
-                  "两性课堂 ",
-                "写真热舞"
 
-            ]
-        },
-
-
-  
-   
   {
             "key": "欧乐影院",
             "name": "欧乐影院",
@@ -589,18 +469,6 @@
  
  {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
 
-
-
-	{
-			"key": "索尼-资源",
-			"name": "索尼资源",
-			"type": 1,
-			"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/",
-			"categories": ["国产剧", "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片","动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "预告片", "诺克", "解说"],
-			"searchable": 1,
-			"quickSearch": 1
-		},    
-    
    {
             "key": "红牛资源",
             "name": "红牛｜采集",
@@ -755,12 +623,6 @@
             }
         },
 
-{
-            "key": "360影视",
-            "name": "｜六零｜影视",
-            "type": 3,
-            "api": "csp_SP360"
-        },
 
 	    
 
