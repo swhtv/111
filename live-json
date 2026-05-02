@@ -11,6 +11,12 @@
 {"name":"SW華哥 10 TV","url":"https://epg.pw/test_channels_hong_kong.m3u"},
 {"name":"SW華哥 11 TV","url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"},
 
+{"name":"值播","url":"https://codeberg.org/q309972108/tongyong/raw/branch/main/zbzb.txt"},
+{"name":"SW華值播","url":"https://gh.slw.im/https://raw.githubusercontent.com/tushen6/Tomorrow/refs/heads/master/TV/lzxw0411.txt"},
+{"name":"内置值播","url":"https://8815.kstore.vip/tvbox/Ace"},
+{"name":"大屏频道","url":"https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"},
+{"name":"IPV4JHV","url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"},
+{"name":"直播线","url":"https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt"},
 
 
 {"name":"SW華哥bit直播","url":"https://gitee.com/alexkw/app/raw/master/kgk.txt"},
