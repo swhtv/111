@@ -129,7 +129,42 @@
             }
         },
 
-
+ {
+      "key": "yfsp",
+      "name": "🎖︎｜愛壹帆｜官源",
+      "type": 3,
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "style": {"type": "rect", "ratio": 0.75},
+      "jar": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/Jar/GM.jar",
+      "api": "csp_GM",
+      "ext": {
+        "userScript": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/ysfp.user.js",
+        "debug": false,
+        "webViewSettings": {
+          "blockNetworkImage": true,
+          "blockList": [
+            "*.png*",
+            "*.mp3*",
+            "*.css*",
+            "https://*.googletagmanager.com/*",
+            "https://*.google-analytics.com/*"
+          ]
+        },
+        "spider": {
+          "homeContent": {"loadUrl": "https://m.yfsp.tv/"},
+          "categoryContent": {
+            "loadUrl": "https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"
+          },
+          "detailContent": {"loadUrl": "https://m.yfsp.tv/play/${id}"},
+          "playerContent": {
+            "loadUrl": "https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"
+          },
+          "searchContent": {"loadUrl": "https://m.yfsp.tv/search"}
+        }
+      }
+    },
    
  {
             "key": "爱看机器人",
