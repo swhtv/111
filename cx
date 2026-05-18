@@ -127,6 +127,17 @@
         "海外动漫"
          ]
         },
+ {
+            "key": "🚬独播库",
+            "name": "華哥 独播",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E7%8B%AC%E6%92%AD%E5%BA%93.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        }, 
 
  {
             "key": "欧乐影院",
