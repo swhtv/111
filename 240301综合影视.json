@@ -729,7 +729,17 @@
         "欧美综艺"
         ]
       },
-	    
+	 {
+            "key": "🚬独播库",
+            "name": "🚬独播",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E7%8B%AC%E6%92%AD%E5%BA%93.js",
+            "style": {
+                "type": "rect",
+                "ratio": 1
+            },
+            "changeable": 1
+        },    
 
    {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/260411%E8%B1%86%E7%93%A3JS"}
  
