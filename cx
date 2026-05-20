@@ -156,7 +156,7 @@
 
 {"key":"drpy_js_豆瓣","name":"豆瓣2026華哥","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/260411%E8%B1%86%E7%93%A3JS"},
 
- {"key":"csp_xlys","name":"華哥-修罗羅 無广告","type":3,"jar":"https://github.com/swhtv/ak/raw/refs/heads/main/qiaoji.jar","api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
+ 
 
 { 
             "key": "金牌--影视", 
@@ -165,6 +165,24 @@
             "api": "csp_Jpys", 
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn" 
         }, 
+
+{
+            "key": "麦田",
+            "name": "華哥🌾麦田",
+            "type": 3,
+            "api": "csp_AppV6",
+            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/260508.jpg",
+            "ext": "http://172.247.227.203:25321/mtys.php"
+        },
+ {
+            "key": "新首发",
+            "name": "華哥👻顺溜",
+            "type": 3,
+            "api": "csp_AppGet",
+            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/20260428.zip",
+            "ext": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt|FTgP4Gq8zPiqbt7M|V122|okhttp/3.10.0"
+        },
+
 
 { "key": "网飞啦", "name": "网飞啦 | SW影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/%E7%BD%91%E9%A3%9E%E5%95%A6.json" },
         { "key": "Kimivod", "name": "Kimi | SW影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/Kimivod.json" },
@@ -277,6 +295,9 @@
                 "decrypt": "0"
             }
         },
+
+{"key":"csp_xlys","name":"華哥-修罗羅 無广告","type":3,"jar":"https://github.com/swhtv/ak/raw/refs/heads/main/qiaoji.jar","api":"csp_Bdys01","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942476492jlg94li29kk6gi8448ij"},
+
 
  {
             "key": "橘汁",
