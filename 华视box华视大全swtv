@@ -74,11 +74,12 @@ NAT_GEO_WILD,http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
 WE TV,http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
 
 Earth,https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-
+HGTV,http://108.181.20.255:27347/livehttpplay?channel_id=23097
+TLC,http://79.127.238.228:14433
 TLC E,https://tvpass.org/live/TLCEast/hd
 TLC E S,https://tvpass.org/live/TLCEast/sd
 TLC HD,http://79.127.238.228:14433
-TLC,http://104.250.145.76/livehttpplay?channel_id=23319
+TLC 2,http://104.250.145.76/livehttpplay?channel_id=23319
 E,http://23.237.104.106:8080/USA_E/tracks-v1a1/mono.m3u8
 FOOD_NETWORK,http://23.237.104.106:8080/USA_FOOD_NETWORK/tracks-v1a1/mono.m3u8
 outdoor channel,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
@@ -499,22 +500,25 @@ SW-SPORT体育 ,#genre#
 
 NFL_NETWORK,http://23.237.104.106:8080/USA_NFL_NETWORK/tracks-v1a1/mono.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
-TNT 1,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-DAZN 1,rtmp://f13h.mine.nu/sat/tv731
-DAZN 2,rtmp://f13h.mine.nu/sat/tv741
-HBO BOXING,https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
-
-TENNIS CHANNEL,https://tennischannel-int-samsunguk.amagi.tv/playlist720_p.m3u8
+ACCDN SPORT,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+bein xtra,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
+DAZN 1,rtmp://f13h.mine.nu/sat/tv731
+DAZN 2,rtmp://f13h.mine.nu/sat/tv741
+Star Sports 1 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
 TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee45510d13af7e2014e947e40fa83439fd401ea80d35a83478423f2469f92a1dd821682e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f023d76a9054f3d75acedf1faeabcda2ffc1d550b648259d786/81/640x360_1020800/index.m3u8
 Tennis Channel (UK),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-SkyTennis+,http://iptv.4666888.xyz/iptv2A.php?id=62
-DAZN OMBAT,https://rakutenaa-dazn-combat-rakuten-kcybm.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-dazn-combat-rakuten/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae714cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f7e00c458c6aa1b4014c962d44fa83439fd401b2d5820f8311d77ff6429e90a58f861486e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee65d9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3dc128d05a2e3b6822fc3170ae3f8eff5b43de12982c389670/117/854x480_1821600/index.m3u8
-ACCDN SPORT,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
-bein xtra,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
+Astro Arena,http://tv.cloudcdn.me:80/live.ts?channelId=93729&uid=15301&deviceMac=00:1A:79:1D:53:3F
+Astro Arena 2,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:48:48:FE&stream=571248&extension=ts&play_token=560vLRBtJH
+Astro Arena 2,http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&stream=571248&extension=m3u8
+Astro Football,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:48:48:FE&stream=571246&extension=ts&play_token=bKWr6nWg9K
+Astro Football,http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&stream=571246&extension=m3u8
 
+Astro Sports Plus,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:48:48:FE&stream=554968&extension=ts&play_token=oRPaQ9D0j4
+Astro Sports Plus,http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&stream=554968&extension=m3u8
 TSN1,https://tvpass.org/live/tsn1/sd
 TSN1,https://tvpass.org/live/tsn1/hd
 TSN_ 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
@@ -522,13 +526,22 @@ TSN 2,https://tvpass.org/live/tsn2/hd
 TSN_ 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
 TSN4,https://tvpass.org/live/tsn4/sd
-
 TSN5,https://tvpass.org/live/tsn5/sd
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
-Star Sports 1 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
-
+ESPN BRASIL 1,http://46.151.196.223:14432
+ESPN BRASIL 2,http://46.151.196.223:14438
+ESPN BRASIL 3,http://46.151.196.223:14444
+ESPN BRASIL 4,http://46.151.196.223:14450
+ESPN BRASIL 5,http://46.151.196.223:14456
+ESPN BRASIL 6,http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+ESPN,https://tvpass.org/live/ESPN/sd
+ESPN Deportes,https://tvpass.org/live/espn-deportes/sd
+ESPN News,https://tvpass.org/live/ESPNews/sd
+ESPN U,https://tvpass.org/live/ESPNU/sd
+ESPN2,https://tvpass.org/live/ESPN2/sd
+TNT 1,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 N SPORT,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
-
+HBO BOXING,https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 Fox Sports 1,https://tvpass.org/live/FoxSports1/sd
 Fox Sports 2,https://tvpass.org/live/FoxSports2/sd
 SNY Sportsnet New York Comcast,https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
@@ -552,17 +565,8 @@ CBS (KCBS) Los Angeles,https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
 NY,https://tvpass.org/live/WCBSDT1/sd
 CBS Sports Network USA,https://tvpass.org/live/CBSSportsNetworkUSA/sd
 Chicago Sports Network,https://tvpass.org/live/chicago-sports-network/sd
-ESPN,https://tvpass.org/live/ESPN/sd
-ESPN Deportes,https://tvpass.org/live/espn-deportes/sd
-ESPN News,https://tvpass.org/live/ESPNews/sd
-ESPN U,https://tvpass.org/live/ESPNU/sd
-ESPN2,https://tvpass.org/live/ESPN2/sd
-ESPN BRASIL 1,http://46.151.196.223:14432
-ESPN BRASIL 2,http://46.151.196.223:14438
-ESPN BRASIL 3,http://46.151.196.223:14444
-ESPN BRASIL 4,http://46.151.196.223:14450
-ESPN BRASIL 5,http://46.151.196.223:14456
-ESPN BRASIL 6,http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
+
 Fanduel Sports Indiana,https://tvpass.org/live/fanduel-sports-indiana/sd
 Fanduel Sports Network Detroit,https://tvpass.org/live/fanduel-sports-network-detroit-hd/sd
 Fanduel Sports Network Florida,https://tvpass.org/live/fanduel-sports-network-florida/sd
@@ -664,6 +668,11 @@ EURO SPORT,https://7pal.short.gy/eusport2
 SPORTS TV,http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 TRACE SPORT STARS,http://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 RTA Sport,https://hls.rtasport.live/hls/stream.m3u8
+
+Astro Arena TS,http://103.107.198.46:8080/live/ZZA21216/zxe36880/154.ts
+Astro Arena 2 TS,http://103.107.198.46:8080/live/ZZA21216/zxe36880/400.ts
+HGTV,http://103.107.198.46:8080/live/ZZA21216/zxe36880/85.ts
+
 Hard Knocks HD,https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
 Hard Knocks,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhardknocksfightingchampionship/CDN/playlist.m3u8
 
@@ -709,66 +718,6 @@ CCTV-4 America,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3
 鳳凰 中文,https://k44991.kylintv.tv/live/pxna_iphone.m3u8
 凤凰 中文,http://122.117.71.103:8574/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 鳳凰資訊,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-
-CCTV-央视文化精品,http://107.150.60.122/live/ysjp.m3u8
-CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
-CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
-CCTV-1 综合,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
-CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
-CCTV-2 财经,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
-CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
-CCTV-3 综艺,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
-CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
-CCTV-4 中文国际,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
-CCTV-5+HD,http://107.150.60.122/live/cctv5p.m3u8
-CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
-CCTV-5+体育赛事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-cctv5hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
-CCTV-5HD,http://107.150.60.122/live/cctv5hd.m3u8
-CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
-CCTV-6 电影,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
-CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
-CCTV-7 国防军事,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
-CCTV-8 电视剧,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
-CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
-CCTV-9 纪录,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
-CCTV-10 科教,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
-cctv10hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
-CCTV-11 戏曲,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
-CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
-CCTV12社会与法,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
-CCTV-13 新闻,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
-cctv13hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
-CCTV-13HD,http://107.150.60.122/live/cctv13hd.m3u8
-cctv13md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13md
-CCTV13新闻,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
-CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV-14 少儿,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
-cctv14hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
-CCTV-15 音乐,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
-cctv15hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
-CCTV-15HD,http://107.150.60.122/live/cctv15hd.m3u8
-CCTV-16 奥林匹克,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-cctv16hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
-CCTV-16HD,http://107.150.60.122/live/cctv16hd.m3u8
-CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
-cctv17hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
-CCTV-17HD,http://107.150.60.122/live/cctv17hd.m3u8
-CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
-CCTV世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
-CCTV-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
-CCTV-兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
-CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
-CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
-CCTV-央视文化精品,http://107.150.60.122/live/ysjp.m3u8
-CCTV-女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
-CCTV-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-CCTV-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
-CCTV-第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
-CCTV-风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 CCTV-1,http://192.151.150.154/live/cctv1hd.m3u8
 CCTV-2,http://192.151.150.154/live/cctv2hd.m3u8
 CCTV-3,http://192.151.150.154/live/cctv3hd.m3u8
@@ -900,6 +849,69 @@ CGTN阿语,https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LST
 兵团卫视,http://pplee.vicp.net:4022/udp/233.18.204.221:5140
 宁夏卫视,http://pplee.vicp.net:4022/udp/233.18.204.230:5140
 新疆卫视,http://pplee.vicp.net:4022/udp/233.18.204.220:5140
+
+
+
+
+CCTV-央视文化精品,http://107.150.60.122/live/ysjp.m3u8
+CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
+CCTV1,http://38.75.136.137:98/gslb/dsdqpub/cctv1hd.m3u8?auth=testpub
+CCTV-1 综合,http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+CCTV2,http://38.75.136.137:98/gslb/dsdqpub/cctv2hd.m3u8?auth=testpub
+CCTV-2 财经,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+CCTV3,http://38.75.136.137:98/gslb/dsdqpub/cctv3hd.m3u8?auth=testpub
+CCTV-3 综艺,http://38.75.136.137:98/gslb/dsdqbv/cctv3hd.m3u8?auth=test20251009
+CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4hd.m3u8?auth=testpub
+CCTV-4 中文国际,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV-5 体育,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV-5+HD,http://107.150.60.122/live/cctv5p.m3u8
+CCTV5+体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV-5+体育赛事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+cctv5hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
+CCTV-5HD,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV6,http://38.75.136.137:98/gslb/dsdqpub/cctv6hd.m3u8?auth=testpub
+CCTV-6 电影,http://38.75.136.137:98/gslb/dsdqbv/cctv6hd.m3u8?auth=test20251009
+CCTV7,http://38.75.136.137:98/gslb/dsdqpub/cctv7hd.m3u8?auth=testpub
+CCTV-7 国防军事,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
+CCTV8,http://38.75.136.137:98/gslb/dsdqpub/cctv8hd.m3u8?auth=testpub
+CCTV-8 电视剧,http://38.75.136.137:98/gslb/dsdqbv/cctv8hd.m3u8?auth=test20251009
+CCTV9,http://38.75.136.137:98/gslb/dsdqpub/cctv9hd.m3u8?auth=testpub
+CCTV-9 纪录,http://38.75.136.137:98/gslb/dsdqbv/cctv9hd.m3u8?auth=test20251009
+CCTV-10 科教,http://38.75.136.137:98/gslb/dsdqbv/cctv10hd.m3u8?auth=test20251009
+cctv10hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv10hd
+CCTV-11 戏曲,http://38.75.136.137:98/gslb/dsdqbv/cctv11hd.m3u8?auth=test20251009
+CCTV12社会与法,http://74.91.26.218:82/live/cctv12hd.m3u8
+CCTV12社会与法,http://112.123.243.37:50085/tsfile/live/0013_1.m3u8
+CCTV-13 新闻,http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+cctv13hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+CCTV-13HD,http://107.150.60.122/live/cctv13hd.m3u8
+cctv13md,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13md
+CCTV13新闻,http://39.152.103.17:8089/tsfile/live/1012_1.m3u8
+CCTV13新闻,http://74.91.26.218:82/live/cctv13hd.m3u8
+CCTV-14 少儿,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
+cctv14hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv14hd
+CCTV-15 音乐,http://38.75.136.137:98/gslb/dsdqbv/cctv15hd.m3u8?auth=test20251009
+cctv15hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv15hd
+CCTV-15HD,http://107.150.60.122/live/cctv15hd.m3u8
+CCTV-16 奥林匹克,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
+cctv16hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv16hd
+CCTV-16HD,http://107.150.60.122/live/cctv16hd.m3u8
+CCTV16奥林匹克,http://74.91.26.218:82/live/cctv16hd.m3u8
+cctv17hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv17hd
+CCTV-17HD,http://107.150.60.122/live/cctv17hd.m3u8
+CCTV17农业农村,http://74.91.26.218:82/live/cctv17hd.m3u8
+CCTV世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
+CCTV-世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
+CCTV-兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+CCTV-卫生健康,http://107.150.60.122/live/wsjk.m3u8
+CCTV-央视台球,http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-央视文化精品,http://107.150.60.122/live/ysjp.m3u8
+CCTV-女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
+CCTV-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
+CCTV-第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
+CCTV-风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
 
 
 
