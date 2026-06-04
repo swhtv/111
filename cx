@@ -80,6 +80,24 @@
         }
       }
     },
+
+ { 
+            "key": "永乐影视華哥", 
+            "name": "永乐｜華哥影视", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json" 
+        }, 
+
+
+      { 
+            "key": "独播影视", 
+            "name": "独播｜華哥影视", 
+            "type": 3, 
+            "api": "csp_Duboku" 
+        }, 
+
+
  {
             "key": "API_如意",
             "name": "🦄如意影视｜追剧",
