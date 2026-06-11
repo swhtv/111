@@ -89,10 +89,11 @@
          ]
         },	 
 
- {
+  {
             "key": "金牌 影视",
             "name": "☀金牌 華哥",
             "type": 3,
+ "jar": "https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
