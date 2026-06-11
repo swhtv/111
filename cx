@@ -145,17 +145,14 @@
         "海外动漫"
          ]
         },
- {
-            "key": "🚬独播库",
-            "name": "華哥 独播",
+  {
+            "key": "金牌 影视",
+            "name": "☀金牌 華哥",
             "type": 3,
-            "api": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E7%8B%AC%E6%92%AD%E5%BA%93.js",
-            "style": {
-                "type": "rect",
-                "ratio": 1
-            },
-            "changeable": 1
-        }, 
+ "jar": "https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
+            "api": "csp_Jpys",
+            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
 
  {
             "key": "欧乐影院",
@@ -174,15 +171,7 @@
 
 {"key":"drpy_js_豆瓣","name":"豆瓣2026華哥","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/260411%E8%B1%86%E7%93%A3JS"},
 
- 
 
-{ 
-            "key": "金牌--影视", 
-            "name": "☀金牌-華哥", 
-            "type": 3, 
-            "api": "csp_Jpys", 
-            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn" 
-        }, 
 
 {
             "key": "麦田",
