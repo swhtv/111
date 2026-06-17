@@ -236,6 +236,10 @@ BETO TV LIFESTYLE ENGLISH,http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 DC COUNCIL CHANNEL,http://video.oct.dc.gov/out/u/15_12.m3u8
 
 FIFA 2026 WORLD CUP,#genre#
+
+广东体育,http://r.jdshipin.com/LiYdg
+广东体育,http://74.91.26.218:82/live/gdty.m3u8
+广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 VIUTV备1,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV备2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
@@ -249,10 +253,7 @@ CCTV -5+ 体育,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test2025100
 CCTV -5+HD,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5 +体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV -5+体育赛事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
-广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-TSN   1,http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/3146.ts
+
 fox sports 1,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7322/index.m3u8
 fox sports 2,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7323/index.m3u8
 X FOXSPORTS,http://168.205.87.198:8555/live/1350/123456/309.m3u8
@@ -386,17 +387,16 @@ TVB星河,http://r.jdshipin.com/sXuuD
 广州南国都市,http://r.jdshipin.com/nWaZO
 广州综合,http://r.jdshipin.com/snhya
 海峡卫视,http://r.jdshipin.com/WtYt3
-廣東體育4K[GRT-SPORTS 4K],http://67.220.71.199:2347/livehttpplay?channel_id=12028
+
 TVB亞洲劇臺[TVB Asian Select],http://67.220.71.199:2347/livehttpplay?channel_id=13022
 广州新闻4K,http://tencentplaygsm.gztv.com/live/nanguodushi.m3u8
-廣東體育高清[GRT-SPORTS HD],http://67.220.71.199:2347/livehttpplay?channel_id=20130
+
 嶺南戲曲[Lingnan Drama],http://67.220.71.199:2347/livehttpplay?channel_id=20142
 岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
 
 港臺電視32高清[RTHK TV 32 HD],http://67.220.71.199:2347/livehttpplay?channel_id=30028
 CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
-廣東體育超清[GRT-SPORTS HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30031
-RTHK31,http://iptv.4666888.xyz/iptv2A.php?id=23
+
 港臺電視31超清[RTHK TV 31 HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30066
 港臺電視32超清[RTHK TV 32 HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30067
 
@@ -444,7 +444,7 @@ RTHK33,https://live.astradamy.com/hk33/index.m3u8
 广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 大湾区卫视,http://qjrhc.jydjd.top:2911/udp/224.1.100.7:11111
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
-大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
+大湾区卫视 3,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 民视频道,rtmp://f13h.mine.nu/sat/tv051
