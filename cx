@@ -89,14 +89,17 @@
             "ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json" 
         }, 
 
-
-      { 
-            "key": "独播影视", 
-            "name": "独播｜華哥影视", 
+ { 
+            "key": "🚬独播库", 
+            "name": "華哥 独播", 
             "type": 3, 
-            "api": "csp_Duboku" 
-        }, 
-
+            "api": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E7%8B%AC%E6%92%AD%E5%BA%93.js", 
+            "style": { 
+                "type": "rect", 
+                "ratio": 1 
+            }, 
+            "changeable": 1 
+        },  
 
  {
             "key": "API_如意",
