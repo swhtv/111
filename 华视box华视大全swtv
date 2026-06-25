@@ -23,7 +23,7 @@ RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 FOXBUSINESS,http://41.205.93.154/FOXBUSINESS/tracks-v1a1/mono.m3u8
-FOX NEWS CHANNEL,http://41.205.93.154/FOX-NEWS/tracks-v1a1/mono.m3u8
+FOX NEWS CHANNEL,https://trs1.aynaott.com/foxnews/tracks-v1a1/mono.ts.m3u8
 Fox-news channel,http://89.187.179.148:826/anto.j/c9yJDcXyPe/31684
 FOX 49,http://41.205.93.154/FOX49/tracks-v1a1/mono.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
@@ -240,6 +240,7 @@ FIFA 2026 WORLD CUP,#genre#
 广东体育,http://r.jdshipin.com/LiYdg
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+NOW FIFA,http://www.kaniptv.cn/ua3.php?etoken=PXWDrIly%2B6Kk0KDI4uKmmhVQw1OMEg8O29tCeidIn8BS00IoeAduj7l4ZOXkecSzX6nWyi5OBRS15YU2TKHVx6DYo7wuH5VNxTQ%2BlY0D0VWk5GMpAo%2BGCi09q0xodJC%2B46Z9N8OTbyyuKOGVVn9VkjL8bdR%2BZnhFH5NGkwkxL7NaCugwyATjKCpnUQg7OEaSebuC7YcWbbm7MmX2PEHfv4A5ksWUR0LAJLdn7dlIUl1MX0T1PBMt1rk03%2FKoQofkgqtuHDOhJOLULMf2PdHHvTBO%2FSJh4YAJARoiZysEYNIdE6cLn8sfkWGCkw3ijQKng4qnnJbG5QuXwIwNCY7zgA%3D%3D
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 VIUTV备1,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
 VIUTV备2,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
@@ -442,7 +443,8 @@ RTHK33,https://live.astradamy.com/hk33/index.m3u8
 澳视澳门 ,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 广东珠江频,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-大湾区卫视,大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
+大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
+大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 大湾区卫视 3,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
