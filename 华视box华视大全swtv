@@ -242,7 +242,7 @@ FIFA 2026 WORLD CUP,#genre#
 广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 NOW FIFA,http://www.kaniptv.cn/ua3.php?etoken=PXWDrIly%2B6Kk0KDI4uKmmhVQw1OMEg8O29tCeidIn8BS00IoeAduj7l4ZOXkecSzX6nWyi5OBRS15YU2TKHVx6DYo7wuH5VNxTQ%2BlY0D0VWk5GMpAo%2BGCi09q0xodJC%2B46Z9N8OTbyyuKOGVVn9VkjL8bdR%2BZnhFH5NGkwkxL7NaCugwyATjKCpnUQg7OEaSebuC7YcWbbm7MmX2PEHfv4A5ksWUR0LAJLdn7dlIUl1MX0T1PBMt1rk03%2FKoQofkgqtuHDOhJOLULMf2PdHHvTBO%2FSJh4YAJARoiZysEYNIdE6cLn8sfkWGCkw3ijQKng4qnnJbG5QuXwIwNCY7zgA%3D%3D
 
-tsn 1,https://trs1.aynaott.com/tsn1/tracks-v1a1/mono.ts.m3u8
+tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
 tsn 2,https://trs1.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
 tsn 3,https://trs1.aynaott.com/tsn3/tracks-v1a1/mono.ts.m3u8
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
@@ -557,7 +557,7 @@ Astro Football,http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&strea
 
 Astro Sports Plus,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:48:48:FE&stream=554968&extension=ts&play_token=oRPaQ9D0j4
 Astro Sports Plus,http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&stream=554968&extension=m3u8
-tsn1,https://trs1.aynaott.com/tsn1/tracks-v1a1/mono.ts.m3u8
+tsn1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
 tsn2,https://trs1.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
 tsn3,https://trs1.aynaott.com/tsn3/tracks-v1a1/mono.ts.m3u8
 TSN 1,https://tvsen5.aynaott.com/tsn1/tracks-v1a1/mono.ts.m3u8
@@ -573,7 +573,10 @@ TSN4,https://tvpass.org/live/tsn4/sd
 TSN5,https://tvpass.org/live/tsn5/sd
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 
-
+UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+sportsnet one,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119329
+sportsnet ca,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119328
+GOLF,http://23.237.104.106:8080/USA_GOLF/index.m3u8
 
 PREMIER SPORTS 1,https://cors-proxy.cooks.fyi/http://world-protv.club:8080/GenIptvg@f0DE14aIRn/0h5GuR3HJ0edweFz3DyY/376
 PREMIER SPORTS 2,https://cors-proxy.cooks.fyi/http://realsport.scalecdn.co:8080/live/mediahost247/JD97213hj0fjhgFfdhdgfhja3j12kHJDJgeh/89090.ts
