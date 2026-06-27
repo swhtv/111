@@ -241,10 +241,10 @@ FIFA 2026 WORLD CUP,#genre#
 广东体育,http://74.91.26.218:82/live/gdty.m3u8
 广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 NOW FIFA,http://www.kaniptv.cn/ua3.php?etoken=PXWDrIly%2B6Kk0KDI4uKmmhVQw1OMEg8O29tCeidIn8BS00IoeAduj7l4ZOXkecSzX6nWyi5OBRS15YU2TKHVx6DYo7wuH5VNxTQ%2BlY0D0VWk5GMpAo%2BGCi09q0xodJC%2B46Z9N8OTbyyuKOGVVn9VkjL8bdR%2BZnhFH5NGkwkxL7NaCugwyATjKCpnUQg7OEaSebuC7YcWbbm7MmX2PEHfv4A5ksWUR0LAJLdn7dlIUl1MX0T1PBMt1rk03%2FKoQofkgqtuHDOhJOLULMf2PdHHvTBO%2FSJh4YAJARoiZysEYNIdE6cLn8sfkWGCkw3ijQKng4qnnJbG5QuXwIwNCY7zgA%3D%3D
-
-tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
-tsn 2,https://trs1.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
-tsn 3,https://trs1.aynaott.com/tsn3/tracks-v1a1/mono.ts.m3u8
+tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
+tsn 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
+tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
+tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1624
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
 CCTV  5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 cctv5 hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
@@ -557,9 +557,10 @@ Astro Football,http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&strea
 
 Astro Sports Plus,http://tv.trexiptv.com:80/play/live.php?mac=00:1A:79:48:48:FE&stream=554968&extension=ts&play_token=oRPaQ9D0j4
 Astro Sports Plus,http://185.243.7.171:80/play/live.php?mac=00:1A:79:81:9F:69&stream=554968&extension=m3u8
-tsn1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
-tsn2,https://trs1.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
-tsn3,https://trs1.aynaott.com/tsn3/tracks-v1a1/mono.ts.m3u8
+tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
+tsn 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
+tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
+tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1624
 TSN 1,https://tvsen5.aynaott.com/tsn1/tracks-v1a1/mono.ts.m3u8
 TSN1,https://tvpass.org/live/tsn1/sd
 TSN1,https://tvpass.org/live/tsn1/hd
@@ -1590,3 +1591,4 @@ TVN poland,https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.
 polast sport,https://windnew.newkso.ru/wind/premium50/mono.m3u8
 
 VOX 1,https://hls.vox1.live/hls/stream.m3u8
+
