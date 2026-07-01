@@ -240,11 +240,11 @@ BETO TV LIFESTYLE ENGLISH,http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 DC COUNCIL CHANNEL,http://video.oct.dc.gov/out/u/15_12.m3u8
 
 FIFA 2026 WORLD CUP,#genre#
-广东体育1,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
-广东体育2,http://198.204.228.26/live/gdty.m3u8
-广东体育3,http://r.jdshipin.com/LiYdg
-广东体育4,http://74.91.26.218:82/live/gdty.m3u8
-广东体育5,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育 1,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+广东体育 2,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育 3,http://198.204.228.26/live/gdty.m3u8
+广东体育 4,http://bot22.top:19999/udp/239.77.0.112:5146
+广东体育 5,http://gdyd.7259.cc.cd:4013/udp/239.77.0.112:5146
 NOW FIFA,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465863
 NOW FIFA 2,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465861
 tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
@@ -409,8 +409,6 @@ CCTV 4K,http://67.220.71.199:2347/livehttpplay?channel_id=30029
 港臺電視31超清[RTHK TV 31 HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30066
 港臺電視32超清[RTHK TV 32 HD+],http://67.220.71.199:2347/livehttpplay?channel_id=30067
 
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
-
 TntSports3,http://iptv.4666888.xyz/iptv2A.php?id=3
 wwwe,http://iptv.4666888.xyz/iptv2A.php?id=5
 TVBJ1,http://iptv.4666888.xyz/iptv2A.php?id=26
@@ -450,7 +448,11 @@ RTHK33,https://live.astradamy.com/hk33/index.m3u8
 澳门MACAU,https://live5.tdm.com.mo/ch3/ch3.live/chunklist_w1839236055.m3u8
 澳视澳门 ,http://103.233.191.133:1935/ch1/ch1.live/playlist.m3u8
 广东珠江频,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+广东体育1,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+广东体育2,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育3,http://198.204.228.26/live/gdty.m3u8
+广东体育4,http://bot22.top:19999/udp/239.77.0.112:5146
+广东体育5,http://gdyd.7259.cc.cd:4013/udp/239.77.0.112:5146
 大湾区卫视,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/gdtv.m3u8
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
@@ -614,7 +616,11 @@ HBO BOXING,https://streams2.sofast.tv/vglive-sk-462904/tracks-v2a1/mono.ts.m3u8
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 五星体育,
 https://live.264788.xyz/channel/wuxingtiyu?streamid=574ea4050333d6418edfd71d0df52f43&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
+广东体育 1,http://218.13.170.98:9901/tsfile/live/0019_1.m3u8
+广东体育 2,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育 3,http://198.204.228.26/live/gdty.m3u8
+广东体育 4,http://bot22.top:19999/udp/239.77.0.112:5146
+广东体育 5,http://gdyd.7259.cc.cd:4013/udp/239.77.0.112:5146
 X FOXSPORTS,http://168.205.87.198:8555/live/1350/123456/309.m3u8
 PX SPORTS,http://108.181.20.255:27347/livehttpplay?channel_id=23543
 FOX-SPORTS,https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
