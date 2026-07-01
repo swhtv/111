@@ -240,11 +240,13 @@ BETO TV LIFESTYLE ENGLISH,http://content.jwplatform.com/manifests/vM7nH0Kl.m3u8
 DC COUNCIL CHANNEL,http://video.oct.dc.gov/out/u/15_12.m3u8
 
 FIFA 2026 WORLD CUP,#genre#
-
-广东体育,http://r.jdshipin.com/LiYdg
-广东体育,http://74.91.26.218:82/live/gdty.m3u8
-广东体育频,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-NOW FIFA,http://www.kaniptv.cn/ua3.php?etoken=PXWDrIly%2B6Kk0KDI4uKmmhVQw1OMEg8O29tCeidIn8BS00IoeAduj7l4ZOXkecSzX6nWyi5OBRS15YU2TKHVx6DYo7wuH5VNxTQ%2BlY0D0VWk5GMpAo%2BGCi09q0xodJC%2B46Z9N8OTbyyuKOGVVn9VkjL8bdR%2BZnhFH5NGkwkxL7NaCugwyATjKCpnUQg7OEaSebuC7YcWbbm7MmX2PEHfv4A5ksWUR0LAJLdn7dlIUl1MX0T1PBMt1rk03%2FKoQofkgqtuHDOhJOLULMf2PdHHvTBO%2FSJh4YAJARoiZysEYNIdE6cLn8sfkWGCkw3ijQKng4qnnJbG5QuXwIwNCY7zgA%3D%3D
+广东体育1,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
+广东体育2,http://198.204.228.26/live/gdty.m3u8
+广东体育3,http://r.jdshipin.com/LiYdg
+广东体育4,http://74.91.26.218:82/live/gdty.m3u8
+广东体育5,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
+NOW FIFA,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465863
+NOW FIFA 2,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465861
 tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
 tsn 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
 tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
