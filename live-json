@@ -11,6 +11,17 @@
 {"name":"SW華哥 10 TV","url":"https://epg.pw/test_channels_hong_kong.m3u"},
 {"name":"SW華哥bit直播","url":"https://gitee.com/alexkw/app/raw/master/kgk.txt"},
 
+{"name":"SW1咖啡体育","url":"https://jsnzkpg.us.ci/live.m3u"},
+{"name":"SW2 OK体育","url":"https://sports.jsnzkpg.ccwu.cc/live.m3u"},
+{"name":"SW3 DM体育","url":"https://jsnzkpg.ggff.net/live.m3u"},
+{"name":"SW4 dm","url":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"},
+{"name":"SW5 值播","url":"https://itv.tv1288.xyz"},
+{"name":"SW6 长青","url":"http://yuan.haitangw.net/ZB/"},
+{"name":"SW7 大屏","url":"https://gh-proxy.net/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u"},
+{"name":"SW8 kt","url":"https://php.946985.filegear-sg.me/jackTV.m3u"},
+
+
+
 {"name":"roku usca","url":"https://www.apsattv.com/rok.m3u"},
 {"name":"Tablo","url":"https://www.apsattv.com/tablo.m3u"},
 {"name":"LocalNow","url":"https://www.apsattv.com/localnow.m3u"},
