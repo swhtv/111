@@ -244,14 +244,16 @@ FIFA 2026 WORLD CUP,#genre#
 广东体育 1,http://198.204.228.26/live/gdty.m3u8
 广东体育 2,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
 广东体育 3,http://198.204.228.26/live/gdty.m3u8
-广东体育 4,http://bot22.top:19999/udp/239.77.0.112:5146
-广东体育 5,http://gdyd.7259.cc.cd:4013/udp/239.77.0.112:5146
+广东体育 4,http://192.151.150.154/live/gdty.m3u8
+
 NOW FIFA,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465863
 NOW FIFA 2,http://10k.lucastv.pro/bMzUj4zG/eR7gYGT/465861
 tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
 tsn 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
 tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
 tsn 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1624
+
+TSN 4,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
 fox sports 1,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7322/index.m3u8
 fox sports 2,http://d029dcec.kazmazpaz.ru/iptv/D6F3GPB9FFSHNY/7323/index.m3u8
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
@@ -264,6 +266,28 @@ CCTV -5+HD,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5 +体育赛事,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV -5+体育赛事,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 
+
+Unite8 Sports 2 HD,http://starhub.pro/live/farhat-3379/67897-913379/745202.ts
+ARG | DSPORTS 2 FHD,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465840.m3u8
+ELTA 1,http://176868.cloud/62bd2e0bb90d159c313667cb0580be71/3f922633172fa67da8be4294b52012a7/0f0f6e4de311759b46b41243cd4988a5/index.m3u8
+ELTA 2,http://176868.cloud/6769ec6e0eda658ed719643b2066bc46/3f922633172fa67da8be4294b52012a7/184096cd77c62b4012eac9084590b794/index.m3u8
+ELTA 3,http://176868.cloud/f8e7095727d4726022f417c94674bc43/3f922633172fa67da8be4294b52012a7/b8433e2fde3673d975fc68a7a4238bff/index.m3u8
+ELTA 4,http://176868.cloud/eeb0dc332dd8d3e9ae8d203c11d42792/3f922633172fa67da8be4294b52012a7/8a9c90323343e39b3b02a8231d0a26a6/index.m3u8
+ESP | DAZN MUNDIAL FHD [O],http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465830.m3u8
+CCTV-5体育,http://207.56.13.146:81/cdnlive/cctv5.m3u8
+CCTV-5HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV-5+HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
+
+FIFA WC 1 FHD,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465875.m3u8
+[UK]BBC 1 HD,http://hatmantechx.xyz:8080/live/aytacsavaroffice/9UCN2WP7K7/96409.m3u8
+DE • FUSSBALL TV 1 HD,http://hatmantechx.xyz:8080/live/aytacsavaroffice/9UCN2WP7K7/301599.m3u8
+DE • FUSSBALL TV 2 HD,http://hatmantechx.xyz:8080/live/aytacsavaroffice/9UCN2WP7K7/301600.m3u8
+DE • FUSSBALL TV 3 HD,http://hatmantechx.xyz:8080/live/aytacsavaroffice/9UCN2WP7K7/301601.m3u8
+
+FS1 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
+欧体4K,http://fomo.re/oiAPMTyBHC7I7BK7/gs42ehsohqJ30C7m/32818
+CCTV5 HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 
 
 
