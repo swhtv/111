@@ -293,17 +293,15 @@ FS1 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
 SW-TV港台,#genre#
 
 TVB 新聞,https://cdn6.cc.cd/163189/wxxw
-無綫新聞台,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD02JmtleT0lMkElMkElMkElMkE=
 無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
 無綫新聞台,https://cdn6.cc.cd/163189/wxxw
 TVB無线新聞,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD02JmtleT0qKioq
 TVB無綫新聞,http://rihou.cc:555/tv/[Pd]无线新闻
-TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
-TVB 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠 台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
 翡 翠 台,https://10.fast.hidns.vip/163189/fct/
-
+翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
+翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
 有綫新聞,http://rihou.cc:555/tv/[Pd]有线新闻
