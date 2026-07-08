@@ -174,9 +174,13 @@ TSC ,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 The Shopping Channel ,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 CGTN news,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CCTV-4 America,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
-
+凤凰資詢,http://rihou.cc:555/tv/[Pd]凤凰资讯
+鳳凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+鳳凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰 資詢,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰 資詢,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+鳳凰 中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+鳳凰 中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 CGTN英語,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -313,15 +317,19 @@ HOY-TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
 翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
 
 TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
+
+凤凰資詢,http://rihou.cc:555/tv/[Pd]凤凰资讯
+鳳凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
+鳳凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰 資詢,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+凤凰 資詢,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+鳳凰 中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+鳳凰 中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+
 TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
 ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
 
 凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-
-鳳鳳資詢,http://rihou.cc:555/tv/[Pd]凤资讯
-鳳凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-
-鳳凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
 
 澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
 澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
@@ -493,7 +501,18 @@ tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
 tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1624
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
-
+CA : TSN 1,http://rocketfx.uk:8080/live/henry/henry/30081705-3f1c-4e0b-a513-65bf847928c2.ts
+CA : TSN 2,http://rocketfx.uk:8080/live/henry/henry/26a7aca3-4744-41f2-a910-a62a08884031.ts
+CA : TSN 3,http://rocketfx.uk:8080/live/henry/henry/14f0ad84-d48b-42b7-bc54-f310884e3d66.ts
+CA : TSN 4,http://rocketfx.uk:8080/live/henry/henry/e7bf3c9f-fad2-4e35-8759-d2cd850738aa.ts
+CA | TSN 5,http://rocketfx.uk:8080/live/henry/henry/b55a36c4-92c4-4d61-9405-e0f5d500edf2.ts
+CA : SPORTSNET 360,http://rocketfx.uk:8080/live/henry/henry/9d7a944a-8822-45d0-aa8d-c2be1e41f405.ts
+CA : SPORTSNET EAST,http://rocketfx.uk:8080/live/henry/henry/dd277aa3-a382-4a14-b221-5934a51575a4.ts
+CA : SPORTSNET ONE,http://rocketfx.uk:8080/live/henry/henry/9f330a13-7c60-4d31-a9de-f3c38cf3a929.ts
+CA | SPORTSNET ONTARIO,http://rocketfx.uk:8080/live/henry/henry/3df8c66b-16dd-4b71-aaee-0a87d82ef8ce.ts
+CA : SPORTSNET PACIFIC,http://rocketfx.uk:8080/live/henry/henry/2b0bad9c-a506-4953-80ec-7cc0af721b64.ts
+CA : SPORTSNET WEST,http://rocketfx.uk:8080/live/henry/henry/1be3fa5b-28c2-4616-9c45-42b67a2513ac.ts
+CA : SPORTSNET WORLD,http://rocketfx.uk:8080/live/henry/henry/5ff00257-b631-48ba-a5fd-20ed7fcfd295.ts
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
 sportsnet one,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119329
 sportsnet ca,http://89.187.179.148:826/anto.j/c9yJDcXyPe/119328
