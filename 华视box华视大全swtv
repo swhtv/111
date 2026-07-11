@@ -296,28 +296,20 @@ FS1 01,http://89.187.179.148:826/anto.j/c9yJDcXyPe/120160
 
 SW-TV港台,#genre#
 
-TVB 新聞,https://cdn6.cc.cd/163189/wxxw
-無綫新聞台,https://hls.iill.top/api/TVB-News/index.m3u8
-無綫新聞台,https://cdn6.cc.cd/163189/wxxw
-TVB無线新聞,http://www.kaniptv.cn/ua3.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&mode=1&hls=aHR0cDovLzQ5LjIzMi4xNDMuMTc3OjgwL3B5eGcvZXhwb3J0LnBocD9pZD02JmtleT0qKioq
-TVB無綫新聞,http://rihou.cc:555/tv/[Pd]无线新闻
+TVB 新 聞,https://cdn6.cc.cd/163189/wxxw
+無綫 新聞台,https://cdn6.cc.cd/163189/wxxw
+TVB無綫 新聞,http://rihou.cc:555/tv/[Pd]无线新闻
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠 台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
 翡 翠 台,https://10.fast.hidns.vip/163189/fct/
 翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
-HOY资讯台,http://push.cdn1.hls123.de:8080/streams/xeblk620c0e/index.m3u8
+HOY资讯台,http://rihou.cc:555/tv/[Pd]有线新闻
 有綫新聞,http://rihou.cc:555/tv/[Pd]有线新闻
-
 Now 新闻台,https://cdn.123.rr.kg/163189/now
-
 now新聞,http://rihou.cc:555/tv/[Hk]Now新闻
-HOY-TV,http://push.cdn1.hls123.de:8080/streams/dguce4v9b69/index.m3u8
-翡翠台,http://push.cdn1.hls123.de:8080/streams/ef5addc0849/index.m3u8
-
 TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
-
 凤凰資詢,http://rihou.cc:555/tv/[Pd]凤凰资讯
 鳳凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 鳳凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
@@ -325,52 +317,10 @@ TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰 資詢,https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 鳳凰 中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 鳳凰 中文,https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-
-TVB星河,http://push.cdn1.hls123.de:8080/streams/hbiwgswysds/index.m3u8
-ViuTV,http://push.cdn1.hls123.de:8080/streams/iewbjlpp9v/index.m3u8
-
-凤凰资讯,http://push.cdn1.hls123.de:8080/streams/0u0qd5ovqkg/index.m3u8
-
-澳视澳门,http://push.cdn1.hls123.de:8080/streams/2r8ba88ujh6/index.m3u8
-澳视卫星,http://push.cdn1.hls123.de:8080/streams/gese9d57376/index.m3u8
-澳门莲花,http://push.cdn1.hls123.de:8080/streams/8nsrl4s4evv/index.m3u8
-重温经典,http://push.cdn1.hls123.de:8080/streams/g0jj471jied/index.m3u8
-
-
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
-TVB星河,https://o11.163189.xyz/stream/live/tvbxh/
-TVB千禧经典,https://o11.163189.xyz/stream/live/tvbc/
-TVB千禧经典,https://smt.1678520.xyz/smt3.2.5.php?id=Tvbclassic
-Astro AEC,https://o11.163189.xyz/stream/live/aec/
-Astro AOD,https://o11.163189.xyz/stream/live/aod/
 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
-翡翠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct/
-TVB PLUS(多音轨字幕),https://o11.163189.xyz/stream/tvb/tvbp/
-明珠台(多音轨字幕),https://o11.163189.xyz/stream/tvb/mzt/
-华丽翡翠台(多音轨字幕),https://o11.163189.xyz/stream/live/hlt/
-华丽翡翠台(新加坡),https://o11.163189.xyz/stream/live/jade/
-Astro AOD(多音轨字幕),https://o11.163189.xyz/stream/live/aod/
-Astro AEC(多音轨字幕),https://o11.163189.xyz/stream/live/aec/
-TVB星河(多音轨字幕),https://o11.163189.xyz/stream/live/tvbxh/
-爱奇艺,https://o11.163189.xyz/stream/live/iqiyi/
-
-华丽翡翠,http://o11.163189.xyz/stream/live/hlt/
-华丽,http://o11.163189.xyz/stream/live/jade/
-AOD,http://o11.163189.xyz/stream/live/aod/
-AEC,http://o11.163189.xyz/stream/live/aec/
-欢喜,http://o11.163189.xyz/stream/live/hxt/
-爱奇艺,http://o11.163189.xyz/stream/live/iqiyi/
-天映频道,http://o11.163189.xyz/stream/live/typd/
-天映经典,http://o11.163189.xyz/stream/live/ccm/
-TVB星河,http://o11.163189.xyz/stream/live/tvbxh/
-千禧,http://o11.163189.xyz/stream/live/tvbc/
-翡翠,http://o11.163189.xyz/stream/tvb/fct/
-tvbp,http://o11.163189.xyz/stream/tvb/tvbp/
-
 TVB PLUS,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-
 TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
-
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
@@ -379,7 +329,6 @@ TVB PLUS,http://o11.163189.xyz/stream/tvb/tvbp/
 
 嶺南戲曲[Lingnan Drama],http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
 岭南戏曲,http://38.75.136.137:98/gslb/dsdqpub/gdlnxq.m3u8?auth=testpub
-
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 耀才财经频道,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
