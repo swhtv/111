@@ -43,9 +43,11 @@ CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 
 NBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
+MSNBC HD,http://kytv.xyz:80/live/brendan1/brendan1/228579.ts
 MSNBC HD,http://41.223.30.230/MSNBC/tracks-v1a1/mono.m3u8
-
+MSNBC ,http://lunar.pm:8080/live/kita/Twin/9326.ts
 MSNBC ,http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
+
 
 
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
