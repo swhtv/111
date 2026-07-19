@@ -244,17 +244,16 @@ DC COUNCIL CHANNEL,http://video.oct.dc.gov/out/u/15_12.m3u8
 FIFA 2026 WORLD CUP,#genre#
 广东体育 1,http://198.204.228.26/live/gdty.m3u8
 广东体育 2,http://38.75.136.137:98/gslb/dsdqpub/gdty.m3u8?auth=testpub
-DE • FUSSBALL FIFA HD,http://hatmantechx.xyz:8080/live/aytacsavaroffice/9UCN2WP7K7/301599.m3u8
-Unite8 Sports 2 HD,http://starhub.pro/live/farhat-3379/67897-913379/745202.ts
-ELTA 爱尔达FIFA,http://176868.cloud/62bd2e0bb90d159c313667cb0580be71/3f922633172fa67da8be4294b52012a7/0f0f6e4de311759b46b41243cd4988a5/index.m3u8
+
 CCTV5 HD,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 CCTV5,http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
-
-ESP-DAZN MUNDIAL FHD,http://10k.lucastv.pro/live/2c99755ae255/gJnMAT2/465830.m3u8
-tsn 1,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1621
-tsn 2,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1622
-tsn 3,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1623
-tsn 4,http://89.187.179.148:826/anto.j/c9yJDcXyPe/1624
+TSN 1,http://40.160.24.55/TSN_1/index.m3u8
+TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
+TSN 2,http://40.160.24.55/TSN_2/index.m3u8
+TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
+TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
+TSN 4,http://40.160.24.55/TSN_4/index.m3u8
+TSN 5,http://40.160.24.55/TSN_5/index.m3u8
 TSN 4,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
 CH5 FIFA,https://cdn6.123.rr.kg/163189/ch5
 CCTV-5,http://107.150.60.122/live/cctv5hd.m3u8
