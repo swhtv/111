@@ -26,6 +26,7 @@ RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 fox Business,http://206.212.244.63/66/index.m3u8
 FOX NEWS CHANNEL,http://206.212.244.63/67/index.m3u8
+FOX NEWS CHANNEL,http://iptvpro.pw:35451/live/IPTV26071930d/tv260719/1183.ts
 Fox-news channel,http://91.218.50.136:80/negrobussula/032998177444/10838
 FOX NEWS NOW,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
@@ -39,7 +40,7 @@ CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 NBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
 
-MSNBC HD,http://41.223.30.230/MSNBC/tracks-v1a1/mono.m3u8
+MSNBC HD,http://iptvpro.pw:35451/live/IPTV26071930d/tv260719/1273.ts
 MSNBC ,http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
 
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
@@ -207,10 +208,13 @@ TVB無綫 新聞,http://rihou.cc:555/tv/[Pd]无线新闻
 翡 翠 台,https://10.fast.hidns.vip/163189/fct/
 翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
 翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
+翡翠台 HD,https://cdn6.cc.cd/163189/fct
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 HOY资讯台,http://rihou.cc:555/tv/[Pd]有线新闻
+HOY TV,https://cdn6.cc.cd/163189/hoy
 有綫新聞,http://rihou.cc:555/tv/[Pd]有线新闻
 Now 新闻台,https://cdn.123.rr.kg/163189/now
+Now 新闻台,http://www.kaniptv.cn/uadl.php?etoken=O7GBbnRGS8E5uqFmeA%2FpP9pZDUEBbOoltluzysQAUOkT%2BhwMgy6MU75MO4AruwnS235INLwQddWjtZBrZQWLn9b4LPgOw9QOsQs0GRI%2F92MR2ttOBfJnbowWCIb6PEM2vBUsMgNz6wryek3GN9z9VENRf6K2qOGycU3zE0LqeJ5i9U7q0VTXq6ypTcB%2BX0wy%2FF6ykpJz%2BgM4yyo5YyCDh7AjNli8CofYp7Djy9MBTvVq9BTu8KmoYmRhH%2Bf1ltF2XOTHepCtClG1Ux%2Bt8VNCxkhI8GgLw8SVhzvzBo9mJVjLm1ABJPOCT4rh5JfCgcsgh8UbskKhcRgKSluTMQm8oA%3D%3D
 Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
 Now新闻,http://rihou.cc:555/tv/[Hk]Now新闻
 Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
@@ -218,9 +222,26 @@ TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰資詢,http://rihou.cc:555/tv/[Pd]凤凰资讯
 鳳凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
 鳳凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
-
+凤凰 中文,https://cdn6.cc.cd/163189/fhzw
+凤凰 香港,https://cdn6.cc.cd/163189/fhhk
+凤凰 资讯,https://cdn6.cc.cd/163189/fhzx
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+
+TVB 1,https://cdn6.cc.cd/163189/tvb1
+TVB 1,https://cdn.qd.je/163189.php?id=tvb1
+TVBJ1,https://cdn6.cc.cd/163189/j1
+TVBJ1,https://cdn.qd.je/163189.php?id=j1
+TVB Plus,https://cdn3.indevs.in/stream/tvb/tvbp/
+TVB星河,https://cdn3.indevs.in/stream/live/tvbxh/
+TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
+华丽翡翠台,https://cdn6.cc.cd/163189/hlfct
+翡翠剧集台,https://cdn6.cc.cd/163189/tvbd
+华丽翡翠台,https://cdn6.cc.cd/163189/jade
+TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
+重温经典,https://cdn6.cc.cd/163189/cwjd
+澳门莲花,https://cdn6.cc.cd/163189/amlh
+
 Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
 有线综合tv,http://rihou.cc:555/tv/[Pd]有线综合
 无线翡翠tv,http://rihou.cc:555/tv/[Pd]无线翡翠
@@ -734,6 +755,7 @@ CCTV-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV-电视指南,http://38.75.136.137:98/gslb/dsdqpub/dszn.m3u8?auth=testpub
 CCTV-第一剧场,http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 CCTV-风云剧场,http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+
 
 
 
