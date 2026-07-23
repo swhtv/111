@@ -8,7 +8,9 @@ City News Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Region
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+CBC NEWS,http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/6442/index.m3u8
 CBC NEWS,https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
+CBC TORONTO,http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6442/index.m3u8
 CBC TORONTO,https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 NTV CANADA,https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
 TVA,http://fms.tvavicenza.it:1935/live/diretta_1/playlist.m3u8
@@ -40,13 +42,12 @@ CNBC-e,https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8
 NBC HD,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC,http://41.205.93.154/NBC/index.m3u8
 
-MSNBC HD,http://iptvpro.pw:35451/live/IPTV26071930d/tv260719/1273.ts
-MSNBC ,http://41.205.93.154/MSNBC/tracks-v1a1/mono.m3u8
-
+MSNBC HD,http://bgdc.live:25461/rodneyb5777/5777/31407
+MSNBC h,http://lunar.pm:8080/live/kita/Twin/9326.ts
+MSNBC,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/102192.ts
 NBC NOW,https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_5.m3u8
 NBC NOW,https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 NBC 26,https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
-
 BBC ONE,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 BBC TWO,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/52449019-c378-4e85-b20e-1f51e0d5bb4a/4.m3u8
 BBC ONE,http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
