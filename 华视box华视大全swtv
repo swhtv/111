@@ -202,7 +202,7 @@ DC COUNCIL CHANNEL,http://video.oct.dc.gov/out/u/15_12.m3u8
 SW-TV港台,#genre#
 
 TVB 新 聞,https://cdn6.cc.cd/163189/wxxw
-無綫 新聞台,https://cdn6.cc.cd/163189/wxxw
+無綫 新聞台,http://cdn6.123.rr.kg/163189/wxxw
 TVB無綫 新聞,http://rihou.cc:555/tv/[Pd]无线新闻
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠 台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
@@ -228,6 +228,24 @@ TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
 凤凰 资讯,https://cdn6.cc.cd/163189/fhzx
 翡翠台4K,https://o11.163189.xyz/stream/tvb/fct4k/
 翡翠台4K(多音轨字幕),https://o11.163189.xyz/stream/tvb/fct4k/
+
+TVB Plus,http://cdn3.123.rr.kg/stream/tvb/tvbp/
+华丽翡翠台(新加坡),http://cdn3.123.rr.kg/stream/live/jade/
+天映经典台CCM,http://cdn3.123.rr.kg/stream/live/ccm/
+明珠台,http://cdn3.123.rr.kg/stream/tvb/mzt/
+翡翠台,http://cdn6.123.rr.kg/163189/fct
+翡翠台4K,http://o11.163189.xyz/stream/tvb/fct4k/
+华丽台,http://cdn6.123.rr.kg/163189/hlfct
+华丽翡翠台,http://cdn6.123.rr.kg/163189/jade
+TVB DRAMA翡翠剧集台,http://cdn6.123.rr.kg/163189/tvbd
+TVB1,http://cdn6.123.rr.kg/163189/tvb1
+TVB J1,http://cdn6.123.rr.kg/163189/j1
+无線新闻,http://cdn6.123.rr.kg/163189/wxxw
+娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
+澳门体育,http://cdn6.123.rr.kg/163189/amty
+澳门 莲花,http://cdn6.123.rr.kg/163189/amlh
+NOW星影台,http://173.208.234.146/live/nowxy.m3u8
+NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
 
 TVB 1,https://cdn6.cc.cd/163189/tvb1
 TVB 1,https://cdn.qd.je/163189.php?id=tvb1
