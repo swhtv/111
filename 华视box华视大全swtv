@@ -8,6 +8,7 @@ City News Toronto,https://citynewsregional.akamaized.net/hls/live/1024052/Region
 Bloomberg 2K,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 Bloomberg 4k,https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+ICI MONTRÉAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 CBC NEWS,https://jmp2.uk/stvp-CABC2300009KD
 CBC NEWS,https://cbcrclinear-tor.akamaized.net/hls/live/2042765/CBCRCLINEAR_TOR_11/master5.m3u8
 CBC TORONTO,https://aegis-cloudfront-1.tubi.video/c71ce9b6-cddb-4cec-b0db-2f09289f8782/master.m3u8
@@ -28,7 +29,7 @@ RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
 fox Business,http://206.212.244.63/66/index.m3u8
 FOX NEWS CHANNEL,http://206.212.244.63/67/index.m3u8
-FOX NEWS CHANNEL,http://iptvpro.pw:35451/live/IPTV26071930d/tv260719/1183.ts
+
 Fox-news channel,http://91.218.50.136:80/negrobussula/032998177444/10838
 FOX NEWS NOW,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
@@ -52,7 +53,7 @@ NBC 26,https://content.uplynk.com/channel/1fbfb28ae5044f619f75ae0adb011989.m3u8
 BBC ONE,https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/3000.m3u8
 BBC TWO,https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/52449019-c378-4e85-b20e-1f51e0d5bb4a/4.m3u8
 BBC ONE,http://41.205.93.154/BBCONE/tracks-v1a1/mono.m3u8
-BBC THREE,http://41.205.93.154/BBCTHREE/tracks-v1a1/mono.m3u8
+
 BBC TWO,http://41.205.93.154/BBCTWO/tracks-v1a1/mono.m3u8
 CNN FAST,https://jmp2.uk/stvp-GBBD1900008O3
 CNN H ,https://d3hnx79nr9mhdw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1u2levt4fksmr/CNNFAST_GB.m3u8
@@ -61,12 +62,15 @@ CNN MONEY,https://amg01391-sbtinfast-amg01391c11-lg-br-9982.playouts.now.amagi.t
 CNN HD,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 CNN HD,https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 CNN internationl,https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+CNN EN ESPAÑOL ,https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+
 CNN brazil,https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8
 BBC NEWS,https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
 DW English,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+DW ESPAÑOL,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 RT Documentary,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 THE WEATHER CHANNEL,https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/3.m3u8
-THE WEATHER CHANNEL,https://tvpass.org/live/TheWeatherChannel/sd
+
 canada 600新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
 ABC,https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 abc news,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_6.m3u8
@@ -78,6 +82,11 @@ Discovery Channel,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
 discovery.http://5.188.159.128:8070/DiscoveryChannel/tracks-v1a1/mono.m3u8
 discovery channel,http://46.32.176.50/discoverychannel/index.m3u8
 discovery channel,http://line.tivi-one.net:80/play/live.php?mac=A0:BB:3E:75:52:64&stream=1031928&extension=ts&play_token=aoAkuxf4sh
+DiscoveryChannel,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
+NationalGeographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
+AnimalPlanet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+Crime&Investigation,http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
+HLN,http://23.237.104.106:8080/USA_HLN/index.m3u8
 NAT_GEO,http://23.237.104.106:8080/USA_NAT_GEO/tracks-v1a1/mono.m3u8
 NAT_GEO_WILD,http://23.237.104.106:8080/USA_NAT_GEO_WILD/tracks-v1a1/mono.m3u8
 WE TV,http://23.237.104.106:8080/USA_WE_TV/tracks-v1a1/mono.m3u8
@@ -135,7 +144,6 @@ HallmarkChannel,http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 HallmarkMystery,http://ad8147ee.cbilant.com/iptv/ZUGHA6ZCCHRXMQB594EQKPDE/1075/index.m3u8
 LMN,http://23.237.104.106:8080/USA_LMN/index.m3u8
 Syfy,http://23.237.104.106:8080/USA_SYFY/index.m3u8
-MeTV,http://6e8e416e.rossteleccom.net/iptv/5UTLZ77ZYQACMQ7WU4546MEU/1096/index.m3u8
 
 Ion,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/a5e7ebd8-80a4-49ed-8337-3f63f84673cc/1.m3u8
 
@@ -151,20 +159,16 @@ SonyOneComedyHITSUK,https://9f8e2ffcd87f4c469be7194e48f84874.mediatailor.us-west
 SonyOneComedyTVUK,https://ec613694ee5049d3b8f30913b619662e.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-804-UK-SONYONECOMEDYTV-LG_UK/09055582-32bf-4ef3-a52d-c2396416feb2/0.m3u8
 SonyOneThrillerTVUK,https://52aad07d9d4f4d479d9b27e08ddf9e8b.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-808-UK-SONYONETHRILLERTV-LG_UK/02d6917b-e5da-46e2-82d5-c3b3103bfd0e/0.m3u8
 SonyOneFAVESUK,https://8a4805800dac428ebbf1d3cde0cdcf87.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-806-UK-SONYONEFAVES-LG_UK/f3dfc4d0-f5ec-4ea8-b4b0-d0db3982bd9c/0.m3u8
-DiscoveryChannel,http://23.237.104.106:8080/USA_DISCOVERY/index.m3u8
-NationalGeographic,http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-AnimalPlanet,http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-Crime&Investigation,http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/mpegts
-HLN,http://23.237.104.106:8080/USA_HLN/index.m3u8
+
 CourtTV,https://amg01438-ewscrippscompan-courttv-tablo-nbcc7.amagi.tv/ts-us-w2-n2/playlist/amg01438-ewscrippscompan-courttv-tablo/cb543e1f796c648e9dd43c66cef340a1f9431fde1d6988693eb5518975d10724d4efa89da914ac30578f6680255f314120369809a11f11afce7ba83e357978738388c33b99c5476ee78a74736eac7f1d56e00d13c03d285aedc43644c531bc720053cf0c6d5d3dc4fd2af5340d98d5158a7b2c95adc361277d4a3cce0b0ca7f941a6fce64346de7eb5e4484b962711e3805fc8804dea9dd55ac8429b27a317998ff18dd2178182c432f801e3643b69480ef132919cb33f9ef1d80011937f2f06355ae8a4e191245ea77433977c62a9c501de00c7885fe12a57e945f0c7e3414de3824738c01880d444830ef5c34ef87b2b4981f6a98bb41d3cb361c489e6d3744648977e6d6ac677d12e2739dfa88544c48b3897b52a8ba0660e309bd16c9589b78faf9d8c49dc0af987ccd86c127132513dd114e2bb7dcb25d84fadcc3828480211fecd1b97d099161b4a7babac12941f12b2decba4da0d30c5295b79e072d65600239d603932b563a9d46c2cba270c842734b40d66d70cafee5e9acdbfca357b8daca013af50bee035858c45c30b1b560db4fe292d206d6dc0e263775d5acb57ebdecfa13a492fdfb7f5bca7773d1432035d1c8181b620c86ea1dbeebe6c35ae77d381bec7ce4ef0ae61894f303a0b/103/1920x1080_5058864/index.m3u8
 BBCEarthUK,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/4f4fa83d-b516-44fb-b501-1f1e1f575d97/0.m3u8
-SkyHistoryUK,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/16037/index.m3u8
+
 SkyDocumentariesUK,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/293976
-MagnoliaNetwork,http://cord-cutter.net:8080/96082340/96082340/10503
+
 CookingChannel,http://23.237.104.106:8080/USA_COOKING/index.m3u8
 OutdoorChannel,http://23.237.104.106:8080/USA_OUTDOOR/mpegts
 HSN,https://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn1usott/medhigh.m3u8
-CTVLifeChannelCA,http://cord-cutter.net:8080/96082340/96082340/116506
+
 FashionTVFR,https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 USANetwork,http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 MTV,http://23.237.104.106:8080/USA_MTV/index.m3u8
@@ -178,15 +182,10 @@ ViceTV,http://23.237.104.106:8080/USA_VICETV/index.m3u8
 BUZZR,https://buzzrota-web.amagi.tv/playlist.m3u8
 GameShowNetwork,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/10404
 AXSTV,http://23.239.31.26:8989/axstv/index.m3u8
-GlobalNewsTorontoCA,http://cord-cutter.net:8080/96082340/96082340/57435
-CBCVancouverCA,http://cord-cutter.net:8080/96082340/96082340/57391
-
 TheWeatherNetworkCA,https://amg01442-pelmorexcorp-theweathernetwork-lgca-f0v2i.amagi.tv/ts-us-e2-n1/playlist/amg01442-pelmorexcorp-theweathernetwork-lgca/cb553d1e7f6c678a93d43e61d4ef41a4da2427fc087a8d6933fb4b926bc10f41f8eda29ab30fb02b04940fa73f4e380d4d1a9a4ace0362d7b66aa9515b7d121b9d81a20a99d94e5cd58d5d5173f7651b52f91016d6354b59f1dd3724c97db9700e16a82e6b553982f449de2e109add5f947e2d8eb3dd7f39635a4ffc0c0bb4e207bcfae25a5bdb6ab3a54a1a9d7e41e6d341d4d61cead2c95a9f15876bf9409b92ed898214d0819635ac50b06051026317f7817d808759b3cc936a3c917023436c3a8ccea8da6b0aaf646663d5dee09a58a550a4e624857379ba10885c903f986ebf1bab933ecac380fe72710697f074530295d78cb7a14a59d067ffb1a7c8606c8bff027944d01fb6484703a5cef424b6ea23b7951ab8ee127753c19556d59ca293e1b1804fee49a0adcfb90d72714d252fa360f8db07b528d96be6cf03314a4856be935acaf4b6345d596eb6b061e236298af2a4ade25449a0071a5efb2ed55a111eab5e0947c900cda7661ce3400b812673f24847e628988305c59a819f6c50b4dad40cfc60fabb1ec0ef70c2075562219cc7026b7775408aad0c62317dd00be0d6dce8740c0de3f3c8f2b22352690233773aa2c1c24fb6a1e40c312b9b234c06751404d811d71bb96a2d3b1be82389ed631a84023263e2a22954596982d1a184f5b9a0298e5bf6f9d41a0a046d5a8d16387c2ab9da8c5dee765f7f685a851b6547cf733030d1a1e8d7bea55aefb85b8b144e3b54e0d42a1b7d381b620e88de6fd34ef0e175d3fdf17be8dfbf2f1ffb56cf00148d9ede79f6e98dc2460be2c43d755cb6e317fa5118e933f80eb5880db2dc54020f72444dd48757fa56bdadf7ad40a10888792a5dcf4792b8dee9ad0c3de695597d3a0f54036642735e60d2b0ee4d265ad3881ed678dbb116c32d55372c09d986104c85e7790f993b6a12d5caa5b08aee3322f54ddb5bfa452d926a575c8bab39ee90fcfafc861d336abc8d826a9a9cd2f9a6bbcb226d45683f95ce4b4672d42a82eb6d84963952dcb4b9e5b016fff449a8d9fed41bd77ecdfeb207ba9599bec863164a5f448eb99d983afaccc7c12619a12003178e9eecb444f6dfae0e7beb2780cf673ce856f63ab8283eff6c6b38c419537fb4ea9c2e600a61aa900711cd36ae233332d2c5886d3ac8cc35422cf180da0056850412e5080b2ffc3cb2aabe6a66efa81c1359b64b2e826381c499715871eebd5565124d5d45368015637bad7e4bb50abee1d5b46a0b8715c55a6ce837fc9417ef8924dadee8bfeee9316ea2b72b13f104e842f900c6cb80f53deb0235ff26c15432e88f9ccdc9eac6a5c6904b094fd817cd7ba71cfee99ad14d746d2b8e306a1f17ab6784616f749bcb52c6a23f09a7ceed0fc67c39660a063fc21cfed155677663b1a41ab9d879697d6320e2a154e1f3d5f0cc38fa11be2c62b4dd46123a594b5558e06e0921/26/1920x1080_8048040/index.m3u8
 ProSiebenDE,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/302225
 MTVLive,http://bgdc.live:25461/live/catrinamcdermott/catrinamcdermott/31498.m3u8
 VH1,http://23.237.104.106:8080/USA_VH1/index.m3u8
-VevoRock,https://d2hdqrshyzxswl.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/d3e90c9b-f738-4126-9e26-b4cdb23652b6/3.m3u8
-Vevo2010s,https://d3j50s1rkjmwi9.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gf1xb1p6khqzd/b513f7a2-f160-4bd4-9c12-562c5e3faa2c/3.m3u8
 XITE80sFlashback,https://d1n314cytqn9r3.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/546a529d-394a-4513-bb13-af14dbfbefaf/3.m3u8
 XITE90sThrowback,https://d284aawtm5vi48.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/4aa6988f-4506-421c-8687-42c4b2105ad0/3.m3u8
 XITEChristianHits,https://jmp2.uk/stvp-US46000072L
@@ -226,37 +225,12 @@ Stories by AMC,https://d3pxo1qcgzxtxs.cloudfront.net/manifest/3fec3e5cac39a52b21
 Universal Action,https://d4whmvwm0rdvi.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-nbcu-linear/14c3da40-a4a0-4788-bd7d-210fbed221dd/4.m3u8
 Outdoor Channel,http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
 BBC Earth,https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/91f66dd6-f06c-4386-8452-5befcbd4c77f/0.m3u8
-┃SA┃ GINX ESPORTS TV,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958106&extension=ts&play_token=2yPAHCfiJMhttp://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958047&extension=ts&play_token=NkIbyJpHi6
-┃SA┃ AL JAZEERA,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958046&extension=ts&play_token=cHTTCEoX6J
-┃SA┃M-NET EAST,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958047&extension=ts&play_token=NkIbyJpHi6
-┃SA┃ AFRICANEWS,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958103&extension=ts&play_token=F1yUqu2cn7
-┃SA┃ DISNEY CHANNEL,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958080&extension=ts&play_token=mu2NatTVRA
-┃SA┃ NATIONAL GEOGRAPHIC WILD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958040&extension=ts&play_token=1k6KE9EZq1
-┃SA┃ TLC ENTERTAINMENT,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958035&extension=ts&play_token=3PVYMYJN9r
-┃SA┃ WWE CHANNEL,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958034&extension=ts&play_token=OGtKuowBTg
-┃SA┃ ZEE WORLD,http://line.mag7070.eu:80/play/live.php?mac=00:1B:79:48:5A:84&stream=958072&extension=ts&play_token=ncrG7AwIkN
-GAORA,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=4
+
 GCN教会,http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 gsws hd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gswshd
-Gusto TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotv-hls-sooka/playlist.m3u8
 hbwshd,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=hbwshd
-HISTORY,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=4
-CJ OnStyle (540p),https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-CJB,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-CNN,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16&isp=4
-CPBC,http://onair1.cpbc.co.kr:1935/tv/smil:live.smil/playlist.m3u8
-Discovery,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=4
-DiscoveryChannelJapan,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08&isp=6
-Disney Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=6
-Disney Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24&isp=4
-Disney Channel (CS),http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=4
-KIDS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
 nxss,http://63.141.230.178:82/gslb/zbdq5.m3u8?id=nxss
-Outdoor Channel (1080p),https://amg00718-outdoorchannela-outdoortv-samsungau-uc7mp.amagi.tv/playlist/amg00718-outdoorchannela-outdoortv-samsungau/playlist.m3u8
 Pet Club TV,https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-astro-ssai-sooka/playlist.m3u8
-
-Star Channel,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=4
-Star Channel 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=6
 UK:5 STAR,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/246.ts
 UK:5 USA (select),http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/247.ts
 UK: 4seven,http://163.172.64.96:2017/live/GBa19qrcQYa3/u2c8FLfgkK/248.ts
@@ -940,7 +914,6 @@ AFRICA 24,https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 AFRICA 24 FR,https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 ICI MONTREAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8 
-
 Montreal Greek TV,http://live.greektv.ca/hls1/greektv.m3u8
 VOSGES TV,https://vosgestv.live-kd.com/live/vosgestv/vosgestv/playlist.m3u8
 TV5MONDE INFO,https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
@@ -955,7 +928,6 @@ BFM 2 (backup),https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9
 BFM BUSINESS ,https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
 BFM BUSINESS,https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_BUSINESS/index.m3u8?end=END&start=LIVE
 LE FIGARO IDF,https://static.lefigaro.fr/secom/tnt.m3u8
-RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 LE MÉDIA TV (backup),https://raw.githubusercontent.com/BG47510/tube/main/lemedia.m3u8
 LE FIGARO IDF (backup),https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
 GÉNÉRATIONS TV,https://edge11.vedge.infomaniak.com/livecast/ik:generation-tv/manifest.m3u8
@@ -965,9 +937,7 @@ PUISSANCE TÉLÉVISION,https://edge13.vedge.infomaniak.com/livecast/ik:puissance
 CANNES LÉRINS TV,https://vdo2.pro-fhi.net:3628/live/uppodsfqlive.m3u8
 BRIONNAIS TV,https://stream2.mandarine.media/brionnaistv/brionnaistv/playlist.m3u8
 BRIONNAIS TV,https://stream2.mandarine.media/brionnais_tv/brionnais_tv/playlist.m3u8
-ASTV,https://github.com/Sibprod/streams/raw/main/ressources/twitch/hls/ASTV.m3u8
 MADRAS FM TV,https://edge17.vedge.infomaniak.com/livecast/ik:madrasfmtv/manifest.m3u8
-TNTV,https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 ETV GUADELOUPE,https://edge15.vedge.infomaniak.com/livecast/ik:etvgp/manifest.m3u8
 TV MONACO,https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
 BEL RTL,https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8
@@ -976,35 +946,21 @@ CARAC 1,http://event.vedge.infomaniak.com/livecast/event/manifest.m3u8
 CARAC 2,https://onefmhd.vedge.infomaniak.com/livecast/onefmhd/master.m3u8
 CARAC 3,https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/master.m3u8
 TVM 3,https://edge11.vedge.infomaniak.com/livecast/ik:tvm3/manifest.m3u8
-CANAL 9,https://edge12.vedge.infomaniak.com/livecast/ik:livehd/manifest.m3u8
 ICI MONTRÉAL,https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
 RTP I,https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
 RTP 3,https://streaming-live.rtp.pt/liverepeater/rtpnHD.smil/playlist.m3u8
-CNN PORTUGAL,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/cnnpt.m3u8
 SIC NOTÍCIAS,https://cdnapisec.kaltura.com/p/4526593/sp/4526593/playManifest/entryId/1_j8ztwihx/deliveryProfileId/672/protocol/https/format/applehttp/a.m3u8
-SIC,https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index.m3u8
-TVI,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
-TVI INT,https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tviint.m3u8
-TVI V+,https://video-auth2.iol.pt/live_vmais/live_vmais/edge_servers/vmais-720p/playlist.m3u8
-TVI REALITY,https://video-auth4.iol.pt/live_tvi_reality/live_tvi_reality/edge_servers/tvireality-720_passthrough/playlist.m3u8
 SIC REPLAY,https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8
 SIC HD ALTA DEFINIÇÃO,https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
-TVI AFRICA,https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
 RTP AFRICA,https://streaming-live.rtp.pt/liverepeater/rtpafrica.smil/playlist.m3u8
 RTP ACORES,https://streaming-live.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
-RTP MADEIRA,https://streaming-live.rtp.pt/liverepeater/rtpmadeira.smil/playlist.m3u8
-RTP MEMORIA,https://streaming-live.rtp.pt/liverepeater/rtpmem.smil/playlist.m3u8
 KURIAKOS CINE,https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
 KURIAKOS KIDS,https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
-TRACE BRAZUCA,https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-brazuca/encrypted.m3u8
 RTP 3 (backup sd),https://streaming-live.rtp.pt/liverepeater/rtpn.smil/playlist.m3u8
 RTP 3 (tvhlsdvr),https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
 RTP 3 (tvhlsdvr_HD),https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8
 RTP ACORES (backup),https://streaming-live.rtp.pt/liverepeater/rtpacoresHD.smil/chunklist_b640000_slpor.m3u8
-
-TVI V+ (ex-TVI FICCAO),https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8
 SOL MÙSICA,https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
-PEQUE TV,https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 VIVE KANAL D DRAMA,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 VIVE KANAL D DRAMA,https://amg01602-themahqfrance-vivekanald-samsungspain-uu2zn.amagi.tv/playlist/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 TRACE LATINA,https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinaes-samsungspain/playlist.m3u8
@@ -1017,10 +973,10 @@ SUR 1 ANDALUCÍA,https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199
 SUR 1 ANDALUCÍA,https://live-24-canalsur.interactvty.pro/9bb0f4edcb8946e79f5017ddca6c02b0/26af5488cda642ed2eddd27a6328c93b9c03e9181b9d0a825147a7d978e69202.m3u8
 SUR 2 ANDALUCÍA,https://cdnlive.codev8.net/rtvalive/channel22.smil/playlist.m3u8
 SUR NOTICIAS ANDALUCÍA,https://cdnlive.codev8.net/rtvalive/smil:channel42.smil/playlist.m3u8
-CINE ANDALUCÍA,https://cdnlive.codev8.net/rtvalive/smil:channel24.smil/playlist.m3u8
+
 ARAGÓN TV,https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 24 H CANARIAS,https://ztnr.rtve.es/ztnr/5473142.m3u8
-TV CATALUNYA 24H,https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8
+
 TELE MADRID INT,https://new-international-23-secure2.akamaized.net/index.m3u8
 TELE MADRID OTRA,https://laotra-1-23-secure2.akamaized.net/master.m3u8
 TVG GALICIA EU,https://crtvg-europa.flumotion.cloud/playlist.m3u8
@@ -1028,11 +984,10 @@ TVG GALICIA AM,https://crtvg-america.flumotion.cloud/playlist.m3u8
 EITB 1,https://multimedia.eitb.eus/live-content/etb1hd-hls/master.m3u8
 EITB 2,https://multimedia.eitb.eus/live-content/etb2hd-hls/master.m3u8
 EITB INT,https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-EITB DEPORTE,https://multimedia.eitb.eus/live-content/oka3hd-hls/master.m3u8
-TV RIOJA,https://5924d3ad0efcf.streamlock.net/riojatv/riojatvlive/playlist.m3u8
+CNN EN ESPAÑOL ,https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
 DW ESPAÑOL,https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 PRESS HISPAN TV,https://live.presstv.ir/hls/hispantv.m3u8
-CNN EN ESPAÑOL ,https://amg00803-amg00803c3-rakuten-us-5347.playouts.now.amagi.tv/playlist/amg00803-cnnfastinternational-cnnesponal-rakutenus/playlist.m3u8
+
 RT ESPAÑOL,https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 RT ESPAÑOL,https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 TVE INTERNACIONAL (america),https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_ame_main_dvr_1080.m3u8
