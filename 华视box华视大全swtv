@@ -28,9 +28,12 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-fox Business,http://206.212.244.63/66/index.m3u8
-FOX NEWS CHANNEL,http://206.212.244.63/67/index.m3u8
+fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
+fox Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
+fox Business,http://lunar.pm:8080/live/kita/Twin/9328.ts
 
+FOX NEWS CHANNEL,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+FOX NEWS CHANNEL,http://206.212.244.63/67/index.m3u8
 Fox-news channel,http://91.218.50.136:80/negrobussula/032998177444/10838
 FOX NEWS NOW,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
@@ -442,7 +445,7 @@ astroaodtv,http://rihou.cc:555/tv/[Pd]astroaod
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8
 大湾区卫视 2,http://www.maomizi.cn:9527/udp/239.77.0.215:5146
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
-大湾区卫视 3,http://plex.cyruslee.top:8888/udp/239.77.0.215:5146
+大湾区卫视 3,http://192.151.150.154/live/nfws.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
@@ -516,6 +519,29 @@ KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/playlist.m3u8
 美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
 美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/playlist.m3u8
 
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台2,http://r.jdshipin.com/qrfbg
+无线新闻,http://r.jdshipin.com/CkuBd
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://r.jdshipin.com/sXuuD
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,http://r.jdshipin.com/TcKr2
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+澳视澳门,http://r.jdshipin.com/n2YZI
+HOY77,http://r.jdshipin.com/sFw4S
+澳视卫星,http://r.jdshipin.com/QFhCq
+广东珠江,http://r.jdshipin.com/sE5vO
+广东体育,http://r.jdshipin.com/LiYdg
+广州综合,http://r.jdshipin.com/iR6Gq
+广州南国都市,http://r.jdshipin.com/nWaZO
+广州综合,http://r.jdshipin.com/snhya
+海峡卫视,http://r.jdshipin.com/WtYt3
 
 
 SW-SPORT体育 ,#genre#
@@ -691,7 +717,7 @@ CGTN Documentary,https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.
 大湾区卫视 2,http://www.maomizi.cn:9527/udp/239.77.0.215:5146
 大湾区卫视 2,https://hc9lby9bzw8zcar.wcetv.com/hls/wcetv318.m3u8
 大湾区卫视 2,http://192.151.150.154/live/nfws.m3u8
-大湾区卫视 3,http://plex.cyruslee.top:8888/udp/239.77.0.215:5146
+大湾区卫视 3,http://192.151.150.154/live/nfws.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
 广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
@@ -1460,4 +1486,5 @@ DW NEWS,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
 TVP poland,https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 TVN poland,https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+
 
