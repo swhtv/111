@@ -272,9 +272,10 @@ TSC ,https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 The Shopping Channel ,http://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/master.m3u8
 CGTN news,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CCTV-4 America,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-凤凰資詢,http://rihou.cc:555/tv/[Pd]凤凰资讯
-鳳凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-鳳凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+凤凰資詢,http://r.jdshipin.com/0Rp07
+鳳凰中文,http://r.jdshipin.com/cCCzW
+鳳凰香港,http://r.jdshipin.com/yDoTN
+
 CGTN英語,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -336,26 +337,33 @@ SW-TV港台,#genre#
 
 TVB 新 聞,https://cdn6.cc.cd/163189/wxxw
 無綫 新聞台,http://cdn6.123.rr.kg/163189/wxxw
-TVB無綫 新聞,http://rihou.cc:555/tv/[Pd]无线新闻
+TVB無綫 新聞,http://r.jdshipin.com/CkuBd
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠 台,http://everydaytv.top/live/ggiptv/jade/playlist.m3u8
 翡 翠 台,https://10.fast.hidns.vip/163189/fct/
-翡翠台,http://111.221.137.203:4455/tsfile/live/1008_1.m3u8
-翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
+翡翠台,http://r.jdshipin.com/62WM7
+翡翠台2,http://r.jdshipin.com/qrfbg
 翡翠台 HD,https://cdn6.cc.cd/163189/fct
 600国际新闻台,https://live.xinflix.com/Lshape/tracks-v1a1/mono.m3u8
-HOY资讯台,http://rihou.cc:555/tv/[Pd]有线新闻
+
 HOY TV,https://cdn6.cc.cd/163189/hoy
 有綫新聞,http://rihou.cc:555/tv/[Pd]有线新闻
 Now 新闻台,https://cdn.123.rr.kg/163189/now
 Now 新闻台,http://www.kaniptv.cn/uadl.php?etoken=O7GBbnRGS8E5uqFmeA%2FpP9pZDUEBbOoltluzysQAUOkT%2BhwMgy6MU75MO4AruwnS235INLwQddWjtZBrZQWLn9b4LPgOw9QOsQs0GRI%2F92MR2ttOBfJnbowWCIb6PEM2vBUsMgNz6wryek3GN9z9VENRf6K2qOGycU3zE0LqeJ5i9U7q0VTXq6ypTcB%2BX0wy%2FF6ykpJz%2BgM4yyo5YyCDh7AjNli8CofYp7Djy9MBTvVq9BTu8KmoYmRhH%2Bf1ltF2XOTHepCtClG1Ux%2Bt8VNCxkhI8GgLw8SVhzvzBo9mJVjLm1ABJPOCT4rh5JfCgcsgh8UbskKhcRgKSluTMQm8oA%3D%3D
-Now新闻,http://rihou.cc:555/tv/[Cx]Now新闻
-Now新闻,http://rihou.cc:555/tv/[Hk]Now新闻
-Now新闻,http://rihou.cc:555/tv/[Mt]Now新闻
-TVB PLUS,http://rihou.cc:555/tv/[Pd]Plus综合
-凤凰資詢,http://rihou.cc:555/tv/[Pd]凤凰资讯
-鳳凰中文,http://rihou.cc:555/tv/[Pd]凤凰中文
-鳳凰香港,http://rihou.cc:555/tv/[Pd]凤凰香港
+明珠台,http://r.jdshipin.com/ZQ4kN
+TVB Plus,http://r.jdshipin.com/ndGgS
+TVB Plus,http://r.jdshipin.com/Nr5jq
+TVB星河,http://r.jdshipin.com/Voac4
+TVB星河,http://r.jdshipin.com/sXuuD
+华丽翡翠台,http://r.jdshipin.com/thuYX
+ViuTV,http://r.jdshipin.com/vSJvl
+ViuTV,http://r.jdshipin.com/TcKr2
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰资讯,http://r.jdshipin.com/0Rp07
+凤凰香港,http://r.jdshipin.com/yDoTN
+澳视澳门,http://r.jdshipin.com/n2YZI
+HOY77,http://r.jdshipin.com/sFw4S
+澳视卫星,http://r.jdshipin.com/QFhCq
 凤凰 中文,https://cdn6.cc.cd/163189/fhzw
 凤凰 香港,https://cdn6.cc.cd/163189/fhhk
 凤凰 资讯,https://cdn6.cc.cd/163189/fhzx
@@ -397,35 +405,7 @@ TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 重温经典,https://cdn6.cc.cd/163189/cwjd
 澳门莲花,https://cdn6.cc.cd/163189/amlh
 
-Plus综合Pdtv,http://rihou.cc:555/tv/[Pd]Plus综合
-有线综合tv,http://rihou.cc:555/tv/[Pd]有线综合
-无线翡翠tv,http://rihou.cc:555/tv/[Pd]无线翡翠
-无线翡翠4Ktv,http://rihou.cc:555/tv/[Pd]无线翡4K
-无线华丽tv,http://rihou.cc:555/tv/[Pd]无线华丽
-无线明珠tv,http://rihou.cc:555/tv/[Pd]无线明珠
-无线翡剧tv,http://rihou.cc:555/tv/[Pd]无线翡剧
-无线娱乐tv,http://rihou.cc:555/tv/[Pd]无线娱乐|
-无线娱乐tv,http://rihou.cc:555/tv/[Pd]无线娱乐
-无线星河tv,http://rihou.cc:555/tv/[Pd]无线星河
-无线经典tv,http://rihou.cc:555/tv/[Pd]无线经典
-无线功夫tv,http://rihou.cc:555/tv/[Pd]无线功夫
-澳视澳门tv,http://rihou.cc:555/tv/[Pd]澳视澳门
-澳视卫星tv,http://rihou.cc:555/tv/[Pd]澳视卫星
-澳门体育tv,http://rihou.cc:555/tv/[Pd]澳门体育
-澳门综艺tv,http://rihou.cc:555/tv/[Pd]澳门综艺
-澳门莲花tv,http://rihou.cc:555/tv/[Pd]澳门莲花
-央视综合tv,http://rihou.cc:555/tv/[Pd]央视综合
-重温经典tv,http://rihou.cc:555/tv/[Pd]重温经典
-龙华电影tv,http://rihou.cc:555/tv/[Pd]龙华电影
-龙华经典tv,http://rihou.cc:555/tv/[Pd]龙华经典
-龙华偶像tv,http://rihou.cc:555/tv/[Pd]龙华偶像
-龙华日韩tv,http://rihou.cc:555/tv/[Pd]龙华日韩
-龙华戏剧tv,http://rihou.cc:555/tv/[Pd]龙华戏剧
-八度空间tv,http://rihou.cc:555/tv/[Pd]八度空间
-CHU综合tv,http://rihou.cc:555/tv/[Pd]CHU综合
-CH5综合tv,http://rihou.cc:555/tv/[Pd]CH5综合
-CH8综合tv,http://rihou.cc:555/tv/[Pd]CH8综合
-astroaodtv,http://rihou.cc:555/tv/[Pd]astroaod
+
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 邵氏动作,http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
@@ -448,9 +428,13 @@ astroaodtv,http://rihou.cc:555/tv/[Pd]astroaod
 大湾区卫视 3,http://192.151.150.154/live/nfws.m3u8
 广州新闻,https://tencentplaygsm.gztv.com/live/xinwen.m3u8
 广州新闻,https://tencentplaygzrb01.gztv.com/live/xinwen.m3u8
-广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
-广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
-广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
+广东珠江,http://r.jdshipin.com/sE5vO
+广东体育,http://r.jdshipin.com/LiYdg
+广州综合,http://r.jdshipin.com/iR6Gq
+广州南国都市,http://r.jdshipin.com/nWaZO
+广州综合,http://r.jdshipin.com/snhya
+海峡卫视,http://r.jdshipin.com/WtYt3
+
 民视频道,rtmp://f13h.mine.nu/sat/tv051
 台视频道,rtmp://f13h.mine.nu/sat/tv071
 中视频道,rtmp://f13h.mine.nu/sat/tv091
@@ -519,29 +503,10 @@ KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/playlist.m3u8
 美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/chunklist1.m3u8
 美國城市衛視,http://38.64.72.148:80/hls/modn/list/4028/playlist.m3u8
 
-翡翠台,http://r.jdshipin.com/62WM7
-翡翠台2,http://r.jdshipin.com/qrfbg
-无线新闻,http://r.jdshipin.com/CkuBd
-明珠台,http://r.jdshipin.com/ZQ4kN
-TVB Plus,http://r.jdshipin.com/ndGgS
-TVB Plus,http://r.jdshipin.com/Nr5jq
-TVB星河,http://r.jdshipin.com/Voac4
-TVB星河,http://r.jdshipin.com/sXuuD
-华丽翡翠台,http://r.jdshipin.com/thuYX
-ViuTV,http://r.jdshipin.com/vSJvl
-ViuTV,http://r.jdshipin.com/TcKr2
-凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰资讯,http://r.jdshipin.com/0Rp07
-凤凰香港,http://r.jdshipin.com/yDoTN
-澳视澳门,http://r.jdshipin.com/n2YZI
-HOY77,http://r.jdshipin.com/sFw4S
-澳视卫星,http://r.jdshipin.com/QFhCq
-广东珠江,http://r.jdshipin.com/sE5vO
-广东体育,http://r.jdshipin.com/LiYdg
-广州综合,http://r.jdshipin.com/iR6Gq
-广州南国都市,http://r.jdshipin.com/nWaZO
-广州综合,http://r.jdshipin.com/snhya
-海峡卫视,http://r.jdshipin.com/WtYt3
+
+
+
+
 
 
 SW-SPORT体育 ,#genre#
@@ -1486,5 +1451,4 @@ DW NEWS,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
 TVP poland,https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 TVN poland,https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
-
 
