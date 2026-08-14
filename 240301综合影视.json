@@ -49,22 +49,7 @@
             "api": "csp_Jpys",
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
-{
-            "key": "橙子99",
-            "name": "🍊橙子〡華哥",
-            "type": 3,
-            "api": "csp_App99",
-            "ext": {
-                "host": "http://113.31.180.218:19987/app/bn",
-                "LoginPath": "/app/log",
-                "appkey": "6e8f3764a0644f3686ab5cdd57bcdf48",
-                "versionName": "4.3.1",
-                "name": "橙子〡華哥",
-                "package": "com.xchengzix.app",
-                "buildNumber": "2001",
-                "buildSignature": "99DA983CF878CEC016616175464A91A94775E20A489F07F76FCDEA1A0F2B6B45"
-            }
-        },
+
 		
  {"key":"魔都 资源","name":"魔都｜SW采集","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","categories":["短剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","动作片","动漫电影","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","记录片","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","里番动漫"]},
 
@@ -145,42 +130,7 @@
             },
             "changeable": 1
         }, 
-{
-      "key": "yfsp",
-      "name": "華哥 AYF",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "style": {"type": "rect", "ratio": 0.75},
-      "jar": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/Jar/GM.jar",
-      "api": "csp_GM",
-      "ext": {
-        "userScript": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/ysfp.user.js",
-        "debug": false,
-        "webViewSettings": {
-          "blockNetworkImage": true,
-          "blockList": [
-            "*.png*",
-            "*.mp3*",
-            "*.css*",
-            "https://*.googletagmanager.com/*",
-            "https://*.google-analytics.com/*"
-          ]
-        },
-        "spider": {
-          "homeContent": {"loadUrl": "https://m.yfsp.tv/"},
-          "categoryContent": {
-            "loadUrl": "https://m.yfsp.tv/list/${tid}?type=${index-0:-0}${index-1:-,0}${index-2:-,0}${index-3:-,0}${index-4:-,0}${index-5:-}"
-          },
-          "detailContent": {"loadUrl": "https://m.yfsp.tv/play/${id}"},
-          "playerContent": {
-            "loadUrl": "https://m.yfsp.tv/play/${mediaKey}?id=${episodeKey}"
-          },
-          "searchContent": {"loadUrl": "https://m.yfsp.tv/search"}
-        }
-      }
-    },
+
  {
             "key": "永 乐",
             "name": "🧿永乐｜華哥",
@@ -310,8 +260,47 @@
          
 {"key": "火狐","name": "🐬火狐SW","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"quickSearch": 0,"filterable": 1,"categories": [  "内地剧",  "动作片",  "科幻片",  "战争片",  "喜剧片",  "爱情片",  "恐怖片",  "犯罪片",  "剧情片",  "冒险片",  "记录片",  "韩剧",  "香港剧",  "台湾剧",  "欧美剧",  "日剧",  "马泰剧",  "体育赛事",  "综艺",  "动画片",  "中国动漫",  "日本动漫",  "欧美动漫"]
 },		
-	{ "key": "GimyTV", "name": "剧迷 | SW影视", "type": 3, "api": "csp_XBPQ", "searchable": 1, "quickSearch": 1, "filterable": 1, "timeout": 60, "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/XBPQ/gimyTV.json" },
- {"key":"魔都资源","name":"魔都｜SW采集","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","categories":["短剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","动作片","动漫电影","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","记录片","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","里番动漫"]},
+ {
+            "key": "无尽 资 源",
+            "name": "SW華 无尽",
+            "type": 1,
+            "api": "https://api.wujinapi.me/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "categories": [
+                "国产剧",
+                "香港剧",
+                "台湾剧",
+                "美国剧",
+                "纪录片",
+                "韩国剧",
+                "日本剧",
+                "海外剧",
+                "动作片",
+                "邵氏电影",
+                "喜剧片",
+                "爱情片",
+                "科幻片",
+                "恐怖片",
+                "剧情片",
+                "战争片",
+                "大陆综艺",
+                "日韩综艺",
+                "港台综艺",
+                "欧梅综艺",
+                "国产动漫",
+                "日韩动漫",
+                "欧梅动漫",
+                "悬疑片",
+                "动画片",
+                "犯罪片",
+                "奇幻片",
+                "泰剧",
+                "足球",
+                "篮球"
+            ]
+        },
+		{"key":"魔都资源","name":"魔都｜SW采集","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","categories":["短剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","动作片","动漫电影","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","记录片","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","里番动漫"]},
 
 {
       "key":"天堂资源网",
@@ -350,8 +339,8 @@
 		
 
 { 
-              "key": "華哥lf_js_search", 
-         "name": "搜索|lf_search", 
+              "key": "華哥_search", 
+         "name": "華哥_search", 
          "type": 3, 
          "searchable": 0, 
          "changeable": 1, 
@@ -379,21 +368,7 @@
     
  {"key": "csp_XYQHiker_骚火电影VIP","name": "骚火电影┃華哥","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"},
 
-     {
-            "key": "灵虎",
-            "name": "灵虎 華哥",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "",
-                "site": "https://bind.315999.xyz/89.txt",
-                "dataKey": "#getapp@TMD@2025",
-                "dataIv": "#getapp@TMD@2025",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
+    
 
  
    
@@ -406,40 +381,6 @@
             "quickSearch": 1,
             "filterable": 1
         },
-
- {
-            "key": "电影港",
-            "name": "🎃电影｜華哥磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E7%94%B5%E5%BD%B1%E6%B8%AF.json"
-        },
-
-
-      
-        {
-            "key": "农 民",
-            "name": "🧿农民｜華哥",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E5%85%BB%E7%94%9F%E5%A0%82.jar",
-            "ext": {
-                "副标题": "華哥专属",
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://vip.wwgz.cn:5200/;;!H"
-            }
-        },
-       
-
-    
-    
-      
-        
-
 
  {
             "key": "华谊",
@@ -485,36 +426,6 @@
         },
 
 
- {
-            "key": "橘汁",
-            "name": "🍹橘汁｜華哥",
-            "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	  "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
-            "ext": {
-                "appName": "橘汁",
-                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-                "dataKey": "RTRTUJZWWMO0ZWV6EFBOSURNCTK4PQ==",
-                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "pkg": "com.tjjiangh.android",
-                "host": "",
-                "site": "https://vip.123pan.cn/1848463092/cct/az5.txt",
-                "version": "3.0.1.9",
-                "decrypt": "1"
-            }
-        },
-
-  {
-            "key": "三秋影视",
-            "name": "📚三秋｜華哥",
-            "type": 3,
-            "api": "csp_App3Q",
-	   "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar"
-        },		
- 
  
  {
             "key": "猎豹",
@@ -551,7 +462,7 @@
 	    
 		{
      	 "key": "lf_js_search",
-         "name": "搜索|lf_search",
+         "name": "華哥  _search",
          "type": 3,
          "searchable": 0,
          "changeable": 1,
@@ -613,13 +524,6 @@
 {"key":"夜貓_drpy_xb","name":"SW小宝","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
 
 
- {
-            "key": "永乐 影视",
-            "name": "永乐｜影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json"
-        },
 
 	    
  {
