@@ -43,25 +43,29 @@
   ],
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
-  {
-            "key": "金牌 影视",
-            "name": "☀金牌 華哥",
-            "type": 3,
- "jar": "https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
-            "api": "csp_Jpys",
-            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
-        },
+ 
 
 {
-      "key": "文才",
-      "name": "華哥wc影视",
+      "key": "wc金牌 影视",
+      "name": "☀金牌 華哥",
       "type": 3,
       "api": "csp_WenCai",
       "searchable": 1,
       "filterable": 1,
       "changeable": 1,
       "ext": "https://www.tjrongze.com,https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.jiabaide.cn"
-    },		
+    },	
+
+ {
+            "key": "金 牌 影视",
+            "name": "☀ 金牌 華哥",
+            "type": 3,
+ "jar": "https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
+            "api": "csp_Jpys",
+            "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
+
+		
  {"key":"魔都 资源","name":"魔都｜SW采集","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","categories":["短剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","动作片","动漫电影","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","记录片","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","里番动漫"]},
 
  
