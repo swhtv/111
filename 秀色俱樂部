@@ -122,19 +122,7 @@
             }
         }, 
         
-      
-        {
-            "key": "精工厂",
-            "name": "?Aries|精工厂?",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/精工厂.json"
-        },
+    
        
      
         {
@@ -151,19 +139,7 @@
         },
       
      
-        {
-            "key": "高端外泄",
-            "name": "?Aries|高端外泄?",
-            "type": 3,
-            "playerType": 2,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/xyqxbpq.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/高端外泄.json"
-        },
-    
+      
     
     
        
@@ -236,46 +212,9 @@
             }
         },
       
-        {
-            "key": "小姨子",
-            "name": "小姨子",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "链接": "href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]",
-                "分类url": "https://thchp.top/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z",
-                "分类": "国产视频$1#日制服诱惑$6#中文字幕$2#网曝黑料$7#色国产主播$3#日本无码$8#激情动漫$4#伦理三级$5#国产传媒$13#抖阴视频$14#强奸伦理$15#欧美无码$9#韩国主播$16#少女萝莉$10#SM调教$11#网红头条$12"
-            }
-        },
+     
       
-        {
-            "key": "快递??",
-            "name": "快递??",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/XBPQ.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "主页url": "https://www.xjjkdfw.sbs/",
-                "数组": "thumbnail-group clearfix&&</li",
-                "标题": ">&&<",
-                "图片": "original=\"&&\"",
-                "链接": "href=\"&&\"[替换:voddetail>>vodplay#.html>>-1-1.html]",
-                "分类url": "https://www.xjjkdfw.sbs/vodtype/{cateId}/page/{catePg}.html",
-                "分类二次截取": "<div class=\"area\">&&</div",
-                "分类数组": "<a&&/a>",
-                "分类标题": ">&&<",
-                "分类ID": "/vodtype/&&.html"
-            }
-        },
+      
         
         {
             "key": "csp_XYQHiker_bad",
@@ -291,34 +230,8 @@
                 "ratio": 1.8
             }
         },
-        {
-            "key": "csp_XYQHiker_bad搜索1",
-            "name": "??Bad.news搜索AV(XYQHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/bad搜索1.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.8
-            }
-        },
-        {
-            "key": "csp_XYQHiker_52av论坛",
-            "name": "??52av论坛(XYQHiker)",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/52av2.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.8
-            }
-        },
+       
+      
         {
             "key": "JAVDAYTV",
             "name": "??JAVDAYTV(XYQHiker)",
@@ -376,21 +289,7 @@
                 "ratio": 1.6
             }
         },
-        {
-            "key": "csp_XYQHiker_missav.app",
-            "name": "??MissAV.app",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/missav.app.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-      
+       
        
         {
             "key": "csp_XYQHiker_91porn_asia",
@@ -441,24 +340,7 @@
             }
         },
        
-      
-    
    
-        {
-            "key": "麦田",
-            "name": "秘?麦田",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/XBPQ.jar",
-            "searchable": 1,
-            "style": {
-                "ratio": 1.43
-            },
-            "quickSearch": 1,
-            "filterable": 1,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/麦田.json"
-        },
-       
         
         
      
@@ -488,48 +370,9 @@
                 "搜索url": "https://6180130.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html"
             }
         },
-        {
-            "key": "花都影视",
-            "name": "花都影视??",
-            "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/XBPQ.jar",
-            "api": "csp_XBPQ",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://cn.huaduys.org/;;!",
-                "简介": "??凯少爷??水印广告勿信，谨防诈骗??"
-            }
-        },
        
-        {
-            "key": "游击队",
-            "name": "游击队",
-            "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/XBPQ.jar",
-            "api": "csp_XBPQ",
-            "ext": {
-                "分类url": "https://bledwh.qsyjd8.yachts/cn/home/web/index.php/vod/type/{area}/id/{cateId}/page/{catePg}/{year}.html",
-                "分类": "最近更新$19#亚洲情色$20#制服师生$21#卡通动漫$22#三级伦理$23#强奸乱伦$24#偷拍自拍$25#中文字幕$26#欧美性爱$27#人妻熟女$28#无码专区$29#"
-            }
-        },
        
-   
-        {
-            "key": "csp_XYQHiker_av6k",
-            "name": "??JAV6K",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/av6k.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        
+     
         {
             "key": "csp_XYQHiker_javtsunami",
             "name": "??javtsunami",
@@ -919,24 +762,6 @@
 
 
 
-
-
-
-
- {
-            "key": "csp_XYQHiker_丽丽AV",
-            "name": "🔞丽丽AV",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/丽丽av.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
   {
             "key": "csp_XYQHiker_杏吧",
             "name": "🔞杏吧",
@@ -966,20 +791,7 @@
             }
         },
    
- {
-            "key": "csp_XYQHiker_日日撸",
-            "name": "🔞日日撸",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/日日撸.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
+
         {
             "key": "csp_XYQHiker_台湾kiss",
             "name": "🔞台湾kiss",
@@ -1146,34 +958,7 @@
                 "ratio": 1.6
             }
         },
- {
-            "key": "csp_XYQHiker_av6k",
-            "name": "🔞JAV6K",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/av6k.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "csp_XYQHiker_javffm",
-            "name": "🔞JAVFFM",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/javffm.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
+
         {
             "key": "csp_XYQHiker_javtsunami",
             "name": "🔞javtsunami",
@@ -1204,15 +989,7 @@
             }
         },       
      
-{
-            "key": "黄H仓库|AV",
-            "name": "🦄黄H仓库(旧)｜🔞",
-            "type": 1,
-            "api": "https://hsckzy.vip/api.php/provide/vod/",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 0
-        },
+
         {
             "key": "桃花资源|AV",
             "name": "🦄桃花资源｜🔞",
@@ -1258,16 +1035,7 @@
             "changeable": 1
         } ,
      
-        
-{
-      "key": "hav ",
-      "name": "黄艾薇 ",
-      "type": 0,
-      "api": "https://www.pgxdy.com/api/xml.php ",
-      "searchable": 1,
-      "changeable": 1
-    },
-    
+
 
         {
             "key": "8002", 
@@ -1309,16 +1077,7 @@
             "quickSearch": 1, 
             "filterable": 1
         }, 
-        {
-            "key": "8007", 
-            "name": "滴滴资源", 
-            "type": 1, 
-            "api": "https://api.ddapi.cc/api.php/provide/vod/?ac=list", 
-            "searchable": 1, 
-            "quickSearch": 1, 
-            "filterable": 1
-        }, 
-        
+       
         {
             "key": "8010", 
             "name": "番H资源", 
@@ -1392,11 +1151,7 @@
 
 {"key": "鸭二","name": "鸭二av","type": 1,"searchable": 0,"quickSearch": 0,"api": "https://lbapi9.com/api.php/provide/vod/","playUrl": "https://player.77lehuo.com/aliplayer/?url="},
 
-{"key": "白嫖","name": "白嫖av","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://www.kxgav.com/api/xml.php"},
-
 {"key": "乐播","name": "乐播av","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"},
-
-{"key": "小AV","name": "小AV","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://www.pgxdy.com/api/xml.php"},
     
   
     
@@ -1426,24 +1181,6 @@
     
    
    
-    {
-      "key": "gdlsp.com",
-      "name": "大人06",
-      "type": 0,
-      "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-
-   
-    {
-      "key": "shayuapi.com",
-      "name": "大人07",
-      "type": 1,
-      "api": "https://shayuapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
 
    
    
@@ -1467,15 +1204,6 @@
     },
    
   
-    {
-      "key": "xrbsp.com",
-      "name": "大人12",
-      "type": 0,
-      "api": "https://www.xrbsp.com/api/xml.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    
 
  
 
@@ -1503,31 +1231,9 @@
   
 
 
-{ "key": "KpgxdyE", "name": "黄AV资源(已修复)", "type": 0, "api": "https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-
-{ "key": "(18+)大地资源", "name": "(18+)大地资源", "type": 0, "api": "https://dadiapi.com/api.php/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{ "key": "(18+)乐播", "name": "(18+)乐播", "type": 0, "api": "https://lbapi9.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{ "key": "(18+)番号资源", "name": "(18+)番号资源", "type": 1, "api": "http://fhapi9.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-{ "key": "(18+)S猫资源", "name": "(18+)S猫资源", "type": 0, "api": "https://api.maozyapi.com/inc/api.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},           
 
-		
-		{
-			"key": "❤美少N源",
-			"name": "❤美少N资源",
-			"type": 0,
-			"api": "https://www.msnii.com/api/xml.php",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "❤Y水机资源",
-			"name": "❤Y水机资源",
-			"type": 0,
-			"api": "https://www.xrbsp.com/api/xml.php",
-			"searchable": 0,
-			"quickSearch": 0
-		},
+	
  {
 		"key": "91md",
 		"name": "48🥒91md",
@@ -1537,23 +1243,7 @@
 		"quickSearch": 1,
 		"filterable": 0
 	}, 
-    {
-		"key": "美S女",
-		"name": "51美S女",
-		"type": 0,
-		"api": "https://www.msnii.com/api/xml.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	},  {
-		"key": "*白P资源",
-		"name": "57白P资源",
-		"type": 0,
-		"api": "https://www.kxgav.com/api/xml.php",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	},  
+    
 		{
 			"key": "❤番号资源",
 			"name": "❤番号资源",
