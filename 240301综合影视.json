@@ -68,18 +68,7 @@
 		
  {"key":"魔都 资源","name":"魔都｜SW采集","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","categories":["短剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","动作片","动漫电影","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","记录片","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","里番动漫"]},
 
- {
-      "key": "cat_永乐网",
-      "name": "SW☀永乐🔹视频",
-      "type": 3,
-      "api": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E6%B0%B8%E6%A8%82%E5%BD%B1%E9%9F%B3%E5%A4%A9%E5%BE%AE",
-	 "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/kjtw.jar",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "changeable": 1
-    },
+
 
  { 
             "key": "永乐影视華哥", 
@@ -609,7 +598,37 @@
       "filterable": 1
     },
 
+{
+      "key": "csp_AppXY",
+      "name": "🎦星雅🔹短剧",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/XYDJ.py",
+      "jar": "https://img2.gelonghui.com/library/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    
+            {
+            "key": "Cat_聚合短剧",
+            "name": "🎦聚合🔹短剧",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/duanju_juhe.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
 
+        {
+            "key": "Cat_百度短剧",
+            "name": "🎦百度🔹短剧",
+            "type": 3,
+            "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/baidu_dj.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 1
+        },
 
 		
 
