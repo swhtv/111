@@ -133,7 +133,16 @@
 			"searchable": 1,
 			"quickSearch": 1
 		},
-
+{
+      "key": "Cat_荐片",
+      "name": "華哥☀极速鉴片🔹",
+      "type": 3,
+      "api": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/jianpian_open.js",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "类型": "影视"
+    },
 	
       {
             "key": "牛牛",
