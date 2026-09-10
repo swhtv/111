@@ -30,13 +30,11 @@ Newsmax,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 RT NEWS,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
 RDI CANADA,https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master_3000.m3u8
-fox Business,http://41.205.93.154/FOXBUSINESS/index.m3u8
-fox Business,http://primep2.tv:826/live/SourPatchKid/nlnE4DVQUs/105893.ts
-fox Business,http://lunar.pm:8080/live/kita/Twin/9328.ts
+fox-Business,http://lunar.pm:8080/live/kita/Twin/9328.ts
 
 FOX NEWS CHANNEL,http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 
-Fox-news channel,http://91.218.50.136:80/negrobussula/032998177444/10838
+
 FOX NEWS NOW,http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 FOX 5,https://amg00488-foxdigital-wnyw-lgus-qxl2g.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wnyw-lgus/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a9724cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce05d428b6aa2b50148922611fa83439fd501b2d6d0098311d727f31799c1a38cd741d3e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee15e9ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f093a76a94872537aac322f6cad3307d0c75e739231a873983d/36/1920x1080_5701132/index.m3u8
 Fox Weather,https://247wlive.foxweather.com/stream/index.m3u8
@@ -114,13 +112,13 @@ ANIMALPLANET,http://41.205.93.154/ANIMALPLANET/tracks-v1a1/mono.m3u8
 BRAVO,http://41.205.93.154/BRAVO/tracks-v1a1/mono.m3u8
 BRAVO,http://41.205.93.154/BRAVO/index.m3u8
 The design network,https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlistR240p.m3u8
-HBO,http://41.205.93.154/USA_HBO/tracks-v1a1/mono.m3u8
-HBO 2,http://41.205.93.154/USA_HBO2/tracks-v1a1/mono.m3u8
+HBO,http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
+HBO 2,http://23.237.104.106:8080/USA_HBO2/tracks-v1a1/mono.m3u8
 HBO ZONE,http://23.237.104.106:8080/USA_HBO_ZONE/tracks-v1a1/mono.m3u8
 LIFETIME,http://41.205.93.154/LIFETIME/tracks-v1a1/mono.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 world fishing,http://45.162.64.114/FISH_TV/index.m3u8
-world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
+
 SHOWTIME_FAMILY,http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/tracks-v1a1/mono.m3u8
 STARZ_CINEMA,http://23.237.104.106:8080/USA_STARZ_CINEMA/tracks-v1a1/mono.m3u8
 FX,http://23.237.104.106:8080/USA_FX/tracks-v1a1/mono.m3u8
@@ -136,16 +134,9 @@ Dateline,https://dz59iptwz5rxs.cloudfront.net/live/master_6.m3u8
 yahoo F,https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 QVC UK,https://qvcuk-live.akamaized.net/hls/live/2097112/qvc/1/1.m3u8
 
-Showtime2,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14169
-ShowtimeShowcase,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/188733
+
 Starz,http://23.237.104.106:8080/USA_STARZ/index.m3u8
-StarzComedy,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14917
-StarzKids&Family,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14919
-StarzEncoreAction,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14923
-StarzEncoreBlack,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216179
-StarzEncoreFamily,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/216178
-StarzEncoreSuspense,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14924
-StarzEncoreWesterns,http://bgdc.live:25461/catrinamcdermott/catrinamcdermott/14922
+
 CinemaxHits,http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 CinemaxClassics,http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 FX,http://23.237.104.106:8080/USA_FX/index.m3u8
@@ -331,7 +322,11 @@ TVB無綫 新聞,http://r.jdshipin.com/CkuBd
 HOY TV,https://cdn6.cc.cd/163189/hoy
 有綫新聞,https://cdn.qd.je/163189.php?id=hoy78
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
+HOY國際財經,http://173.208.234.146/live/hoy76.m3u8
+HOY TV,http://173.208.234.146/live/hoy77.m3u8
+HOY 資訊臺,http://173.208.234.146/live/hoy78.m3u8
 Now 新闻台,https://cdn.123.rr.kg/163189/now
+Now新聞臺,http://173.208.234.146/live/nowxw.m3u8
 Now 新闻台,http://www.kaniptv.cn/uadl.php?etoken=O7GBbnRGS8E5uqFmeA%2FpP9pZDUEBbOoltluzysQAUOkT%2BhwMgy6MU75MO4AruwnS235INLwQddWjtZBrZQWLn9b4LPgOw9QOsQs0GRI%2F92MR2ttOBfJnbowWCIb6PEM2vBUsMgNz6wryek3GN9z9VENRf6K2qOGycU3zE0LqeJ5i9U7q0VTXq6ypTcB%2BX0wy%2FF6ykpJz%2BgM4yyo5YyCDh7AjNli8CofYp7Djy9MBTvVq9BTu8KmoYmRhH%2Bf1ltF2XOTHepCtClG1Ux%2Bt8VNCxkhI8GgLw8SVhzvzBo9mJVjLm1ABJPOCT4rh5JfCgcsgh8UbskKhcRgKSluTMQm8oA%3D%3D
 明珠台,http://r.jdshipin.com/ZQ4kN
 TVB Plus,http://r.jdshipin.com/ndGgS
@@ -370,8 +365,7 @@ TVB 1 US综合,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476199.m3
 娱乐新闻台,http://cdn6.123.rr.kg/163189/ylxw
 澳门体育,http://cdn6.123.rr.kg/163189/amty
 澳门 莲花,http://cdn6.123.rr.kg/163189/amlh
-NOW星影台,http://173.208.234.146/live/nowxy.m3u8
-NOW爆谷台,http://173.208.234.146/live/nowbg.m3u8
+
 VIUTV,https://cdn.123.rr.kg/163189/viu
 ViuTV,https://cdn.qd.je/163189.php?id=viu
 TVB 1,https://cdn6.cc.cd/163189/tvb1
@@ -387,7 +381,18 @@ TVB娱乐新闻台,https://cdn6.cc.cd/163189/ylxw
 TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 重温经典,https://cdn6.cc.cd/163189/cwjd
 澳门莲花,https://cdn6.cc.cd/163189/amlh
+大灣區衛視,http://173.208.234.146/live/nfws.m3u8
+大灣區衛視(備),http://173.208.234.146/live/nfwsitv.m3u8
+廣東珠江(備),http://173.208.234.146/live/gdzjitv.m3u8
 
+大灣區衛視(國際)-grtn,http://173.208.234.146/live/gdgj.m3u8
+Now新聞臺,http://173.208.234.146/live/nowxw.m3u8
+美亞電影臺粵語,http://173.208.234.146/live/mymovie.m3u8
+Popc,http://173.208.234.146/live/popc.m3u8
+
+鳳凰中文臺,http://173.208.234.146/live/fhzw.m3u8
+鳳凰資訊臺,http://173.208.234.146/live/fhzx.m3u8
+鳳凰香港臺,http://173.208.234.146/live/fhxg.m3u8
 
 邵氏电影,http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 邵氏武侠,http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
@@ -426,11 +431,13 @@ TVB亚洲武侠,https://cdn6.cc.cd/163189/yzwx
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 MoMo综合,rtmp://f13h.mine.nu/sat/tv761
-中天新聞,http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
-中天新聞 h,http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-TVBS新聞台,http://38.64.72.148/hls/modn/list/4027/playlist.m3u8
-TVBS新聞台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS H新聞台,https://tv.iill.top/4gtv/media-live073
+
+中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8 
+中天新聞,http://173.208.234.146/live/ctinews.m3u8
+TVBS新聞臺,http://173.208.234.146/live/tvbsnews.m3u8
+TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
+TVBS,http://61.221.215.25:8800/hls/9/index.m3u8
+
 中视新闻,http://74.91.26.218:82/live/ctvnews.m3u8
 中视新闻,http://220.135.64.124:5050/of-4gtv-4gtv074/index.m3u8?proxy=true
 台视新闻,http://74.91.26.218:82/live/ttvnews.m3u8
@@ -493,38 +500,39 @@ KTSF26洛杉磯三藩市,http://38.64.72.148:80/hls/modn/list/4026/playlist.m3u8
 
 
 SW-SPORT体育 ,#genre#
-world fishing,http://45.162.64.114/FISH_TV/index.m3u8
-world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
+DAZN 1,rtmp://f13h.mine.nu/sat/tv731
+DAZN 2,rtmp://f13h.mine.nu/sat/tv741
 UFC,https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
-N SPORT,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 NFL_NETWORK,http://23.237.104.106:8080/USA_NFL_NETWORK/tracks-v1a1/mono.m3u8
 NHL NETWORK,https://nhl-firetv.amagi.tv/playlist.m3u8
 Womens_Sports_Network,https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network480.m3u8
 ACCDN SPORT,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
 bein xtra,https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlistR1080p.m3u8
 dazn ringside,https://aegis-cloudfront-1.tubi.video/bfad29e2-5bee-44f3-8256-127324e8b106/playlist.m3u8
-DAZN 1,rtmp://f13h.mine.nu/sat/tv731
-DAZN 2,rtmp://f13h.mine.nu/sat/tv741
+
 Star Sports 1 HD,http://41.205.93.154/STARSPORTS1/index.m3u8
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-
+world fishing,http://45.162.64.114/FISH_TV/index.m3u8
+world fishing,https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=RE1gCJub-L0
+N SPORT,https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt_1080p.m3u8
 智林體育,https://4gtv.158.qzz.io/163189/4686f6c9-b849-408e-9936-5cab41fc07fa/
 
 TENNIS,https://amg01444-tennischannelth-tennischannelnl-samsungnl-x3dq1.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischannelnl-samsungnl/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ae7e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7aee45510d13af7e2014e947e40fa83439fd401ea80d35a83478423f2469f92a1dd821682e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee6529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353f023d76a9054f3d75acedf1faeabcda2ffc1d550b648259d786/81/640x360_1020800/index.m3u8
 tennischannel,https://amg01444-tennischannelth-tennischnlintl-lggb-mr3r5.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelth-tennischnlintl-lggb/cb5735176570678684c83d61cef84982847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258a97e4cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7fce15546d968a6e5014d9c2c4cfa83439fd501e9d6810a8345d372a2409fc4a6d98012d0e4205293768a8ba2c54007fba358d1af7eb7d49b6d38ee0942243074966e17632c46eb694c4eecf78b9e68fa01c78a24fb105f68c9002df659be63a51ba9e947aca1f9ad2ad6a137a62903088e9fc7a5f52132af6ff4e88cb71050cddc463d2fac1c12221f0ad775ee34fdf701d241bc3987c95757e19c408994b182a0848258932bdec8ce555c28414e0b188f51ae9b228e678d38e0f91a2f584253beda7bf0c6880e7e3214c6b757da454fe29b93d58b477beb700b56ed57dc592e65d87b392fb263aacc7c24a20e3ea81971bb543c8b47bc9f29f6acd4ac4618bdccc84ffa20bee1529ca64cf9236c1931b2f42d4d4c032883b9285e660bb62f8ee4c3ef730617ffb79caeb234163379460242db98a41afda9cf261a1ac42956437c02189b0196249f37400e2ac609c0ee6e5080152a39e9b7353e0b3bc628d06f0e617a220c2709068ac56ebd5117fc070e36caef/170/426x240_391600/index.m3u8
 TENNIS +,https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
-Astro Arena,http://tv.cloudcdn.me:80/live.ts?channelId=93729&uid=15301&deviceMac=00:1A:79:1D:53:3F
+
 TSN 1,http://40.160.24.55/TSN_1/index.m3u8
 TSN 2,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6492/index.m3u8
-TSN-2,http://40.160.24.55/TSN_2/index.m3u8
+
 TSN 3,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6522/index.m3u8
-TSN-3,http://40.160.24.55/TSN_3/index.m3u8
+
 TSN 4,http://38b891c9.rossteleccom.net/iptv/LNE7CK973BXBGD/6445/index.m3u8
-TSN-4,http://40.160.24.55/TSN_4/index.m3u8
+TSN-4,http://vip058esmertv.live:8080/play/live.php?mac=00:1A:79:77:07:30&stream=629356&extension=ts&play_token=beth5ouDvT
+
 TSN 5,http://40.160.24.55/TSN_5/index.m3u8
 
 TSN OCHO,https://d3pnbvng3bx2nj.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/37d00918-f0a3-48c1-bb12-2f60c968164e/0.m3u8
-sportsnet one,http://40.160.24.55/SNY/index.m3u8
+
 GOLF,http://72.1.184.5:8089/play/a0cw/index.m3u8
 GOLF N,https://dash4.antik.sk/live/test_golf_channel/playlist.m3u8
 Eurosport 1 HD,http://vipmax.site:8080/OERXRGdCUExrankyVkxTNitZY2tXeldnWnZmOU4wZUZ5dlB5RG5OY2Vzaz0
@@ -598,6 +606,19 @@ Sporty Net 4 HD,http://91.218.50.136:80/negrobussula/032998177444/903022
 Sporty Net 4,http://91.218.50.136:80/negrobussula/032998177444/903023
 
 
+DAZN_2,http://23.237.104.106:8080/DAZN_2/index.m3u8
+DAZN_3,http://23.237.104.106:8080/DAZN_3/index.m3u8
+
+CosmoteSport3GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31581/index.m3u8
+CosmoteSport4GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31582/index.m3u8
+CosmoteSport5GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31583/index.m3u8
+CosmoteSport6GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31584/index.m3u8
+CosmoteSport7GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31585/index.m3u8
+CosmoteSport8GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31586/index.m3u8
+CosmoteSport9GR,http://f31d0b76.edemist.com/iptv/F5GDYXTUM2QBV3/31587/index.m3u8
+SuperSport5AL,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262764
+SuperSport6AL,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262765
+SuperSport7AL,http://alal.fit:8080/FatmiriTV/jv8D9RARGJ/262766
 
 五星体育,http://38.75.136.137:98/gslb/dsdqpub/wxtyhd.m3u8?auth=testpub
 五星体育,https://live.264788.xyz/channel/wuxingtiyu?streamid=5d17da390f8e4805aae4a71868d4ef6c&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -1435,3 +1456,4 @@ DW NEWS,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.
 peer tv,https://iptv.peer.biz/live/peertv.m3u8
 TVP poland,https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
 TVN poland,https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8
+
