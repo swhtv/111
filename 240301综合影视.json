@@ -6,8 +6,8 @@
 //"spider": "https://github.com/swhtv/box/raw/refs/heads/main/spider.jar;md5;3d161697458ecbcd2651a749db761ba1",
 //"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/NEW260603BXS.jar",
 //"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
-//"spider": "https://github.com/swhtv/box/raw/refs/heads/main/BXS.jar",
-"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
+"spider": "https://github.com/swhtv/box/raw/refs/heads/main/BXS.jar",
+//"spider": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
 	
 //"spider":"https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",	
 //"spider": "https://github.com/liu673cn/box/raw/refs/heads/main/fty.jar;md5;3d161697458ecbcd2651a749db761ba1",
@@ -49,6 +49,7 @@
       "key": "wc金牌 影视",
       "name": "☀金牌 華哥",
       "type": 3,
+	 "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
       "api": "csp_WenCai",
       "searchable": 1,
       "filterable": 1,
