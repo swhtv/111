@@ -363,46 +363,12 @@
             ]
         }, 
     
- {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"},
-
-
-
-{"key":"机器人","name":"机器SW","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://v.aikanbot.com"},
+ 
 
 
 
 {"key":"夜貓_drpy_xb","name":"SW小宝","type":3,"playerType":2,"api":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/lib/drpy2.min.js","ext":"https://raw.githubusercontent.com/franksun1211/TVBOX/main/APP/dr_py/JS/小宝影院.js","searchable":1,"changeable":1},
 
- {
-      "key": "飞猫KTV",
-      "name": "🎤華哥KTV[2K]",
-      "type": 3,
-	 "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
-      "api": "csp_FeimaoKtv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "{\"host\":\"https://ktv.catvod.site\",\"key\":\"ktv_jIO7myCOGTEYCLByS9ABrBXGOmxK6D8_\"}"
-    },
- {
-      "key": "哔哩哔哩演唱会",
-      "name": "華哥💙演唱会[哔哩]",
-      "type": 3,
-	 "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "json": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/bilimusic.json"
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      }
-    },
 	    
  {
             "key": "88看球",
@@ -481,57 +447,6 @@
 
 
   
-    {
-      "key": "双星99动漫",
-      "name": "華哥🔥双星动漫",
-      "type": 3,
-      "api": "csp_App99",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "host": "http://175.178.65.250:19987/app/bn",
-        "LoginPath": "/app/log",
-        "appkey": "f66f65db127e48449f073c2c6eb0f993",
-        "versionName": "6.4.5",
-        "name": "双子星动漫",
-        "package": "com.yingfu.mobile.android.pgsp",
-        "buildNumber": "2003",
-        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
-      }
-    },
- {
-      "key": "山楂",
-      "name": "華哥🍬山楂[2K]",
-      "type": 3,
-	 "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
-      "api": "csp_PianKu8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-{
-      "key": "怀桑",
-      "name": "華哥🎄怀桑[2K]",
-      "type": 3,
-	"jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
-      "api": "csp_AppQi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxhqj.txt",
-        "dataKey": "kj37zs29q22jk96t",
-        "dataIv": "kj37zs29q22jk96t",
-        "init": "initV122",
-        "playname": "怀桑",
-        "ua": "okhttp/3.10.0"
-      }
-    },
- 
-   
 
  {
       "key": "摔角",
@@ -545,70 +460,7 @@
         "type": "list"
       }
     },
-    {
-      "key": "球通体育",
-      "name": "🏈球通[体育]",
-      "type": 3,
-	"jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",	
-      "api": "csp_QiutongTY",
-      "searchable": 0,
-      "filterable": 1,
-      "style": {
-        "type": "list"
-      }
-    },
-    {
-      "key": "糖豆",
-      "name": "🌟糖豆[体育]",
-      "type": 3,
-	"jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",	
-      "api": "csp_TangDou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 2
-      },
-      "filterable": 1
-    },
-
-{
-      "key": "csp_AppXY",
-      "name": "🎦星雅🔹短剧",
-      "type": 3,
-	"jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
-      "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/XYDJ.py",
-      "jar": "https://img2.gelonghui.com/library/9c8e4-b797010b-366e-48f9-86b6-16be897c90c2.png;md5;9c8e45f60d3d413d8b140ec21811deb0",
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-            {
-            "key": "Cat_聚合短剧",
-            "name": "🎦聚合🔹短剧",
-            "type": 3,
-			"jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",	
-            "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/duanju_juhe.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-
-        {
-            "key": "Cat_百度短剧",
-            "name": "🎦百度🔹短剧",
-            "type": 3,
-			"jar": "https://github.com/swhtv/ak/raw/refs/heads/main/aidaox-20260804-210243.jar",
-            "api": "https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/baidu_dj.js",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 1
-        },
-
-		
+   
 
    {"key":"drpy_js_豆瓣","name":"豆瓣 | 热播[js]","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/260411%E8%B1%86%E7%93%A3JS"}
  
