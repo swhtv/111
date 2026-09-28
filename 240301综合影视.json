@@ -43,11 +43,19 @@
   ],
     "warningText": "華哥提示不要相信視頻中的广告.多謝大家.",
     "sites": [
- 
+  {
+      "key": "金 牌 影视",
+      "name": "☀ 金牌 華哥",
+      "type": 3,
+      "api": "csp_Jpys",
+      "ext": "https://y2s52n7.com"
+    },
+
+
 
  {
             "key": "金 牌 影视",
-            "name": "☀ 金牌 華哥",
+            "name": "☀ 金牌-華哥",
             "type": 3,
  "jar": "https://github.com/swhtv/box2/raw/refs/heads/main/kjtw.jar",
             "api": "csp_Jpys",
