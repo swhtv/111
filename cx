@@ -297,9 +297,8 @@
         }, 
     
 
- {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
+ {"key": "直播转点播","name": "SW華哥TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/zengjian03/han/e5a42b3a5b162f95f4ded760ea4b7ae64c141c72/2/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
 
- {"key": "直播转 点播","name": "SW華哥 TV直播","type": 3,"searchable": 0,"api": "https://raw.githubusercontent.com/zengjian03/han/e5a42b3a5b162f95f4ded760ea4b7ae64c141c72/2/lib/live2vod.js","ext": "https://raw.githubusercontent.com/swhtv/111/refs/heads/main/live-json"},
 
 
 {
