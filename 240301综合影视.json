@@ -66,15 +66,20 @@
  {"key":"魔都 资源","name":"魔都｜SW采集","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","categories":["短剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","动作片","动漫电影","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","记录片","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","里番动漫"]},
 
 
-
- { 
-            "key": "永乐影视華哥", 
-            "name": "永乐｜華哥影视", 
-            "type": 3, 
-            "api": "csp_XBPQ", 
-	 "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E5%85%BB%E7%94%9F%E5%A0%82.jar",
-            "ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E6%B0%B8%E4%B9%90%E5%BD%B1%E8%A7%86.json" 
-        }, 
+    {
+      "key": "奈飞4K",
+      "name": "華哥 Netflix",
+      "type": 1,
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "4K电影",
+        "Netflix电影",
+        "Netflix自制剧"
+      ]
+    },
 
 
       { 
