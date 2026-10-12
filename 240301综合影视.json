@@ -74,7 +74,7 @@
       "key": "奈飞4K",
       "name": "華哥 Netflix",
       "type": 1,
-      "api": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/nf",
+      "api": "https://api.wsyzy.net/api.php/provide/vod",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
