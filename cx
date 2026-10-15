@@ -72,20 +72,7 @@
             "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
         },
 
- {
-            "key": "欧乐影院",
-            "name": "欧乐影院",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
-        },
-{
-            "key": "唐人街影院",
-            "name": "唐人街影院",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E9%99%A2.js"
-        },
+ 
 
 
 
@@ -309,17 +296,7 @@
       "类型": "影视"
     },
 
-    {
-            "key": "哔哩哔哩",
-            "name": "🅱️哔哩🔹華哥",
-            "type": 3,
-            "api": "csp_Bili",
-             "jar": "https://raw.giteeusercontent.com/twvip/jarR/raw/master/se.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/bili.json"
-        },
+    
 
      
         {
