@@ -108,30 +108,6 @@
             "changeable": 1
         }, 
 
- {
-            "key": "永 乐",
-            "name": "🧿永乐｜華哥",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://github.com/swhtv/ak/raw/refs/heads/main/%E5%85%BB%E7%94%9F%E5%A0%82.jar",
-            "ext": {
-                "副标题": "華哥专属",
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://www.ylys.tv/;;!H"
-            }
-        },	
-
-
-
-{
-            "key": "麦田",
-            "name": "華哥🌾麦田",
-            "type": 3,
-            "api": "csp_AppV6",
-            "jar": "https://gitee.com/xianluyuan/jar/raw/master/m/260508.jpg",
-            "ext": "http://172.247.227.203:25321/mtys.php"
-        },
 
 	{
 			"key": "索尼 资源",
@@ -225,35 +201,11 @@
             }, 
 
 
-        {
-            "key": "王子",
-            "name": "👑王子｜華哥",
-            "type": 3,
-            "searchable": 1,
-            "changeable": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://app.95112475.xyz",
-                "dataKey": "5a9w6x58dsq6z3a6",
-                "dataIv": "5a9w6x58dsq6z3a6"
-            }
-        },
      
     
  {"key": "csp_XYQHiker_骚火电影VIP","name": "骚火电影┃華哥","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/swhtv/ak/refs/heads/main/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1VIP.json"},
 
     
- {
-            "key": "哔哩哔哩",
-            "name": "🅱️哔哩🔹華哥",
-            "type": 3,
-            "api": "csp_Bili",
-             "jar": "https://raw.giteeusercontent.com/twvip/jarR/raw/master/se.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/bili.json"
-        },
  
    
  {
@@ -312,13 +264,6 @@
 
  
 
-  {
-            "key": "欧乐影院",
-            "name": "欧乐 華哥",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E6%AC%A7%E4%B9%90%E5%BD%B1%E9%99%A2.js"
-        },
    
 	
  
@@ -343,13 +288,6 @@
    	 },
      
   
-	{
-            "key": "唐人街影院",
-            "name": "唐人街 華哥",
-            "type": 3,
-            "api": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/drpy2.min.js",
-            "ext": "https://raw.githubusercontent.com/heroaku/TVboxo/refs/heads/main/JS/%E5%94%90%E4%BA%BA%E8%A1%97%E5%BD%B1%E9%99%A2.js"
-        },
        
   {"key": "csp_XYQHiker_戏曲多多","name":"sw戏曲多多","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/xyq254245/xyqonlinerule/refs/heads/main/XYQHiker/%E6%88%8F%E6%9B%B2%E5%A4%9A%E5%A4%9A.json"}, 
 	
@@ -391,6 +329,20 @@
 
 
 
+ {
+      "key": "Douban",
+      "name": "🏠豆瓣[导航]",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "indexs": 1,
+      "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E8%B1%86%E7%93%A3%E5%BD%B1%E8%A6%96%5B%E5%AF%BC%E8%88%AA%5D.json"
+    },      
+
+
+
     {
       "key": "豪华采集",
       "name": "豪华｜SW采集",
@@ -405,20 +357,6 @@
         "国产剧"
       ]
     },
-
- {
-      "key": "Douban",
-      "name": "🏠豆瓣[导航]",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "indexs": 1,
-      "ext": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E8%B1%86%E7%93%A3%E5%BD%B1%E8%A6%96%5B%E5%AF%BC%E8%88%AA%5D.json"
-    },      
-
-
 
  {
       "name": "📦①线┃華哥",
