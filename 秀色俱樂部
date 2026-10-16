@@ -96,7 +96,7 @@
   
 	{
 			"key": "❤ 91M豆资源",
-			"name": "❤ 91M豆资源",
+			"name": "91M豆资源",
 			"type": 1,
 			"api": "https://91md.me/api.php/provide/vod/",
 			"searchable": 0,
@@ -108,7 +108,7 @@
 
  {
             "key": "csp_XYQHiker_ggjav",
-            "name": "??GGJAV",
+            "name": "GGJAV",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -122,8 +122,8 @@
         },
 
   {
-      "key": "大奶子",
-      "name": "[291ms|https://clun.top/fun.json] 大奶子 | 采集",
+      "key": "大N子",
+      "name": "大N子",
       "type": 1,
       "api": "https://apidanaizi.com/api.php/provide/vod",
       "searchable": 1,
@@ -135,7 +135,7 @@
     },
       {
       "key": "zp100",
-      "name": "[130ms|apple] 🔞乐播",
+      "name": "乐播",
       "type": 0,
       "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
       "searchable": 1,
@@ -146,7 +146,7 @@
     
     {
       "key": "杏吧资源",
-      "name": "[130ms|apple] 杏吧资源",
+      "name": "杏吧",
       "type": 0,
       "api": "https://xingba222.com/api.php/provide/vod/at/xml",
       "searchable": 1,
@@ -159,13 +159,13 @@
       "api": "http://fhapi9.com/api.php/provide/vod",
       "key": "番号",
       "type": 1,
-      "name": "[138ms|zy] 🍊番号"
+      "name": "番号"
     },
    
   
     {
       "key": "*乐播资源",
-      "name": "[130ms|apple] 🔞乐播资源",
+      "name": "🔞乐播资源",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -174,7 +174,7 @@
     },
     {
       "key": "zp011",
-      "name": "[734ms|123] 🧿正品┃影视",
+      "name": "🧿正品",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -184,7 +184,7 @@
  
     {
       "key": "沙鱼",
-      "name": "[284ms|https://clun.top/fun.json] 沙鱼 | 采集",
+      "name": "[沙鱼 | 采集",
       "type": 1,
       "api": "https://shayuapi.com/api.php/provide/vod/",
       "ext": "proxy"
@@ -196,7 +196,7 @@
       "api": "https://apilj.com/api.php/provide/vod/at/json/",
       "key": "辣椒",
       "type": 1,
-      "name": "[138ms|zy] 🍊辣椒🪜"
+      "name": "🍊辣椒"
     },
     {
       "searchable": 1,
@@ -209,7 +209,7 @@
     },
     {
       "key": "155资源站",
-      "name": "[284ms|https://clun.top/fun.json] 155 | 采集",
+      "name": "155 | 采集",
       "type": 1,
       "api": "https://155api.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -219,7 +219,7 @@
     },
     {
       "key": "lebo",
-      "name": "[734ms|123] 🧿乐播┃资源",
+      "name": "🧿乐播",
       "type": 1,
       "api": "https://lbapi9.com/api.php/provide/vod/at/json/?ac=list",
       "searchable": 1,
@@ -233,7 +233,7 @@
       "api": "https://xingba222.com/api.php/provide/vod",
       "key": "杏吧",
       "type": 1,
-      "name": "[138ms|zy] 🍊杏吧"
+      "name": "🍊杏吧"
     },
     {
       "searchable": 1,
@@ -242,7 +242,7 @@
       "api": "https://Naixxzy.com/api.php/provide/vod/",
       "key": "奶香",
       "type": 1,
-      "name": "[138ms|zy] 🍊奶香🪜"
+      "name": "🍊奶香🪜"
     },
     {
       "searchable": 1,
@@ -251,11 +251,11 @@
       "api": "https://slapibf.com/api.php/provide/vod/",
       "key": "森林",
       "type": 1,
-      "name": "[138ms|zy] 🍊森林"
+      "name": "🍊森林"
     },
     {
       "key": "森林专场",
-      "name": "[284ms|https://clun.top/fun.json] 森林 | 采集",
+      "name": "森林 | 采集",
       "type": 1,
       "api": "https://slapibf.com/api.php/provide/vod/",
       "playUrl": "",
@@ -266,7 +266,7 @@
     },
     {
       "key": "奶香香",
-      "name": "[284ms|https://clun.top/fun.json] 奶香 | 采集",
+      "name": "奶香 | 采集",
       "type": 1,
       "api": "https://naixxzy.com/api.php/provide/vod/",
       "quickSearch": 1,
@@ -281,12 +281,12 @@
       "api": "http://api.11bat.com/api.php/provide/vod/",
       "key": "蝙蝠",
       "type": 1,
-      "name": "[138ms|zy] 🍊蝙蝠"
+      "name": "🍊蝙蝠"
     },
   
     {
       "key": "*番号资源",
-      "name": "[130ms|apple] 🔞番号资源",
+      "name": "🔞番号资源",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 0,
@@ -295,7 +295,7 @@
     },
     {
       "key": "fh资源",
-      "name": "[734ms|123] 🧿凤凰┃影视",
+      "name": 🧿凤凰",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "searchable": 1,
@@ -303,7 +303,7 @@
     },
     {
       "key": "番外",
-      "name": "[734ms|123] 🧿番外┃采集",
+      "name": "🧿番外",
       "type": 1,
       "api": "http://fhapi9.com/api.php/provide/vod/",
       "playUrl": "",
@@ -338,27 +338,7 @@
       "type": 1,
       "name": "[138ms|zy] 🍊黄仓"
     },
-    {
-      "searchable": 1,
-      "search": 1,
-      "quickSearch": 1,
-      "api": "https://apidanaizi.com/api.php/provide/vod",
-      "key": "大奶",
-      "type": 1,
-      "name": "[138ms|zy] 🍊大奶"
-    },
-    {
-      "key": "大奶子",
-      "name": "[284ms|https://clun.top/fun.json] 大奶子 | 采集",
-      "type": 1,
-      "api": "https://apidanaizi.com/api.php/provide/vod",
-      "searchable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.33
-      },
-      "changeable": 1
-    },
+    
    
     {
       "searchable": 1,
@@ -367,7 +347,7 @@
       "api": "https://api.xjzyapi.com/provide/vod",
       "key": "小鸡",
       "type": 1,
-      "name": "[138ms|zy] 🍊小鸡"
+      "name": "🍊小鸡"
     },
     {
       "searchable": 1,
@@ -376,11 +356,11 @@
       "api": "https://www.jingpinx.com//api.php/provide/vod/",
       "key": "精品",
       "type": 1,
-      "name": "[138ms|zy] 🍊精品🪜"
+      "name": "🍊精品🪜"
     },
      {
       "key": "精品资源站",
-      "name": "[284ms|https://clun.top/fun.json] 精品 | 采集",
+      "name": "精品 | 采集",
       "type": 1,
       "api": "https://www.jingpinx.com/api.php/provide/vod/",
       "ext": "proxy"
@@ -392,12 +372,12 @@
       "api": "https://thzy1.me/api.php/provide/vod/",
       "key": "桃花",
       "type": 1,
-      "name": "[138ms|zy] 🍊桃花"
+      "name": " 🍊桃花"
     },
  
     {
       "key": "大地采集",
-      "name": "[130ms|apple] 🔞大地av",
+      "name": "🔞大地av",
       "type": 0,
       "api": "https://dadiapi.com/apple_m3u8.php",
       "playUrl": "https://play.dadiapi.com/watch?url=",
@@ -413,7 +393,7 @@
       "api": "https://vnzyz.com/api.php/provide/vod",
       "key": "越南",
       "type": 1,
-      "name": "[138ms|zy] 🍊越南"
+      "name": "🍊越南"
     },
     {
       "searchable": 1,
@@ -422,7 +402,7 @@
       "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
       "key": "黑料",
       "type": 1,
-      "name": "[138ms|zy] 🍊黑料"
+      "name": "🍊黑料"
     },
    
     {
@@ -432,7 +412,7 @@
       "api": "https://api.souavzyw.net/api.php/provide/vod/",
       "key": "搜片",
       "type": 1,
-      "name": "[138ms|zy] 🍊搜片"
+      "name": "🍊搜片"
     },
     {
       "searchable": 1,
@@ -441,7 +421,7 @@
       "api": "https://api.douapi.cc/api.php/provide/vod/",
       "key": "豆豆",
       "type": 1,
-      "name": "[138ms|zy] 🍊豆豆"
+      "name": " 🍊豆豆"
     },
     {
       "searchable": 1,
@@ -450,7 +430,7 @@
       "api": "https://api.huosuapi.cc/api.php/provide/vod/",
       "key": "火速",
       "type": 1,
-      "name": "[138ms|zy] 🍊火速"
+      "name": "🍊火速"
     },
     {
       "searchable": 1,
@@ -459,7 +439,7 @@
       "api": "https://api.heiapi.cc/api.php/provide/vod/",
       "key": "嘿嘿",
       "type": 1,
-      "name": "[138ms|zy] 🍊嘿嘿"
+      "name": "🍊嘿嘿"
     },
     {
       "searchable": 1,
@@ -468,11 +448,11 @@
       "api": "https://xxavs.com/api.php/provide/vod/at/json",
       "key": "湿园",
       "type": 1,
-      "name": "[138ms|zy] 🍊湿园"
+      "name": "🍊湿园"
     },
     {
       "key": "dadiapi.com",
-      "name": "[170ms|111] 成人01",
+      "name": "成人01",
       "type": 0,
       "api": "http://dadiapi.com/api.php",
       "searchable": 1,
@@ -490,7 +470,7 @@
  
     {
       "key": "嘿嘿场",
-      "name": "[284ms|https://clun.top/fun.json] 嘿嘿 | 采集",
+      "name": "嘿嘿 | 采集",
       "type": 1,
       "api": "https://api.heiapi.cc/api.php/provide/vod/",
       "playUrl": "",
@@ -501,7 +481,7 @@
     },
      {
       "key": "大地专场",
-      "name": "[734ms|123] 🧿大地┃采集",
+      "name": "🧿大地",
       "type": 0,
       "api": "https://dadiapi.com/api.php",
       "playUrl": "",
@@ -553,7 +533,7 @@
        
         {
             "key": "csp_XYQHiker_xnxx",
-            "name": "??XNXX(XYQHiker)",
+            "name": "XNXX(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -567,7 +547,7 @@
         },
         {
             "key": "csp_XYQHiker_njavtv.com",
-            "name": "??Njavtv(XYQHiker)",
+            "name": "Njavtv(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -581,7 +561,7 @@
         },
         {
             "key": "csp_XYQHiker_njavtv.com",
-            "name": "??Njavtv.com(XYQHiker)",
+            "name": "Njavtv.com(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -597,7 +577,7 @@
        
         {
             "key": "csp_XYQHiker_91porn_asia",
-            "name": "??91porn_asia",
+            "name": "91porn_asia",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -611,7 +591,7 @@
         },
         {
             "key": "csp_XYQHiker_jable",
-            "name": "??Jable④",
+            "name": "Jable④",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -628,7 +608,7 @@
        
         {
             "key": "18j.tv",
-            "name": "??18j.tv",
+            "name": "18j.tv",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/XBPQ.jar",
@@ -646,7 +626,7 @@
         },
         {
             "key": "csp_XYQHiker_18av",
-            "name": "??18AV",
+            "name": "18AV",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -662,7 +642,7 @@
       
         {
             "key": "csp_XYQHiker_airav",
-            "name": "??AirAV",
+            "name": "AirAV",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -676,7 +656,7 @@
         },
         {
             "key": "csp_XYQHiker_hohoj",
-            "name": "??HOHOJ",
+            "name": "HOHOJ",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -690,7 +670,7 @@
         },
         {
             "key": "csp_XYQHiker_kanav",
-            "name": "??KANAV",
+            "name": "KANAV",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -707,7 +687,7 @@
 
         {
             "key": "pronlulu",
-            "name": "??pronlulu",
+            "name": "pronlulu",
             "type": 3,
             "api": "csp_XBPQ",
             "recordable": 0,
@@ -721,7 +701,7 @@
         },
         {
             "key": "csp_XYQHiker_porn87",
-            "name": "??porn87",
+            "name": "porn87",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -736,7 +716,7 @@
       
         {
             "key": "csp_XYQHiker_qinav",
-            "name": "??Qinav",
+            "name": "Qinav",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -751,7 +731,7 @@
        
         {
             "key": "csp_XYQHiker_xHamster",
-            "name": "??xHamster",
+            "name": "xHamster",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -765,7 +745,7 @@
         },
         {
             "key": "csp_XYQHiker_xvideos",
-            "name": "??Xvideos",
+            "name": "Xvideos",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -779,7 +759,7 @@
         },
         {
             "key": "csp_XYQHiker_18jav",
-            "name": "??18JAV(XYQHiker)",
+            "name": "18JAV(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -793,7 +773,7 @@
         },
         {
             "key": "csp_XYQHiker_hohoj",
-            "name": "??HOHOJ(XYQHiker)",
+            "name": "HOHOJ(XYQHiker)",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -809,7 +789,7 @@
       
         {
             "key": "kanav",
-            "name": "??看AV",
+            "name": "看AV",
             "type": 3,
             "filterable": 1,
             "api": "csp_XBPQ",
@@ -822,7 +802,7 @@
        
         {
             "key": "csp_XYQHiker_日日撸",
-            "name": "??日日撸",
+            "name": "日日撸",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -839,7 +819,7 @@
       
         {
             "key": "csp_XYQHiker_黄色仓库123",
-            "name": "黄色仓库123????",
+            "name": "黄色仓库123",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -854,7 +834,7 @@
         
         {
             "key": "csp_XYQHiker_紫色成人",
-            "name": "??紫色成人",
+            "name": "紫色成人",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -868,7 +848,7 @@
         },
         {
             "key": "csp_XYQHiker_酷爱成人网>",
-            "name": "??酷爱成人网??",
+            "name": "酷爱成人网",
             "type": 3,
             "api": "csp_XYQHiker",
             "searchable": 1,
@@ -1491,7 +1471,6 @@
     "cms.qdwght.com"
   ]
 }
-
 
 
 
