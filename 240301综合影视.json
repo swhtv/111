@@ -107,6 +107,20 @@
             },
             "changeable": 1
         }, 
+{"name":"⭐瓜子華哥","key":"Guazi","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_GuaziAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":{"sites":"","filters":"https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"}},
+
+{"name":"🧩杜北|華哥","key":"Dubk","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"},
+
+
+
+
+{"name":"🧩伊外|華哥","key":"YIys","type":3, "jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_YIysAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"name":"🧩爱看|華哥","key":"AiBot","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_AiBotAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"name":"🌍爱瓜華哥","key":"AiGua","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"name":"🌍U视華哥","key":"Ysp","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_YspAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"name":"🌍欧乐華哥","key":"Olyy","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"name":"🌍壹帆|華哥","key":"Aiyf","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_AiyfAmns","searchable":1,"quickSearch":1,"changeable":0},
+{"name":"📡Bili|Live華哥","key":"Bilive","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_BiliveAmns","searchable":1,"quickSearch":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
 
 
 	{
