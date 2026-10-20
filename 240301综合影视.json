@@ -121,7 +121,18 @@
 {"name":"🌍欧乐華哥","key":"Olyy","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"🌍壹帆|華哥","key":"Aiyf","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_AiyfAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"📡Bili|Live華哥","key":"Bilive","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_BiliveAmns","searchable":1,"quickSearch":1,"changeable":0,"style":{"type":"rect","ratio":1.433}},
+ {
+            "key": "金牌",
+            "name": "華哥-金牌",
+            "type": 3,
+            "api": "csp_Jpys",
+            "ext": "https://y2s52n7.com,https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
+        },
 
+		{"key": "ikun", "name": "爱坤華哥", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1},
+      
+		{"key": "虎牙资源", "name": "虎牙華哥", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+		{"key": "ttzy", "name": "天天華哥", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php", "searchable": 1, "quickSearch": 1, "filterable": 1},
 
 	{
 			"key": "索尼 资源",
