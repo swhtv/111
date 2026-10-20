@@ -77,8 +77,60 @@
                 "分类url": "https://ppp.porn/categories/{cateId}/{catePg}/"
             }
         },
-
-    
+ 
+  {
+   "key": "py_huangguo",
+   "name": "黄果短剧",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/chenyuzuoyou/hipy-drpy2/refs/heads/main/tvbox/js/ss/huangguo.py",
+   "ext": ""
+  },
+  {
+   "key": "py_huangguo2",
+   "name": "黄果剧场",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/chenyuzuoyou/hipy-drpy2/refs/heads/main/tvbox/js/ss/黄果剧场",
+   "ext": ""
+  },
+  {
+   "key": "py_huangdou",
+   "name": "黄豆短剧",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/chenyuzuoyou/hipy-drpy2/refs/heads/main/tvbox/js/ss/huangdou.py",
+   "ext": ""
+  },
+ 
+  {
+   "key": "py_xx01",
+   "name": "猎奇",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/chenyuzuoyou/hipy-drpy2/refs/heads/main/tvbox/js/ss/xx01.py",
+   "ext": ""
+  },
+    {
+   "key": "精品资源站",
+   "name": "精品",
+   "type": 1,
+   "api": "https://www.jingpinx.com/api.php/provide/vod/",
+   "ext": "proxy"
+  },
+  {
+   "key": "souav",
+   "name": "souav ",
+   "type": 1,
+   "api": "https://api.souavzy.vip/api.php/provide/vod/?ac=list",
+   "playUrl": "https://jiexi.souavzyw.top/m3u8/?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "py_porn",
+   "name": "肉视频",
+   "type": 3,
+   "api": "https://raw.githubusercontent.com/chenyuzuoyou/hipy-drpy2/refs/heads/main/tvbox/js/ss/肉视频.py",
+   "ext": ""
+  },
         {
             "key": "亚色影库",
             "name": "🔞 亚色影库",
