@@ -37,10 +37,10 @@
 {"name":"CA S","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_pluto.m3u"},
 {"name":"CA ST","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_stingray.m3u"},
 
-{"name":"SW-US1","url":"https://freetv.fun/test_channels_united_states_new.txt"},
-{"name":"ca","url":"https://iptv-org.github.io/iptv/countries/ca.m3u"},
+{"name":"SW-live","url":"https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"},
+{"name":"home","url":"https://raw.githubusercontent.com/joevess/IPTV/refs/heads/main/home.m3u8"},
 {"name":"uk","url":"https://iptv-org.github.io/iptv/countries/uk.m3u"},
-{"name":"us","url":"https://iptv-org.github.io/iptv/countries/us.m3u"},
+{"name":"Gather","url":"https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"},
 {"name":"ita","url":"https://iptv-org.github.io/iptv/countries/it.m3u"},
 
 {"name":"華哥IPTV country","url":"https://iptv-org.github.io/iptv/index.country.m3u"},
