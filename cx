@@ -73,7 +73,6 @@
         },
 
  
-{ "key": "wsycj", "name": "SW華哥資源丨采集", "type": 1, "api": "https://api.wsyzy.net/api.php/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [ "4K电影", "Netflix电影", "Netflix自制剧","欧美剧", "海外剧","国产剧","港剧",  "韩剧", "日剧",  "台剧", "泰剧","邵氏电影", "演唱会", "动作片", "战争片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "记录片", "动画片",  "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "有声动漫", "女频恋爱", "反转爽剧", "古装仙侠", "年代穿越", "脑洞悬疑", "AI剧场", "现代都市", "擦边短剧", "漫剧" ] },
 
 { "key": "茅台影视", "name": "華哥SW-MAOTAI", "type": 1, "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 
