@@ -23,19 +23,6 @@
 {"name":"SW4 dm","url":"https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg"},
 
 
-{"name":"roku usca","url":"https://www.apsattv.com/rok.m3u"},
-{"name":"Tablo","url":"https://www.apsattv.com/tablo.m3u"},
-{"name":"LocalNow","url":"https://www.apsattv.com/localnow.m3u"},
-{"name":"TVpass ","url":"https://tvpass.org/playlist/m3u"},
-{"name":"Fire TV","url":"https://www.apsattv.com/firetv.m3u"},
-{"name":"klowd","url":"https://www.apsattv.com/klowd.m3u"},
-{"name":"Cineverse","url":"https://www.apsattv.com/cineverse.m3u"},
-{"name":"distro","url":"https://www.apsattv.com/distro.m3u"},
-{"name":"The Roku Channel","url":"https://www.apsattv.com/rok.m3u"},
-{"name":"LG Channels","url":"https://www.apsattv.com/lg.m3u"},
-{"name":"Vizio TV","url":"https://www.apsattv.com/vizio.m3u"},
-{"name":"CA S","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_pluto.m3u"},
-{"name":"CA ST","url":"https://raw.githubusercontent.com/iptv-org/iptv/refs/heads/master/streams/ca_stingray.m3u"},
 
 {"name":"SW-live","url":"https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"},
 {"name":"home","url":"https://raw.githubusercontent.com/joevess/IPTV/refs/heads/main/home.m3u8"},
@@ -46,6 +33,37 @@
 {"name":"華哥IPTV country","url":"https://iptv-org.github.io/iptv/index.country.m3u"},
 {"name":"華哥IPTV Language ","url":"https://iptv-org.github.io/iptv/index.language.m3u"},
 {"name":"華哥IPTV category","url":"https://iptv-org.github.io/iptv/index.category.m3u"},
+
+{"name":"综合直播","url":"https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"},
+{"name":"风云源","url":"http://iptv.4666888.xyz/FYTV.txt"},
+{"name":"各大源","url":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"},
+{"name":"地方直播","url":"https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"},
+{"name":"地方直播2","url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"},
+{"name":"薄荷直播","url":"https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/bhmb.m3u"},
+{"name":"全球直播","url":"https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD.m3u"},
+{"name":"咪咕直播","url":"http://www.52top.com.cn:678/downloads/migu.txt"},
+{"name":"ptv直播","url":"https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"},
+{"name":"juli","url":"https://files.catbox.moe/h3mb5a.txt"},
+{"name":"小新TV","url":"https://d.kstore.dev/download/9565/小新TV.txt"},
+{"name":"台湾台","url":"https://epg.pw/test_channels_taiwan.m3u"},
+{"name":"体育台","url":"http://82.156.243.185:33389/fwc.m3u"},
+{"name":"国际TV","url":"https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"},
+{"name":"裤佬TV","url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"},
+{"name":"裤佬TV2","url":"https://tv.tmxk.kdns.fr/ex64181y"},
+{"name":"🐬live.m3u","url":"https://live.445569.xyz/live.m3u"},
+{"name":"Gathe","url":"https://iptv-org.github.io/iptv/index.country.m3u"},
+{"name":"Mytv","url":"https://cdn.qd.je/live.m3u"},
+{"name":"新加坡","url":"http://xtvantsc.xyz/新加坡.m3u"},
+{"name":"黄蚂蚁先锋","url":"http://ge.html-5.me//ii/黄蚂蚁先锋推流源.txt"},
+
+{"name":"风云源","url":"http://iptv.4666888.xyz/FYTV.txt"},
+{"name":"飞扬源","url":"https://www.985pan.com/down.php/bf5e9607ff407fcdd71f63928ea5bc79.txt"},
+{"name":"🐬港奥台国际V","url":"http://tv123.vvvv.ee/tv.m3u"},
+{"name":"中港台直播源","url":"https://t.freetv.fun/m3u/playlist_all.txt"},
+{"name":"4GTV怡淳酒店","url":"http://xtvantsc.xyz/4gtv.txt"},
+{"name":"4GTV(免梯子)1080","url":"http://4gtv.cnlive.club/4gtv.m3u"},
+{"name":"jackTV","url":"https://php.946985.filegear-sg.me/jackTV.m3u"},
+
 
 
 {
