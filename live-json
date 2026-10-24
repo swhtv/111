@@ -1,52 +1,38 @@
 [
 {"name":"SW華哥电视TV","url":"https://raw.githubusercontent.com/swhtv/box2/refs/heads/main/SWTV%20IPTV%E8%8F%AF%E5%93%A5.txt"},
-
+{"name":"综合直播","url":"https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"},
 
 
 {"name": "土耳其TV華哥","url": "https://445569.pages.dev/https://raw.githubusercontent.com/nigelhayes11/temp/refs/heads/main/MAN%20NORMAL%20TV%202025.m3u"},
 {"name":"SW華哥 4 TV","url":"https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"},
 {"name":"俄罗斯TV華哥","url": "https://ilook.epg.one/5CM5SY98BF24PL/2"},
 {"name":"華哥全球TV直播","url": "https://seep.eu.org/iptv-org.github.io/iptv/index.m3u"},
-{"name":"SW華哥 6 TV","url":"https://wget.la/raw.githubusercontent.com/tushen6/xxooo/refs/heads/main/TV/lzxw.txt"},
+
 {"name":"SW華哥 7 TV","url":"https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt"},
-{"name":"SW華哥 8 TV","url":"http://1tv.dqtx.cc"},
-{"name":"SW華哥 9 TV","url":"https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u"},
-{"name":"SW華哥 10 TV","url":"https://epg.pw/test_channels_hong_kong.m3u"},
+
 {"name":"小橙子TV華哥","url": "https://gh-proxy.org/https://raw.githubusercontent.com/pyapk/1/refs/heads/main/zby"},
-{"name":"潇雨TV華哥","url": "https://0701.tv1288.xyz/m3u"},
-{"name":"日后TV華哥","url": "https://jsnzkpg4.pages.dev/http://rihou.cc:555/gggg.nzk"},
-{"name":"涛涛TV華哥", "url": "https://445569.pages.dev/https://raw.githubusercontent.com/taoBox2620/taoBox2620/refs/heads/main/logo1.png"},
+
 {"name":"易发TV華哥","url": "https://445569.pages.dev/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},
-{"name":"SW1咖啡体育","url":"https://ds65.tv1288.xyz"},
-{"name":"SW2 OK体育","url":"https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"},
-{"name":"SW3 DM体育","url":"https://gongdian.top/tv/iptv"},
-{"name":"SW4 dm","url":"https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/refs/heads/Jsnzkpg/Jsnzkpg"},
 
 
 
-{"name":"SW-live","url":"https://gh-proxy.com/https://raw.githubusercontent.com/wwb521/live/main/tv.m3u"},
-{"name":"home","url":"https://raw.githubusercontent.com/joevess/IPTV/refs/heads/main/home.m3u8"},
-{"name":"uk","url":"https://iptv-org.github.io/iptv/countries/uk.m3u"},
-{"name":"Gather","url":"https://raw.githubusercontent.com/YanG-1989/m3u/refs/heads/main/Gather.m3u"},
 {"name":"ita","url":"https://iptv-org.github.io/iptv/countries/it.m3u"},
 
 {"name":"華哥IPTV country","url":"https://iptv-org.github.io/iptv/index.country.m3u"},
-{"name":"華哥IPTV Language ","url":"https://iptv-org.github.io/iptv/index.language.m3u"},
+
 {"name":"華哥IPTV category","url":"https://iptv-org.github.io/iptv/index.category.m3u"},
 
-{"name":"综合直播","url":"https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit"},
-{"name":"风云源","url":"http://iptv.4666888.xyz/FYTV.txt"},
-{"name":"各大源","url":"https://gh-proxy.org/https://raw.githubusercontent.com/807080747/zv/refs/heads/main/sese.txt"},
-{"name":"地方直播","url":"https://ghfast.top/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt"},
+
+
 {"name":"地方直播2","url":"https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u"},
 {"name":"薄荷直播","url":"https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/bhmb.m3u"},
 {"name":"全球直播","url":"https://gh-proxy.org/https://raw.githubusercontent.com/wujiangliu/live-sources/refs/heads/main/%E5%85%A8%E7%90%83%E7%9B%B4%E6%92%AD.m3u"},
 {"name":"咪咕直播","url":"http://www.52top.com.cn:678/downloads/migu.txt"},
 {"name":"ptv直播","url":"https://wget.la/https://raw.githubusercontent.com/vinkerq/iptv-api/refs/heads/master/iptv.txt"},
 {"name":"juli","url":"https://files.catbox.moe/h3mb5a.txt"},
-{"name":"小新TV","url":"https://d.kstore.dev/download/9565/小新TV.txt"},
+
 {"name":"台湾台","url":"https://epg.pw/test_channels_taiwan.m3u"},
-{"name":"体育台","url":"http://82.156.243.185:33389/fwc.m3u"},
+
 {"name":"国际TV","url":"https://raw.githubusercontent.com/xJEYDAin/iptv/main/output/all_merged.m3u"},
 {"name":"裤佬TV","url":"https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1.m3u"},
 {"name":"裤佬TV2","url":"https://tv.tmxk.kdns.fr/ex64181y"},
