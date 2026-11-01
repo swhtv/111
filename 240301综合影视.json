@@ -231,6 +231,23 @@
          "ext": "18+" 
             }, 
 
+{ "name": "橘汁┃華哥", "key": "Woshinidie", "type": 3, "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c", "api": "csp_Woshinidie", "searchable": 1, "quickSearch": 1, "changeable": 1 },
+
+{ "name": "華哥-南瓜", "key": "AppV7Mtq", "type": 3, "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008", "api": "csp_AppV7Amns", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "AppV7Mtq" },
+
+ { "name": "華哥-冬瓜", "key": "AppV7Llq", "type": 3,"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008", "api": "csp_AppV7Amns", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "AppV7Llq" },
+
+ { "name": "華哥-香瓜", "key": "AppV7Xhr", "type": 3, "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008","api": "csp_AppV7Amns", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "AppV7Xhr" },
+
+{ "name": "華哥-1短剧", "key": "HHkk", "type": 3, "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008","api": "csp_HHkkAmns", "searchable": 0, "quickSearch": 0, "changeable": 1, "genre": "shortdrama" }, 
+
+{ "name": "華哥-2短剧", "key": "Bddj", "type": 3, "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008","api": "csp_BddjAmns", "searchable": 1, "quickSearch": 1, "changeable": 1, "genre": "shortdrama" },
+
+ { "name": "華哥-3短剧", "key": "Wgdj", "type": 3,"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008", "api": "csp_WgdjAmns", "searchable": 1, "quickSearch": 1, "changeable": 1, "genre": "shortdrama" }, 
+
+{ "name": "華哥-4短剧", "key": "Qmdj", "type": 3,"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008", "api": "csp_QmdjAmns", "searchable": 1, "quickSearch": 1, "changeable": 1, "genre": "shortdrama" },
+
+ { "name": "華哥-5短剧", "key": "Xydj", "type": 3,"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008", "api": "csp_XydjAmns", "searchable": 1, "quickSearch": 1, "changeable": 1, "genre": "shortdrama" },
 
      
     
