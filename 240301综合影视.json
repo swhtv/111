@@ -34,7 +34,7 @@
     {
       "name": "adult_2023",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/swhtv/111/main/%E5%8D%8E%E8%A7%86box%E5%8D%8E%E8%A7%86%E5%A4%A7%E5%85%A8swtv",
+      "url": "https://raw.githubusercontent.com/swhtv/box/refs/heads/main/%E5%90%84%E5%80%8Bzb%E9%80%A3",
       "playerType": 2,
       "ua": "okhttp/3.15",
       "epg": "",
