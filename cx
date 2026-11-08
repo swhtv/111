@@ -70,8 +70,6 @@
 
  
 
-{ "key": "茅台影视", "name": "華哥SW-MAOTAI", "type": 1, "api": "https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1 },
-
 
 	{
 			"key": "索尼 资源",
@@ -195,7 +193,6 @@
 
 {"key":"魔都资源","name":"魔都｜SW采集","type":1,"api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list","categories":["短剧","国产剧","香港剧","台湾剧","日本剧","韩国剧","欧美剧","泰国剧","海外剧","动作片","动漫电影","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","悬疑片","惊悚片","犯罪片","记录片","大陆综艺","港台综艺","韩国综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","里番动漫"]},
        
-{ "name": "橘汁┃華哥", "key": "Woshinidie", "type": 3, "jar": "https://zl.wpscdn.cn/2026/09/11/space_img/0f5c235d-ee40-42a0-a19a-b7f29986c51c.png;md5;7a2cb30dc4937d27e57288b5c381e19c", "api": "csp_Woshinidie", "searchable": 1, "quickSearch": 1, "changeable": 1 },
 
 { "name": "華哥-南瓜", "key": "AppV7Mtq", "type": 3, "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008", "api": "csp_AppV7Amns", "searchable": 1, "quickSearch": 1, "changeable": 1, "ext": "AppV7Mtq" },
 
