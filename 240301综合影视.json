@@ -109,10 +109,6 @@
 {"name":"🧩杜北|華哥","key":"Dubk","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_DubkAmns","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://nos.netease.com/youdata-netease/public-utilUpload-dETsDhhkydVym6T7qzn7WB.gz"},
 
 
-
-
-{"name":"🧩伊外|華哥","key":"YIys","type":3, "jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_YIysAmns","searchable":1,"quickSearch":1,"changeable":0},
-{"name":"🧩爱看|華哥","key":"AiBot","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_AiBotAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"🌍爱瓜華哥","key":"AiGua","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_AiGuaAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"🌍U视華哥","key":"Ysp","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_YspAmns","searchable":1,"quickSearch":1,"changeable":0},
 {"name":"🌍欧乐華哥","key":"Olyy","type":3,"jar": "https://zl.wpscdn.cn/2026/07/07/space_img/9af89f8b-9551-498f-b334-52a0b87232d3.png;md5;6c8de95358c44028f77ddab7f7d18407","api":"csp_OlyyAmns","searchable":1,"quickSearch":1,"changeable":0},
@@ -127,9 +123,7 @@
         },
 
 		{"key": "ikun", "name": "爱坤華哥", "type": 1, "api": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/at/json", "searchable": 1, "quickSearch": 1, "filterable": 1},
-      
-		{"key": "虎牙资源", "name": "虎牙華哥", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
-		{"key": "ttzy", "name": "天天華哥", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php", "searchable": 1, "quickSearch": 1, "filterable": 1},
+   		{"key": "ttzy", "name": "天天華哥", "type": 1, "api": "https://api.1080zyku.com/inc/apijson.php", "searchable": 1, "quickSearch": 1, "filterable": 1},
 
 	{
 			"key": "索尼 资源",
@@ -242,27 +236,7 @@
             "filterable": 1
         },
 
- {
-            "key": "华谊",
-            "name": "🎭华谊｜華哥",
-            "type": 3,
-            "api": "csp_AppDrama",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-	  "spider": "https://github.com/swhtv/ak/raw/refs/heads/main/BXS.jar",
-            "ext": {
-                "appName": "华谊",
-                "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp9Ek4wIlQAtwFnuBRlsFiow2tr+4UOciGeNKbY7nL74etUqUb6fvpOSOHhFEfaWlfwUpOB17x3JEL3No19nfjCeVYrYPjlJcgoqUWH/tfIfFAQWvtxBIBlKazkhw8d3ChysWmeWRikKqkBsVRY4oqNPuj4sjm6Zult0U4I4prRQIDAQAB",
-                "dataKey": "NDBYSZR1DMRRZ05NSUCWEJNIYWLBPT0=",
-                "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-                "pkg": "com.muyue.tool",
-                "host": "",
-                "site": "https://vip.123pan.cn/1851089669/oss/az5.txt",
-                "version": "1.0.0.4",
-                "decrypt": "1"
-            }
-        },
+
         {
             "key": "苹果",
             "name": "🍎苹果｜華哥",
