@@ -228,7 +228,179 @@
 
 
   {"key":"新浪资源","name":"華SW-新浪-華哥提示請不要相信視頻中出現的广告","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","searchable":1,"quickSearch":1},   
+{
+            "key": "柠檬",
+            "name": "華哥-柠檬",
+            "type": 3,
+            "api": "csp_Nmvod",
+            "playerType": 2,
+            "jar": "https://ncstatic.clewm.net/rsrc/2025/0725/20/318ccef14687421637f5aa0ba1021e33.png;md5;939FFBC2941A28CA533F2653FA4B449E",
+            "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+        },
 
+{
+            "name": "華哥-杜北",
+            "key": "Dubk",
+            "type": 3,
+  "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_DubkAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "Dubk"
+        },
+        {
+            "name": "華哥-伊外",
+            "key": "YIys",
+            "type": 3,
+  "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_YIysAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+        {
+            "name": "華哥-韩剧",
+            "key": "Hxq",
+            "type": 3,
+  "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_HxqAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+{
+            "name": "華哥-金牌┃秒播",
+            "key": "JinPai",
+            "type": 3,
+  "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_JinPaiAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+{
+            "name": "華哥-春天",
+            "key": "NewGrV2",
+            "type": 3,
+  "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_NewGrV2Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "NewGrV2"
+        },
+ {
+            "name": "華哥-王子短剧",
+            "key": "HHkk",
+            "type": 3,
+"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_HHkkAmns",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 1,
+            "genre": "shortdrama"
+        },
+        {
+            "name": "華哥-盒马┃短剧",
+            "key": "Hema",
+            "type": 3,
+"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_HemaAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama"
+        },
+        {
+            "name": "華哥-拜拜┃短剧",
+            "key": "Bddj",
+            "type": 3,
+"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_BddjAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama"
+        },
+        {
+            "name": "華哥-围观┃短剧",
+            "key": "Wgdj",
+            "type": 3,
+"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_WgdjAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama"
+        },
+        {
+            "name": "華哥-喵喵┃短剧",
+            "key": "Qmdj",
+            "type": 3,
+"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_QmdjAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama"
+        },
+        {
+            "name": "華哥-星星┃短剧",
+            "key": "Xydj",
+            "type": 3,
+"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_XydjAmns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "genre": "shortdrama"
+        },
+ {
+            "name": "華哥-师兄",
+            "key": "AppV7Dsx",
+            "type": 3,
+"jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
+            "api": "csp_AppV7Amns",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "AppV7Dsx"
+        },
+
+{
+            "key": "Douban",
+            "name": "華哥-Douban",
+            "type": 3,
+            "api": "csp_NewDouBanGuard",
+            "indexs": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
+        },
+ {
+            "key": "WexAiYueYue",
+            "name": "華哥-闪电",
+            "type": 3,
+"jar": "http://oss4liview.moji.com/thd_file/2026/11/24/0684202079fbec343ec03f772b72e928.jpg;md5;d773eab0709f62b0077f8112765eb6d2",
+
+            "api": "csp_WexAiYueYueGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        }, 
+{
+            "key": "WexAiWenCai",
+            "name": "華哥-文才",
+            "type": 3,
+"jar": "http://oss4liview.moji.com/thd_file/2026/11/24/0684202079fbec343ec03f772b72e928.jpg;md5;d773eab0709f62b0077f8112765eb6d2",
+
+            "api": "csp_WexAiWenCaiGuard",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0
+        }, 
 
  
         {
