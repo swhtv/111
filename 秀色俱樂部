@@ -79,6 +79,32 @@
         },
  
  
+ {
+            "key": "csp_XYQHiker_鲨鱼av",
+            "name": "🔞鲨鱼av",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/鲨鱼av.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },       
+     
+
+        {
+            "key": "lsb资源|AV",
+            "name": "🦄lsb资源｜🔞",
+            "type": 1,
+            "api": "https://apilsbzy1.com/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
+     
     {
    "key": "精品资源站",
    "name": "精品",
@@ -111,6 +137,41 @@
                 "ratio": 1.8
             }
         },
+
+
+    {
+            "key": "csp_XYQHiker_日日撸",
+            "name": "日日撸",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/日日撸.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+       
+    
+      
+        {
+            "key": "csp_XYQHiker_黄色仓库123",
+            "name": "黄色仓库123",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/黄色仓库123.json",
+            "style": {
+                "type": "rect",
+                "ratio": 1.6
+            }
+        },
+        
+
   
 	{
 			"key": "❤ 91M豆资源",
@@ -810,111 +871,9 @@
             }
         },
        
-        {
-            "key": "csp_XYQHiker_日日撸",
-            "name": "日日撸",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/日日撸.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-       
     
-      
-        {
-            "key": "csp_XYQHiker_黄色仓库123",
-            "name": "黄色仓库123",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/黄色仓库123.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
         
-        {
-            "key": "csp_XYQHiker_紫色成人",
-            "name": "紫色成人",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/紫色成人.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-        {
-            "key": "csp_XYQHiker_酷爱成人网>",
-            "name": "酷爱成人网",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-           "ext": "https://ghfast.top/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/lib/酷爱成人网.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
 
-
-  {
-            "key": "csp_XYQHiker_正MAV",
-            "name": "🔞正MAV",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/正妹av.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },
-   
-
-
- {
-            "key": "csp_XYQHiker_鲨鱼av",
-            "name": "🔞鲨鱼av",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/lwang/main/XYQHike/鲨鱼av.json",
-            "style": {
-                "type": "rect",
-                "ratio": 1.6
-            }
-        },       
-     
-
-        {
-            "key": "lsb资源|AV",
-            "name": "🦄lsb资源｜🔞",
-            "type": 1,
-            "api": "https://apilsbzy1.com/api.php/provide/vod/",
-            "quickSearch": 1,
-            "searchable": 1,
-            "filterable": 0
-        },
-     
 
 
         {
@@ -939,29 +898,12 @@
       "changeable": 1
     },    
 
-{"key": "鸭二","name": "鸭二av","type": 1,"searchable": 0,"quickSearch": 0,"api": "https://lbapi9.com/api.php/provide/vod/","playUrl": "https://player.77lehuo.com/aliplayer/?url="},
-
-{"key": "乐播","name": "乐播av","type": 0,"searchable": 0,"quickSearch": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml"},
-    
-  
-    
-    
-    {
-      "key": "dadiapi.com",
-      "name": "大人02",
-      "type": 0,
-      "api": "http://dadiapi.com/api.php",
-      "searchable": 1,
-      "filterable": 1
-    },
-    
-
 
   
     
     {
       "key": "91md.me",
-      "name": "大人04",
+      "name": "海角",
       "type": 1,
       "api": "http://91md.me/api.php/provide/vod/",
       "searchable": 1,
@@ -970,18 +912,6 @@
 
     
    
-   
-
-   
-   
-    {
-      "key": "msnii.com",
-      "name": "大人08",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 1,
-      "filterable": 1
-    },
 
   
     {
@@ -997,59 +927,13 @@
 
  
 
- {
-      "key": "3",
-      "name": "3",
-      "type": 1,
-      "api": "https://jkunzyapi.com/api.php/provide/vod/",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-
-
-{
-      "key": "5",
-      "name": "5",
-      "type": 1,
-      "api": "https://yutuzy3.com/api.php/provide/vod/?ac=list",
-      "playUrl": "",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-  
   
 
 
-{"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},           
+{"key":"CK资源","name":"CK资源","type":1,"api":"https://ckzy.me/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1}        
 
 	
- {
-		"key": "91md",
-		"name": "48🥒91md",
-		"type": 1,
-		"api": "https://91md.me/api.php/provide/vod/from/mdm3u8/",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	}, 
-    
-		{
-			"key": "❤番号资源",
-			"name": "❤番号资源",
-			"type": 1,
-			"api": "http://fhapi9.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "❤鲨鱼资源",
-			"name": "❤鲨鱼资源",
-			"type": 1,
-			"api": "https://shayuapi.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		}
+ 
 
    
   ],
