@@ -128,6 +128,23 @@
             "changeable": 1,
             "ext": "NewGrV2"
         },
+{"key": "红果短剧","name": "红果 ┆短剧-華哥","type": 3,"api": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/py/红果短剧.py","genre": "shortdrama"},
+{
+            "key": "DuanJuAiWeiGuan",
+            "name": "短剧┃小薇華哥",
+            "type": 3,
+
+           "类型": "短剧",
+"jar": "http://oss4liview.moji.com/thd_file/2026/10/26/837a77b77fc98aba6b97856944e94d7c.jpg;md5;722d5c1bdcb1b38fc62874941e060d6b",
+            "api": "csp_DuanJuAiWeiGuanGuard",
+            "searchable": 1,
+            "changeable": 0
+        },
+
+{"key":"360短剧","name":"華哥360┆短剧","type":1,"api":"https://360zyzz.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["爽文短剧","年代穿越","重生民国","现代都市","女频恋爱","成长逆袭","古装仙侠"]},	
+
+
+		
  {
             "name": "華哥-王子短剧",
             "key": "HHkk",
