@@ -171,7 +171,270 @@
             }
         },
         
+  {
+      "key": "新极品资源站",
+      "name": "新极品资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://jipinvip1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "JKUN资源站",
+      "name": "JKUN资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://jkunzyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "大X子资源站",
+      "name": "大X子资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://apidanaizi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "樱花资源站",
+      "name": "樱花资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "精品X资源站",
+      "name": "精品X资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://www.jingpinx.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "黑料资源站",
+      "name": "黑料资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://heiliaozyapi.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+{
+      "key": "森林资源站",
+      "name": "森林资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://slapibf.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
 
+    {
+      "key": "乐播资源站",
+      "name": "乐播资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://lbapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+    {
+      "key": "桃花资源站",
+      "name": "桃花资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://thzy1.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "玉兔资源站",
+      "name": "玉兔资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://apiyutu.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "老色X资源站",
+      "name": "老色X资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://apilsbzy1.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+ 
+    {
+      "key": "麻豆资源站",
+      "name": "麻豆资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://91md.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "黄色仓库资源",
+      "name": "黄色仓库资源",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://hsckzy888.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+    {
+      "key": "小鸡资源站",
+      "name": "小鸡资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://api.xiaojizy.live/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+    {
+      "key": "番号资源站",
+      "name": "番号资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/http://fhapi9.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "越南资源站",
+      "name": "越南资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://api.vnzyz.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "爱坤资源站",
+      "name": "爱坤资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://ikunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "杏吧资源站",
+      "name": "杏吧资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://json.xingba222.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "滴滴资源站",
+      "name": "滴滴资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://api.ddapi.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+    {
+      "key": "番茄资源站",
+      "name": "番茄资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://fqzy.me/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+    {
+      "key": "搜av资源站",
+      "name": "搜av资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://api.souavzyw.net/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+   
+    {
+      "key": "豆豆资源站",
+      "name": "豆豆资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://api.douapi.cc/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+    {
+      "key": "香X儿资源站",
+      "name": "香X儿资源站",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://www.gdlsp.com/api/json.php",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+
+
+  {
+      "key": "非凡",
+      "name": "🔞非凡",
+      "type": 0,
+      "api": "https://267proxy.13051305.xyz/http://cj.ffzyapi.com/api.php/provide/vod/at/xml/",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "伦理片"
+      ]
+    },
+    
+    {
+      "key": "大地采集",
+      "name": "🔞大地",
+      "type": 0,
+      "api": "https://267proxy.13051305.xyz/https://dadiapi.com/api.php",
+      "playUrl": "https://www.ziyuanzu.com/source/dadiziyuanzhan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
+   
+    {
+      "key": "火速",
+      "name": "🔞火速",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://api.huosuapi.cc/api.php/provide/vod/?ac=list"
+    },
+    {
+      "key": "嘿嘿",
+      "name": "🔞嘿嘿",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://api.heiapi.cc/api.php/provide/vod/?ac=list"
+    },
+   
+    {
+      "key": "bhzy",
+      "name": "🔞百花",
+      "type": 1,
+      "api": "https://267proxy.13051305.xyz/https://bhziyuan.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+   
   
 	{
 			"key": "❤ 91M豆资源",
