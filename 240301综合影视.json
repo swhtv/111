@@ -117,18 +117,7 @@
             "quickSearch": 1,
             "changeable": 1
         },
-{
-            "name": "華哥-春天",
-            "key": "NewGrV2",
-            "type": 3,
-  "jar": "https://cac-assets.oss-cn-shanghai.aliyuncs.com/cms/report/12d1d121/21d1fcVH_vip.png;md5;e89ad80c08d44a1533d6e0e7e9842008",
-            "api": "csp_NewGrV2Amns",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "NewGrV2"
-        },
-{"key": "红果短剧","name": "红果 ┆短剧-華哥","type": 3,"api": "https://gh-proxy.org/https://github.com/qist/tvbox/blob/master/py/红果短剧.py","genre": "shortdrama"},
+
 {
             "key": "DuanJuAiWeiGuan",
             "name": "短剧┃小薇華哥",
